@@ -1,0 +1,8 @@
+"-qwC2%Pns2u1%s%uN0%I0p7DdK0c4H0%kf2A %f#f" -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" -%F "" -%l "en, *" http://paydaymods.com/ -O1 "C:\Users\Kythyria\Downloads\httrack-mirrors\paydaymods" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +download.paydaymods.com/* +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.webm +*.mkv +*.mp4 +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.webp
+File generated automatically on Fri, 07 Feb 2020 14:31:11, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

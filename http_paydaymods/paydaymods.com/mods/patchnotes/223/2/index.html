@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="utf-8">
+<title>Inventory Chat & Player States | PaydayMods</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description">
+<meta property="og:type" content="website">
+<meta property="og:title" content="PaydayMods">
+<meta property="og:url" content="../../../../index-2.html">
+<meta property="og:site_name" content="PaydayMods">
+<meta property="og:description">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="PaydayMods">
+<meta name="twitter:description">
+<link rel="stylesheet" href="../../../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="../../../../../ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="../../../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link href='../../../../../fonts.googleapis.com/css48a5.css?family=Titillium+Web:300,400,600' rel='stylesheet' type='text/css'>
+<link href="../../../../../fonts.googleapis.com/cssf0be.css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+<link rel="icon" href="../../../../favicon.html">
+<link rel="stylesheet" href="../../../../assets/css/style.css" type="text/css">
+<link rel="stylesheet" href="../../../../assets/fancybox/jquery.fancybox.css" type="text/css">
+<link rel="stylesheet" href="../../../../assets/scrollLoading/style.css" type="text/css">
+</head>
+<body>
+<div id="wrap">
+<header id="header">
+<div id="header-outer" class="outer">
+<div class="container">
+<div class="container-inner">
+<div id="header-title">
+<h1 class="logo-wrap">
+<a href="../../../../index.html" class="logo"></a>
+</h1>
+<h2 class="subtitle-wrap">
+<p class="subtitle">Game Modifications for Payday 2</p>
+</h2>
+</div>
+<div id="header-inner" class="nav-container">
+<a id="main-nav-toggle" class="nav-icon"></a>
+<div class="nav-container-inner">
+<ul id="main-nav">
+<li class="main-nav-list-item"><a class="main-nav-list-link" href="../../../../index.html">Home</a></li>
+<li class="main-nav-list-item"><a class="main-nav-list-link" href="../../../../download/index.html">Payday 2 BLT</a></li>
+<li class="main-nav-list-item"><a class="main-nav-list-link" href="../../../index.html">Mods</a></li>
+<li class="main-nav-list-item"><a class="main-nav-list-link" href="../../../../about/index.html">About Modding</a></li>
+<li class="main-nav-list-item"><a class="main-nav-list-link" href="http://manage.paydaymods.com/">Mod Manager</a></li>
+<li class="main-nav-list-item"><a class="main-nav-list-link" href="http://github.com/JamesWilko/Payday-2-BLT/wiki">Documentation</a></li>
+<li class="main-nav-list-item"><a class="main-nav-list-link" href="../../../../contact/index.html">Contact</a></li>
+</ul>
+<nav id="sub-nav">
+<div id="search-form-wrap">
+<form action="http://google.com/search" method="get" accept-charset="UTF-8" class="search-form">
+<input type="search" name="q" results="0" class="search-form-input" placeholder="Search">
+<input type="hidden" name="sitesearch" value="http://paydaymods.com">
+</form>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="container">
+<div class="main-body container-inner">
+<div class="main-body-inner">
+<section id="main">
+<div class="main-body-header">
+<h1 class="header"><em class="page-title-link" data-url="home">
+Mods
+<i class="icon" id="icon-angle-right"></i>Inventory Chat & Player States </em></h1>
+</div>
+<div class="main-body-content">
+<article id="page-undefined" class="article article-single article-type-page" itemscope itemprop="blogPost">
+<div class="article-inner">
+<header class="article-header">
+<h1 class="article-title" itemprop="name">
+Inventory Chat & Player States
+</h1>
+</header>
+<p class="article-byline">
+<a href="../../../223/ICAPS.html" class="article-date">
+ Created by Snh20. <br />
+Last updated on 05-09-2017.
+</a>
+</p>
+<a href="../../../../../download.paydaymods.com/download/latest/ICAPS_6.zip" class="btn btn-block btn-success"><span class="glyphicon glyphicon-cloud-download"></span> Download Inventory Chat & Player States </a>
+<hr />
+<div class="article-entry" itemprop="articleBody">
+<h2>0.0.2 / revision 2 <em>&quot;A million years later&quot;</em></h2>
+<h2>IMPORTANT NOTICE</h2>
+<h3>Should you encounter a crash with the following error soon after installing this version:</h3>
+<pre><code>Application has crashed: C++ exception
+invalid key to 'next'</code></pre>
+<h3>Please inform me about the crash with as much detail as possible so I can work to get it resolved. Thank you.</h3>
+<h3>As it stands now, this crash <em>should not actually occur under any circumstances</em>, so this notice is more of a precaution than a warning (i.e. &quot;Just in case&quot;).</h3>
+<h3>If the crash persists, go to this mod's <code>delayedcallspatch</code> subfolder and rename / delete <code>delayed_calls.lua</code> to disable the function patching process.</h3>
+<ul>
+<li>Added French translation by <em>Mr.PlayYou [BE]</em></li>
+<li>Fixed an issue where opening the chat panel followed by the drawing tools panel in preplanning would cause the player states panel to remain floating despite the chat panel being closed</li>
+<li>Changed player state panels to be positioned using relative coordinates instead of absolute coordinates</li>
+<li>Reduced the gap between the callsign and state text for each player</li>
+<li>Fixed chat output being unable to be scrolled with the mouse wheel in the blackmarket nodes</li>
+<li>Added the chat and player state panels to the blackmarket weapon and mask preview nodes</li>
+<li>Fixed an issue where an error string is displayed instead of a given player's state while that player is joining the lobby</li>
+<li>Added support for displaying contract information while in the main menu lobby (<a href="https://imgur.com/BnPLWKd">example</a>)</li>
+<li>Added job plan icon to the main menu lobby's contract box GUI (<a href="https://imgur.com/YEkhR76">example</a>)
+<ul>
+<li>Will only be visible if the host has set the lobby's preferred tactic to <em>Stealth</em> or <em>Loud</em></li>
+</ul></li>
+<li>Added 'ghost' mode (<a href="https://imgur.com/bCzbIYv">example</a>)
+<ul>
+<li>If a new message is received while the chat panel is closed, the chat panel will immediately appear in a non-interactive, translucent form so that the message can instantly be read</li>
+<li>The 'ghost' chat panel fades away again 10 seconds after the most recent message, or immediately upon opening and closing the chat panel</li>
+<li>The 'ghost' chat panel will be made invisible for as long as the mouse cursor is within its area. This is to prevent chat spam from obscuring the GUI beneath the chat panel</li>
+</ul></li>
+<li>Improved keyboard navigation
+<ul>
+<li>Chat input is now activated immediately upon opening the chat panel</li>
+<li>Pressing the Escape key while the chat panel is open now only closes the chat panel instead of triggering a node backout (i.e. returning to the previous screen)</li>
+<li>Behavior is unchanged if the chat panel is not open (i.e. in this case, pressing Escape will return to the previous screen)</li>
+</ul></li>
+<li>Adjusted the player states panel for better compatibility with the BigLobby mod
+<ul>
+<li>Player state texts will now be suppressed if the total player limit exceeds 7 players (<a href="https://imgur.com/wI2ryfG">example</a>)</li>
+</ul></li>
+<li>Added automatic patcher for BLT's defective <code>DelayedCalls:Update()</code> and <code>DelayedCalls:Add()</code> implementations</li>
+</ul>
+</div>
+<hr />
+<a href="../../../../../download.paydaymods.com/download/latest/ICAPS_6.zip" class="btn btn-block btn-success"><span class="glyphicon glyphicon-cloud-download"></span> Download Inventory Chat & Player States </a>
+<footer class="article-footer">
+<a data-url="%s" data-id="" class="article-share-link">Share</a>
+<a href="../../../223/ICAPS.html#comments" class="article-comment-link">Comments</a>
+</footer>
+</div>
+</article>
+<section id="comments">
+<div id="disqus_thread">
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+</section>
+</div>
+</section>
+<aside id="sidebar">
+<a class="sidebar-toggle" title="Expand Sidebar"><i class="toggle icon"></i></a>
+<div class="sidebar-top">
+<p>follow us:</p>
+<ul class="social-links">
+<li>
+<a class="social-tooltip" title="@_JamesWilko" href="https://twitter.com/_JamesWilko" target="_blank">
+<i id="icon-twitter" class="icon"></i>
+</a>
+</li>
+<li>
+<a class="social-tooltip" title="JamesWilko on Github" href="https://github.com/JamesWilko/" target="_blank">
+<i id="icon-github" class="icon"></i>
+</a>
+</li>
+<li>
+<a class="social-tooltip" title="SirWaddles on Github" href="https://github.com/SirWaddles/" target="_blank">
+<i id="icon-github" class="icon"></i>
+</a>
+</li>
+</ul>
+</div> <div class="widgets-container">
+<div class="widget-wrap">
+<h3 class="widget-title">recent updates</h3>
+<div class="widget">
+<ul id="recent-revision" class=""><li>
+<div class="item-inner">
+<p class="item-category"><a class="article-category-link" href="../6/index.html">Inventory Chat & Player States r6</a></p>
+<p class="item-title"><a href="../6/index.html" class="title"></a></p>
+<p class="item-date"><time datetime="2017-09-05 14:11:30" itemprop="datePublished">05-09-2017</time></p>
+</div>
+</li><li>
+<div class="item-inner">
+<p class="item-category"><a class="article-category-link" href="../5/index.html">Inventory Chat & Player States r5</a></p>
+<p class="item-title"><a href="../5/index.html" class="title"></a></p>
+<p class="item-date"><time datetime="2016-11-01 05:50:09" itemprop="datePublished">01-11-2016</time></p>
+</div>
+</li><li>
+<div class="item-inner">
+<p class="item-category"><a class="article-category-link" href="../4/index.html">Inventory Chat & Player States r4</a></p>
+<p class="item-title"><a href="../4/index.html" class="title"></a></p>
+<p class="item-date"><time datetime="2016-10-18 18:54:54" itemprop="datePublished">18-10-2016</time></p>
+</div>
+</li><li>
+<div class="item-inner">
+<p class="item-category"><a class="article-category-link" href="../3/index.html">Inventory Chat & Player States r3</a></p>
+<p class="item-title"><a href="../3/index.html" class="title"></a></p>
+<p class="item-date"><time datetime="2016-07-12 11:26:15" itemprop="datePublished">12-07-2016</time></p>
+</div>
+</li><li>
+<div class="item-inner">
+<p class="item-category"><a class="article-category-link" href="index.html">Inventory Chat & Player States r2</a></p>
+<p class="item-title"><a href="index.html" class="title"></a></p>
+<p class="item-date"><time datetime="2016-04-27 00:21:41" itemprop="datePublished">27-04-2016</time></p>
+</div>
+</li></ul>
+</div>
+</div><div class="widget-wrap widget-list">
+<h3 class="widget-title">
+links
+</h3>
+<div class="widget">
+<ul>
+<li>
+<a href="https://github.com/JamesWilko/Payday-2-BLT/wiki">Payday 2 BLT Documentation</a>
+</li>
+<li>
+<a href="http://manage.paydaymods.com/">PaydayMods Manager</a>
+</li>
+<li>
+<a href="http://jameswilko.com/">JamesWilko</a>
+</li>
+<li>
+<a href="https://genj.io/">SirWaddles</a>
+</li>
+</ul>
+</div>
+</div> </div>
+</aside>
+</div>
+</div>
+</div>
+<footer id="footer">
+<div class="container">
+<div class="container-inner">
+<a id="back-to-top" href="javascript:;"><i class="icon" id="icon-angle-up"></i></a>
+<div class="credit">
+<h1 class="logo-wrap">
+<a href="../../../../index.html" class="logo"></a>
+</h1>
+<p>&copy; 2015 James Wilkinson and Timothy Clissold</p>
+<p>Theme by <a href="http://github.com/ppoffice" target="_blank">PPOffice</a></p>
+</div>
+</div>
+</div>
+</footer>
+<script src="../../../../../ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<script src="../../../../assets/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+<script src="../../../../assets/scrollLoading/jquery.scrollLoading.js" type="text/javascript"></script>
+<script src="../../../../assets/scrollLoading/main.js" type="text/javascript"></script>
+<script src="../../../../assets/js/html-patch.js" type="text/javascript"></script>
+<script src="../../../../assets/js/script.js" type="text/javascript"></script>
+</div>
+</body>
+</html>

@@ -1,0 +1,376 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 07 Feb 2020 14:31:11 at http://paydaymods.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +download.paydaymods.com/* +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.webm +*.mkv +*.mp4 +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.webp
+(winhttrack "-qwC2%Pns2u1%s%uN0%I0p7DdK0c4H0%kf2A %f#f" -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" -%F  -%l "en, *" http://paydaymods.com/ -O1 "C:\Users\Kythyria\Downloads\httrack-mirrors\paydaymods" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +download.paydaymods.com/* +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.webm +*.mkv +*.mp4 +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.webp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:31:45	Error: 	"Not Found" (404) at link paydaymods.com/index.html (from paydaymods.com/)
+14:34:29	Warning: 	Moved Permanently for https://download.microsoft.com/robots.txt
+14:34:29	Warning: 	File has moved from https://download.microsoft.com/robots.txt to https://www.microsoft.com/download
+14:35:14	Warning: 	Link paydaymods.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+14:43:27	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/159/1.5/ (from paydaymods.com/mods/159/bainchatter)
+14:43:27	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/159/1.3/ (from paydaymods.com/mods/159/bainchatter)
+14:43:27	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/159/1.2/ (from paydaymods.com/mods/159/bainchatter)
+14:43:48	Error: 	"Connect Error" (-4) after 2 retries at link https://www.hostingpics.net/robots.txt (from paydaymods.com/mods/447/)
+14:43:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.hostingpics.net/viewer.php?id=594236201705041515301.jpg (from paydaymods.com/mods/447/)
+14:43:48	Warning: 	Retry after error 500 (Internal Server Error) at link download.paydaymods.com/download/latest/ (from paydaymods.com/mods/447/)
+14:43:50	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/372/1.1/ (from paydaymods.com/mods/372/enhanced_tripmines)
+14:44:09	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/58/76.6/ (from paydaymods.com/mods/58/HoloHud)
+14:44:10	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/506/1.1/ (from paydaymods.com/mods/506/InfamyCardPriority)
+14:44:10	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/506/1.0/ (from paydaymods.com/mods/506/InfamyCardPriority)
+14:44:10	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/356/140 hotfix/ (from paydaymods.com/mods/356/JCGM)
+14:44:13	Warning: 	File not parsed, looks like binary: www.webm.host/robots.txt
+14:44:16	Error: 	"Not Found" (404) at link https://steamuserimages-a.akamaihd.net/ugc/927047796104488292/197CFB37F4CBAE7332899AE203B2487B243C1D87/ (from paydaymods.com/mods/373/pd2tools)
+14:44:16	Error: 	"Not Found" (404) at link https://steamuserimages-a.akamaihd.net/ugc/927047796104517049/66ED685F8650FC7ECAA6D8EB6541A2DFAD4C2D5E/ (from paydaymods.com/mods/373/pd2tools)
+14:44:16	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/23/86.51/ (from paydaymods.com/mods/23/pdth_hud)
+14:44:16	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/23/86.5/ (from paydaymods.com/mods/23/pdth_hud)
+14:44:16	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/23/86.43/ (from paydaymods.com/mods/23/pdth_hud)
+14:44:16	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/23/86.42/ (from paydaymods.com/mods/23/pdth_hud)
+14:44:16	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/23/86.41/ (from paydaymods.com/mods/23/pdth_hud)
+14:44:18	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/184/12.1/ (from paydaymods.com/mods/184/YOMC)
+14:44:18	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/184/10.1/ (from paydaymods.com/mods/184/YOMC)
+14:44:18	Warning: 	Retry after error -4 (Connect Error) at link https://www.hostingpics.net/viewer.php?id=594236201705041515301.jpg (from paydaymods.com/mods/447/)
+14:44:18	Warning: 	Retry after error 500 (Internal Server Error) at link download.paydaymods.com/download/latest/ (from paydaymods.com/mods/447/)
+14:44:18	Warning: 	Link download.paydaymods.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+14:44:39	Error: 	"Connect Error" (-4) after 2 retries at link https://www.hostingpics.net/viewer.php?id=594236201705041515301.jpg (from paydaymods.com/mods/447/)
+14:44:39	Error: 	"Internal Server Error" (500) after 2 retries at link download.paydaymods.com/download/latest/ (from paydaymods.com/mods/447/)
+14:44:40	Error: 	"Not Found" (404) at link paydaymods.com/favicon.png (from paydaymods.com/)
+14:44:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x86.exe
+14:44:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.youtube.com/player_api
+14:44:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): paydaymods.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+14:45:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/547
+14:45:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/adaptivestreamingchunksize
+14:45:46	Warning: 	HTML file (8074 bytes) retransferred due to lack of cache: paydaymods.com/mods/270/ABAP
+14:45:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/287
+14:45:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/pocohud3
+14:45:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/additionalpocohudtrackers
+14:45:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/663
+14:45:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/640
+14:45:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/SAP
+14:45:52	Warning: 	HTML file (9875 bytes) retransferred due to lack of cache: paydaymods.com/mods/159/bainchatter
+14:45:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/FCSCM
+14:45:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/GCW
+14:45:53	Warning: 	HTML file (13926 bytes) retransferred due to lack of cache: paydaymods.com/mods/624/BTW
+14:45:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/680
+14:45:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/455
+14:45:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/assaultstates
+14:45:56	Warning: 	HTML file (9593 bytes) retransferred due to lack of cache: paydaymods.com/mods/405/bulletstormammobagcontours
+14:45:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/522
+14:46:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/159
+14:46:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/85
+14:46:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/533
+14:46:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/447
+14:46:02	Warning: 	HTML file (8370 bytes) retransferred due to lack of cache: paydaymods.com/mods/506/InfamyCardPriority
+14:46:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/108
+14:46:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/370
+14:46:06	Warning: 	HTML file (11046 bytes) retransferred due to lack of cache: paydaymods.com/mods/439/KIC
+14:46:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/624
+14:46:08	Warning: 	HTML file (8863 bytes) retransferred due to lack of cache: paydaymods.com/mods/282/SF
+14:46:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/180
+14:46:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/65
+14:46:09	Warning: 	Retry after error 502 (Bad Gateway) at link https://4o3.nl/201607a477308e.png (from paydaymods.com/mods/)
+14:46:09	Error: 	"Not Found" (404) at link https://imghost.eu/images/2016/04/10/WolfHUD_logo2.png (from paydaymods.com/mods/)
+14:46:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/162
+14:46:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/BLTCS_Reloaded
+14:46:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/443
+14:46:13	Warning: 	HTML file (9278 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/547/4/
+14:46:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/521
+14:46:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/662
+14:46:14	Warning: 	HTML file (10485 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/287/7/
+14:46:16	Warning: 	HTML file (7886 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/142/2/
+14:46:18	Warning: 	HTML file (7445 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/663/1/
+14:46:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/692
+14:46:19	Warning: 	HTML file (7527 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/680/1/
+14:46:21	Warning: 	HTML file (8845 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/455/15/
+14:46:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/646
+14:46:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/526
+14:46:22	Warning: 	HTML file (9197 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/522/13/
+14:46:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/33
+14:46:24	Warning: 	HTML file (7630 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/279/1/
+14:46:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/dmcwo
+14:46:26	Warning: 	HTML file (8285 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/237/3/
+14:46:28	Warning: 	HTML file (8785 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/85/26/
+14:46:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/638
+14:46:29	Warning: 	HTML file (8836 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/159/7/
+14:46:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/470
+14:46:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/648
+14:46:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/129
+14:46:31	Warning: 	HTML file (8815 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/144/31/
+14:46:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/42
+14:46:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/312
+14:46:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/89
+14:46:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/35
+14:46:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/493
+14:46:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/81
+14:46:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/504
+14:46:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/fhb
+14:46:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/383
+14:46:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/433
+14:46:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/87
+14:46:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/660
+14:46:57	Error: 	"Connect Error" (-4) after 2 retries at link https://www.hostingpics.net/robots.txt (from paydaymods.com/mods/447/)
+14:46:57	Warning: 	HTML file (9026 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/624/8/
+14:46:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/58
+14:46:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/HoloHud
+14:46:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/629
+14:46:59	Error: 	"Forbidden" (403) at link https://thumbs.gfycat.com/IdioticFrailBeardeddragon-size_restricted.gif (from paydaymods.com/mods/370/blackmarketpersistentnames)
+14:46:59	Warning: 	HTML file (8169 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/218/2/
+14:46:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/678
+14:47:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/541
+14:47:00	Warning: 	HTML file (9288 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/180/144/
+14:47:08	Warning: 	HTML file (8759 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/65/28/
+14:47:10	Warning: 	HTML file (7744 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/405/1/
+14:47:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/272
+14:47:12	Warning: 	HTML file (9132 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/162/6/
+14:47:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/InspirePriority
+14:47:14	Warning: 	HTML file (8126 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/443/3/
+14:47:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/545
+14:47:16	Warning: 	HTML file (8478 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/308/4/
+14:47:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/223
+14:47:17	Warning: 	HTML file (8968 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/521/6/
+14:47:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/ICAPS
+14:47:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/621
+14:47:19	Warning: 	HTML file (7479 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/662/1/
+14:47:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/709
+14:47:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/356
+14:47:21	Warning: 	HTML file (8261 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/189/3/
+14:47:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/JCGM
+14:47:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/439
+14:47:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/102
+14:47:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/627
+14:47:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/495
+14:47:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/685
+14:47:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/523
+14:47:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/664
+14:47:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/224
+14:47:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/loadingscreeninfo
+14:47:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/41
+14:47:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/535
+14:47:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/502
+14:47:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/647
+14:47:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/641
+14:47:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/39
+14:47:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/mel_rev
+14:47:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/710
+14:47:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/476
+14:47:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/MIH
+14:47:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/581
+14:47:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/138
+14:47:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/101
+14:47:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/565
+14:47:36	Warning: 	HTML file (103324 bytes) retransferred due to lack of cache: download.paydaymods.com/download/latest/arm_mui/
+14:47:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/44
+14:47:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/257
+14:47:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/MControl
+14:47:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/486
+14:47:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/NepHud
+14:47:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/539
+14:47:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/71
+14:47:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/649
+14:47:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/658
+14:47:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/27
+14:47:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/644
+14:47:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/536
+14:47:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/74
+14:47:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/628
+14:47:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/373
+14:47:41	Warning: 	HTML file (414116 bytes) retransferred due to lack of cache: https://steamuserimages-a.akamaihd.net/ugc/927047796104488015/145D46BDBFC12AC53EB00266028D7782E57A8FEB/
+14:47:41	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://dropbox.com/hstsping
+14:47:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/23
+14:47:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/560
+14:47:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/450
+14:47:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/107
+14:47:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/24
+14:47:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/rwmn
+14:47:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/68
+14:47:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/73
+14:47:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/673
+14:47:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/697
+14:47:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/60
+14:47:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/712
+14:47:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/623
+14:47:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/668
+14:47:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/702
+14:47:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/567
+14:47:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/304
+14:47:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/677
+14:47:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/silentassassin
+14:47:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/slowmotionmanager
+14:47:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/431
+14:47:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/451
+14:47:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/SIIL
+14:48:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/682
+14:48:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/661
+14:48:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/500
+14:48:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/164
+14:48:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/techrework
+14:48:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/631
+14:48:06	Warning: 	HTML file (9333 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/216/5/
+14:48:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/191
+14:48:07	Warning: 	HTML file (8922 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/692/6/
+14:48:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/TMBGUI
+14:48:09	Warning: 	HTML file (7738 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/481/1/
+14:48:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/78
+14:48:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/CHT_MOD
+14:48:13	Warning: 	HTML file (8591 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/707/3/
+14:48:15	Warning: 	HTML file (8861 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/646/11/
+14:48:17	Warning: 	HTML file (8491 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/526/4/
+14:48:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/111
+14:48:20	Warning: 	HTML file (8382 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/362/3/
+14:48:23	Warning: 	HTML file (7577 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/638/1/
+14:48:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/543
+14:48:24	Warning: 	HTML file (9056 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/470/7/
+14:48:26	Warning: 	HTML file (8980 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/648/12/
+14:48:28	Warning: 	HTML file (8963 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/129/21/
+14:48:31	Warning: 	HTML file (8163 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/546/2/
+14:48:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/430
+14:48:33	Warning: 	HTML file (8975 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/42/35/
+14:48:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/wavesurvived
+14:48:36	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/372/1.1/ (from paydaymods.com/mods/372/enhanced_tripmines)
+14:48:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/176
+14:48:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/wac
+14:48:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/298
+14:48:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/fed_inv
+14:48:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/wolfhud
+14:48:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/wolfhud_textures
+14:48:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/670
+14:48:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/184
+14:48:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): parkcloud.dynadot.com/logo.gif
+14:48:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/download/latest/YOMC
+14:48:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): download.paydaymods.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+14:48:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cfl.dropboxstatic.com/static/images/favicon-vflUeLeeY.ico
+14:48:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cfl.dropboxstatic.com/static/js/alameda_bundle/alameda_bundle-vflk--ubN.js
+14:48:47	Warning: 	HTML file (8850 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/89/17/
+14:49:55	Warning: 	HTML file (8835 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/493/16/
+14:49:57	Warning: 	HTML file (8870 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/81/16/
+14:49:59	Warning: 	HTML file (8847 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/504/7/
+14:50:01	Warning: 	HTML file (7856 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/248/2/
+14:50:02	Warning: 	HTML file (8994 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/383/210/
+14:50:03	Warning: 	HTML file (8745 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/433/119/
+14:50:04	Warning: 	HTML file (7568 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/286/16/
+14:50:05	Warning: 	HTML file (7941 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/655/2/
+14:50:07	Warning: 	HTML file (9384 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/660/8/
+14:50:08	Error: 	"Forbidden" (403) at link g.recordit.co/Gs31ilFSp4.gif (from paydaymods.com/mods/58/HoloHud)
+14:50:08	Warning: 	HTML file (9058 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/58/80/
+14:50:09	Warning: 	HTML file (9018 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/629/34/
+14:50:10	Warning: 	HTML file (8495 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/678/3/
+14:50:11	Warning: 	HTML file (9053 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/541/13/
+14:50:13	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/506/1.1/ (from paydaymods.com/mods/506/InfamyCardPriority)
+14:50:13	Warning: 	Retry after error -4 (Connect Error) at link gpplanet.de/wp-content/uploads/2016/02/inspirepriority-300x171.png (from paydaymods.com/mods/272/InspirePriority)
+14:50:13	Warning: 	HTML file (8861 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/272/6/
+14:50:35	Warning: 	HTML file (8218 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/545/3/
+14:50:36	Warning: 	HTML file (9964 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/223/6/
+14:50:37	Warning: 	HTML file (8863 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/353/8/
+14:50:38	Warning: 	HTML file (9074 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/621/14/
+14:50:39	Warning: 	HTML file (9082 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/709/15/
+14:50:41	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/356/140 hotfix/ (from paydaymods.com/mods/356/JCGM)
+14:50:41	Warning: 	HTML file (8802 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/439/9/
+14:50:42	Warning: 	HTML file (8758 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/102/157/
+14:50:43	Warning: 	HTML file (9169 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/627/14/
+14:50:44	Warning: 	HTML file (9060 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/495/38/
+14:50:46	Warning: 	HTML file (9356 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/685/18/
+14:50:47	Warning: 	HTML file (8950 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/523/39/
+14:50:48	Warning: 	HTML file (9048 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/664/5/
+14:50:49	Warning: 	HTML file (8866 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/149/10/
+14:50:50	Warning: 	HTML file (10630 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/224/7/
+14:50:51	Warning: 	HTML file (8828 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/41/63/
+14:50:52	Warning: 	HTML file (8907 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/535/28/
+14:50:54	Warning: 	HTML file (9282 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/154/5/
+14:50:55	Warning: 	HTML file (8935 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/502/11/
+14:50:56	Warning: 	HTML file (8724 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/647/5/
+14:50:57	Warning: 	HTML file (9237 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/641/7/
+14:50:58	Warning: 	HTML file (8933 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/39/64/
+14:50:59	Warning: 	HTML file (8992 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/710/5/
+14:51:00	Warning: 	HTML file (8451 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/551/4/
+14:51:01	Warning: 	HTML file (8756 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/476/8/
+14:51:02	Warning: 	HTML file (8814 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/581/42/
+14:51:03	Warning: 	HTML file (8898 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/138/46/
+14:51:04	Warning: 	HTML file (8936 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/101/61/
+14:51:05	Warning: 	HTML file (8516 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/565/4/
+14:51:07	Warning: 	File not parsed, looks like binary: www.webm.host/robots.txt
+14:51:07	Warning: 	HTML file (1503 bytes) retransferred due to lack of cache: download.paydaymods.com/download/patchnotes/arm_mui/
+14:51:08	Warning: 	HTML file (8958 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/257/27/
+14:51:09	Warning: 	HTML file (8932 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/669/5/
+14:51:10	Warning: 	HTML file (9373 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/539/15/
+14:51:11	Warning: 	HTML file (9004 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/71/76/
+14:51:12	Warning: 	HTML file (8008 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/649/2/
+14:51:13	Warning: 	Retry after error -4 (No data (connection closed)) at link forums.lastbullet.net/mydownloads/previews/preview_18_1432601818_4403726fe35c33465adee6d059e51cdb.jpg (from paydaymods.com/mods/27/npcweaponcustomization)
+14:51:13	Warning: 	Retry after error -4 (No data (connection closed)) at link forums.lastbullet.net/mydownloads/previews/preview_18_1432601958_445f7936528ebcc89dcdabba7fd3471f.jpg (from paydaymods.com/mods/27/npcweaponcustomization)
+14:51:14	Warning: 	Retry after error -4 (No data (connection closed)) at link forums.lastbullet.net/mydownloads/previews/preview_18_1432602184_4394ed8b285361dc98a7c9a01096f5e6.jpg (from paydaymods.com/mods/27/npcweaponcustomization)
+14:51:14	Warning: 	HTML file (8991 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/658/21/
+14:51:15	Warning: 	HTML file (8367 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/644/3/
+14:51:16	Warning: 	HTML file (8795 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/536/5/
+14:51:17	Warning: 	HTML file (8985 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/74/48/
+14:51:18	Warning: 	HTML file (8859 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/628/18/
+14:51:22	Error: 	"Not Found" (404) at link https://steamuserimages-a.akamaihd.net/ugc/927047796104488292/197CFB37F4CBAE7332899AE203B2487B243C1D87/ (from paydaymods.com/mods/373/pd2tools)
+14:51:22	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/23/86.51/ (from paydaymods.com/mods/23/pdth_hud)
+14:51:22	Warning: 	HTML file (8806 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/560/15/
+14:51:23	Warning: 	HTML file (8938 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/450/15/
+14:51:23	Warning: 	HTML file (8893 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/107/29/
+14:51:24	Warning: 	HTML file (8813 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/24/40/
+14:51:24	Warning: 	HTML file (7543 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/438/1/
+14:51:25	Warning: 	HTML file (8862 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/210/3/
+14:51:25	Warning: 	HTML file (8814 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/73/8/
+14:51:26	Warning: 	HTML file (7883 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/673/2/
+14:51:27	Warning: 	HTML file (8846 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/60/18/
+14:51:28	Warning: 	HTML file (7742 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/697/2/
+14:51:28	Warning: 	HTML file (8492 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/303/4/
+14:51:28	Warning: 	HTML file (7426 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/712/1/
+14:51:29	Warning: 	HTML file (7656 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/623/1/
+14:51:29	Warning: 	HTML file (8765 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/668/8/
+14:51:30	Warning: 	HTML file (8532 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/702/3/
+14:51:31	Warning: 	HTML file (8938 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/567/5/
+14:51:31	Warning: 	HTML file (9345 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/677/9/
+14:51:33	Warning: 	HTML file (9912 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/304/12/
+14:51:33	Warning: 	HTML file (9706 bytes) retransferred due to lack of cache: paydaymods.com/mods/431/Download
+14:51:34	Warning: 	HTML file (9027 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/431/7/
+14:51:34	Warning: 	HTML file (7511 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/363/1/
+14:51:35	Warning: 	HTML file (7553 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/202/1/
+14:51:35	Warning: 	HTML file (7648 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/277/1/
+14:51:36	Warning: 	HTML file (8559 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/451/4/
+14:51:38	Warning: 	HTML file (8044 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/416/2/
+14:51:39	Warning: 	HTML file (8429 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/682/4/
+14:51:39	Warning: 	HTML file (7588 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/215/1/
+14:51:40	Warning: 	HTML file (9001 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/500/5/
+14:51:40	Warning: 	HTML file (9001 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/661/13/
+14:51:41	Warning: 	HTML file (7687 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/164/5/
+14:51:41	Warning: 	HTML file (9138 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/631/31/
+14:51:42	Warning: 	HTML file (7869 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/448/2/
+14:51:42	Warning: 	HTML file (9075 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/376/6/
+14:51:43	Warning: 	HTML file (9644 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/191/6/
+14:51:43	Warning: 	HTML file (9075 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/417/4/
+14:51:44	Warning: 	HTML file (9007 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/78/45/
+14:51:44	Warning: 	HTML file (7708 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/404/1/
+14:51:44	Warning: 	HTML file (9137 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/111/26/
+14:51:45	Warning: 	HTML file (7540 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/332/1/
+14:51:45	Warning: 	HTML file (10640 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/543/6/
+14:51:46	Warning: 	HTML file (7464 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/701/1/
+14:51:46	Warning: 	HTML file (8835 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/430/36/
+14:51:47	Warning: 	HTML file (8479 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/201/3/
+14:51:48	Warning: 	HTML file (9088 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/176/117/
+14:51:48	Error: 	"Not Found" (404) at link https://imghost.eu/images/2016/03/03/WolfHUD_1.jpg (from paydaymods.com/mods/298/wolfhud)
+14:51:48	Error: 	"Not Found" (404) at link https://imghost.eu/images/2016/03/03/WolfHUD_2.jpg (from paydaymods.com/mods/298/wolfhud)
+14:51:48	Warning: 	HTML file (10444 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/298/20/
+14:51:49	Warning: 	HTML file (7884 bytes) retransferred due to lack of cache: paydaymods.com/mods/patchnotes/670/2/
+14:51:50	Error: 	"Not Found" (404) at link paydaymods.com/mods/patchnotes/184/12.1/ (from paydaymods.com/mods/184/YOMC)
+14:52:11	Error: 	"Connect Error" (-4) after 2 retries at link https://www.hostingpics.net/viewer.php?id=594236201705041515301.jpg (from paydaymods.com/mods/447/)
+14:52:11	Warning: 	File not parsed, looks like binary: paydaymods.com/assets/css/fonts/fontawesome-webfont.ttf?v=
+14:52:11	Error: 	"Not Found" (404) at link paydaymods.com/assets/css/images/preloader@2x.gif (from paydaymods.com/assets/css/style.css)
+14:52:11	Warning: 	Retry after error 502 () at link https://4o3.nl/201607a477308e.png (from paydaymods.com/mods/)
+14:52:42	Warning: 	Moved Permanently for https://dropbox.com/robots.txt
+14:52:42	Warning: 	Redirected link is identical because of 'URL Hack' option: https://dropbox.com/robots.txt and https://www.dropbox.com/robots.txt
+14:52:42	Warning: 	Warning moved treated for https://dropbox.com/robots.txt (real one is https://www.dropbox.com/robots.txt)
+14:52:53	Warning: 	Retry after error -4 (Connect Error) at link gpplanet.de/wp-content/uploads/2016/02/inspirepriority-300x171.png (from paydaymods.com/mods/272/InspirePriority)
+14:52:53	Warning: 	Retry after error -4 (No data (connection closed)) at link forums.lastbullet.net/mydownloads/previews/preview_18_1432601818_4403726fe35c33465adee6d059e51cdb.jpg (from paydaymods.com/mods/27/npcweaponcustomization)
+14:52:53	Warning: 	Retry after error -4 (No data (connection closed)) at link forums.lastbullet.net/mydownloads/previews/preview_18_1432601958_445f7936528ebcc89dcdabba7fd3471f.jpg (from paydaymods.com/mods/27/npcweaponcustomization)
+14:52:54	Warning: 	Retry after error -4 (No data (connection closed)) at link forums.lastbullet.net/mydownloads/previews/preview_18_1432602184_4394ed8b285361dc98a7c9a01096f5e6.jpg (from paydaymods.com/mods/27/npcweaponcustomization)
+14:52:54	Error: 	"" (502) after 2 retries at link https://4o3.nl/201607a477308e.png (from paydaymods.com/mods/)
+14:53:14	Error: 	"Connect Error" (-4) after 2 retries at link gpplanet.de/wp-content/uploads/2016/02/inspirepriority-300x171.png (from paydaymods.com/mods/272/InspirePriority)
+14:53:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link forums.lastbullet.net/mydownloads/previews/preview_18_1432601818_4403726fe35c33465adee6d059e51cdb.jpg (from paydaymods.com/mods/27/npcweaponcustomization)
+14:53:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link forums.lastbullet.net/mydownloads/previews/preview_18_1432601958_445f7936528ebcc89dcdabba7fd3471f.jpg (from paydaymods.com/mods/27/npcweaponcustomization)
+14:53:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link forums.lastbullet.net/mydownloads/previews/preview_18_1432602184_4394ed8b285361dc98a7c9a01096f5e6.jpg (from paydaymods.com/mods/27/npcweaponcustomization)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 minutes 3 seconds : 1192 links scanned, 1480 files written (221112646 bytes overall) [127707824 bytes received at 96528 bytes/sec], 9252485 bytes transferred using HTTP compression in 837 files, ratio 26%, 1.8 requests per connection
+(41 errors, 324 warnings, 0 messages)
