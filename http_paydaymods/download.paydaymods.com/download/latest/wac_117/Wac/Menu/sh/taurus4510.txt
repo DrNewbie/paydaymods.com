@@ -1,0 +1,20 @@
+{
+	"menu_id" : "wac_menu_sh_taurus4510",
+	"parent_menu_id" : "wac_menu_sh",
+	"title" : "wac_menu_sh_taurus4510_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_judgegrip",
+			"title" : "wac_replace_stndgrip_title",
+			"callback" : "callback_toggle_replace_judgegrip",		
+			"items" : [
+				"wac_default_multi",
+				"rbullgrip_multi",
+				"rbullergogrip_multi"
+			],
+			"value" : "replace_judgegrip",
+			"default_value" : 1
+		}
+	]
+}

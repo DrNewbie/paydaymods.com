@@ -1,0 +1,52 @@
+{
+	"name" : "Translucent Mission Briefing GUI",
+	"description" : "Enables turning the mission briefing GUI translucent to view the game session's context before spawning",
+	"author" : "\n    Snh20 (some code formerly by OVERKILL)\n    TdlQ (localizations loading code)\n    Mr.PlayYou [BE] (French translations)",
+	"blt_version" : 2,
+	"version" : "0.0.2.4",
+	"priority" : 0.9,
+	"color" : "0.15 0.15 0.15",
+	"image" : "_icon.png",
+	"updates" : [
+		{
+			"revision" : 6,
+			"identifier" : "TMBGUI"
+		}
+	],
+	"pre_hooks" : [
+		{
+			"hook_id" : "core/lib/setups/coresetup",
+			"script_path" : "init.lua"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menu/missionbriefinggui",
+			"script_path" : "missionbriefinggui.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/menubackdropgui",
+			"script_path" : "menubackdropgui.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudmissionbriefing",
+			"script_path" : "hudmissionbriefing.lua"
+		},
+		{
+			"hook_id" : "lib/states/ingamewaitingforplayers",
+			"script_path" : "ingamewaitingforplayers.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/gameplaycentralmanager",
+			"script_path" : "gameplaycentralmanager.lua"
+		},
+		{
+			"hook_id" : "lib/setups/setup",
+			"script_path" : "setup.lua"
+		}
+	]
+}

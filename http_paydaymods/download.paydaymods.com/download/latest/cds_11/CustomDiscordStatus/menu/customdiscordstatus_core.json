@@ -1,0 +1,47 @@
+{
+    "menu_id": "customdiscordstatus_core",
+    "parent_menu_id": "customdiscordstatus_options",
+    "title": "customdiscordstatus_core",
+    "description": "customdiscordstatus_core_desc",
+    "items": [
+        {
+            "type": "multiple_choice",
+            "id": "lang",
+            "title": "lang",
+            "description": "lang_desc",
+            "callback": "callback_lang",
+            "items": [
+                "lang_english",
+                "lang_japanese"
+            ],
+            "value": "lang",
+            "default_value": "1"
+        },
+        {
+            "type": "divider",
+            "size": 16
+        },
+        {
+            "type": "toggle",
+            "id": "custom_strings",
+            "title": "custom_strings",
+            "description": "custom_strings_desc",
+            "callback": "callback_custom_strings",
+            "value": "custom_strings",
+            "default_value": true
+        },
+        {
+            "type": "divider",
+            "size": 16
+        },
+        {
+            "type": "toggle",
+            "id": "higher_settings",
+            "title": "higher_settings",
+            "description": "higher_settings_desc",
+            "callback": "callback_higher_settings",
+            "value": "higher_settings",
+            "default_value": false
+        }
+    ]
+}

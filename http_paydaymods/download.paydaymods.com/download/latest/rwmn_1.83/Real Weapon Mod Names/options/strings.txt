@@ -1,0 +1,49 @@
+{
+	"menu_id" : "realnames_strings_menu",
+	"parent_menu_id" : "lua_mod_options_menu",
+	"title" : "realnames_string_title",
+	"description" : "realnames_string_desc",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "realnames_string_reelnames_toggle",
+			"title" : "realnames_string_reelnames_title",
+			"description" : "realnames_string_reelnames_desc",
+			"callback" : "RealNamesStringsNames",
+			"value" : "reelnames",
+			"default_value" : true,
+		},
+		{
+			"type" : "divider",
+			"size" : 20,
+		},
+		{
+			"type" : "button",
+			"id" : "realnames_string_sillynames_button",
+			"title" : "realnames_string_sillynames_title",
+			"description" : "realnames_string_sillynames_desc"
+		},
+		{
+			"type" : "divider",
+			"size" : 5,
+		},
+		{
+			"type" : "toggle",
+			"id" : "realnames_string_upotte_toggle",
+			"title" : "realnames_string_upotte_title",
+			"description" : "realnames_string_upotte_desc",
+			"callback" : "RealNamesStringsUpotte",
+			"value" : "upotte",
+			"default_value" : false,
+		},
+		{
+			"type" : "toggle",
+			"id" : "realnames_string_ocelot_toggle",
+			"title" : "realnames_string_ocelot_title",
+			"description" : "realnames_string_ocelot_desc",
+			"callback" : "RealNamesStringsOcelot",
+			"value" : "ocelot",
+			"default_value" : false,
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+    "silent_assassin_title" : "Silent Assassin",
+    "silent_assassin_desc" : "Options for Silent Assassin",
+    "sa_num_pagers" : "Number of Pagers",
+    "sa_num_pagers_desc" : "Number of pagers allowed across all players",
+    "sa_num_pagers_per_player" : "Number Per Player",
+    "sa_num_pagers_per_player_desc" : "Number of pagers a single player may answer",
+    "sa_pagers_0" : "0",
+    "sa_pagers_1" : "1",
+    "sa_pagers_2" : "2",
+    "sa_pagers_3" : "3",
+    "sa_pagers_4" : "4",
+    "sa_enabled_title" : "Enable Silent Assassin",
+    "sa_enabled_desc" : "Enable Silent Assassin mod",
+    "sa_kill_pager_enabled_title" : "No Pager on Stealth Kill",
+    "sa_kill_pager_enabled_desc" : "If set, no pager will sound when an unalerted guard is killed in stealth"
+    "sa_pager_bonus_enabled_title" : "Enable Pager Stealth Bonus",
+    "sa_pager_bonus_enabled_desc" : "Enable a modified stealth bonus for missions based on pagers allowed and used.  This is EXPERIMENTAL and HOST ONLY",
+    "sa_matchmaking_title" : "Matchmaking",
+    "sa_matchmaking_desc" : "When searching Crime.net, require or avoid lobbies with Silent Assassin",
+    "sa_matchmaking_both" : "both",
+    "sa_matchmaking_require" : "require",
+    "sa_matchmaking_avoid" : "avoid",
+    "sa_pager_detection_threshold_title" : "Pager Detection Threshold",
+    "sa_pager_detection_threshold_desc" : "If detection progress meter exceeds
+this percentage, the pager goes off anyway",
+    "sa_lobby_notice_1" : "Host is running 'Silent Assassin'.  ",
+    "sa_lobby_notice_2" : "Kills on unalerted guards do not trigger pagers.  ",
+    "sa_lobby_notice_3" : "A maximum of $num_pagers  pagers are allowed, and each player may answer up to $num_per_player pagers.  If detection progess gets to $pager_detection_threshold_pct% a pager goes off on kill."
+}

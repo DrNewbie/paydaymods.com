@@ -1,0 +1,48 @@
+{
+	"SlowMotionManager_options_title" : "SlowMotion Manager Options",
+	"SlowMotionManager_options_desc" : "Customize the slowmotion in-game.",
+
+	"SlowMotionManager_language_title" : "Language",
+	"SlowMotionManager_language_desc" : "Change the language of the mod.",
+
+	"SlowMotionManager_language_english" : "English",
+	"SlowMotionManager_language_french" : "French",
+
+	"SlowMotionManager_speed_maskon_title" : "Mask-on: Force",
+	"SlowMotionManager_speed_maskon_desc" : "Affects the slowmotion force. A low value means a big slowmotion, and a high value means no slowmotion at all.",
+	"SlowMotionManager_fadein_maskon_title" : "Mask-on: Fade In",
+	"SlowMotionManager_fadein_maskon_desc" : "Affects the enter transition to the slowmotion. A low value give no transition, and a high value give a smoother and longer transition.",
+	"SlowMotionManager_fadeindelay_maskon_title" : "Mask-on: Fade In Delay",
+	"SlowMotionManager_fadeindelay_maskon_desc" : "Delay the start of the Fade In option. A low value means no delay, and a high value means a huge delay. Requires a fade in value > 0.",
+	"SlowMotionManager_sustain_maskon_title" : "Mask-on: Sustain",
+	"SlowMotionManager_sustain_maskon_desc" : "Affects the delay of the slowmotion when you got caught by a guard, or when you mask-up near a guard.",
+	"SlowMotionManager_fadeout_maskon_title" : "Mask-on: Fade Out",
+	"SlowMotionManager_fadeout_maskon_desc" : "Affects the exit transition from the slowmotion. A low value give no transition, and a high value give a smoother and longer transition.",
+
+	"SlowMotionManager_speed_downed_title" : "Downed: Force",
+	"SlowMotionManager_speed_downed_desc" : "Affects the slowmotion force. A low value means a big slowmotion, and a high value means no slowmotion at all.",
+	"SlowMotionManager_fadein_downed_title" : "Downed: Fade In",
+	"SlowMotionManager_fadein_downed_desc" : "Affects the enter transition to the slowmotion. A low value give no transition, and a high value give a smoother and longer transition.",
+	"SlowMotionManager_sustain_downed_title" : "Downed: Sustain",
+	"SlowMotionManager_sustain_downed_desc" : "Affects the delay of the slowmotion when you are downed.",
+	"SlowMotionManager_fadeout_downed_title" : "Downed: Fade Out",
+	"SlowMotionManager_fadeout_downed_desc" : "Affects the exit transition from the slowmotion. A low value give no transition, and a high value give a smoother and longer transition.",
+
+	"SlowMotionManager_speed_scripted_title" : "Scripted: Force",
+	"SlowMotionManager_speed_scripted_desc" : "Affects the slowmotion force. A low value means a big slowmotion, and a high value means no slowmotion at all.",
+	"SlowMotionManager_fadein_scripted_title" : "Scripted: Fade In",
+	"SlowMotionManager_fadein_scripted_desc" : "Affects the enter transition to the slowmotion. A low value give no transition, and a high value give a smoother and longer transition.",
+	"SlowMotionManager_fadeindelay_scripted_title" : "Scripted: Fade In Delay",
+	"SlowMotionManager_fadeindelay_scripted_desc" : "Delay the start of the Fade In option. A low value means no delay, and a high value means a huge delay. Requires a fade in value > 0.",
+	"SlowMotionManager_sustain_scripted_title" : "Scripted: Sustain",
+	"SlowMotionManager_sustain_scripted_desc" : "Affects the delay of the scripted slowmotions.",
+	"SlowMotionManager_fadeout_scripted_title" : "Scripted: Fade Out",
+	"SlowMotionManager_fadeout_scripted_desc" : "Affects the exit transition from the slowmotion. A low value give no transition, and a high value give a smoother and longer transition.",
+
+	"SlowMotionManager_reset_title" : "Reset default values",
+	"SlowMotionManager_reset_desc" : "Reset the settings to the vanilla values.",
+
+	"SlowMotionManager_noslowmo_title" : "No Slow Motion",
+	"SlowMotionManager_noslowmo_desc" : "Disable the slow motion completely."
+
+}

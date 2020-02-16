@@ -1,0 +1,70 @@
+{
+	"menu_id" : "wac_menu_smg_vector",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_vector_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_vectorcrb_model",
+			"title" : "wac_replace_precisionb_title",
+			"callback" : "callback_toggle_replace_vectorcrb_model",		
+			"items" : [
+				"wac_default_multi",
+				"jprifles_multi",
+				"firepig_multi",
+				"tank_multi",
+				"surefire_multi",
+				"linear_multi",
+				"battle_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_vectorcrb_model",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_vectorcrb",
+			"title" : "wac_replace_vectorcrb_title",
+			"callback" : "callback_toggle_replace_vectorcrb",
+			"value" : "replace_vectorcrb",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_vectorhps",
+			"title" : "wac_replace_vectorhps_title",
+			"callback" : "callback_toggle_replace_vectorhps",
+			"value" : "replace_vectorhps",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_vectorvertgrip",
+			"title" : "wac_replace_vertgrip_title",
+			"callback" : "callback_toggle_replace_vectorvertgrip",		
+			"items" : [
+				"wac_default_multi",
+				"hk416cvert_multi",
+				"novertgrip_multi"
+			],
+			"value" : "replace_vectorvertgrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_vectorstock",
+			"title" : "wac_replace_usestndst_title",
+			"callback" : "callback_toggle_replace_vectorstock",
+			"value" : "replace_vectorstock",
+			"default_value" : false
+		}
+	]
+}

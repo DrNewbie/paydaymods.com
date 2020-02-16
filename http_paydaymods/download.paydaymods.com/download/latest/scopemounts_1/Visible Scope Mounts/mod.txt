@@ -1,0 +1,19 @@
+{
+	"name" : "Visible Scope Mounts",
+	"description" : "Allows you to see equipped scope mounts on Bronco and Deagle.",
+	"author" : "Meidi",
+	"contact" : "http://steamcommunity.com/id/meidi",
+	"updates" : [
+		{
+			"revision" : 1,
+			"identifier" : "scopemounts",
+		}
+	]
+	"hooks" : [
+		{ 
+			"hook_id" : "lib/tweak_data/weaponfactorytweakdata", 
+			"script_path" : "extras.lua" 
+		}		
+	]
+	
+}

@@ -1,0 +1,35 @@
+{
+	"menu_id" : "wac_menu_ar_m1garand",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_m1garand_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m1garand_shortb",
+			"title" : "wac_replace_m1garand_shortb_title",
+			"callback" : "callback_toggle_replace_m1garand_shortb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_m1garand_shortb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m1garand_ammopouch",
+			"title" : "wac_replace_m1garand_ammopouch_title",
+			"callback" : "callback_toggle_replace_m1garand_ammopouch",		
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi"
+			],
+			"value" : "replace_m1garand_ammopouch",
+			"default_value" : 1
+		}
+	]
+}

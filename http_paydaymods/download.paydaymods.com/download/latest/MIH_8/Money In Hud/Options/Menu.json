@@ -1,0 +1,56 @@
+{
+	"menu_id" : "MIH",
+	"parent_menu_id" : "blt_options",
+	"title"	: "MIH_MenuOptions_Title",
+	"description" : "MIH_MenuOptions_Desc",
+	"items" : [
+		{
+		    "type" : "toggle",
+		    "id" : "MIH_Enable_Cash",
+		    "title" : "MIH_Enable_Cash_Title",
+		    "description" : "MIH_Enable_Cash_Desc",
+		    "callback" : "MIH_Enable_Cash_Callback",
+		    "value" : "MIH_Enable_Cash_Value",
+		    "default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 20
+		},
+		{
+		    "type" : "slider",
+		    "id" : "MIH_Correction_X",
+		    "title" : "MIH_Correction_X_Title",
+		    "description" : "MIH_Correction_X_Desc",
+		    "callback" : "MIH_Correction_X_Callback",
+		    "value" : "MIH_Correction_X_Value",
+		    "default_value" : 0,
+		    "max" : 1200,
+		    "min" : -100,
+		    "step" : 1
+		},
+		{
+		    "type" : "slider",
+		    "id" : "MIH_Correction_Y",
+		    "title" : "MIH_Correction_Y_Title",
+		    "description" : "MIH_Correction_Y_Desc",
+		    "callback" : "MIH_Correction_Y_Callback",
+		    "value" : "MIH_Correction_Y_Value",
+		    "default_value" : 0,
+		    "max" : 600,
+		    "min" : -100,
+		    "step" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 32
+		},
+		{
+			"type" : "button",
+			"id" : "MIH_Correction_Reset",
+			"title" : "MIH_Correction_Reset_Title",
+			"description" : "MIH_Correction_Reset_Desc",
+			"callback" : "MIH_Correction_Reset_Callback"
+		}
+	]
+}

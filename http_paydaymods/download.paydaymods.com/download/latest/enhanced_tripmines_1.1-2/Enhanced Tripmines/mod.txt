@@ -1,0 +1,18 @@
+{
+	"name" : "Enhanced Tripmines",
+	"description" : "Allows your trip mines to highlight civilians in stealth and non-special enemies in loud. Your trip mines will default to sensor mode in stealth, block mode-changes from other players, and become immune to all damage while in sensor mode.",
+	"author" : "BB-Pio",
+	"contact" : "death2tyrants@yahoo.com",
+	"version" : "1.1",
+	"priority" : 0,
+	"updates" : [
+		{
+			"revision" : 1.1,
+			"identifier" : "enhanced_tripmines"
+		}
+	],
+	"hooks" : [
+		{ "hook_id" : "lib/units/weapons/trip_mine/tripminebase", "script_path" : "mod_tripminebase.lua" },
+		{ "hook_id" : "lib/network/handlers/unitnetworkhandler", "script_path" : "mod_unitnetworkhandler.lua" }
+	]		
+}

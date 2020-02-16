@@ -1,0 +1,12 @@
+{
+	"menu_REBuyAssets_contract_name" 	: "重新購買資產",
+	"menu_REBuyAssets_contract_desc"	: "自動購買預存有利條件和事前規劃",
+	"menu_REBuyAssets_save_name"		: "保存",
+	"menu_REBuyAssets_save_desc"		: "儲存此關卡的事前規劃",
+	"menu_REBuyAssets_clean_name"		: "清除",
+	"menu_REBuyAssets_clean_desc"		: "清除此關卡的事前規劃",
+	"menu_REBuyAssets_clean_all_name"	: "清除全部",
+	"menu_REBuyAssets_clean_all_desc"	: "清除所有關卡的事前規劃",
+	"menu_REBuyAssets_buy_all_name"		: "購買全部",
+	"menu_REBuyAssets_buy_all_desc"		: "勾選後自動購買有利條件"
+}

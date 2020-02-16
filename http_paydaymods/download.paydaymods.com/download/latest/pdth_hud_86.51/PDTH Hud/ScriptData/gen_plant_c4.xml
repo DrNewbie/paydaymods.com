@@ -1,0 +1,11 @@
+<table>
+    <table search="unit">
+        <table search="sequence;name=' \'interact\' '">
+            <material_config name="'units/pd2_dlc_jolly/equipment/gen_plant_c4/gen_plant_c4'"/>
+        </table>
+        <table search="sequence;name=' \'state_interaction_enabled\' '">
+            <table search="object;name='\'g_c4\''" enabled="true"/>
+            <material_config name="'units/pd2_dlc_cage/masks/f1/msk_f1_mask'"/>
+        </table>
+    </table>
+</table>

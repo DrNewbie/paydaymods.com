@@ -1,0 +1,20 @@
+{
+	"tip_tactical_reload" : "Vous pouvez recharger votre arme même si vous n'avez pas vidé tout votre chargeur.\n\nAinsi, vous êtes assuré d'avoir un chargeur plein la prochaine fois où vous aurez des ennuis. Cela s'appelle un \"rechargement tactique\".",
+	"tip_weapon_effecienty" : "Certaines armes sont plus efficaces selon la distance à laquelle on tire. Telle arme sera donc plus adaptée à telle situation.",
+	"tip_switch_to_sidearm" : "Il est toujours plus rapide de dégainer votre arme secondaire plutôt que de recharger votre arme principale.\n\nDonc, si votre mitraillette tombe à court de munitions alors que vous êtes en mauvaise posture, dégainer votre arme de poing plutôt que de recharger pourrait vous sauver la vie.",
+	"tip_doctor_bag" : "La trousse médicale peut vous sauver la vie.\n\nSi la santé de votre équipe est au plus bas, posez la trousse médicale au sol et laissez tout le monde se soigner!",
+	"tip_ammo_bag" : "Si vous tombez souvent à court de munitions, ça peut être une bonne idée d'amener un sac de munitions supplémentaire.\n\nLorsque vous êtes presque à court de munitions, posez le sac au sol et utilisez-le pour refaire le plein.",
+	"tip_head_shot" : "Les tirs dans la tête sont plus efficaces que n'importe où ailleurs sur le corps.",
+	"tip_secret_assignmnet" : "Les unités spéciales sont de quatre types et elles sont toutes très dangereuses, surtout si vous les affrontez seul.\n\nRassemblez une équipe pour les vaincre!",
+	"tip_help_bleed_out" : "Si un voleur est touché, il passe en état de \"saignement\". Dans un tel état, il ne peut plus se déplacer et ne peut que tirer avec son arme de poing.\n\nUn voleur en état de saignement peut être remis sur pieds sans coût supplémentaire.",
+	"tip_dont_shoot_civilians" : "Ne tirez pas sur les civils. Pour chaque civil que vous tuez, une pénalité de temps est ajoutée à votre temps normal de détention.\n\nAinsi, si vous êtes en détention, vous aurez à attendre plus longtemps avant que la police ne fasse une offre pour vous échanger contre un otage.",
+	"tip_trading_hostage" : "Un voleur qui perd toute sa santé est mis en détention. Vous ne pouvez revenir de la détention que grâce à un échange d'otages.\n\nLa police contactera Bain pour mettre au point l'échange.",
+	"tip_shoot_at_civilians" : "Criez sur les civils pour les garder sous contrôle.\n\nUn civil en vie représente toujours une monnaie d'échange, et s'il reste plaqué au sol, il a plus de chances de rester en vie.",
+	"tip_police_free_hostage" : "La police essaiera toujours de libérer les otages si aucun voleur ne se trouve à proximité.\n\nDispersez bien votre équipe et gardez l'oeil sur tous les otages, ils représentent votre assurance vie!",
+	"tip_steelsight" : "Viser à travers votre viseur vous permet de tirer plus précisément que quand vous tirez à hauteur de hanche.",
+	"tip_melee_attack" : "Un coup avec la crosse de votre arme peut être un bon moyen pour achever un adversaire.\n\nC'est tout spécialement utile lorsque vous êtes à court de munitions.",
+	"tip_law_enforcers_as_hostages" : "S'il n'y a pas de civils à prendre en otage, vous pouvez toujours prendre les agents de maintien de l'ordre en otage.",
+	"tip_mask_off" : "Les agents de maintien de l'ordre ne vous considéreront pas comme une menace si vous ne portez pas de masque. Utilisez ceci à votre avantage.\n\nFaites une reconnaissance des lieux et prenez position avant de mettre vos masques. Une fois que vous avez mis vos masques, vous ne pouvez plus les retirer jusqu'à la fin du casse.",
+	"tip_objectives" : "Votre objectif actuel s'affiche dans le coin supérieur gauche de l'écran.\n\nUne description plus détaillée de l'objectif, ainsi que la liste des objectifs accomplis, sont accessibles via l'écran infos.",
+	"tip_shoot_in_bleed_out" : "En état de saignement, vous pouvez encore tirer avec votre arme de poing.\n\nLorsqu'un équipier vous aide, vous pouvez vous protéger mutuellement, mais provoquer des agents de maintien de l'ordre tout seul fait de vous une cible sans défense et facile à abattre."
+}

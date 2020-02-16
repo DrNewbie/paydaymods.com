@@ -1,0 +1,64 @@
+{
+	"blackmarketpersistentnames_menu_title" : "Blackmarket Persistent Names",
+	"blackmarketpersistentnames_menu_desc" : "Configure Blackmarket Persistent Names options",
+
+	"tog_blackmarketpersistentnames_prisecweaponnames_title" : "Primary / Secondary Weapon Names",
+	"tog_blackmarketpersistentnames_prisecweaponnames_desc" : "Determines whether persistent names should be shown for the weapon inventory screens",
+
+	"tog_blackmarketpersistentnames_buyweaponnames_title" : "Weapon Purchasing Names",
+	"tog_blackmarketpersistentnames_buyweaponnames_desc" : "Determines whether persistent names should be shown for the weapon purchasing screens",
+
+	"tog_blackmarketpersistentnames_weaponmodnames_title" : "Weapon Mod Names",
+	"tog_blackmarketpersistentnames_weaponmodnames_desc" : "Determines whether persistent names should be shown for the weapon modification screens",
+
+	"tog_blackmarketpersistentnames_weaponskinnames_title" : "Weapon Skin Names",
+	"tog_blackmarketpersistentnames_weaponskinnames_desc" : "Determines whether persistent names should be shown for the weapon skins screen",
+
+	"tog_blackmarketpersistentnames_meleeweaponnames_title" : "Melee Weapon Names",
+	"tog_blackmarketpersistentnames_meleeweaponnames_desc" : "Determines whether persistent names should be shown for the melee weapon selection screen",
+
+	"tog_blackmarketpersistentnames_throwableweaponnames_title" : "Throwable Weapon Names",
+	"tog_blackmarketpersistentnames_throwableweaponnames_desc" : "Determines whether persistent names should be shown for the throwable weapon selection screen",
+
+	"tog_blackmarketpersistentnames_deployablenames_title" : "Deployable Names",
+	"tog_blackmarketpersistentnames_deployablenames_desc" : "Determines whether persistent names should be shown for the deployable selection screen",
+
+	"tog_blackmarketpersistentnames_armornames_title" : "Armor Names",
+	"tog_blackmarketpersistentnames_armornames_desc" : "Determines whether persistent names should be shown for the armor selection screen",
+
+	"tog_blackmarketpersistentnames_skillnames_title" : "Skill Names",
+	"tog_blackmarketpersistentnames_skillnames_desc" : "Determines whether persistent names should be shown for the skilltree screen",
+
+	"tog_blackmarketpersistentnames_characternames_title" : "Character Names",
+	"tog_blackmarketpersistentnames_characternames_desc" : "Determines whether persistent names should be shown for the character selection screen",
+
+	"tog_blackmarketpersistentnames_masknames_title" : "Mask Inventory Names",
+	"tog_blackmarketpersistentnames_masknames_desc" : "Determines whether persistent names should be shown for the mask inventory screen",
+
+	"tog_blackmarketpersistentnames_buymasknames_title" : "Mask Stash Names",
+	"tog_blackmarketpersistentnames_buymasknames_desc" : "Determines whether persistent names should be shown for the mask purchasing screen",
+
+	"tog_blackmarketpersistentnames_maskmodnames_title" : "Mask Customization Names",
+	"tog_blackmarketpersistentnames_maskmodnames_desc" : "Determines whether persistent names should be shown for the mask customization screen",
+
+	"tog_blackmarketpersistentnames_steaminventorynames_title" : "Steam Inventory Names",
+	"tog_blackmarketpersistentnames_steaminventorynames_desc" : "Determines whether persistent names should be shown for the Steam inventory screen",
+
+	"tog_blackmarketpersistentnames_crewabilityboostnames_title" : "Crew ability & boost names",
+	"tog_blackmarketpersistentnames_crewabilityboostnames_desc" : "Determines whether persistent names should be shown for the crew ability and boost selection screens",
+
+	"tog_blackmarketpersistentnames_dimcommonperkcards_title" : "Dim common perk cards",
+	"tog_blackmarketpersistentnames_dimcommonperkcards_desc" : "Determines whether perk deck cards that are common to all decks should be dimmed",
+
+	"tog_blackmarketpersistentnames_neverdimcustomnames_title" : "Never dim custom names",
+	"tog_blackmarketpersistentnames_neverdimcustomnames_desc" : "Determines whether custom names should be dimmed when not being focused upon",
+
+	"tog_blackmarketpersistentnames_suppresscustomnamequotes_title" : "Suppress quotation characters",
+	"tog_blackmarketpersistentnames_suppresscustomnamequotes_desc" : "Determines whether the quotation characters enclosing custom names should be suppressed",
+
+	"sld_blackmarketpersistentnames_stringsplitthreshold_title" : "Name length splitting threshold",
+	"sld_blackmarketpersistentnames_stringsplitthreshold_desc" : "Determines the length threshold above which names will be split across new lines for better readability. Defaults to 15 characters, set to 0 to always split on whitespace, or -1 to disable splitting",
+
+	"btn_blackmarketpersistentnames_reset_title" : "Reset to defaults",
+	"btn_blackmarketpersistentnames_reset_desc" : "Resets all options here to their defaults"
+}

@@ -1,0 +1,170 @@
+{
+	"menu_id" : "wac_menu_ar_fal",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_fal_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sa58fg",
+			"title" : "wac_replace_cqbfg_title",
+			"callback" : "callback_toggle_replace_sa58fg",		
+			"items" : [
+				"wac_default_multi",
+				"fallbfg_multi",
+				"falsniperfg_multi",
+				"woodenfg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_sa58fg",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_falsniperfg",
+			"title" : "wac_replace_falsniperfg_title",
+			"callback" : "callback_toggle_replace_falsniperfg",		
+			"items" : [
+				"wac_default_multi",
+				"cqbfg_multi",
+				"fallbfg_multi",
+				"woodenfg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_falsniperfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_falwoodfg",
+			"title" : "wac_replace_woodenfg_title",
+			"callback" : "callback_toggle_replace_falwoodfg",		
+			"items" : [
+				"wac_default_multi",
+				"cqbfg_multi",
+				"fallbfg_multi",
+				"falsniperfg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_falwoodfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_faltacgrip",
+			"title" : "wac_replace_faltacgrip_title",
+			"callback" : "callback_toggle_replace_faltacgrip",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_faltacgrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_falmag",
+			"title" : "wac_replace_stndmag_title",
+			"callback" : "callback_toggle_replace_falmag",		
+			"items" : [
+				"wac_default_multi",
+				"extmag_multi"
+			],
+			"value" : "replace_falmag",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_falextmag",
+			"title" : "wac_replace_extmag_title",
+			"callback" : "callback_toggle_replace_falextmag",		
+			"items" : [
+				"wac_default_multi",
+				"stndmag_multi"
+			],
+			"value" : "replace_falextmag",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sa58stock",
+			"title" : "wac_replace_sa58st_title",
+			"callback" : "callback_toggle_replace_sa58stock",		
+			"items" : [
+				"wac_default_multi",
+				"falprs2stock_multi",
+				"woodenstock_multi",
+				"stndst_multi",
+				"nostock_multi",
+				"m4_s_stnd_multi",
+				"m4_s_crane_multi",
+				"m4_s_ubr_multi",
+				"m4_vltor_multi"
+			],
+			"value" : "replace_sa58stock",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_falprs2stock",
+			"title" : "wac_replace_falprs2st_title",
+			"callback" : "callback_toggle_replace_falprs2stock",		
+			"items" : [
+				"wac_default_multi",
+				"sa58stock_multi",
+				"woodenstock_multi",
+				"stndst_multi",
+				"nostock_multi",
+				"m4_s_stnd_multi",
+				"m4_s_crane_multi",
+				"m4_s_ubr_multi",
+				"m4_vltor_multi"
+			],
+			"value" : "replace_falprs2stock",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_woodenstock",
+			"title" : "wac_replace_woodenst_title",
+			"callback" : "callback_toggle_replace_falwoodenstock",		
+			"items" : [
+				"wac_default_multi",
+				"sa58stock_multi",
+				"falprs2stock_multi",
+				"stndst_multi",
+				"nostock_multi",
+				"m4_s_stnd_multi",
+				"m4_s_crane_multi",
+				"m4_s_ubr_multi",
+				"m4_vltor_multi"
+			],
+			"value" : "replace_falwoodenstock",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_falsingle",
+			"title" : "wac_replace_singlefire_title",
+			"description" : "wac_singlefiremode_desc",
+			"callback" : "callback_toggle_replace_falsingle",
+			"value" : "replace_falsingle",
+			"default_value" : false
+		}
+	]
+}

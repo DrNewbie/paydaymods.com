@@ -1,0 +1,19 @@
+{
+	"name" : "Badass Camera",
+	"description" : "Re-enables the main menu backdrop camera's transition animations",
+	"author" : "\n    LASTBULLET_WOLFY (initial .pdmod version)\n    Snh20 (Lua version)",
+	"version" : "0.0.1.2",
+	"priority" : -1,
+	"updates" : [
+		{
+			"revision" : 3,
+			"identifier" : "badasscamera"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menu/menuscenemanager",
+			"script_path" : "menuscenemanager.lua"
+		}
+	]
+}

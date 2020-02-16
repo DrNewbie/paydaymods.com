@@ -1,0 +1,19 @@
+{
+	"menu_id" : "wac_menu_spec_englongbow",
+	"parent_menu_id" : "wac_menu_spec",
+	"title" : "wac_menu_spec_englongbow_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_longbowexplosive",
+			"title" : "wac_replace_explosivearrow",
+			"callback" : "callback_toggle_replace_longbowexplosive",		
+			"items" : [
+				"wac_default_multi",
+				"stndarrow_multi"
+			],
+			"value" : "replace_longbowexplosive",
+			"default_value" : 1
+		}
+	]
+}

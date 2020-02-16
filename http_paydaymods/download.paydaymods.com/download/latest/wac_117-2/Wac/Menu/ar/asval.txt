@@ -1,0 +1,50 @@
+{
+	"menu_id" : "wac_menu_ar_asval",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_asval_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_asvalprotob",
+			"title" : "wac_replace_protob_title",
+			"callback" : "callback_toggle_replace_asvalprotob",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_asvalprotob",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_asvalstock",
+			"title" : "wac_replace_stockuseonly_title",
+			"callback" : "callback_toggle_replace_asvalstock",		
+			"items" : [
+				"wac_default_multi",
+				"foldst_multi",
+				"vssst_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_asvalstock",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_asvalsingle",
+			"title" : "wac_replace_singlefire_title",
+			"description" : "wac_singlefiremode_desc",
+			"callback" : "callback_toggle_replace_asvalsingle",
+			"value" : "replace_asvalsingle",
+			"default_value" : false
+		}
+	]
+}

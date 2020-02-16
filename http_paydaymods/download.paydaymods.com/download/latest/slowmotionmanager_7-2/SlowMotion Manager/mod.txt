@@ -1,0 +1,30 @@
+{
+    "name" : "SlowMotion Manager",
+    "description" : "Manage the slowmotion through many options.",
+    "author" : "Nepgearsy",
+    "contact" : "http://steamcommunity.com/id/Nepgearsy",
+    "version" : "Rewrite1.70",
+    "priority" : "1000",
+    "blt_version" : 2,
+    "image" : "slowmo.png",
+    "color" : "25 0 255",
+     "updates" : [
+    {
+        "identifier" : "slowmotionmanager"
+    }
+    ],
+    "hooks" : [
+        {
+            "hook_id" : "lib/tweak_data/timespeedeffecttweakdata",
+            "script_path" : "bleedout.lua"
+        },
+        {
+            "hook_id" : "lib/managers/menumanager",
+            "script_path" : "bleedout.lua"
+        },
+        {
+            "hook_id" : "lib/managers/hudmanagerpd2",
+            "script_path" : "bleedout.lua"
+        }
+    ]
+}

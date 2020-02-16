@@ -1,0 +1,49 @@
+{
+	"menu_id" : "wac_menu_pis_swm29",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_swm29_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_swm29_devilb",
+			"title" : "wac_replace_swm29_devilb_title",
+			"callback" : "callback_toggle_replace_swm29_devilb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_swm29_devilb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_swm29_blackgrip",
+			"title" : "wac_replace_swm29_blackgrip_title",
+			"callback" : "callback_toggle_replace_swm29_blackgrip",		
+			"items" : [
+				"wac_default_multi",
+				"swm29_ripgrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_swm29_blackgrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_swm29_ripgrip",
+			"title" : "wac_replace_swm29_ripgrip_title",
+			"callback" : "callback_toggle_replace_swm29_ripgrip",		
+			"items" : [
+				"wac_default_multi",
+				"swm29_blackgrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_swm29_ripgrip",
+			"default_value" : 1
+		}
+	]
+}

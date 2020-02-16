@@ -1,0 +1,48 @@
+{
+	"menu_id": "m_vlx_mm",
+	"parent_menu_id" : "blt_options",
+	"title": "m_vlx_mm_name",
+	"description": "m_vlx_mm_desc",
+	"items":
+	[
+		{
+			"type": "toggle",
+			"id": "mm_toggle",
+			"title": "mm_toggle_name",
+			"description": "mm_toggle_desc",
+			"callback": "callback_mm_toggle",
+			"value": "mm_value",
+			"default_value" : true,
+		},
+		{
+			"type": "toggle",
+			"id": "mm_rotate",
+			"title": "mm_rotate_name",
+			"description": "mm_rotate_desc",
+			"callback": "callback_mm_rotate",
+			"value": "mm_rotate_value",
+			"default_value" : false,
+		},
+		{
+			"type": "toggle",
+			"id": "mm_stealth_only",
+			"title": "mm_stealth_only_name",
+			"description": "mm_stealth_only_desc",
+			"callback": "callback_mm_stealth_only",
+			"value": "mm_stealth_only_value",
+			"default_value" : true,
+		},
+		{
+			"type" : "slider",
+			"id" : "mm_zoom",
+			"title" : "mm_zoom_name",
+			"description" : "mm_zoom_desc",
+			"callback" : "callback_mm_zoom",
+			"value" : "mm_zoom_value",
+			"default_value" : 50,
+			"max" : 100,
+			"min" : 1,
+			"step" : 1,
+		}
+	]
+}

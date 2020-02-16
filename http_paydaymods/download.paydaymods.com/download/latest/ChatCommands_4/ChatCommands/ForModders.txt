@@ -1,0 +1,65 @@
+How to say BLT to require ChatCommands? Paste a "libraries" node into your mod.txt-file. Example:
+{
+	"name" : "StealthSync",
+	"description" : "Improves the syncronization of units in stealth mode to prevent players from going insane.",
+	"author" : "SerMi",
+	"contact" : "sermi@gpplanet.de",
+	"version" : "0.1",
+	"libraries" : 
+	[
+		{
+			"identifier" : "ChatCommands",
+			"display_name" : "ChatCommands [API]"
+			"optional" : false
+		}
+	],
+	"updates" : 
+	[
+		{
+			"revision" : 1,
+			"identifier" : "StealthSync"
+		}
+	],
+	"hooks" : [
+		{ "hook_id" : "lib/network/base/networkpeer", "script_path" : "lua/StealthSync.lua" },
+		{ "hook_id" : "lib/units/interactions/interactionext", "script_path" : "lua/StealthSync.lua" }
+	],
+}
+
+
+
+--------------------
+
+
+
+
+To use your own commands, just use the following function in your code:
+
+ChatCommands:addCommand(commandname, modname, cmd_description, arguments, callback_function, command_type)
+
+-> The "command_type" parameter (string) determines who has access to this command: choose between "clientonly" (default -> if nil or not given), "hostonly" (clientonly + must be host), "lobbywide" (everyone in the lobby can execute this command using the chat). 
+-> The "callback_function" parameter (function) is used to hold your callback-function. The API passes the entered arguments in an string-array (table) and the peer of the user who executed the command [-> function(args, user) ... end]. If your callback-function returns anything, this will be printed in the chat.
+-> The "arguments" parameter (table, or even nil) is a table holding arguments made with:
+
+ChatCommands:newArgument(argname, value_type, required)
+
+-> The "value_type" parameter (string) determines what values are allowed: choose between "boolean", "number", "string" and "peer_id"
+-> The "required" parameter (boolean) determines if this argument is required in order to use this command or not.
+
+
+
+
+
+Example:
+
+ChatCommands:addCommand("thisisacmd", "mymod", "Just does something", {ChatCommands:newArgument("justanargument", "string", true), ChatCommands:newArgument("justanotherargument", "boolean", false)}, function(args, user)
+	... -- your callback-function
+end)
+
+For more examples see "lua/CommandUtilities.lua"
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------

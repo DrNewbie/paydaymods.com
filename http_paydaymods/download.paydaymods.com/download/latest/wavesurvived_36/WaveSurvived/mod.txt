@@ -1,0 +1,30 @@
+{
+    "name" : "Wave Survived",
+    "description" : "Add the Wave Survived banner into all heists. Also adds a endless wave banner.",
+    "author" : "Nepgearsy",
+    "contact" : "http://steamcommunity.com/id/Nepgearsy",
+    "version" : "1.25",
+    "priority" : 1,
+    "blt_version" : 2,
+    "image" : "wavesurvived.png",
+    "color" : "87 0 173",
+    "updates" : [
+    {
+        "revision" : 34,
+        "identifier" : "wavesurvived"
+    }
+    ],
+    "libraries" : [
+        {
+            "display_name" : "BeardLib",
+            "identifier" : "beardlib",
+            "optional" : "false"
+        }
+    ],
+    "pre_hooks":[  
+        {  
+            "hook_id":"lib/entry",
+            "script_path":"Core.lua"
+        }
+    ]
+}

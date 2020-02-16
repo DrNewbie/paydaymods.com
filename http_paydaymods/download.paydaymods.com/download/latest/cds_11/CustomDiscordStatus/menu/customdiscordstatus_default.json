@@ -1,0 +1,10 @@
+{
+    "lang": 1,
+    "custom_strings": true,
+    "show_host": true,
+    "show_member": true,
+    "higher_settings": false,
+    "show_public_room": true,
+    "show_friends_only_room": true,
+    "show_private_room": false
+}

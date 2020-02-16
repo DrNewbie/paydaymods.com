@@ -1,0 +1,23 @@
+{
+	"name" : "PAYDAY: The Heist HUD Reborn",
+	"description" : "Brings back the HUD from PD:TH.",
+	"author" : "Simon \/ GREAT BIG BUSHY BEARD",
+	"contact" : "simon@lastbullet.net",
+	"version" : "2",
+	"priority" : 44,
+    "pre_hooks" : [
+		{ "hook_id" : "lib/entry", "script_path" : "PDTHHudCore.lua" }
+    ],
+	"updates" : [
+		{
+			"revision" : 86.51,
+			"identifier" : "pdth_hud"
+		}
+	],
+    "libraries" : [
+        {
+            "display_name" : "BeardLib",
+            "identifier" : "beardlib"
+        }
+    ]
+}

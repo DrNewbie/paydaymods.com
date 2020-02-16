@@ -1,0 +1,1460 @@
+[
+{
+	 "i"		: 1
+	,"ids"		: "Idstring(@ID4ef7704f2d45f4f9@)"
+	,"StringID"	: "debug_interact_glass_cutter"
+	,"orig_text": "Hold $BTN_INTERACT; to Place the Cutter"
+},{
+	 "i"		: 2
+	,"ids"		: "Idstring(@IDcfc142e0cba66d12@)"
+	,"StringID"	: "debug_equipment_crowbar"
+	,"orig_text": "CROWBAR"
+},{
+	 "i"		: 3
+	,"ids"		: "Idstring(@IDa2db617a5867cd9a@)"
+	,"StringID"	: "debug_interact_hack_ipad_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to set up Device"
+},{
+	 "i"		: 4
+	,"ids"		: "Idstring(@ID60b5bf760ddc2b6d@)"
+	,"StringID"	: "debug_interact_diamond_case_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to open"
+},{
+	 "i"		: 5
+	,"ids"		: "Idstring(@ID306941e2812f126e@)"
+	,"StringID"	: "debug_interact_sentry_gun_reload"
+	,"orig_text": "Hold $BTN_INTERACT; to reload Sentry Gun$NL;( Ammo Remaining: $AMMO; )"
+},{
+	 "i"		: 6
+	,"ids"		: "Idstring(@IDcd455b19ee04d034@)"
+	,"StringID"	: "debug_interact_equipment_drill"
+	,"orig_text": "Use the Drill to get to the Vault"
+},{
+	 "i"		: 7
+	,"ids"		: "Idstring(@IDcc1a67faebcab3df@)"
+	,"StringID"	: "debug_interact_gold_bag_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Pick up the Bag"
+},{
+	 "i"		: 8
+	,"ids"		: "Idstring(@IDec99add657dc3e9d@)"
+	,"StringID"	: "debug_interact_hack_ipad_jammed"
+	,"orig_text": "Hold $BTN_INTERACT; to reboot"
+},{
+	 "i"		: 9
+	,"ids"		: "Idstring(@IDea57c331b4bc45c9@)"
+	,"StringID"	: "debug_interact_hostage_move"
+	,"orig_text": "Hold $BTN_INTERACT; to move the hostage"
+},{
+	 "i"		: 10
+	,"ids"		: "Idstring(@ID368b3b82db1739d8@)"
+	,"StringID"	: "debug_interact_money_bag_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to Place the Money Bag"
+},{
+	 "i"		: 11
+	,"ids"		: "Idstring(@ID9a425d089c8cda14@)"
+	,"StringID"	: "debug_wskn_want_to_save"
+	,"orig_text": "Do you want to save your changes?"
+},{
+	 "i"		: 12
+	,"ids"		: "Idstring(@IDbe00533ba1cc14e3@)"
+	,"StringID"	: "debug_interact_ammo_bag_take_ammo"
+	,"orig_text": "Hold $BTN_INTERACT; to Take Ammo"
+},{
+	 "i"		: 13
+	,"ids"		: "Idstring(@IDbac61ec4b646e993@)"
+	,"StringID"	: "debug_equipment_bodybags_bag"
+	,"orig_text": "Body Bag Case"
+},{
+	 "i"		: 14
+	,"ids"		: "Idstring(@ID02b3c7091e6be527@)"
+	,"StringID"	: "debug_wskn_screenshot_skin"
+	,"orig_text": "Screenshot"
+},{
+	 "i"		: 15
+	,"ids"		: "Idstring(@ID3c9d8f4efa7019d2@)"
+	,"StringID"	: "debug_wskn_uv_scale_x"
+	,"orig_text": "Sticker Width"
+},{
+	 "i"		: 16
+	,"ids"		: "Idstring(@IDe6a4bdfc306afe27@)"
+	,"StringID"	: "debug_debug_font_draw_text"
+	,"orig_text": "@ £ $ () % ^ < } ´ W$BTN_INV_NEW;W$BTN_GHOST;W$BTN_SKULL;W $NL;_the $BTN_BACK;quick $BTN_START;brown $BTN_A;fox $BTN_TOP_L;jumps $BTN_BOTTOM_L;over $BTN_STICK_L;the $BTN_INTERACT;lazy $BTN_RELOAD;dog $BTN_GADGET; j g y"
+},{
+	 "i"		: 17
+	,"ids"		: "Idstring(@IDac3921df7d2a1389@)"
+	,"StringID"	: "debug_interact_gold_bag"
+	,"orig_text": "Hold $BTN_INTERACT; to Pick up the Bag"
+},{
+	 "i"		: 18
+	,"ids"		: "Idstring(@ID2713c6f505661053@)"
+	,"StringID"	: "debug_wskn_wear_and_tear"
+	,"orig_text": "Preview Quality"
+},{
+	 "i"		: 19
+	,"ids"		: "Idstring(@ID03f722843ec6eea6@)"
+	,"StringID"	: "debug_interact_drill_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Place the Drill"
+},{
+	 "i"		: 20
+	,"ids"		: "Idstring(@ID9db57f021251f23a@)"
+	,"StringID"	: "debug_button_a"
+	,"orig_text": "$BTN_A;"
+},{
+	 "i"		: 21
+	,"ids"		: "Idstring(@IDa70ae40f345098d8@)"
+	,"StringID"	: "debug_instruct_finish_arrest_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to get up"
+},{
+	 "i"		: 22
+	,"ids"		: "Idstring(@ID1749adbe36b203ea@)"
+	,"StringID"	: "debug_interact_c4_bag_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Pick up Explosives"
+},{
+	 "i"		: 23
+	,"ids"		: "Idstring(@IDf4c13163c3aa94d4@)"
+	,"StringID"	: "debug_interact_saw_jammed"
+	,"orig_text": "Hold $BTN_INTERACT; to Restart the Saw"
+},{
+	 "i"		: 24
+	,"ids"		: "Idstring(@IDd6de4967afbcd48a@)"
+	,"StringID"	: "debug_god_mode"
+	,"orig_text": "God Mode"
+},{
+	 "i"		: 25
+	,"ids"		: "Idstring(@ID474aaae1b67c7c3e@)"
+	,"StringID"	: "debug_heist_successful"
+	,"orig_text": "HEIST SUCCESSFUL!"
+},{
+	 "i"		: 26
+	,"ids"		: "Idstring(@IDec41a54dde5c2d79@)"
+	,"StringID"	: "debug_interact_security_station"
+	,"orig_text": "Hold $BTN_INTERACT; to Start the Override"
+},{
+	 "i"		: 27
+	,"ids"		: "Idstring(@ID3b88bca3e74d211b@)"
+	,"StringID"	: "debug_interact_doctor_bag_heal"
+	,"orig_text": "Hold $BTN_INTERACT; to Patch Yourself Up"
+},{
+	 "i"		: 28
+	,"ids"		: "Idstring(@ID2436c78c2458014f@)"
+	,"StringID"	: "debug_lu_upgrade_awarded"
+	,"orig_text": "UPGRADE AWARDED"
+},{
+	 "i"		: 29
+	,"ids"		: "Idstring(@ID6a975dd080c58dfd@)"
+	,"StringID"	: "debug_wskn_uv_offset_rot_y"
+	,"orig_text": "Sticker Y"
+},{
+	 "i"		: 30
+	,"ids"		: "Idstring(@IDd0226e7976fc818f@)"
+	,"StringID"	: "debug_equipment_armor_kit"
+	,"orig_text": "Armor Bag"
+},{
+	 "i"		: 31
+	,"ids"		: "Idstring(@ID90b7308f6ba4068f@)"
+	,"StringID"	: "debug_interact_open_door_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to Open The Door"
+},{
+	 "i"		: 32
+	,"ids"		: "Idstring(@ID4bdfe84266ed6f16@)"
+	,"StringID"	: "debug_interact_patient_paper"
+	,"orig_text": "Hold $BTN_INTERACT; TO CHECK FILE"
+},{
+	 "i"		: 33
+	,"ids"		: "Idstring(@IDaf3dd97750a67181@)"
+	,"StringID"	: "debug_interact_thermite"
+	,"orig_text": "Hold $BTN_INTERACT; to place the Thermite"
+},{
+	 "i"		: 34
+	,"ids"		: "Idstring(@ID7b0749b22ca56fd1@)"
+	,"StringID"	: "debug_lu_reached_level"
+	,"orig_text": "REACHED$NL;REPUTATION LEVEL"
+},{
+	 "i"		: 35
+	,"ids"		: "Idstring(@IDb4a97fb7d271d496@)"
+	,"orig_text": "Select Secondary Weapon"
+},{
+	 "i"		: 36
+	,"ids"		: "Idstring(@ID0964a82003c4b1eb@)"
+	,"StringID"	: "debug_upgrade_player_upgrade"
+	,"orig_text": "PLAYER UPGRADE"
+},{
+	 "i"		: 37
+	,"ids"		: "Idstring(@ID5760177ae956e913@)"
+	,"StringID"	: "debug_wskn_black"
+	,"orig_text": "Black"
+},{
+	 "i"		: 38
+	,"ids"		: "Idstring(@ID8037fabd53fb92ea@)"
+	,"StringID"	: "debug_wskn_none"
+	,"orig_text": "None"
+},{
+	 "i"		: 39
+	,"ids"		: "Idstring(@ID6cda11f25a89f331@)"
+	,"StringID"	: "debug_m79"
+	,"orig_text": "GL40 grenade launcher"
+},{
+	 "i"		: 40
+	,"ids"		: "Idstring(@ID70f6b6632707f44f@)"
+	,"StringID"	: "debug_glock"
+	,"orig_text": "Stryk pistol"
+},{
+	 "i"		: 41
+	,"ids"		: "Idstring(@IDdedfa41c2b6248da@)"
+	,"StringID"	: "debug_interact_equipment_glass_cutter"
+	,"orig_text": "Use the Cutter to cut through the glass"
+},{
+	 "i"		: 42
+	,"ids"		: "Idstring(@IDfeb6b307c8661698@)"
+	,"StringID"	: "debug_team_mate_need_revive"
+	,"orig_text": "Teammate is Down!"
+},{
+	 "i"		: 43
+	,"ids"		: "Idstring(@ID6c652cf1b49c1b53@)"
+	,"StringID"	: "debug_interact_apartment_key_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to use the Key"
+},{
+	 "i"		: 44
+	,"ids"		: "Idstring(@IDf2cc277507ee5d1a@)"
+	,"StringID"	: "debug_equipment_drill"
+	,"orig_text": "Drill"
+},{
+	 "i"		: 45
+	,"ids"		: "Idstring(@IDa32227ebe02ff1c6@)"
+	,"StringID"	: "debug_interact_money_bag"
+	,"orig_text": "Press $BTN_INTERACT; to Place the Money Bag"
+},{
+	 "i"		: 46
+	,"ids"		: "Idstring(@IDd6597ba0d71547b9@)"
+	,"StringID"	: "debug_interact_doctor_bag_heal_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Patch Yourself Up"
+},{
+	 "i"		: 47
+	,"ids"		: "Idstring(@IDf181f7efeead4d30@)"
+	,"StringID"	: "debug_trade_hostage"
+	,"orig_text": "Trade hostage for your teammate!"
+},{
+	 "i"		: 48
+	,"ids"		: "Idstring(@ID32f1ec55d9def60c@)"
+	,"StringID"	: "debug_interact_bodybags_bag_take_bodybag"
+	,"orig_text": "Hold $BTN_INTERACT; to grab a body bag"
+},{
+	 "i"		: 49
+	,"ids"		: "Idstring(@ID8f631a2e48a50dde@)"
+	,"StringID"	: "debug_interact_grenade_crate_take_grenades"
+	,"orig_text": "Hold $BTN_INTERACT; to grab a throwable"
+},{
+	 "i"		: 50
+	,"ids"		: "Idstring(@ID865be39a00e521a8@)"
+	,"StringID"	: "debug_interact_hold_to_breach"
+	,"orig_text": "Hold $BTN_INTERACT; to Breach"
+},{
+	 "i"		: 51
+	,"ids"		: "Idstring(@ID6b213e0cb9dbac09@)"
+	,"StringID"	: "debug_interact_hospital_sentry"
+	,"orig_text": "hold $BTN_INTERACT; to set up the sentry gun"
+},{
+	 "i"		: 52
+	,"ids"		: "Idstring(@IDdd076cfefa0a917e@)"
+	,"StringID"	: "debug_interact_hospital_phone"
+	,"orig_text": "Press $BTN_INTERACT; to answer the phone"
+},{
+	 "i"		: 53
+	,"ids"		: "Idstring(@IDc318fbf44e32e0aa@)"
+	,"StringID"	: "debug_wskn_customize"
+	,"orig_text": "Debug Skin"
+},{
+	 "i"		: 54
+	,"ids"		: "Idstring(@IDc1b663a276e6513e@)"
+	,"StringID"	: "debug_upgrade_tree_support"
+	,"orig_text": "SUPPORT"
+},{
+	 "i"		: 55
+	,"ids"		: "Idstring(@ID7a3e61081f482385@)"
+	,"StringID"	: "debug_interact_equipment_gold"
+	,"orig_text": "You need Gold!"
+},{
+	 "i"		: 56
+	,"ids"		: "Idstring(@ID18d100cb774a3a3f@)"
+	,"StringID"	: "debug_interact_free_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Rescue your Teammate"
+},{
+	 "i"		: 57
+	,"ids"		: "Idstring(@ID572b312aef565f47@)"
+	,"StringID"	: "debug_interact_apartment_helicopter"
+	,"orig_text": "Hold $BTN_INTERACT; to Attach the Magnet"
+},{
+	 "i"		: 58
+	,"ids"		: "Idstring(@ID30369354172d225c@)"
+	,"StringID"	: "debug_give_alot_of_lootdrops"
+	,"orig_text": "Give alot of lootdrops (1000 of each payclass)"
+},{
+	 "i"		: 59
+	,"ids"		: "Idstring(@IDf64b560ab6d1e0da@)"
+	,"StringID"	: "debug_give_alot_of_money"
+	,"orig_text": "Give money (10 completed jobs of each star)"
+},{
+	 "i"		: 60
+	,"ids"		: "Idstring(@ID5949aaac6d8b1eb2@)"
+	,"StringID"	: "debug_instruct_finish_arrest"
+	,"orig_text": "Press $BTN_INTERACT; to get up"
+},{
+	 "i"		: 61
+	,"ids"		: "Idstring(@IDb47916c1333809f8@)"
+	,"StringID"	: "debug_interact_cutter_jammed_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Restart the Cutter"
+},{
+	 "i"		: 62
+	,"ids"		: "Idstring(@IDd139e6680bc35437@)"
+	,"StringID"	: "debug_suburbia"
+	,"orig_text": "Counterfeit"
+},{
+	 "i"		: 63
+	,"ids"		: "Idstring(@ID9c9af8400ffeccfc@)"
+	,"StringID"	: "debug_upgrade_new_equipment"
+	,"orig_text": "NEW EQUIPMENT"
+},{
+	 "i"		: 64
+	,"ids"		: "Idstring(@ID5cc8dd11e45a6e53@)"
+	,"StringID"	: "debug_interact_laptop_objective_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Erase security footage"
+},{
+	 "i"		: 65
+	,"ids"		: "Idstring(@ID9d2bb5e08cc1ad98@)"
+	,"StringID"	: "debug_wskn_submit_no_screenshot"
+	,"orig_text": "No screenshot selected"
+},{
+	 "i"		: 66
+	,"ids"		: "Idstring(@ID5b8437a398414940@)"
+	,"StringID"	: "debug_interact_equipment_requires_cable_ties"
+	,"orig_text": "You need cable ties"
+},{
+	 "i"		: 67
+	,"ids"		: "Idstring(@IDfdfc18780da74784@)"
+	,"StringID"	: "debug_modify_active_challenges"
+	,"orig_text": "Modify active challenges"
+},{
+	 "i"		: 68
+	,"ids"		: "Idstring(@ID33ebbf9cc77532f8@)"
+	,"StringID"	: "debug_interact_trip_mine_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to Turn Trip Mine On or Off"
+},{
+	 "i"		: 69
+	,"ids"		: "Idstring(@IDf2edc579adc20c4f@)"
+	,"StringID"	: "debug_wskn_sure_to_delete"
+	,"orig_text": "Are you sure you want to delete this skin?"
+},{
+	 "i"		: 70
+	,"ids"		: "Idstring(@ID84ac322434e2df80@)"
+	,"StringID"	: "debug_interact_equipment_gas"
+	,"orig_text": "You need Gasoline"
+},{
+	 "i"		: 71
+	,"ids"		: "Idstring(@ID135359848f6b537f@)"
+	,"StringID"	: "debug_interact_c4_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Place the Explosives"
+},{
+	 "i"		: 72
+	,"ids"		: "Idstring(@ID6b33cd28e159a681@)"
+	,"StringID"	: "debug_wskn_cubemap_pattern_control_x"
+	,"orig_text": "Pattern Cubemap Intensity"
+},{
+	 "i"		: 73
+	,"ids"		: "Idstring(@ID721d74ffc396959a@)"
+	,"StringID"	: "debug_interact_copy_machine"
+	,"orig_text": "Press $BTN_INTERACT; to open the Copy Machine"
+},{
+	 "i"		: 74
+	,"ids"		: "Idstring(@ID606691b55b400256@)"
+	,"StringID"	: "debug_wskn_save_leg_kit"
+	,"orig_text": "Copy Special Kit to Clipboard"
+},{
+	 "i"		: 75
+	,"ids"		: "Idstring(@ID9b49ee03555a3195@)"
+	,"StringID"	: "debug_interact_hack_ipad"
+	,"orig_text": "Hold $BTN_INTERACT; to set up Device"
+},{
+	 "i"		: 76
+	,"ids"		: "Idstring(@ID19341ae546990e79@)"
+	,"StringID"	: "debug_show_marketplace_ui"
+	,"orig_text": "MARKETPLACE"
+},{
+	 "i"		: 77
+	,"ids"		: "Idstring(@ID7ee6a6061929c6cc@)"
+	,"StringID"	: "debug_interact_gas_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to pour Gasoline"
+},{
+	 "i"		: 78
+	,"ids"		: "Idstring(@ID372853ee8aff8f97@)"
+	,"StringID"	: "debug_ak47_short"
+	,"orig_text": "AK"
+},{
+	 "i"		: 79
+	,"ids"		: "Idstring(@ID7358eb6263eee638@)"
+	,"StringID"	: "debug_button_x"
+	,"orig_text": "$BTN_X;"
+},{
+	 "i"		: 80
+	,"ids"		: "Idstring(@IDfdf4eaae8f878d64@)"
+	,"StringID"	: "debug_interact_computer_test_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to Copy the files"
+},{
+	 "i"		: 81
+	,"ids"		: "Idstring(@ID7e941facc8b8fb4a@)"
+	,"StringID"	: "debug_interact_saw"
+	,"orig_text": "Hold $BTN_INTERACT; to Place the Saw"
+},{
+	 "i"		: 82
+	,"ids"		: "Idstring(@ID12b84e80539c404b@)"
+	,"StringID"	: "debug_interact_gold_pile_take_money"
+	,"orig_text": "Hold $BTN_INTERACT; to Take the Gold"
+},{
+	 "i"		: 83
+	,"ids"		: "Idstring(@IDbc148685456b02f5@)"
+	,"StringID"	: "debug_silent_sentry_gun"
+	,"orig_text": "Suppressed Sentry Gun"
+},{
+	 "i"		: 84
+	,"ids"		: "Idstring(@ID67f241e9c1b6e208@)"
+	,"StringID"	: "debug_wskn_pattern"
+	,"orig_text": "Pattern"
+},{
+	 "i"		: 85
+	,"ids"		: "Idstring(@ID6a466e37a0cf72cc@)"
+	,"StringID"	: "debug_copy_weapon_customize"
+	,"orig_text": "Copy to Clipboard"
+},{
+	 "i"		: 86
+	,"ids"		: "Idstring(@IDa27e993043b8516a@)"
+	,"StringID"	: "debug_interact_requires_gold_bag"
+	,"orig_text": "Hold $BTN_INTERACT; to Drop the Bag"
+},{
+	 "i"		: 87
+	,"ids"		: "Idstring(@IDe18063adb519b695@)"
+	,"StringID"	: "debug_equipment_blood_sample_valid"
+	,"orig_text": "VALID BLOOD SAMPLE"
+},{
+	 "i"		: 88
+	,"ids"		: "Idstring(@ID8f15a6b44d881016@)"
+	,"StringID"	: "debug_interact_being_revived"
+	,"orig_text": "You are Being Helped Up"
+},{
+	 "i"		: 89
+	,"ids"		: "Idstring(@IDf50ba349643849f2@)"
+	,"StringID"	: "debug_interact_elevator_door_roof"
+	,"orig_text": "Press $BTN_INTERACT; to START the Elevator"
+},{
+	 "i"		: 90
+	,"ids"		: "Idstring(@IDf32dae68c709643a@)"
+	,"StringID"	: "debug_interact_equipment_stash_server"
+	,"orig_text": "You Need the Server"
+},{
+	 "i"		: 91
+	,"ids"		: "Idstring(@ID292a725bcb41e587@)"
+	,"StringID"	: "debug_interact_crowbar2"
+	,"orig_text": "Hold $BTN_INTERACT; to Breach the Trunk"
+},{
+	 "i"		: 92
+	,"ids"		: "Idstring(@IDd5aea9a743fcc757@)"
+	,"StringID"	: "debug_mugshot_in_custody"
+	,"orig_text": "In custody."
+},{
+	 "i"		: 93
+	,"ids"		: "Idstring(@IDa07adefe0883196f@)"
+	,"StringID"	: "debug_equipment_stash_planks"
+	,"orig_text": "PLANKS"
+},{
+	 "i"		: 94
+	,"ids"		: "Idstring(@ID98ee485cadf5f87e@)"
+	,"StringID"	: "debug_interact_stash_server_cord"
+	,"orig_text": "Press $BTN_INTERACT; to Connect the Power Cord"
+},{
+	 "i"		: 95
+	,"ids"		: "Idstring(@ID60954c10522bfbe1@)"
+	,"StringID"	: "debug_interact_elevator_door"
+	,"orig_text": "Press $BTN_INTERACT; to Call the Elevator"
+},{
+	 "i"		: 96
+	,"ids"		: "Idstring(@IDff5b645272b8eb6b@)"
+	,"StringID"	: "debug_button_b"
+	,"orig_text": "$BTN_B;"
+},{
+	 "i"		: 97
+	,"ids"		: "Idstring(@ID7bda6e0381e3fa5e@)"
+	,"StringID"	: "debug_interact_diamond"
+	,"orig_text": "press $BTN_INTERACT; to take the diamond"
+},{
+	 "i"		: 98
+	,"ids"		: "Idstring(@ID1d52c22009876445@)"
+	,"StringID"	: "debug_button_y"
+	,"orig_text": "[G]"
+},{
+	 "i"		: 99
+	,"ids"		: "Idstring(@IDc82fd95fc12486d5@)"
+	,"StringID"	: "debug_wskn_uv_scale_lock"
+	,"orig_text": "Lock Scale"
+},{
+	 "i"		: 100
+	,"ids"		: "Idstring(@IDeb6fa2eb9390304c@)"
+	,"StringID"	: "debug_interact_hack_ipad_jammed_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to reboot"
+},{
+	 "i"		: 101
+	,"ids"		: "Idstring(@ID4dc221c264565b87@)"
+	,"StringID"	: "debug_interact_gas"
+	,"orig_text": "Press $BTN_INTERACT; to pour Gasoline"
+},{
+	 "i"		: 102
+	,"ids"		: "Idstring(@IDdad8437a01ccaed2@)"
+	,"StringID"	: "debug_wskn_no_skin"
+	,"orig_text": "No skin"
+},{
+	 "i"		: 103
+	,"ids"		: "Idstring(@ID2e33aaf65d11ce25@)"
+	,"StringID"	: "debug_wskn_color"
+	,"orig_text": "Color"
+},{
+	 "i"		: 104
+	,"ids"		: "Idstring(@IDc69a36fd04854d56@)"
+	,"StringID"	: "debug_interact_diamond_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to take the diamond"
+},{
+	 "i"		: 105
+	,"ids"		: "Idstring(@ID1bb9504c7abb3c8e@)"
+	,"StringID"	: "debug_wskn_parts"
+	,"orig_text": "By Part"
+},{
+	 "i"		: 106
+	,"ids"		: "Idstring(@ID4c8dde17cf608ab6@)"
+	,"StringID"	: "debug_sandbox_description"
+	,"orig_text": "Playground for the developers."
+},{
+	 "i"		: 107
+	,"ids"		: "Idstring(@IDc9e954984251b2c9@)"
+	,"StringID"	: "debug_interact_search_key"
+	,"orig_text": "Hold $BTN_INTERACT; to Search for Key"
+},{
+	 "i"		: 108
+	,"ids"		: "Idstring(@IDc8696407968a6d5d@)"
+	,"StringID"	: "debug_doctor_bag"
+	,"orig_text": "Doctor Bag"
+},{
+	 "i"		: 109
+	,"ids"		: "Idstring(@ID5b1b8183346e676e@)"
+	,"StringID"	: "debug_upgrade_crewbonus"
+	,"orig_text": "CREW BONUS"
+},{
+	 "i"		: 110
+	,"ids"		: "Idstring(@ID1fbd875fa058f146@)"
+	,"StringID"	: "debug_instruct_mask_on_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to Start the Heist"
+},{
+	 "i"		: 111
+	,"ids"		: "Idstring(@ID3e1fcb4b553f45d5@)"
+	,"StringID"	: "debug_wskn_cyan"
+	,"orig_text": "Cyan"
+},{
+	 "i"		: 112
+	,"ids"		: "Idstring(@ID91af5eb00767d83c@)"
+	,"StringID"	: "debug_wskn_pattern_tweak_z"
+	,"orig_text": "Pattern Spec Opacity"
+},{
+	 "i"		: 113
+	,"ids"		: "Idstring(@ID6a3ecc47ea80bfad@)"
+	,"StringID"	: "debug_interact_equipment_blood_sample_verified"
+	,"orig_text": "you need a valid blood sample"
+},{
+	 "i"		: 114
+	,"ids"		: "Idstring(@ID3c8274f125982bbf@)"
+	,"StringID"	: "debug_interact_equipment_cable_tie"
+	,"orig_text": "You need cable ties"
+},{
+	 "i"		: 115
+	,"ids"		: "Idstring(@ID3d79738a1934650c@)"
+	,"StringID"	: "debug_mission_end_debug_continue_PS3"
+	,"orig_text": "$BTN_Y; Debug continue"
+},{
+	 "i"		: 116
+	,"ids"		: "Idstring(@IDfdb92c50895c8840@)"
+	,"StringID"	: "debug_wskn_base_skin"
+	,"orig_text": "Base Skin"
+},{
+	 "i"		: 117
+	,"ids"		: "Idstring(@ID9bdb5a7736697e02@)"
+	,"StringID"	: "debug_interact_requires_gold_bag_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Drop the Bag"
+},{
+	 "i"		: 118
+	,"ids"		: "Idstring(@ID4fe62ed47f615e7b@)"
+	,"StringID"	: "debug_wskn_browse_skin"
+	,"orig_text": "Browse to skin folder"
+},{
+	 "i"		: 119
+	,"ids"		: "Idstring(@IDdaa8ff3e8cda21ac@)"
+	,"StringID"	: "debug_interact_saw_jammed_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Restart the Saw"
+},{
+	 "i"		: 120
+	,"ids"		: "Idstring(@IDe81afc917f9e5900@)"
+	,"StringID"	: "debug_interact_copy_machine_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to open the Copy Machine"
+},{
+	 "i"		: 121
+	,"ids"		: "Idstring(@IDd02d661bb0050e94@)"
+	,"StringID"	: "debug_interact_drill_jammed"
+	,"orig_text": "Hold $BTN_INTERACT; to Restart the Drill"
+},{
+	 "i"		: 122
+	,"ids"		: "Idstring(@ID3a142cff84f3df53@)"
+	,"StringID"	: "debug_start_the_game"
+	,"orig_text": "Debug Start"
+},{
+	 "i"		: 123
+	,"ids"		: "Idstring(@ID9171285c54d0c589@)"
+	,"StringID"	: "debug_interact_security_station_jammed"
+	,"orig_text": "Hold $BTN_INTERACT; to Continue"
+},{
+	 "i"		: 124
+	,"ids"		: "Idstring(@ID67535bbfad91bbf5@)"
+	,"StringID"	: "debug_wskn_pattern_tweak_y"
+	,"orig_text": "Pattern Rotation"
+},{
+	 "i"		: 125
+	,"ids"		: "Idstring(@ID5ebaaf227a891090@)"
+	,"StringID"	: "debug_interact_drill"
+	,"orig_text": "Hold $BTN_INTERACT; to Place the Drill"
+},{
+	 "i"		: 126
+	,"ids"		: "Idstring(@IDc222069d44f0170e@)"
+	,"StringID"	: "debug_heist_failed"
+	,"orig_text": "HEIST FAILED!"
+},{
+	 "i"		: 127
+	,"ids"		: "Idstring(@ID2b0eb6167bb210cf@)"
+	,"StringID"	: "debug_c4_diffusible"
+	,"orig_text": "Hold $BTN_INTERACT; to Defuse the C4"
+},{
+	 "i"		: 128
+	,"ids"		: "Idstring(@IDe68c25df965d2491@)"
+	,"StringID"	: "debug_exp_exp_suffix"
+	,"orig_text": "K"
+},{
+	 "i"		: 129
+	,"ids"		: "Idstring(@ID6c2a1ceaeae3ace3@)"
+	,"StringID"	: "debug_interact_revive"
+	,"orig_text": "Hold $BTN_INTERACT; to Help your Teammate Up"
+},{
+	 "i"		: 130
+	,"ids"		: "Idstring(@ID9fd629063014b08e@)"
+	,"StringID"	: "debug_interact_search_key_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Search for Key"
+},{
+	 "i"		: 131
+	,"ids"		: "Idstring(@ID120ed05d1bedd5a5@)"
+	,"StringID"	: "debug_interact_equipment_stash_planks"
+	,"orig_text": "You need some Planks"
+},{
+	 "i"		: 132
+	,"ids"		: "Idstring(@IDb0cbd6391c931afe@)"
+	,"StringID"	: "debug_interact_intimidate_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Tie Hands"
+},{
+	 "i"		: 133
+	,"ids"		: "Idstring(@ID94f488cb0a0959b2@)"
+	,"StringID"	: "debug_wskn_changelog_input"
+	,"orig_text": "Changelog"
+},{
+	 "i"		: 134
+	,"ids"		: "Idstring(@IDb2859e43d6e28fbd@)"
+	,"StringID"	: "debug_wskn_pattern_tweak_x"
+	,"orig_text": "Pattern Scale"
+},{
+	 "i"		: 135
+	,"ids"		: "Idstring(@IDf125f7b00af82fc3@)"
+	,"StringID"	: "debug_toolset"
+	,"orig_text": "Toolkit"
+},{
+	 "i"		: 136
+	,"ids"		: "Idstring(@ID239d33e15be9a108@)"
+	,"StringID"	: "debug_equipment_stash_server"
+	,"orig_text": "SERVER"
+},{
+	 "i"		: 137
+	,"ids"		: "Idstring(@IDc5851accec5c6517@)"
+	,"StringID"	: "debug_interact_being_freed"
+	,"orig_text": "You are Being Rescued"
+},{
+	 "i"		: 138
+	,"ids"		: "Idstring(@IDf0607fc1704a8151@)"
+	,"StringID"	: "debug_wskn_save_skin_local"
+	,"orig_text": "Save skin"
+},{
+	 "i"		: 139
+	,"ids"		: "Idstring(@IDe2d93dbab778114a@)"
+	,"StringID"	: "debug_instruct_mask_on"
+	,"orig_text": "Press $BTN_INTERACT; to start the Heist"
+},{
+	 "i"		: 140
+	,"ids"		: "Idstring(@ID9258e04b05e55606@)"
+	,"StringID"	: "debug_upgrade_tree_technician"
+	,"orig_text": "TECHNICIAN"
+},{
+	 "i"		: 141
+	,"ids"		: "Idstring(@ID71a2c6ca5cc78381@)"
+	,"StringID"	: "debug_interact_drill_jammed_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Restart the Drill"
+},{
+	 "i"		: 142
+	,"ids"		: "Idstring(@IDbc2681434d24e05c@)"
+	,"StringID"	: "debug_interact_hospital_security_cable"
+	,"orig_text": "hold $BTN_INTERACT; to cut the cable"
+},{
+	 "i"		: 143
+	,"ids"		: "Idstring(@ID9ba26146bea07055@)"
+	,"StringID"	: "debug_interact_hostage_stay"
+	,"orig_text": "Hold $BTN_INTERACT; to sit the hostage down"
+},{
+	 "i"		: 144
+	,"ids"		: "Idstring(@ID0919064f2361b314@)"
+	,"StringID"	: "debug_wskn_new_skin"
+	,"orig_text": "New skin"
+},{
+	 "i"		: 145
+	,"ids"		: "Idstring(@IDa3b5fdba5a6e8e07@)"
+	,"StringID"	: "debug_interact_hospital_veil_container"
+	,"orig_text": "hold $BTN_INTERACT; to stash the Vial"
+},{
+	 "i"		: 146
+	,"ids"		: "Idstring(@IDedb0fe11f0418369@)"
+	,"StringID"	: "debug_wskn_bonus"
+	,"orig_text": "Bonus"
+},{
+	 "i"		: 147
+	,"ids"		: "Idstring(@ID50a55fb2adbbacd6@)"
+	,"StringID"	: "debug_interact_money_wrap_take_money"
+	,"orig_text": "Hold $BTN_INTERACT; to Fill the Money bag"
+},{
+	 "i"		: 148
+	,"ids"		: "Idstring(@ID781f2406542ff46d@)"
+	,"StringID"	: "debug_interact_apartment_helicopter_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Attach the Magnet"
+},{
+	 "i"		: 149
+	,"ids"		: "Idstring(@ID0649a5416e39a8f3@)"
+	,"StringID"	: "debug_wskn_title_input"
+	,"orig_text": "Title"
+},{
+	 "i"		: 150
+	,"ids"		: "Idstring(@ID6266012ccbdb4605@)"
+	,"StringID"	: "debug_wskn_pink"
+	,"orig_text": "Pink"
+},{
+	 "i"		: 151
+	,"ids"		: "Idstring(@ID639047d9dc340d4e@)"
+	,"StringID"	: "debug_button_upgrade_alt4"
+	,"orig_text": "[4]"
+},{
+	 "i"		: 152
+	,"ids"		: "Idstring(@ID5cbf962d9d7da38f@)"
+	,"StringID"	: "debug_interact_printing_plates"
+	,"orig_text": "Hold $BTN_INTERACT; to Take the Printing Plate"
+},{
+	 "i"		: 153
+	,"ids"		: "Idstring(@ID001f8422daf1370b@)"
+	,"StringID"	: "debug_equipment_first_aid_kit"
+	,"orig_text": "First Aid Kit"
+},{
+	 "i"		: 154
+	,"ids"		: "Idstring(@IDd1e0be09a7ad2236@)"
+	,"StringID"	: "debug_interact_gold_pile_take_money_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Take the Gold"
+},{
+	 "i"		: 155
+	,"ids"		: "Idstring(@ID5cb5d4e3cc308f5f@)"
+	,"StringID"	: "debug_sandbox"
+	,"orig_text": "Sandbox"
+},{
+	 "i"		: 156
+	,"ids"		: "Idstring(@IDc00a01fb7b3107a0@)"
+	,"StringID"	: "debug_interact_sewer_manhole"
+	,"orig_text": "Hold $BTN_INTERACT; to Open the Manhole"
+},{
+	 "i"		: 157
+	,"ids"		: "Idstring(@ID6895bd77580ab6e4@)"
+	,"StringID"	: "debug_interact_tear_painting"
+	,"orig_text": "Press $BTN_INTERACT; to Tear the Painting"
+},{
+	 "i"		: 158
+	,"ids"		: "Idstring(@ID7a9196143edc0c8d@)"
+	,"StringID"	: "debug_interact_diamond_case"
+	,"orig_text": "press $BTN_INTERACT; to open"
+},{
+	 "i"		: 159
+	,"ids"		: "Idstring(@IDff21f7b42b67c212@)"
+	,"StringID"	: "debug_freeflight"
+	,"orig_text": "Freeflight"
+},{
+	 "i"		: 160
+	,"ids"		: "Idstring(@ID3cf2338b4cfeea5a@)"
+	,"StringID"	: "debug_interact_laptop_objective"
+	,"orig_text": "Hold $BTN_INTERACT; to Erase security footage"
+},{
+	 "i"		: 161
+	,"ids"		: "Idstring(@ID65f5808214a42137@)"
+	,"StringID"	: "debug_interact_interaction_ball"
+	,"orig_text": "Hold $BTN_INTERACT; to Pull the Hose"
+},{
+	 "i"		: 162
+	,"ids"		: "Idstring(@IDc03b1b44c8b4c77a@)"
+	,"StringID"	: "debug_mission_gameover_exit_PS3"
+	,"orig_text": "$BTN_A; Exit"
+},{
+	 "i"		: 163
+	,"ids"		: "Idstring(@ID9cf4d7cddf03836f@)"
+	,"StringID"	: "debug_wskn_uv_scale_z"
+	,"orig_text": "Sticker Quality Influence"
+},{
+	 "i"		: 164
+	,"ids"		: "Idstring(@ID79dd7430f1b098ee@)"
+	,"StringID"	: "debug_upgrade_new_weapon"
+	,"orig_text": "NEW WEAPON"
+},{
+	 "i"		: 165
+	,"ids"		: "Idstring(@ID779c6d8f4392010b@)"
+	,"StringID"	: "debug_interact_crowbar_breach"
+	,"orig_text": "Hold $BTN_INTERACT; to Breach"
+},{
+	 "i"		: 166
+	,"ids"		: "Idstring(@ID779b34a5e6c5d518@)"
+	,"StringID"	: "debug_interact_computer_test"
+	,"orig_text": "Press $BTN_INTERACT; to copy the files"
+},{
+	 "i"		: 167
+	,"ids"		: "Idstring(@IDfdc96b4fb60bf6a6@)"
+	,"StringID"	: "debug_interact_stash_planks"
+	,"orig_text": "Hold $BTN_INTERACT; to Barricade"
+},{
+	 "i"		: 168
+	,"ids"		: "Idstring(@ID2e5e47712fc00359@)"
+	,"StringID"	: "debug_interact_revive_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Help your Teammate Up"
+},{
+	 "i"		: 169
+	,"ids"		: "Idstring(@ID1b109425805eafdb@)"
+	,"StringID"	: "debug_wskn_pattern_gradient"
+	,"orig_text": "Pattern Gradient"
+},{
+	 "i"		: 170
+	,"ids"		: "Idstring(@ID38516e4c4ce7b6ee@)"
+	,"StringID"	: "debug_interact_free"
+	,"orig_text": "Hold $BTN_INTERACT; to Rescue your Teammate"
+},{
+	 "i"		: 171
+	,"ids"		: "Idstring(@ID0b52166fa81fc5fc@)"
+	,"StringID"	: "debug_interact_embassy_door_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Open The Door"
+},{
+	 "i"		: 172
+	,"ids"		: "Idstring(@ID5cafeafb06a11838@)"
+	,"StringID"	: "debug_interact_temp_interact_box_press"
+	,"orig_text": "Press $BTN_INTERACT; to interact"
+},{
+	 "i"		: 173
+	,"ids"		: "Idstring(@IDaa6cce9b8fc21e06@)"
+	,"StringID"	: "debug_exp_level_progression"
+	,"orig_text": "REPUTATION PROGRESSION:"
+},{
+	 "i"		: 174
+	,"ids"		: "Idstring(@IDebdc7d7bf57127f3@)"
+	,"StringID"	: "debug_lu_menu_help"
+	,"orig_text": "HOLD [TAB] TO CHANGE SPECIALTY"
+},{
+	 "i"		: 175
+	,"ids"		: "Idstring(@ID7c497fc53935e5be@)"
+	,"StringID"	: "debug_interact_money_printed_take_money"
+	,"orig_text": "Hold $BTN_INTERACT; to take the Money"
+},{
+	 "i"		: 176
+	,"ids"		: "Idstring(@ID881ce13390fb5abd@)"
+	,"StringID"	: "debug_post_effects"
+	,"orig_text": "Post Effects"
+},{
+	 "i"		: 177
+	,"ids"		: "Idstring(@IDc5de5e340f987f24@)"
+	,"StringID"	: "debug_interact_equipment_key"
+	,"orig_text": "Take the Bank Manager Key to get to the Drill"
+},{
+	 "i"		: 178
+	,"ids"		: "Idstring(@ID55bcb48da3821a2f@)"
+	,"StringID"	: "debug_interact_numpad"
+	,"orig_text": "Press $BTN_INTERACT; to enter the code"
+},{
+	 "i"		: 179
+	,"ids"		: "Idstring(@ID607a4945ca11821d@)"
+	,"StringID"	: "debug_equipment_ecm_jammer"
+	,"orig_text": "ECM jammer"
+},{
+	 "i"		: 180
+	,"ids"		: "Idstring(@IDd725d9d77ff283ba@)"
+	,"StringID"	: "debug_interact_apartment_key"
+	,"orig_text": "Press $BTN_INTERACT; to use the Key"
+},{
+	 "i"		: 181
+	,"ids"		: "Idstring(@IDee45f94c857e06f9@)"
+	,"StringID"	: "debug_interact_hospital_saw_teddy"
+	,"orig_text": "Hold $BTN_INTERACT; to Pick up the saw"
+},{
+	 "i"		: 182
+	,"ids"		: "Idstring(@IDf2af7f96938da0d5@)"
+	,"StringID"	: "debug_interact_circuit_breaker"
+	,"orig_text": "Press $BTN_INTERACT; to Turn on the Power"
+},{
+	 "i"		: 183
+	,"ids"		: "Idstring(@ID2ebb8ad154be7b3f@)"
+	,"StringID"	: "debug_interact_take_christmas_present"
+	,"orig_text": "Press $BTN_INTERACT; to Take the Xmas Present"
+},{
+	 "i"		: 184
+	,"ids"		: "Idstring(@IDf7b98120ae0523ea@)"
+	,"StringID"	: "debug_upgrade_tree_sharpshooter"
+	,"orig_text": "SHARPSHOOTER"
+},{
+	 "i"		: 185
+	,"ids"		: "Idstring(@ID067f9cf84f2900ff@)"
+	,"StringID"	: "debug_lu_next_level"
+	,"orig_text": "NEXT UPGRADE"
+},{
+	 "i"		: 186
+	,"ids"		: "Idstring(@ID637af6192a7032d4@)"
+	,"StringID"	: "debug_mission_end_continue"
+	,"orig_text": "$CONTINUE; Continue to lobby"
+},{
+	 "i"		: 187
+	,"ids"		: "Idstring(@ID0fc7ef5fea4687dc@)"
+	,"StringID"	: "debug_ak47"
+	,"orig_text": "AK rifle"
+},{
+	 "i"		: 188
+	,"ids"		: "Idstring(@IDce783b80ed73e090@)"
+	,"StringID"	: "debug_interact_open_trunk"
+	,"orig_text": "Hold $BTN_INTERACT; to Open Trunk"
+},{
+	 "i"		: 189
+	,"ids"		: "Idstring(@ID92b938f7bc838178@)"
+	,"StringID"	: "debug_exp_exp"
+	,"orig_text": "CASH:"
+},{
+	 "i"		: 190
+	,"ids"		: "Idstring(@ID113c6124cf09b980@)"
+	,"orig_text": "Damage Multiplier"
+},{
+	 "i"		: 191
+	,"ids"		: "Idstring(@ID49bc99c8f93daaa8@)"
+	,"StringID"	: "debug_interact_c4"
+	,"orig_text": "Hold $BTN_INTERACT; to Place the Explosives"
+},{
+	 "i"		: 192
+	,"ids"		: "Idstring(@IDb13b40c0ddb8025c@)"
+	,"StringID"	: "debug_interact_money_wrap_single_bundle_take_money_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to Take the Money"
+},{
+	 "i"		: 193
+	,"ids"		: "Idstring(@ID2130185571e72945@)"
+	,"StringID"	: "debug_equipment_gas"
+	,"orig_text": "Gasoline"
+},{
+	 "i"		: 194
+	,"ids"		: "Idstring(@IDf18dbc2f03015c75@)"
+	,"StringID"	: "debug_corrupt_save"
+	,"orig_text": "[Corrupt Save File]"
+},{
+	 "i"		: 195
+	,"ids"		: "Idstring(@ID069935ef398b4ad0@)"
+	,"StringID"	: "debug_button_y_PS3"
+	,"orig_text": "$BTN_USE_ITEM;"
+},{
+	 "i"		: 196
+	,"ids"		: "Idstring(@IDdf7aed67f12077be@)"
+	,"StringID"	: "debug_interact_crowbar"
+	,"orig_text": "Hold $BTN_INTERACT; to Breach the Door"
+},{
+	 "i"		: 197
+	,"ids"		: "Idstring(@IDe3eac023949bebd0@)"
+	,"StringID"	: "debug_interact_c4_bag"
+	,"orig_text": "Hold $BTN_INTERACT; to Pick up Explosives"
+},{
+	 "i"		: 198
+	,"ids"		: "Idstring(@IDab0e079204bae2bb@)"
+	,"StringID"	: "debug_interact_equipment_thermite"
+	,"orig_text": "You need Thermite!"
+},{
+	 "i"		: 199
+	,"ids"		: "Idstring(@IDf007902204380cb5@)"
+	,"StringID"	: "debug_exp_level"
+	,"orig_text": "REPUTATION"
+},{
+	 "i"		: 200
+	,"ids"		: "Idstring(@IDaa4ec802b2cfd0bb@)"
+	,"StringID"	: "debug_button_upgrade_alt4_PS3"
+	,"orig_text": "$BTN_X;"
+},{
+	 "i"		: 201
+	,"ids"		: "Idstring(@ID10a5f3c6758c8a8b@)"
+	,"StringID"	: "debug_glock_short"
+	,"orig_text": "STRYK"
+},{
+	 "i"		: 202
+	,"ids"		: "Idstring(@ID5100a7c4b97b115b@)"
+	,"StringID"	: "debug_interact_open_door"
+	,"orig_text": "Hold $BTN_INTERACT; to Open The Door"
+},{
+	 "i"		: 203
+	,"ids"		: "Idstring(@ID6a99f93389f7d830@)"
+	,"StringID"	: "debug_chat_say"
+	,"orig_text": "Chat:"
+},{
+	 "i"		: 204
+	,"ids"		: "Idstring(@ID2ad7719270537f40@)"
+	,"StringID"	: "debug_equipment_blood_sample"
+	,"orig_text": "BLOOD SAMPLE"
+},{
+	 "i"		: 205
+	,"ids"		: "Idstring(@IDc2bb17fa7598dbb8@)"
+	,"StringID"	: "debug_interact_equipment_money_bag"
+	,"orig_text": "Someone else needs to take this Money"
+},{
+	 "i"		: 206
+	,"ids"		: "Idstring(@ID704018c7d2d28976@)"
+	,"StringID"	: "debug_interact_cutter_jammed"
+	,"orig_text": "Hold $BTN_INTERACT; to Restart the Cutter"
+},{
+	 "i"		: 207
+	,"ids"		: "Idstring(@ID344f53ef23c68a70@)"
+	,"StringID"	: "debug_interact_money_wrap_take_money_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Fill the Money bag"
+},{
+	 "i"		: 208
+	,"ids"		: "Idstring(@ID6b73b9294c07b39e@)"
+	,"StringID"	: "debug_ammo_bag"
+	,"orig_text": "Ammo Bag"
+},{
+	 "i"		: 209
+	,"ids"		: "Idstring(@IDf35a1d9d859a8649@)"
+	,"StringID"	: "debug_buttons"
+	,"orig_text": "Buttons: $BTN_A; $BTN_B; $BTN_X; $BTN_Y; $BTN_STICK_R;"
+},{
+	 "i"		: 210
+	,"ids"		: "Idstring(@ID534f48a0d5528d76@)"
+	,"StringID"	: "debug_interact_ammo_bag_take_ammo_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Take Ammo"
+},{
+	 "i"		: 211
+	,"ids"		: "Idstring(@ID6c9a635e7506c7db@)"
+	,"StringID"	: "debug_interact_embassy_door"
+	,"orig_text": "Hold $BTN_INTERACT; to Open The Door"
+},{
+	 "i"		: 212
+	,"ids"		: "Idstring(@IDf2d50f477835d786@)"
+	,"StringID"	: "debug_interact_equipment_c4"
+	,"orig_text": "Requires C4"
+},{
+	 "i"		: 213
+	,"ids"		: "Idstring(@ID050854003b0e8542@)"
+	,"StringID"	: "debug_interact_equipment_crowbar"
+	,"orig_text": "You Need a Crowbar"
+},{
+	 "i"		: 214
+	,"ids"		: "Idstring(@IDcd108bad0a8e5283@)"
+	,"StringID"	: "debug_interact_equipment_requires_gold_bag"
+	,"orig_text": "You need gold"
+},{
+	 "i"		: 215
+	,"ids"		: "Idstring(@ID3e421336906c2d42@)"
+	,"StringID"	: "debug_interact_equipment_saw"
+	,"orig_text": "Get the Saw"
+},{
+	 "i"		: 216
+	,"ids"		: "Idstring(@IDaef659c81e0952f1@)"
+	,"StringID"	: "debug_interact_equiptment_apartment_key"
+	,"orig_text": "Take the key from Chavez"
+},{
+	 "i"		: 217
+	,"ids"		: "Idstring(@IDc07f435e3f226c4a@)"
+	,"StringID"	: "debug_interact_equiptment_sample_validation"
+	,"orig_text": "Requires a Blood Sample"
+},{
+	 "i"		: 218
+	,"ids"		: "Idstring(@ID7b951d6d705eed60@)"
+	,"StringID"	: "debug_interact_gage_assignment_take"
+	,"orig_text": "Hold $BTN_INTERACT; to pick up the package"
+},{
+	 "i"		: 219
+	,"ids"		: "Idstring(@ID58ba3abfb48f2d26@)"
+	,"StringID"	: "debug_interact_gen_pku_loot_take"
+	,"orig_text": "Press $BTN_INTERACT; to Take the loot"
+},{
+	 "i"		: 220
+	,"ids"		: "Idstring(@IDf5816e4213ef1cf7@)"
+	,"StringID"	: "debug_interact_intimidate"
+	,"orig_text": "Hold $BTN_INTERACT; to Tie Hands"
+},{
+	 "i"		: 221
+	,"ids"		: "Idstring(@IDb6d2e6f7a9e15b24@)"
+	,"StringID"	: "debug_interact_key"
+	,"orig_text": "Press $BTN_INTERACT; to use the Keycard"
+},{
+	 "i"		: 222
+	,"ids"		: "Idstring(@ID60d3e0e8403c4dd1@)"
+	,"StringID"	: "debug_interact_key_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to use the Keycard"
+},{
+	 "i"		: 223
+	,"ids"		: "Idstring(@IDc815aa5ea74f4a02@)"
+	,"StringID"	: "debug_interact_money_wrap_single_bundle_take_money"
+	,"orig_text": "Press $BTN_INTERACT; to Take the Money"
+},{
+	 "i"		: 224
+	,"ids"		: "Idstring(@ID5473da1a552469bb@)"
+	,"StringID"	: "debug_interact_move_bookshelf"
+	,"orig_text": "Hold $BTN_INTERACT; to Move the Bookshelf"
+},{
+	 "i"		: 225
+	,"ids"		: "Idstring(@IDd1da251b8ec27502@)"
+	,"StringID"	: "debug_interact_numpad_PS3"
+	,"orig_text": "Press $BTN_INTERACT; to enter the code"
+},{
+	 "i"		: 226
+	,"ids"		: "Idstring(@ID1abf4460603df6f4@)"
+	,"StringID"	: "debug_interact_saw_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Place the Saw"
+},{
+	 "i"		: 227
+	,"ids"		: "Idstring(@ID7748742a6f9baba8@)"
+	,"StringID"	: "debug_interact_stash_planks_pickup"
+	,"orig_text": "Hold $BTN_INTERACT; to Take the Planks"
+},{
+	 "i"		: 228
+	,"ids"		: "Idstring(@IDc07e8395dc0d30a3@)"
+	,"StringID"	: "debug_interact_stash_server"
+	,"orig_text": "Hold $BTN_INTERACT; to Connect the Server"
+},{
+	 "i"		: 229
+	,"ids"		: "Idstring(@IDc7ea658c0afc7865@)"
+	,"StringID"	: "debug_interact_stash_server_pickup"
+	,"orig_text": "Hold $BTN_INTERACT; to Take the Server"
+},{
+	 "i"		: 230
+	,"ids"		: "Idstring(@ID60cf81f21006f57e@)"
+	,"StringID"	: "debug_interact_temp_interact_box"
+	,"orig_text": "Hold $BTN_INTERACT; to interact"
+},{
+	 "i"		: 231
+	,"ids"		: "Idstring(@IDd463f6a2808982b3@)"
+	,"StringID"	: "debug_interact_temp_interact_box_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to interact"
+},{
+	 "i"		: 232
+	,"ids"		: "Idstring(@IDc13bc45dcc076b71@)"
+	,"StringID"	: "debug_interact_thermite_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to place the Thermite"
+},{
+	 "i"		: 233
+	,"ids"		: "Idstring(@IDabbe241519d117a6@)"
+	,"StringID"	: "debug_interact_trade"
+	,"orig_text": "Hold $BTN_INTERACT; to Trade your Teammate"
+},{
+	 "i"		: 234
+	,"ids"		: "Idstring(@ID9b320b6d23f25459@)"
+	,"StringID"	: "debug_interact_trade_PS3"
+	,"orig_text": "Hold $BTN_INTERACT; to Trade your Teammate"
+},{
+	 "i"		: 235
+	,"ids"		: "Idstring(@IDfc50a308fd46c430@)"
+	,"StringID"	: "debug_interact_transformer_box"
+	,"orig_text": "Hold $BTN_INTERACT; to Turn on the Power"
+},{
+	 "i"		: 236
+	,"ids"		: "Idstring(@IDa396d52bfc16e922@)"
+	,"StringID"	: "debug_interact_trip_mine"
+	,"orig_text": "Press $BTN_INTERACT; to Turn Trip Mine On or Off"
+},{
+	 "i"		: 237
+	,"ids"		: "Idstring(@ID7dcf486edaf6386e@)"
+	,"StringID"	: "debug_interact_water_tap"
+	,"orig_text": "Hold $BTN_INTERACT; to Turn on the Water"
+},{
+	 "i"		: 238
+	,"ids"		: "Idstring(@ID77a5232a90804de3@)"
+	,"StringID"	: "debug_loading_level"
+	,"orig_text": "Loading"
+},{
+	 "i"		: 239
+	,"ids"		: "Idstring(@ID73bdc6cf4a8a399c@)"
+	,"StringID"	: "debug_lu_current_spec"
+	,"orig_text": "CURRENT SPEC:"
+},{
+	 "i"		: 240
+	,"ids"		: "Idstring(@ID6e3d5c830480ea20@)"
+	,"StringID"	: "debug_lu_level_locked"
+	,"orig_text": "LOCKED TO REPUTATION"
+},{
+	 "i"		: 241
+	,"ids"		: "Idstring(@ID718b147761bace38@)"
+	,"StringID"	: "debug_lu_menu_help_PS3"
+	,"orig_text": "HOLD $BTN_BACK; TO CHANGE SPECIALTY"
+},{
+	 "i"		: 242
+	,"ids"		: "Idstring(@IDd1c4944a936da26e@)"
+	,"StringID"	: "debug_lu_unlocked"
+	,"orig_text": "UNLOCKED"
+},{
+	 "i"		: 243
+	,"ids"		: "Idstring(@ID3af5b959d61dec22@)"
+	,"StringID"	: "debug_m79_short"
+	,"orig_text": "GL40"
+},{
+	 "i"		: 244
+	,"ids"		: "Idstring(@ID2b6e902d2232380f@)"
+	,"StringID"	: "debug_mission_end_continue_PS3"
+	,"orig_text": "$BTN_A; Continue to lobby"
+},{
+	 "i"		: 245
+	,"ids"		: "Idstring(@ID34bc49a252729a0a@)"
+	,"StringID"	: "debug_mission_end_debug_continue"
+	,"orig_text": "[g] Debug continue"
+},{
+	 "i"		: 246
+	,"ids"		: "Idstring(@ID85e7a093718f2d6c@)"
+	,"StringID"	: "debug_mission_gameover_exit"
+	,"orig_text": "[ENTER] Exit"
+},{
+	 "i"		: 247
+	,"ids"		: "Idstring(@IDe2fa55511f985a6f@)"
+	,"StringID"	: "debug_modify_active_challenges_help"
+	,"orig_text": "List all counter based active challenges. Selecting one will result in that challenges only having one left before completion. Select will also force an update off the menu."
+},{
+	 "i"		: 248
+	,"ids"		: "Idstring(@ID1112fab037e58e50@)"
+	,"StringID"	: "debug_mugshot_cuffed"
+	,"orig_text": "Cuffed"
+},{
+	 "i"		: 249
+	,"ids"		: "Idstring(@ID7907e6f47dfb7dbe@)"
+	,"StringID"	: "debug_mugshot_downed"
+	,"orig_text": "Downed"
+},{
+	 "i"		: 250
+	,"ids"		: "Idstring(@ID7d93d7c6398c72f1@)"
+	,"StringID"	: "debug_mugshot_electrified"
+	,"orig_text": "Electrified"
+},{
+	 "i"		: 251
+	,"ids"		: "Idstring(@IDc388429a7f74c831@)"
+	,"StringID"	: "debug_next_stage"
+	,"orig_text": "Next stage"
+},{
+	 "i"		: 252
+	,"ids"		: "Idstring(@IDe5b744a2e44a20c1@)"
+	,"StringID"	: "debug_next_upgrade"
+	,"orig_text": "NEXT UPGRADE:"
+},{
+	 "i"		: 253
+	,"ids"		: "Idstring(@IDf2c570b4921a5aed@)"
+	,"StringID"	: "debug_qatest"
+	,"orig_text": "QA test in roaming map"
+},{
+	 "i"		: 254
+	,"ids"		: "Idstring(@ID3603bd56a3075ff6@)"
+	,"StringID"	: "debug_secret_stash"
+	,"orig_text": "Undercover"
+},{
+	 "i"		: 255
+	,"ids"		: "Idstring(@IDa0d1193cab350fa2@)"
+	,"StringID"	: "debug_secret_stash_briefing"
+	,"orig_text": "The Taxman thought he was clever making a deal with a big corporation, but the information leaked, and now bigger sharks want in - all in. We have a complete, run-down building to ourselves, overlooking the deal. We've got a set-up installed. Alex will help with the crane. Scare the taxman into his limo, shake him up, and he'll be sure to give us the server and the codes. When it's about $25 million dollars, anything goes."
+},{
+	 "i"		: 256
+	,"ids"		: "Idstring(@ID49e7ab4dee5d5035@)"
+	,"orig_text": "Select Primary Weapon"
+},{
+	 "i"		: 257
+	,"ids"		: "Idstring(@IDeab6db469c63a241@)"
+	,"StringID"	: "debug_sentry_gun"
+	,"orig_text": "Sentry Gun"
+},{
+	 "i"		: 258
+	,"ids"		: "Idstring(@IDc83a6a2a99e69b99@)"
+	,"StringID"	: "debug_server_left"
+	,"orig_text": "HOST LEFT!"
+},{
+	 "i"		: 259
+	,"ids"		: "Idstring(@IDbd37804c82eb83c7@)"
+	,"StringID"	: "debug_team_mate_need_free"
+	,"orig_text": "Teammate is under Arrest!"
+},{
+	 "i"		: 260
+	,"ids"		: "Idstring(@ID0a43cfbb757f9f47@)"
+	,"StringID"	: "debug_toggle_mission_fading_debug_enabled"
+	,"orig_text": "Disable mission debug text"
+},{
+	 "i"		: 261
+	,"ids"		: "Idstring(@ID8c91f3c8d3e8e2f7@)"
+	,"StringID"	: "debug_trip_mine"
+	,"orig_text": "Trip Mine"
+},{
+	 "i"		: 262
+	,"ids"		: "Idstring(@ID4dd4c9e7cfdbbdbd@)"
+	,"StringID"	: "debug_undecided"
+	,"orig_text": "Undecided"
+},{
+	 "i"		: 263
+	,"ids"		: "Idstring(@IDf5f8f7c8ac18ede1@)"
+	,"StringID"	: "debug_upgrade_tree_assault"
+	,"orig_text": "ASSAULT"
+},{
+	 "i"		: 264
+	,"ids"		: "Idstring(@ID976f153e32b794f5@)"
+	,"StringID"	: "debug_wskn_base_gradient"
+	,"orig_text": "Base Gradient"
+},{
+	 "i"		: 265
+	,"ids"		: "Idstring(@ID740473a3cbd7971a@)"
+	,"StringID"	: "debug_wskn_blue"
+	,"orig_text": "Blue"
+},{
+	 "i"		: 266
+	,"ids"		: "Idstring(@ID1a395b7add4e83f1@)"
+	,"StringID"	: "debug_wskn_blueprint"
+	,"orig_text": "Default Blueprint"
+},{
+	 "i"		: 267
+	,"ids"		: "Idstring(@IDce92369baddd56ed@)"
+	,"StringID"	: "debug_wskn_clear_skin"
+	,"orig_text": "Clear Skin"
+},{
+	 "i"		: 268
+	,"ids"		: "Idstring(@IDd770a4eb73d58ab4@)"
+	,"StringID"	: "debug_wskn_cubemap_pattern_control_y"
+	,"orig_text": "Pattern Cubemap Influence"
+},{
+	 "i"		: 269
+	,"ids"		: "Idstring(@IDe80b01230cd20211@)"
+	,"StringID"	: "debug_wskn_delete_skin"
+	,"orig_text": "Delete skin"
+},{
+	 "i"		: 270
+	,"ids"		: "Idstring(@ID0c6582911a45c98f@)"
+	,"StringID"	: "debug_wskn_desc_input"
+	,"orig_text": "Description"
+},{
+	 "i"		: 271
+	,"ids"		: "Idstring(@ID1a14dd9b5abe6bef@)"
+	,"StringID"	: "debug_wskn_edit_skin"
+	,"orig_text": "Edit Skin"
+},{
+	 "i"		: 272
+	,"ids"		: "Idstring(@ID80dfe9899d24a7c2@)"
+	,"StringID"	: "debug_wskn_green"
+	,"orig_text": "Green"
+},{
+	 "i"		: 273
+	,"ids"		: "Idstring(@ID6b48bce3b5f15d15@)"
+	,"StringID"	: "debug_wskn_name_input"
+	,"orig_text": "Enter ID here"
+},{
+	 "i"		: 274
+	,"ids"		: "Idstring(@IDdc9adc9bfbb42d3c@)"
+	,"StringID"	: "debug_wskn_pattern_pos_x"
+	,"orig_text": "Pattern Position X"
+},{
+	 "i"		: 275
+	,"ids"		: "Idstring(@ID6f9af91111674ed9@)"
+	,"StringID"	: "debug_wskn_pattern_pos_y"
+	,"orig_text": "Pattern Position Y"
+},{
+	 "i"		: 276
+	,"ids"		: "Idstring(@ID476ceae441a38746@)"
+	,"StringID"	: "debug_wskn_publish_skin"
+	,"orig_text": "Publish"
+},{
+	 "i"		: 277
+	,"ids"		: "Idstring(@ID5d570daf17c36453@)"
+	,"StringID"	: "debug_wskn_rarity"
+	,"orig_text": "Rarity"
+},{
+	 "i"		: 278
+	,"ids"		: "Idstring(@ID2a26162567e7ac77@)"
+	,"StringID"	: "debug_wskn_red"
+	,"orig_text": "Red"
+},{
+	 "i"		: 279
+	,"ids"		: "Idstring(@IDb96262a0858a03ad@)"
+	,"StringID"	: "debug_wskn_save_kit"
+	,"orig_text": "Copy Kit to Clipboard"
+},{
+	 "i"		: 280
+	,"ids"		: "Idstring(@IDc385e7aefc531833@)"
+	,"StringID"	: "debug_wskn_save_skin"
+	,"orig_text": "Copy Skin to Clipboard"
+},{
+	 "i"		: 281
+	,"ids"		: "Idstring(@ID0afe91dc328e29ba@)"
+	,"StringID"	: "debug_wskn_sticker"
+	,"orig_text": "Sticker"
+},{
+	 "i"		: 282
+	,"ids"		: "Idstring(@ID5cba6afb2ff833da@)"
+	,"StringID"	: "debug_wskn_submit_failed"
+	,"orig_text": "Failed to submit skin"
+},{
+	 "i"		: 283
+	,"ids"		: "Idstring(@ID458ac35f79b0644e@)"
+	,"StringID"	: "debug_wskn_take_screenshot"
+	,"orig_text": "Screenshot"
+},{
+	 "i"		: 284
+	,"ids"		: "Idstring(@ID32a4ddee47f7fe3b@)"
+	,"StringID"	: "debug_wskn_tbf_input"
+	,"orig_text": "Enter GUI Folder here"
+},{
+	 "i"		: 285
+	,"ids"		: "Idstring(@ID438a78dbee7f90cc@)"
+	,"StringID"	: "debug_wskn_types"
+	,"orig_text": "By Type"
+},{
+	 "i"		: 286
+	,"ids"		: "Idstring(@IDaf6524fd328b949a@)"
+	,"StringID"	: "debug_wskn_uv_offset_rot_x"
+	,"orig_text": "Sticker X"
+},{
+	 "i"		: 287
+	,"ids"		: "Idstring(@ID30472de1c851f317@)"
+	,"StringID"	: "debug_wskn_uv_offset_rot_z"
+	,"orig_text": "Sticker Rotation"
+},{
+	 "i"		: 288
+	,"ids"		: "Idstring(@IDf9411c65328812bb@)"
+	,"StringID"	: "debug_wskn_uv_scale_y"
+	,"orig_text": "Sticker Height"
+},{
+	 "i"		: 289
+	,"ids"		: "Idstring(@IDfa45ae94e11f074e@)"
+	,"StringID"	: "debug_wskn_white"
+	,"orig_text": "White"
+},{
+	 "i"		: 290
+	,"ids"		: "Idstring(@ID22760c20ce231b3f@)"
+	,"StringID"	: "debug_wskn_yellow"
+	,"orig_text": "Yellow"
+},{
+	 "i"		: 291
+	,"ids"		: "Idstring(@IDe2f421351b30067b@)"
+	,"StringID"	: "wp_uc_power_back_up"
+	,"orig_text": "Get the Power Back Up!"
+},{
+	 "i"		: 292
+	,"ids"		: "Idstring(@ID18dfd8f3b1d21a64@)"
+	,"StringID"	: "wp_uc_saw_limo"
+	,"orig_text": "Use the Saw to Open the Limo!"
+}
+]

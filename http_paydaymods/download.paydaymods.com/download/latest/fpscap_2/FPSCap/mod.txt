@@ -1,0 +1,19 @@
+{
+	"name" : "FPS Cap",
+	"description" : "Provides additional frame rate limit options",
+	"author" : "Snh20",
+	"version" : "0.0.1.1",
+	"priority" : 10,
+	"updates" : [
+		{
+			"revision" : 2,
+			"identifier" : "fpscap"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		}
+	]
+}

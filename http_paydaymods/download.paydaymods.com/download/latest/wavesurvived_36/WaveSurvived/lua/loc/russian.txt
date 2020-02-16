@@ -1,0 +1,116 @@
+{
+    "WaveSurvived_compatibility_title" : "Опции Пройденных Волн",
+    "WaveSurvived_compatibility_desc" : "Изменить совместимость с Пройденными Волнами",
+    "WaveSurvived_item_title" : "Совместимость мода",
+    "WaveSurvived_item_desc" : "Вам нужно изменить совместимость мода, если вы используете модифицированный интерфейс. В противном случае, игра вылетит. Перезапустите игру, чтобы изменения вступили в силу.",
+
+    "WaveSurvived_language_title" : "Язык",
+    "WaveSurvived_language_desc" : "Измените язык мода - Перезапустите игру, чтобы изменения вступили в силу.",
+    "WaveSurvived_language_english" : "Английский",
+    "WaveSurvived_language_french" : "Французский",
+    "WaveSurvived_language_russian" : "Русский",
+    "WaveSurvived_language_italian" : "Итальянский",
+    "WaveSurvived_language_german" : "Немецкий",
+    "WaveSurvived_language_spanish" : "Испанский",
+    "WaveSurvived_language_hungarian" : "Венгерский",
+    "WaveSurvived_language_korean" : "Корейский",
+
+    "WaveSurvived_no_hud" : "Без модифицированного интерфейса",
+    "WaveSurvived_nepgearsy_hud" : "Nepgearsy HUD",
+    "WaveSurvived_holoui" : "HoloUI",
+    "WaveSurvived_restoration" : "Restoration Mod",
+    "WaveSurvived_pdthhud" : "PDTH Hud",
+    "WaveSurvived_lddghud" : "LDDG Hud",
+    "WaveSurvived_void" : "Void UI",
+    
+
+    "WaveSurvived_duration_title" : "Продолжительность",
+    "WaveSurvived_duration_desc" : "Выберите продолжительность баннера о пройденной волне. Не совместимо с Restoration Mod.",
+
+    "WaveSurvived_duration_original" : "Оригинальная (8.6 сек)",
+    "WaveSurvived_duration_15sec" : "15 сек",
+    "WaveSurvived_duration_20sec" : "20 сек",
+    "WaveSurvived_duration_25sec" : "25 сек",
+    "WaveSurvived_duration_infinite" : "Бесконечная",
+ 
+    "WaveSurvived_customtext_title" : "Свой баннер (конец штурма)",
+    "WaveSurvived_customtext_desc" : "Замените текст баннера Пройденной волны. Совместимо только со стандартным интерфейсом, HoloUI и Restoration Mod.",
+
+    "WaveSurvived_customtext_1" : "ВОЛНА ПРОЙДЕНА",
+    "WaveSurvived_customtext_2" : "ВЫ ВЫЖИЛИ",
+    "WaveSurvived_customtext_3" : "ШТУРМ ПРОЙДЕН",
+    "WaveSurvived_customtext_4" : "ШТУРМ ЗАКОНЧИЛСЯ",
+    "WaveSurvived_customtext_5" : "ЭТО ЕЩЕ НЕ ВСЕ!",
+
+    "WaveSurvived_custompanelcolor_title" : "Другой цвет панели",
+    "WaveSurvived_custompanelcolor_desc" : "Измените цвет панели о Пройденной Волне. Не совместимо с HoloUI.",
+
+    "WaveSurvived_custompanelcolor_1" : "Лаймовый зеленый (по умолчанию)",
+    "WaveSurvived_custompanelcolor_2" : "Желтый",
+    "WaveSurvived_custompanelcolor_3" : "Красный",
+    "WaveSurvived_custompanelcolor_4" : "Бирюзовый",
+    "WaveSurvived_custompanelcolor_5" : "Оранжевый",
+    "WaveSurvived_custompanelcolor_6" : "Свой",
+    
+    "WaveSurvived_custompanelcolor_customslider_red_title" : "Красный",
+    "WaveSurvived_custompanelcolor_customslider_red_desc" : "Количество красного (RGB формат)",
+    "WaveSurvived_custompanelcolor_customslider_green_title" : "Зеленый",
+    "WaveSurvived_custompanelcolor_customslider_green_desc" : "Количество зеленого (RGB формат)",
+    "WaveSurvived_custompanelcolor_customslider_blue_title" : "Синий",
+    "WaveSurvived_custompanelcolor_customslider_blue_desc" : "Количество синего (RGB формат)",
+
+    "WaveSurvived_custompanelcolor_endless_title" : "Другой цвет панели (бесконечный штурм)",
+    "WaveSurvived_custompanelcolor_endless_desc" : "Измените цвет панели о Бесконечном штурме.",
+
+    "WaveSurvived_custompanelcolor_endless_1" : "Красный (по умолчанию)",
+    "WaveSurvived_custompanelcolor_endless_2" : "Желтый",
+    "WaveSurvived_custompanelcolor_endless_3" : "Лаймовый зеленый",
+    "WaveSurvived_custompanelcolor_endless_4" : "Бирюзовый",
+    "WaveSurvived_custompanelcolor_endless_5" : "Оранжевый",
+    "WaveSurvived_custompanelcolor_endless_6" : "Свой",
+
+    "WaveSurvived_custompanelcolor_endless_customslider_red_title" : "Красный (бесконечный штурм)",
+    "WaveSurvived_custompanelcolor_endless_customslider_red_desc" : "Количество красного (RGB формат)",
+    "WaveSurvived_custompanelcolor_endless_customslider_green_title" : "Зеленый (бесконечный штурм)",
+    "WaveSurvived_custompanelcolor_endless_customslider_green_desc" : "Количество зеленого (RGB формат)",
+    "WaveSurvived_custompanelcolor_endless_customslider_blue_title" : "Синий (бесконечный штурм)",
+    "WaveSurvived_custompanelcolor_endless_customslider_blue_desc" : "Количество синего (RGB формат)",
+
+    "WaveSurvived_custompanelcolor_website_title" : "Сайт для RGB цветов",
+    "WaveSurvived_custompanelcolor_website_desc" : "Открывает сайт, чтобы помочь вам выбрать точный цвет в RGB формате. Необходим оверлей Steam.",
+
+    "WaveSurvived_endless_customtext_title" : "Своя панель (БВ)Custom Banner (EW)",
+    "WaveSurvived_endless_customtext_desc" : "Измените текст панели о Бесконечной Волне.",
+
+    "WaveSurvived_endless_customtext_1" : "ИДЕТ БЕСКОНЕЧНАЯ ВОЛНА",
+    "WaveSurvived_endless_customtext_2" : "ИДЕТ БЕСКОНЕЧНЫЙ ШТУРМ",
+    "WaveSurvived_endless_customtext_3" : "БЕСКОНЕЧНЫЙ ШТУРМ",
+    "WaveSurvived_endless_customtext_4" : "ЭТО НИКОГДА НЕ ПРЕКРАТИТСЯ",
+
+    "WaveSurvived_alert_compatibility_title" : "Пройденная волна : Уведомление о совместимости",
+    "WaveSurvived_alert_compatibility_message" : "Похоже, вы используете неправильную настройку совместимости, или вы запустили игру первый раз с этим модом.\n\nСовместимость мода была изменена.",
+    "WaveSurvived_alert_compatibility_button_ok" : "OK",
+
+    "WaveSurvived_enable_checks_title" : "Включить авто-проверку",
+    "WaveSurvived_enable_checks_desc" : "Включите для автоматической настройки совместимости при запуске.",
+
+    "assault_survived_1_name" : "Штурм пройден I",
+    "assault_survived_1_desc" : "",
+    "assault_survived_1_objective" : "Переживите полицейский штурм 5 раз.",
+
+    "assault_survived_2_name" : "Штурм пройден II",
+    "assault_survived_2_desc" : "",
+    "assault_survived_2_objective" : "Переживите полицейский штурм 30 раз.",
+
+    "assault_survived_3_name" : "Штурм пройден III",
+    "assault_survived_3_desc" : "",
+    "assault_survived_3_objective" : "Переживите полицейский штурм 75 раз.",
+
+    "assault_survived_4_name" : "Штурм пройден IV",
+    "assault_survived_4_desc" : "",
+    "assault_survived_4_objective" : "Переживите полицейский штурм 200 раз.",
+
+    "assault_survived_5_name" : "Штурм пройден V",
+    "assault_survived_5_desc" : "",
+    "assault_survived_5_objective" : "Переживите полицейский штурм 500 раз."
+}

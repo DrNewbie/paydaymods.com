@@ -1,0 +1,35 @@
+{
+	"menu_id" : "wac_menu_pis_p7",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_p7_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_replace_p7threadb",
+			"title" : "wac_replace_threadb_title",
+			"callback" : "callback_toggle_replace_p7threadb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_p7threadb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_p7gripwood",
+			"title" : "wac_replace_woodengrip_title",
+			"callback" : "callback_toggle_replace_p7gripwood",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_p7gripwood",
+			"default_value" : 1
+		}
+	]
+}

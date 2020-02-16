@@ -1,0 +1,25 @@
+{
+    "name" : "Classic Gunplay Mod - Shotguns",
+    "description" : "Shotgun rebalance part of the mod.",
+    "author" : "Jon, including code from Blaze the Fox and possibly DMCWO.",
+    "contact" : "http://steamcommunity.com/id/ACPL_Jon/",
+    "version" : "1.40",
+
+"updates" : [
+    {
+        "revision" : 140,
+        "identifier" : "JCGM_Shotguns",
+    }
+]
+
+	"persist_scripts" : [
+		{ "global" : "RebalanceAttachments", "script_path": "Rebalance_attach.lua"}
+	]
+
+	"hooks": [
+		{
+			"hook_id": "lib/tweak_data/weapontweakdata",
+			"script_path" : "Rebalance_weapons.lua"
+		}
+	]
+}

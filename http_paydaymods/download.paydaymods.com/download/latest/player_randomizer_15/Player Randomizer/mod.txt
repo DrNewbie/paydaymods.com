@@ -1,0 +1,15 @@
+{
+  "name" : "Player Randomizer",
+  "description" : "Randomizes the players weapons, armor and equipment",
+  "author" : "Shiny Hoppip",
+  "blt_version" : 2,
+  "color" : "0.043 0.808 0.6",
+  "image" : "mod.png",
+  "version" : "2.3",
+  "updates" : [ { "identifier" : "player_randomizer" } ],
+  "hooks" : [
+    { "hook_id" : "lib/managers/blackmarketmanager", "script_path" : "randomizer.lua" },
+    { "hook_id" : "lib/managers/menumanager", "script_path" : "randomizer.lua" },
+    { "hook_id" : "lib/managers/menu/missionbriefinggui", "script_path" : "randomizer.lua" }
+  ]
+}

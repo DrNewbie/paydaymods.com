@@ -1,0 +1,36 @@
+{
+	"igwsc_menu_title": "InGame Waiting Status Color",
+	"igwsc_menu_desc": "Personaliza el texto y color de los estados de espera de la Sala de preparación.",
+	
+	"igwsc_options_help_title": "Ayuda",
+	"igwsc_option_help_desc": "¿Necesitas saber un código de color específico? Haz clic en este botón de Ayuda.",
+	"igwsc_options_info_popup_message_help": "Este mod utiliza el código de colores HTML para cambiar el color de texto.\n Aquí hay una lista de colores con sus códigos HTML que tal vez quieras probar.\n   Lista de colores:\n       Negro      000000    Blanco       FFFFFF\n        Rojo        FF0000    Lima       00FF00\n         Azul      0000FF    Amarillo     FFFF00\n        Cian      00FFFF    Fucsia  FF00FF\n        Plateado     C0C0C0    Gris       808080\n        Granate   800000    Verde Oliva      808000\n        Verde     008000    Púrpura    800080\n        Verde Azulado        008080    Azul Marino       000080\n- Puedes encontrar más códigos de colores en muchas páginas Web.\n- Si quieres cambiar el color, puedes hacer en el campo de COLOR. Introduce un código de color HTML y presiona ENTER cuando termines.\n- En caso de que no puedas ver el menú apropiadamente, puedes cambiar el color directamente desde el archivo IGWSC.txt (Está localizado en \PAYDAY 2\\mods\\saves)\n",
+	"igwsc_options_info_popup_close": "Cerrar",
+	
+	"igwsc_options_reset_title": "Restablecer",
+	"igwsc_options_reset_desc": "Restablecer los colores y textos a la configuración predeterminada (Azul-CONECTANDO, Amarillo-CARGANDO, Verde-PREPARADO y Rojo-NO PREPARADO).",
+	
+	"dropin_text_title": "Cambiar el texto de Carga",
+	"dropin_text_desc": "Escribe cualquier texto que reemplace al estado de CARGANDO.",
+	
+	"dropin_color_title": "Cambiar el color de Carga",
+	"dropin_color_desc": "Escribe el código de color para el estado de 'CARGANDO'",
+	
+	"join_text_title": "Cambiar el texto de Conectando",
+	"join_text_desc": "Escribe cualquier texto que reemplace al estado de CONECTANDO",
+	
+	"join_color_title": "Cambiar el color de Conectando",
+	"join_color_desc": "Escribe el código de color para el estado de 'CONECTANDO'",
+	
+	"ready_text_title": "Cambiar el texto de Preparado",
+	"ready_text_desc": "Escribe cualquier texto que reemplace a 'PREPARADO'",
+	
+	"ready_color_title": "Cambiar el color de Preparado",
+	"ready_color_desc": "Escribe el código de color para el estado de 'PREPARADO'",
+	
+	"unready_color_title": "Cambiar el color No Preparado",
+	"unready_color_desc": "Escribe el código de color para el estado de 'NO PREPARADO'",
+	
+	"unready_text_title": "Cambiar el texto No Preparado",
+	"unready_text_desc": "Escribe cualquier texto que reemplace a 'NO PREPARADO'"
+}

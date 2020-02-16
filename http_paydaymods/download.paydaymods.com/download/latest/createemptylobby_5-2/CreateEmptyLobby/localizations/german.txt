@@ -1,0 +1,4 @@
+{
+	"create_empty_lobby_title" : "Erstelle eine leere Lobby",
+	"create_empty_lobby_desc" : "Erstelle eine Lobby ohne einen Auftrag.\n(Standardeinstellung ist Nur für Freunde, kann aber auf Öffentlich oder Privat geändert werden.)"
+}

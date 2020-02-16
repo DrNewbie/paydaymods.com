@@ -1,0 +1,57 @@
+{
+    "menu_id": "customdiscordstatus_room",
+    "parent_menu_id": "customdiscordstatus_options",
+    "title": "customdiscordstatus_room",
+    "description": "customdiscordstatus_room_desc",
+    "items": [
+        {
+            "type": "toggle",
+            "id": "show_host",
+            "title": "show_host",
+            "description": "show_host_desc",
+            "callback": "callback_show_host",
+            "value": "show_host",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_member",
+            "title": "show_member",
+            "description": "show_member_desc",
+            "callback": "callback_show_member",
+            "value": "show_member",
+            "default_value": true
+        },
+        {
+            "type": "divider",
+            "size": 16
+        },
+        {
+            "type": "toggle",
+            "id": "show_public_room",
+            "title": "show_public_room",
+            "description": "show_public_room_desc",
+            "callback": "callback_show_public_room",
+            "value": "show_public_room",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_friends_only_room",
+            "title": "show_friends_only_room",
+            "description": "show_friends_only_room_desc",
+            "callback": "callback_show_friends_only_room",
+            "value": "show_friends_only_room",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_private_room",
+            "title": "show_private_room",
+            "description": "show_private_room_desc",
+            "callback": "callback_show_private_room",
+            "value": "show_private_room",
+            "default_value": false
+        }
+    ]
+}

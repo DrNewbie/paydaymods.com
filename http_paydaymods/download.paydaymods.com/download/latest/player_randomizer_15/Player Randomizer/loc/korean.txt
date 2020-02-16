@@ -1,0 +1,17 @@
+{
+  "Randomizer_menu_main_name" : "플레이어 랜더마이저",
+  "Randomizer_menu_main_desc" : "하이스트를 시작할때 장비를 무작위로 선택해줍니다",
+  "enabled_name" : "켜기",
+  "enabled_desc" : "랜더마이저를 켜고 끄고 합니다",
+  "hide_selections_name" : "선택된 무기 숨기기",
+  "hide_selections_desc" : "로드아웃에서 무슨 무기가 선택되었는지 보여주지 않습니다",
+  "only_owned_weapons_name" : "인벤토리에 있는 무기만 사용",
+  "only_owned_weapons_desc" : "무작위 중에서 인벤토리에 있는 무기만 선택됩니다",
+  "character_desc" : "캐릭터를 무작위로 선택합니다",
+  "primary_desc" : "주무기를 무작위로 선택합니다",
+  "secondary_desc" : "보조무기를 무작위로 선택합니다",
+  "melee_desc" : "근접무기를 무작위로 선택합니다",
+  "grenade_desc" : "투척무기를 무작위로 선택합니다",
+  "armor_desc" : "방탄복을 무작위로 선택합니다",
+  "deployable_desc" : "장비를 무작위로 선택합니다"
+}

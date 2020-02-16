@@ -1,0 +1,18 @@
+{
+	"menu_id" : "khud_menu_panel_team",
+	"parent_menu_id" : "khud_menu_panels",
+	"title" : "khud_menu_panel_team_title",
+	"description" : "khud_menu_panel_team_desc",
+	"back_callback" : "callback_khud_menu_panel_team_close",
+	"priority" : 3,
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "khud_panel_team_enabled",
+			"title" : "khud_panel_team_enabled_title",
+			"description" : "khud_panel_team_enabled_desc",
+			"callback" : "callback_khud_panel_team_enabled",
+			"value" : "panel_team_enabled"
+		}
+	]
+}

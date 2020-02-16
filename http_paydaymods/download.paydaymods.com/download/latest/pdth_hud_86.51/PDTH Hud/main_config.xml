@@ -1,0 +1,146 @@
+<mod name="PDTHHudReborn" global_key="pdth_hud">
+    <Classes directory="Classes">
+        <class file="Definitions.lua"/>
+        <class file="Constants.lua"/>
+        <class file="PDTHTextures.lua"/>
+    	<class file="Callbacks.lua"/>
+        <class file="ChallengesManager.lua"/>
+        <class file="ChallengesTweakData.lua"/>
+    	<class file="Menu.lua"/>
+    	<class file="Hooks.lua"/>
+        <class file="HudAmmoHandlers/Default.lua"/>
+        <class file="HudAmmoHandlers/Saw.lua"/>
+        <class file="HudAmmoHandlers/Flamethrower.lua"/>
+        <class file="HudAmmo.lua"/>
+    	<class file="Utils.lua"/>
+    </Classes>
+    <Hooks directory="Hooks">
+        <hook file="HudHint.lua" source_file="lib/managers/hud/hudhint"/>
+        <hook file="CoreItemChallenges.lua" source_file="lib/managers/menu/items/menuitemchallenge"/>
+        <hook file="HudTemp.lua" source_file="lib/managers/hud/hudtemp"/>
+        <hook file="HudAssaultCorner.lua" source_file="lib/managers/hud/hudassaultcorner"/>
+        <hook file="HudInteraction.lua" source_file="lib/managers/hud/hudinteraction"/>
+        <hook file="HudManager.lua" source_file="lib/managers/hudmanager"/>
+        <hook file="StatsManager.lua" source_file="lib/managers/statisticsmanager"/>
+        <hook file="HudManagerPD2.lua" source_file="lib/managers/hudmanagerpd2"/>
+        <hook file="HudTeammate.lua" source_file="lib/managers/hud/hudteammate"/>
+        <hook file="HudPresenter.lua" source_file="lib/managers/hud/hudpresenter"/>
+        <hook file="NetworkAccountSteam.lua" source_file="lib/network/matchmaking/networkaccountsteam"/>
+        <hook file="TweakData.lua" source_file="lib/tweak_data/tweakdata"/>
+        <hook file="MenuComponentManager.lua" source_file="lib/managers/menu/menucomponentmanager"/>
+        <hook file="PortraitPreviewGUI.lua" source_file="lib/managers/menu/textboxgui"/>
+        <hook file="PlayerSound.lua" source_file="lib/units/beings/player/playersound"/>
+        <hook file="PostHooks.lua" source_file="lib/setups/setup"/>
+        <hook file="PostHooks.lua" source_file="lib/setups/gamesetup"/>
+        <hook file="PostHooks.lua" source_file="lib/setups/menusetup"/>
+        <!--<hook file="" source_file=""/>-->
+    </Hooks>
+    <Localization directory="Localization" default="english.txt">
+        <localization language="russian" file="russian.txt"/>
+        <localization language="german" file="german.txt"/>
+        <localization language="french" file="french.txt"/>
+        <localization language="dutch" file="dutch.txt"/>
+    </Localization>
+    <AssetUpdates name="asset_updates" id="16438" folder_name="PDTH Hud" provider="lastbullet"/>
+    <ScriptMods directory="ScriptData">
+        <mod file="item_door_drill_small.xml" type="custom_xml" target_file="units/payday2/equipment/item_door_drill_small/item_door_drill_small" target_type="sequence_manager">
+            <options merge_mode="script_merge" use_clbk="self.callbacks:UseEquipment"/>
+        </mod>
+        <mod file="item_door_drill_small.xml" type="custom_xml" target_file="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" target_type="sequence_manager">
+            <options merge_mode="script_merge" use_clbk="self.callbacks:UseEquipment"/>
+        </mod>
+        <mod file="gen_plant_c4.xml" type="custom_xml" target_file="units/pd2_dlc_jolly/equipment/gen_plant_c4/gen_plant_c4" target_type="sequence_manager">
+            <options merge_mode="script_merge" use_clbk="self.callbacks:UseEquipment"/>
+        </mod>
+        <mod file="gen_equipment_shape_charge.xml" type="custom_xml" target_file="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge" target_type="sequence_manager">
+            <options merge_mode="script_merge" use_clbk="self.callbacks:UseEquipment"/>
+        </mod>
+        <mod file="gen_interactable_door_keycard_jammer.xml" type="custom_xml" target_file="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer" target_type="sequence_manager">
+            <options merge_mode="script_merge" use_clbk="self.callbacks:UseEquipment"/>
+        </mod>
+        <mod file="gen_interactable_door_keycard_jammer.xml" type="custom_xml" target_file="units/payday2/equipment/gen_interactable_door_keycard/item_door_keycard_jammer_double" target_type="sequence_manager">
+            <options merge_mode="script_merge" use_clbk="self.callbacks:UseEquipment"/>
+        </mod>
+        <mod file="gen_interactable_door_keycard_jammer.xml" type="custom_xml" target_file="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_jammer" target_type="sequence_manager">
+            <options merge_mode="script_merge" use_clbk="self.callbacks:UseEquipment"/>
+        </mod>
+        <mod file="gen_interactable_drill_large_thermic.xml" type="custom_xml" target_file="units/payday2/equipment/gen_interactable_drill_large_thermic/gen_interactable_drill_large_thermic" target_type="sequence_manager">
+            <options merge_mode="script_merge" use_clbk="self.callbacks:UseEquipment"/>
+        </mod>
+        <mod file="gen_interactable_drill_large_thermic.xml" type="custom_xml" target_file="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large" target_type="sequence_manager">
+            <options merge_mode="script_merge" use_clbk="self.callbacks:UseEquipment"/>
+        </mod>
+        <mod file="hlm_equipment_gas_can_shoot.xml" type="custom_xml" target_file="units/payday2/equipment/hlm_equipment_gas_can_shoot/hlm_equipment_gas_can_shoot" target_type="sequence_manager">
+            <options merge_mode="script_merge" use_clbk="self.callbacks:UseEquipment"/>
+        </mod>
+        <mod file="gen_equipment_shape_charge_plantable.xml" type="custom_xml" target_file="units/payday2/equipment/gen_equipment_shape_charge_plantable/gen_equipment_shape_charge_plantable" target_type="sequence_manager">
+            <options merge_mode="script_merge" use_clbk="self.callbacks:UseEquipment"/>
+        </mod>
+        <mod file="start_menu.xml" type="custom_xml" target_file="gamedata/menus/start_menu" target_type="menu">
+            <options merge_mode="script_merge"/>
+        </mod>
+        <mod file="pause_menu.xml" type="custom_xml" target_file="gamedata/menus/pause_menu" target_type="menu">
+            <options merge_mode="script_merge"/>
+        </mod>
+    </ScriptMods>
+    <Options name="Options" auto_build_menu="false" auto_load="true" save_file="PDTHHudRebornoptions.txt" post_init_clbk="self:InitConstants">
+        <options>
+            <merge_data area_bg="half"/>
+            <option_group name="HUD">
+                <merge_data area_bg="half">
+                </merge_data>
+                <option type="bool" default_value="true" name="MainHud"/>
+                <option type="bool" default_value="true" name="Assault"/>
+                <option type="bool" default_value="true" name="Interaction"/>
+                <option type="bool" default_value="true" name="Objectives"/>
+                <option type="bool" default_value="true" name="Swansong"/>
+                <divider name="hud_main_tweak_divider" size="20"/>
+                <option_set name="portraits" populate_items="self:LoadAddons">
+                    <option type="bool" default_value="true" name="Coloured" value_changed="self.callbacks:PortraitStyleChanged"/>
+                    <option type="bool" default_value="true" name="GradualColour" value_changed="self.callbacks:PortraitStyleChanged"/>
+                    <merge_data menu_components="portrait">
+                    </merge_data>
+                    <item_parameters type="multichoice" value_changed="self.callbacks:PortraitSelectionChanged" save_value="true">
+                        <merge_data localized_help="false" desc=""/>
+                    </item_parameters>
+                </option_set>
+                <option type="number" default_value="1" name="Scale" min="0" max="2" step="0.05" show_value="true"/>
+                <option type="bool" default_value="true" name="OGTMHealth"/>
+                <option type="multichoice" default_value="2" name="Bullet" values_tbl="self.definitions.bullet_style_options" value_changed="self.callbacks:BulletStyleChanged"/>
+                <option type="bool" default_value="true" name="DynamicBullets"/>
+                <option type="bool" default_value="false" name="BulletGradualColour" value_changed="self.callbacks:BulletStyleChanged"/>
+                <option type="multichoice" default_value="1" name="WeaponIcon" values_tbl="self.definitions.weapon_icon_style_options" value_changed="self.callbacks:WeaponIconStyleChanged"/>
+                <option type="bool" default_value="false" name="PDTHEquipmentIcons" value_changed="self.callbacks:WeaponIconStyleChanged"/>
+                <divider name="hud_tweak_divider" size="20"/>
+                <option type="bool" default_value="false" name="spooky_ammo"/>
+                <option type="bool" default_value="true" name="CameraGrading"/>
+                <option type="bool" default_value="true" name="Cameras"/>
+            </option_group>
+            <divider name="hud_non_hud_divider" size="20"/>
+            <option type="multichoice" default_value="8" name="Grading" values_tbl="self.definitions.colour_gradings" value_changed="self.callbacks:ColourGradingChanged"/>
+            <option_set name="Gradings" populate_items="self:GetLevels">
+                <merge_data area_bg="half">
+                </merge_data>
+                <item_parameters type="multichoice" values_tbl="self.definitions.heist_colour_gradings" value_changed="self.callbacks:HeistColourGradingChanged">
+                    <merge_data localized="false" localized_help="false" desc=""/>
+                </item_parameters>
+            </option_set>
+            <divider name="grading_divider" size="20"/>
+            <option type="bool" default_value="true" name="Equipment"/>
+        </options>
+    </Options>
+    <!--<Options name="Constants" auto_build_menu="false" auto_load="true">
+        <options>
+            <merge_data area_bg="half"/>
+            <option type="number" default_value="130" name="main_health_h" min="1" max="260" step="1" show_value="true" converter="self.callbacks:ScaleConverter"/>
+            <option type="number" default_value="64" name="main_health_w" min="1" max="260" step="1" show_value="true" converter="self.callbacks:ScaleConverter"/>
+        </options>
+    </Options>-->
+    <Menu>
+        <menu>
+            <sub_menu key="Options"/>
+            <divider name="UpdateDivider" size="20"/>
+            <item_group key="asset_updates"/>
+        </menu>
+    </Menu>
+</mod>

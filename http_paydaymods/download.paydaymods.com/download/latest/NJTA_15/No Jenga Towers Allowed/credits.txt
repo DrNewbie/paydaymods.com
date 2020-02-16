@@ -1,0 +1,13 @@
+-Malidictus for making and providing the formula to calculate team AI damage
+
+-Shiny Hoppip and Hassat Hunter for providing or pointing out important functions
+
+-Frankelstner for providing NPC reload times
+
+-Vicious Walrus for making the code to make scritped spawns scale with difficulty
+
+-Bad_Karma for testing and providing feedback for even the smallest of things
+
+-And everyone that provided assistance or feedback in the Bot Performance Thread
+
+While I'm not nearly done with this yet, I wouldn't have got here without your help. I thank you all!

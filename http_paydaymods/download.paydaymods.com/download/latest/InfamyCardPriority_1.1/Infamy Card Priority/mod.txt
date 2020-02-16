@@ -1,0 +1,14 @@
+{
+	"name": "Infamy Card Priority",
+	"description": "Changes the priority of infamy cards to override weapon skins in the lobby.",
+	"author": "Kaninte",
+	"contact": "http://steamcommunity.com/id/kaninte/",
+	"version": "1.1",
+	"priority": 10,
+	"hooks": [
+		{
+			"hook_id": "lib/managers/menu/menuscenemanager",
+			"script_path": "/lua/InfamyCardPriority.lua"
+		}
+	]
+}

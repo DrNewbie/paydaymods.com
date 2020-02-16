@@ -1,0 +1,55 @@
+{
+	"menu_id" : "wac_menu_pis_c96",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_c96_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_c96longb",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_c96longb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_c96longb",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_c96_dl44",
+			"title" : "wac_replace_c96_dl44_title",
+			"callback" : "callback_toggle_replace_c96_dl44",
+			"value" : "replace_c96_dl44",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_c96extmag",
+			"title" : "wac_replace_c96extmag_title",
+			"callback" : "callback_toggle_replace_c96extmag",
+			"value" : "replace_c96extmag",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_c96holster",
+			"title" : "wac_replace_c96holster_title",
+			"callback" : "callback_toggle_replace_c96holster",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_c96holster",
+			"default_value" : 1
+		}
+	]
+}

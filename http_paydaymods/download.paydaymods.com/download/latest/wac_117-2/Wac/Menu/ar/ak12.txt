@@ -1,0 +1,96 @@
+{
+	"menu_id" : "wac_menu_ar_ak12",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_ak12_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_ak12pbs1",
+			"title" : "wac_replace_pbs1supp_title",
+			"callback" : "callback_toggle_replace_ak12pbs1",
+			"value" : "replace_ak12pbs1",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_ak12flashhider",
+			"title" : "wac_replace_useownflashhider_title",
+			"callback" : "callback_toggle_replace_ak12flashhider",
+			"value" : "replace_ak12flashhider",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_ak12stndgrip",
+			"title" : "wac_replace_usestndgrip_title",
+			"callback" : "callback_toggle_replace_ak12stndgrip",
+			"value" : "replace_ak12stndgrip",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_ak12quad",
+			"title" : "wac_replace_akquad_title",
+			"callback" : "callback_toggle_replace_ak12quad",		
+			"items" : [
+				"wac_default_multi",
+				"rpkmag_multi",
+				"rpkdrummag_multi",
+				"ak12mag_multi",
+				"ak74mag_multi",
+				"akmmag_multi",
+				"uspalm_ak30_multi"
+			],
+			"value" : "replace_ak12quad",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_ak12uspalm",
+			"title" : "wac_replace_akuspalm_title",
+			"callback" : "callback_toggle_replace_ak12uspalm",		
+			"items" : [
+				"wac_default_multi",
+				"ak12mag_multi",
+				"ak74mag_multi",
+				"akmmag_multi"
+			],
+			"value" : "replace_ak12uspalm",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_ak12magpulassist",
+			"title" : "wac_replace_magpulmagassist_title",
+			"callback" : "callback_toggle_replace_ak12magpulassist",		
+			"items" : [
+				"wac_default_multi",
+				"ak12mag_multi",
+				"ak74mag_multi",
+				"akmmag_multi"
+			],
+			"value" : "replace_ak12magpulassist",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_ak12stock",
+			"title" : "wac_replace_usestndst_title",
+			"callback" : "callback_toggle_replace_ak12stock",
+			"value" : "replace_ak12stock",
+			"default_value" : false
+		}
+	]
+}

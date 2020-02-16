@@ -1,0 +1,19 @@
+{
+	"name" : "Throwables In Team Loadout",
+	"description" : "Displays the currently equipped throwable for each connected player in the team loadout overview",
+	"author" : "Snh20",
+	"version" : "0.0.2.2",
+	"priority" : 10,
+	"updates" : [
+		{
+			"revision" : 6,
+			"identifier" : "throwablesinteamloadout"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menu/missionbriefinggui",
+			"script_path" : "missionbriefinggui.lua"
+		}
+	]
+}

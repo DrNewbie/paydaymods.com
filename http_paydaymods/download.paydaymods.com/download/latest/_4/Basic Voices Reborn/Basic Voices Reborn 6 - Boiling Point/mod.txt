@@ -1,0 +1,23 @@
+{
+	"name" : "Basic Voices Reborn 6 - Boiling Point"
+	"description" : "Play lines from russian mercenaries in Boiling Point"
+	"author" : "Lanz"
+	"contact" : "francoisbastidas66@gmail.com"
+	"version" : "v1.00"
+	"priority" : 240
+    "updates" : 
+	[
+	    {
+		    "revision" : 1,
+			"identifier" : "basicvoicesrebornHSUMVHBMBCCG",
+		}
+	],
+	"hooks" : 
+	[
+		{"hook_id" : "lib/managers/menumanager",
+		"script_path" : "basicvoices6.lua"}
+	]
+}
+	
+	
+	

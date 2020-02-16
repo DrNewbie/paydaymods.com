@@ -1,0 +1,61 @@
+{
+	"menu_id" : "wac_menu_ar_vhs",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_vhs_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_vhsshortb",
+			"title" : "wac_replace_cqbb_title",
+			"callback" : "callback_toggle_replace_vhsshortb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_vhssniperb_multi"
+			],
+			"value" : "replace_vhsshortb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_vhslongb",
+			"title" : "wac_replace_precisionb_title",
+			"callback" : "callback_toggle_replace_vhslongb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_shortb_multi"
+			],
+			"value" : "replace_vhslongb",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_vhsflashhider",
+			"title" : "wac_replace_useownflashhider_title",
+			"callback" : "callback_toggle_replace_vhsflashhider",
+			"value" : "replace_vhsflashhider",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_vhssuppb",
+			"title" : "wac_replace_vhssupp_title",
+			"callback" : "callback_toggle_replace_vhssuppb",
+			"value" : "replace_vhssuppb",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_vhsironsights",
+			"title" : "wac_replace_keepironsights_title",
+			"callback" : "callback_toggle_replace_vhsironsights",
+			"value" : "replace_vhsironsights",
+			"default_value" : false
+		}
+	]
+}

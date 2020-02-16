@@ -1,0 +1,23 @@
+{
+  "name" : "Chat Info",
+  "description" : "Gives information about wether a player using the same mod is typing something in chat",
+  "author" : "Shiny Hoppip",
+  "blt_version" : 2,
+  "color" : "0.043 0.808 0.6",
+  "image" : "mod.png",
+  "libraries":[  
+    {  
+       "display_name" : "Delayed Calls Fix",
+       "identifier" : "delayedcallsfix"
+    }
+  ],
+  "updates" : [
+    {
+      "revision" : 13,
+      "identifier" : "chat_info"
+    }
+  ],
+  "hooks" : [
+    { "hook_id" : "lib/managers/chatmanager", "script_path" : "chatmanager.lua" }
+  ]
+}

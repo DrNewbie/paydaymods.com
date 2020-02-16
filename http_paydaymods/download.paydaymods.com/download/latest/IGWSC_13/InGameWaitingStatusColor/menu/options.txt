@@ -1,0 +1,110 @@
+{
+	"menu_id": "igwsc_menu",
+	"parent_menu_id": "blt_options",
+	"title": "igwsc_menu_title",
+	"description": "igwsc_menu_desc",
+	"items": [
+		{
+			"type" : "button",
+			"id" : "igwsc_button_help",
+			"title" : "igwsc_options_help_title",
+			"description" : "igwsc_option_help_desc",
+			"callback" : "IGWSCHelp"
+		},
+		{
+			"type": "input",
+			"id": "dropin_text_input",
+			"title": "dropin_text_title",
+			"description": "dropin_text_desc",
+			"callback": "callback_dropin_text_input",
+			"value": "dropin_text_value",
+			"default_value": false
+		},
+		{
+			"type": "input",
+			"id": "dropin_color_input",
+			"title": "dropin_color_title",
+			"description": "dropin_color_desc",
+			"callback": "callback_dropin_color_input",
+			"value": "dropin_color_value",
+			"default_value": false
+		},
+		{
+			"type": "divider",
+			"size": 32
+		},
+		{
+			"type": "input",
+			"id": "join_text_input",
+			"title": "join_text_title",
+			"description": "join_text_desc",
+			"callback": "callback_join_text_input",
+			"value": "join_text_value",
+			"default_value": false
+		},
+		{
+			"type": "input",
+			"id": "join_color_input",
+			"title": "join_color_title",
+			"description": "join_color_desc",
+			"callback": "callback_join_color_input",
+			"value": "join_color_value",
+			"default_value": false
+		},
+		{
+			"type": "divider",
+			"size": 32
+		},
+		{
+			"type": "input",
+			"id": "ready_text_input",
+			"title": "ready_text_title",
+			"description": "ready_text_desc",
+			"callback": "callback_ready_text_input",
+			"value": "ready_text_value",
+			"default_value": false
+		},
+		{
+			"type": "input",
+			"id": "ready_color_input",
+			"title": "ready_color_title",
+			"description": "ready_color_desc",
+			"callback": "callback_ready_color_input",
+			"value": "ready_color_value",
+			"default_value": false
+		},
+		{
+			"type": "divider",
+			"size": 32
+		},
+		{
+			"type": "input",
+			"id": "unready_text_input",
+			"title": "unready_text_title",
+			"description": "unready_text_desc",
+			"callback": "callback_unready_text_input",
+			"value": "unready_text_value",
+			"default_value": false
+		},
+		{
+			"type": "input",
+			"id": "unready_color_input",
+			"title": "unready_color_title",
+			"description": "unready_color_desc",
+			"callback": "callback_unready_color_input",
+			"value": "unready_color_value",
+			"default_value": false
+		},
+		{
+			"type": "divider",
+			"size": 32
+		},
+		{
+			"type": "button",
+			"id": "igwsc_button_reset",
+			"title": "igwsc_options_reset_title",
+			"description": "igwsc_options_reset_desc",
+			"callback": "callback_igwsc_reset"
+		}
+	]
+}

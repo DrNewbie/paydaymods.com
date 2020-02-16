@@ -1,0 +1,13 @@
+{
+  "name" : "Bain Chatter",
+  "description" : "Have some pointless conversation with Bain by typing in the chat",
+  "author" : "Shiny Hoppip",
+  "blt_version" : 2,
+  "color" : "0.043 0.808 0.6",
+  "image" : "mod.png",
+  "version" : "1.7",
+  "updates" : [ { "identifier" : "bainchatter" } ],
+  "hooks" : [
+    { "hook_id" : "lib/managers/chatmanager", "script_path" : "mod.lua"}
+  ]
+}

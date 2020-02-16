@@ -1,0 +1,15 @@
+{
+  "Randomizer_menu_main_name" : "Player Randomizer",
+  "Randomizer_menu_main_desc" : "Rendi casuale il tuo equipaggiamento all'inizio del colpo",
+  "hide_selections_name" : "Nascondi le scelte casuali",
+  "hide_selections_desc" : "Nascondi le scelte casuali nella schermata di preparazione",
+  "only_owned_weapons_name" : "Solo armi nell'inventario",
+  "only_owned_weapons_desc" : "Randomizer sceglierà solo le armi del tuo inventario",
+  "character_desc" : "Rendi casuale il tuo personaggio",
+  "primary_desc" : "Rendi casuale la tua arma primaria",
+  "secondary_desc" : "Rendi casuale la tua arma secondaria",
+  "melee_desc" : "Rendi casuale la tua arma corpo a corpo",
+  "grenade_desc" : "Rendi casuali le armi da lancio"
+  "armor_desc" : "Rendi casuale la tua armatura",
+  "deployable_desc" : "Rendi casuale il tuo equipaggiamento"
+}

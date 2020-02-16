@@ -1,0 +1,20 @@
+{
+    "menu_id": "custom_hud_options",
+    "parent_menu_id": "mod_collection_options",
+    "title": "custom_hud_options",
+    "description": "custom_hud_options_desc",
+    "items": [
+        {
+            "type": "slider",
+            "id": "hide_chat_after",
+            "title": "hide_chat_after",
+            "description": "hide_chat_after_desc",
+            "callback": "callback_hide_chat_after",
+            "value": "hide_chat_after",
+            "max": 100,
+            "min": 0,
+            "step": 1,
+            "default_value": 10
+        }
+    ]
+}

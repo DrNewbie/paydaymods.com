@@ -1,0 +1,16 @@
+{ 	
+	"music_language_us" : "english"
+	"music_language_fr" : "french"
+	"music_language_de" : "german"
+	"music_language_kr" : "korean"
+	"music_language_ru" : "russian"
+	"music_language_tr" : "turkish"
+	"music_spending_me" : "spending"
+	"music_offshore_me" : "offshore"
+	"music_youtube_rep" : "youtube repeat"
+	"music_subredd_pd2" : "payday reddit"
+	"music_last_bullet" : "lastbullet.net"
+	"music_profile_rep" : "steamrep"
+	"music_version_mod" : "build version"
+	"music_total_songs" : "total songs"
+}

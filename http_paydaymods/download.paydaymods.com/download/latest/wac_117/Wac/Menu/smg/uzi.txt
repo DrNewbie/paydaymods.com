@@ -1,0 +1,103 @@
+{
+	"menu_id" : "wac_menu_smg_uzi",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_uzi_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_uzisuppb",
+			"title" : "wac_replace_uzisuppb_title",
+			"callback" : "callback_toggle_replace_uzisuppb",
+			"value" : "replace_uzisuppb",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_uzitacfg",
+			"title" : "wac_replace_tactfg_title",
+			"callback" : "callback_toggle_replace_uzitacfg",		
+			"items" : [
+				"wac_default_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_uzitacfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_uzix_removevg",
+			"title" : "wac_replace_uzix_removevg_title",
+			"callback" : "callback_toggle_replace_uzix_removevg",
+			"value" : "replace_uzix_removevg",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_uziergostock",
+			"title" : "wac_replace_ergost_title",
+			"callback" : "callback_toggle_replace_uziergostock",		
+			"items" : [
+				"wac_default_multi",
+				"solidst_multi",
+				"foldedst_multi",
+				"unfoldst_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_uziergostock",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_uzisolidstock",
+			"title" : "wac_replace_solidst_title",
+			"callback" : "callback_toggle_replace_uzisolidstock",		
+			"items" : [
+				"wac_default_multi",
+				"ergost_multi",
+				"foldedst_multi",
+				"unfoldst_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_uzisolidstock",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_uzifoldstock",
+			"title" : "wac_replace_foldedst_title",
+			"callback" : "callback_toggle_replace_uzifoldstock",		
+			"items" : [
+				"wac_default_multi",
+				"ergost_multi",
+				"solidst_multi",
+				"unfoldst_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_uzifoldstock",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_uzix_st",
+			"title" : "wac_replace_akimbost_title",
+			"callback" : "callback_toggle_replace_uzix_st",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi",
+				"unfoldst_multi",
+				"ergost_multi",
+				"solidst_multi"
+			],
+			"value" : "replace_uzix_st",
+			"default_value" : 1
+		}
+	]
+}

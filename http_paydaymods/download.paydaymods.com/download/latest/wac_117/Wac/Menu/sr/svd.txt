@@ -1,0 +1,51 @@
+{
+	"menu_id" : "wac_menu_sr_svd",
+	"parent_menu_id" : "wac_menu_sr",
+	"title" : "wac_menu_sr_svd_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_svdcomp",
+			"title" : "wac_replace_svdcomp_title",
+			"callback" : "callback_toggle_replace_svdcomp",
+			"items" : [
+				"wac_default_multi",
+				"stndcomp_multi"
+			],
+			"value" : "replace_svdcomp",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_svdpolymerfg",
+			"title" : "wac_replace_svdpolymerfg_title",
+			"callback" : "callback_toggle_replace_svdpolymerfg",
+			"items" : [
+				"wac_default_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_svdpolymerfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_svdpolymerst",
+			"title" : "wac_replace_svdpolymerst_title",
+			"callback" : "callback_toggle_replace_svdpolymerst",
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi"
+			],
+			"value" : "replace_svdpolymerst",
+			"default_value" : 1
+		}
+	]
+}

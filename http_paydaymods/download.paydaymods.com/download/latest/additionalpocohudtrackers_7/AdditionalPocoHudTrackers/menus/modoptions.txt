@@ -1,0 +1,541 @@
+{
+	"menu_id" : "additionalpocohudtrackers_menu_id",
+	"parent_menu_id" : "blt_options",
+	"title" : "additionalpocohudtrackers_menu_title",
+	"description" : "additionalpocohudtrackers_menu_desc",
+	"back_callback" : "AdditionalPocoHudTrackers_SaveSettings",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "btn_additionalpocohudtrackers_buffsheader",
+			"title" : "btn_additionalpocohudtrackers_buffsheader_title",
+			"description" : "btn_additionalpocohudtrackers_buffsheader_desc",
+			"callback" : "AdditionalPocoHudTrackers_BuffsHeader"
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showbullseyecooldown",
+			"title" : "tog_additionalpocohudtrackers_showbullseyecooldown_title",
+			"description" : "tog_additionalpocohudtrackers_showbullseyecooldown_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowBullseyeCooldown",
+			"value" : "ShowBullseyeCooldown",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showarmorerinvuln",
+			"title" : "tog_additionalpocohudtrackers_showarmorerinvuln_title",
+			"description" : "tog_additionalpocohudtrackers_showarmorerinvuln_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowArmorerInvuln",
+			"value" : "ShowArmorerInvuln",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showarmorerinvulncooldown",
+			"title" : "tog_additionalpocohudtrackers_showarmorerinvulncooldown_title",
+			"description" : "tog_additionalpocohudtrackers_showarmorerinvulncooldown_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowArmorerInvulnCooldown",
+			"value" : "ShowArmorerInvulnCooldown",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showmaniacstackticks",
+			"title" : "tog_additionalpocohudtrackers_showmaniacstackticks_title",
+			"description" : "tog_additionalpocohudtrackers_showmaniacstackticks_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowManiacStackTicks",
+			"value" : "ShowManiacStackTicks",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showmaniacdecayticks",
+			"title" : "tog_additionalpocohudtrackers_showmaniacdecayticks_title",
+			"description" : "tog_additionalpocohudtrackers_showmaniacdecayticks_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowManiacDecayTicks",
+			"value" : "ShowManiacDecayTicks",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showmaniacaccumulatedstacks",
+			"title" : "tog_additionalpocohudtrackers_showmaniacaccumulatedstacks_title",
+			"description" : "tog_additionalpocohudtrackers_showmaniacaccumulatedstacks_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowManiacAccumulatedStacks",
+			"value" : "ShowManiacAccumulatedStacks",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showhostakermuscleregen",
+			"title" : "tog_additionalpocohudtrackers_showhostakermuscleregen_title",
+			"description" : "tog_additionalpocohudtrackers_showhostakermuscleregen_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowHosTakerMuscleRegen",
+			"value" : "ShowHosTakerMuscleRegen",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showgrinderstackcooldown",
+			"title" : "tog_additionalpocohudtrackers_showgrinderstackcooldown_title",
+			"description" : "tog_additionalpocohudtrackers_showgrinderstackcooldown_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowGrinderStackCooldown",
+			"value" : "ShowGrinderStackCooldown",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showgrinderregenperiod",
+			"title" : "tog_additionalpocohudtrackers_showgrinderregenperiod_title",
+			"description" : "tog_additionalpocohudtrackers_showgrinderregenperiod_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowGrinderRegenPeriod",
+			"value" : "ShowGrinderRegenPeriod",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showaggressivereloadduration",
+			"title" : "tog_additionalpocohudtrackers_showaggressivereloadduration_title",
+			"description" : "tog_additionalpocohudtrackers_showaggressivereloadduration_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowAggressiveReloadDuration",
+			"value" : "ShowAggressiveReloadDuration",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showinspirerevivecooldown",
+			"title" : "tog_additionalpocohudtrackers_showinspirerevivecooldown_title",
+			"description" : "tog_additionalpocohudtrackers_showinspirerevivecooldown_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowInspireReviveCooldown",
+			"value" : "ShowInspireReviveCooldown",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showforcedfriendshipstack",
+			"title" : "tog_additionalpocohudtrackers_showforcedfriendshipstack_title",
+			"description" : "tog_additionalpocohudtrackers_showforcedfriendshipstack_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowForcedFriendshipStack",
+			"value" : "ShowForcedFriendshipStack",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showforcedfriendshippercentage",
+			"title" : "tog_additionalpocohudtrackers_showforcedfriendshippercentage_title",
+			"description" : "tog_additionalpocohudtrackers_showforcedfriendshippercentage_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowForcedFriendshipPercentage",
+			"value" : "ShowForcedFriendshipPercentage",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showdireneedduration",
+			"title" : "tog_additionalpocohudtrackers_showdireneedduration_title",
+			"description" : "tog_additionalpocohudtrackers_showdireneedduration_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowDireNeedDuration",
+			"value" : "ShowDireNeedDuration",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showammoefficiencyduration",
+			"title" : "tog_additionalpocohudtrackers_showammoefficiencyduration_title",
+			"description" : "tog_additionalpocohudtrackers_showammoefficiencyduration_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowAmmoEfficiencyDuration",
+			"value" : "ShowAmmoEfficiencyDuration",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showammoefficiencystack",
+			"title" : "tog_additionalpocohudtrackers_showammoefficiencystack_title",
+			"description" : "tog_additionalpocohudtrackers_showammoefficiencystack_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowAmmoEfficiencyStack",
+			"value" : "ShowAmmoEfficiencyStack",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showunseenstrikedamageavoidanceduration",
+			"title" : "tog_additionalpocohudtrackers_showunseenstrikedamageavoidanceduration_title",
+			"description" : "tog_additionalpocohudtrackers_showunseenstrikedamageavoidanceduration_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowUnseenStrikeDamageAvoidanceDuration",
+			"value" : "ShowUnseenStrikeDamageAvoidanceDuration",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showunseenstrikecriticalboostduration",
+			"title" : "tog_additionalpocohudtrackers_showunseenstrikecriticalboostduration_title",
+			"description" : "tog_additionalpocohudtrackers_showunseenstrikecriticalboostduration_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowUnseenStrikeCriticalBoostDuration",
+			"value" : "ShowUnseenStrikeCriticalBoostDuration",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showcriticalchancegauge",
+			"title" : "tog_additionalpocohudtrackers_showcriticalchancegauge_title",
+			"description" : "tog_additionalpocohudtrackers_showcriticalchancegauge_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowCriticalChanceGauge",
+			"value" : "ShowCriticalChanceGauge",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showsecondwindduration",
+			"title" : "tog_additionalpocohudtrackers_showsecondwindduration_title",
+			"description" : "tog_additionalpocohudtrackers_showsecondwindduration_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowSecondWindDuration",
+			"value" : "ShowSecondWindDuration",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showupyougoduration",
+			"title" : "tog_additionalpocohudtrackers_showupyougoduration_title",
+			"description" : "tog_additionalpocohudtrackers_showupyougoduration_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowUpYouGoDuration",
+			"value" : "ShowUpYouGoDuration",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showrunningfromdeathweaponduration",
+			"title" : "tog_additionalpocohudtrackers_showrunningfromdeathweaponduration_title",
+			"description" : "tog_additionalpocohudtrackers_showrunningfromdeathweaponduration_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowRunningFromDeathWeaponDuration",
+			"value" : "ShowRunningFromDeathWeaponDuration",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showrunningfromdeathmovementduration",
+			"title" : "tog_additionalpocohudtrackers_showrunningfromdeathmovementduration_title",
+			"description" : "tog_additionalpocohudtrackers_showrunningfromdeathmovementduration_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowRunningFromDeathMovementDuration",
+			"value" : "ShowRunningFromDeathMovementDuration",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showbloodthirstmeleeboostgauge",
+			"title" : "tog_additionalpocohudtrackers_showbloodthirstmeleeboostgauge_title",
+			"description" : "tog_additionalpocohudtrackers_showbloodthirstmeleeboostgauge_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowBloodthirstMeleeBoostGauge",
+			"value" : "ShowBloodthirstMeleeBoostGauge",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showbloodthirstreloadboostduration",
+			"title" : "tog_additionalpocohudtrackers_showbloodthirstreloadboostduration_title",
+			"description" : "tog_additionalpocohudtrackers_showbloodthirstreloadboostduration_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowBloodthirstReloadBoostDuration",
+			"value" : "ShowBloodthirstReloadBoostDuration",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showdodgechancegauge",
+			"title" : "tog_additionalpocohudtrackers_showdodgechancegauge_title",
+			"description" : "tog_additionalpocohudtrackers_showdodgechancegauge_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowDodgeChanceGauge",
+			"value" : "ShowDodgeChanceGauge",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showpersistentdodgechancegauge",
+			"title" : "tog_additionalpocohudtrackers_showpersistentdodgechancegauge_title",
+			"description" : "tog_additionalpocohudtrackers_showpersistentdodgechancegauge_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowPersistentDodgeChanceGauge",
+			"value" : "ShowPersistentDodgeChanceGauge",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showsixthsenseinitial",
+			"title" : "tog_additionalpocohudtrackers_showsixthsenseinitial_title",
+			"description" : "tog_additionalpocohudtrackers_showsixthsenseinitial_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowSixthSenseInitial",
+			"value" : "ShowSixthSenseInitial",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showsixthsensesubsequent",
+			"title" : "tog_additionalpocohudtrackers_showsixthsensesubsequent_title",
+			"description" : "tog_additionalpocohudtrackers_showsixthsensesubsequent_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowSixthSenseSubsequent",
+			"value" : "ShowSixthSenseSubsequent",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showsixthsensehighlighted",
+			"title" : "tog_additionalpocohudtrackers_showsixthsensehighlighted_title",
+			"description" : "tog_additionalpocohudtrackers_showsixthsensehighlighted_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowSixthSenseHighlighted",
+			"value" : "ShowSixthSenseHighlighted",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showanarchistregentick",
+			"title" : "tog_additionalpocohudtrackers_showanarchistregentick_title",
+			"description" : "tog_additionalpocohudtrackers_showanarchistregentick_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowAnarchistRegenTick",
+			"value" : "ShowAnarchistRegenTick",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showpersistentanarchistregentick",
+			"title" : "tog_additionalpocohudtrackers_showpersistentanarchistregentick_title",
+			"description" : "tog_additionalpocohudtrackers_showpersistentanarchistregentick_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowPersistentAnarchistRegenTick",
+			"value" : "ShowPersistentAnarchistRegenTick",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showanarchistdmgcooldown",
+			"title" : "tog_additionalpocohudtrackers_showanarchistdmgcooldown_title",
+			"description" : "tog_additionalpocohudtrackers_showanarchistdmgcooldown_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowAnarchistDmgCooldown",
+			"value" : "ShowAnarchistDmgCooldown",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showbikerkillsgauge",
+			"title" : "tog_additionalpocohudtrackers_showbikerkillsgauge_title",
+			"description" : "tog_additionalpocohudtrackers_showbikerkillsgauge_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowBikerKillsGauge",
+			"value" : "ShowBikerKillsGauge",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showbikercooldown",
+			"title" : "tog_additionalpocohudtrackers_showbikercooldown_title",
+			"description" : "tog_additionalpocohudtrackers_showbikercooldown_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowBikerCooldown",
+			"value" : "ShowBikerCooldown",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showuppersrangegauge",
+			"title" : "tog_additionalpocohudtrackers_showuppersrangegauge_title",
+			"description" : "tog_additionalpocohudtrackers_showuppersrangegauge_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowUppersRangeGauge",
+			"value" : "ShowUppersRangeGauge",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showupperscooldown",
+			"title" : "tog_additionalpocohudtrackers_showupperscooldown_title",
+			"description" : "tog_additionalpocohudtrackers_showupperscooldown_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowUppersCooldown",
+			"value" : "ShowUppersCooldown",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showlockandloadreloadboost",
+			"title" : "tog_additionalpocohudtrackers_showlockandloadreloadboost_title",
+			"description" : "tog_additionalpocohudtrackers_showlockandloadreloadboost_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowLockAndLoadReloadBoost",
+			"value" : "ShowLockAndLoadReloadBoost",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showsociopathcooldowns",
+			"title" : "tog_additionalpocohudtrackers_showsociopathcooldowns_title",
+			"description" : "tog_additionalpocohudtrackers_showsociopathcooldowns_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowSociopathCooldowns",
+			"value" : "ShowSociopathCooldowns",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showbulletstormduration",
+			"title" : "tog_additionalpocohudtrackers_showbulletstormduration_title",
+			"description" : "tog_additionalpocohudtrackers_showbulletstormduration_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowBulletstormDuration",
+			"value" : "ShowBulletstormDuration",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showbulletstormpotential",
+			"title" : "tog_additionalpocohudtrackers_showbulletstormpotential_title",
+			"description" : "tog_additionalpocohudtrackers_showbulletstormpotential_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowBulletstormPotential",
+			"value" : "ShowBulletstormPotential",
+			"default_value" : true
+		},
+		{
+			"type" : "divider",
+			"size" : "20"
+		},
+		{
+			"type" : "button",
+			"id" : "btn_additionalpocohudtrackers_extrasheader",
+			"title" : "btn_additionalpocohudtrackers_extrasheader_title",
+			"description" : "btn_additionalpocohudtrackers_extrasheader_desc",
+			"callback" : "AdditionalPocoHudTrackers_ExtrasHeader"
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_showanarchistregengain",
+			"title" : "tog_additionalpocohudtrackers_showanarchistregengain_title",
+			"description" : "tog_additionalpocohudtrackers_showanarchistregengain_desc",
+			"callback" : "AdditionalPocoHudTrackers_ShowAnarchistRegenGain",
+			"value" : "ShowAnarchistRegenGain",
+			"default_value" : true
+		},
+		{
+			"type" : "divider",
+			"size" : "20"
+		},
+		{
+			"type" : "button",
+			"id" : "btn_additionalpocohudtrackers_performanceheader",
+			"title" : "btn_additionalpocohudtrackers_performanceheader_title",
+			"description" : "btn_additionalpocohudtrackers_performanceheader_desc",
+			"callback" : "AdditionalPocoHudTrackers_PerformanceHeader"
+		},
+		{
+			"type" : "slider",
+			"id" : "sld_additionalpocohudtrackers_maniacaccumulatedstacksresolution",
+			"title" : "sld_additionalpocohudtrackers_maniacaccumulatedstacksresolution_title",
+			"description" : "sld_additionalpocohudtrackers_maniacaccumulatedstacksresolution_desc",
+			"callback" : "AdditionalPocoHudTrackers_SetManiacAccumulatedStacksResolution",
+			"value" : "ManiacAccumulatedStacksResolution",
+			"default_value" : 2,
+			"max" : 10,
+			"min" : 1,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "sld_additionalpocohudtrackers_direneedresolution",
+			"title" : "sld_additionalpocohudtrackers_direneedresolution_title",
+			"description" : "sld_additionalpocohudtrackers_direneedresolution_desc",
+			"callback" : "AdditionalPocoHudTrackers_SetDireNeedResolution",
+			"value" : "DireNeedResolution",
+			"default_value" : 4,
+			"max" : 10,
+			"min" : 1,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "sld_additionalpocohudtrackers_bikerkillsgaugeresolution",
+			"title" : "sld_additionalpocohudtrackers_bikerkillsgaugeresolution_title",
+			"description" : "sld_additionalpocohudtrackers_bikerkillsgaugeresolution_desc",
+			"callback" : "AdditionalPocoHudTrackers_SetBikerKillsGaugeResolution",
+			"value" : "BikerKillsGaugeResolution",
+			"default_value" : 2,
+			"max" : 10,
+			"min" : 1,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "sld_additionalpocohudtrackers_uppersrangeresolution",
+			"title" : "sld_additionalpocohudtrackers_uppersrangeresolution_title",
+			"description" : "sld_additionalpocohudtrackers_uppersrangeresolution_desc",
+			"callback" : "AdditionalPocoHudTrackers_SetUppersRangeResolution",
+			"value" : "UppersRangeResolution",
+			"default_value" : 4,
+			"max" : 25,
+			"min" : 1,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "sld_additionalpocohudtrackers_lockandloadresolution",
+			"title" : "sld_additionalpocohudtrackers_lockandloadresolution_title",
+			"description" : "sld_additionalpocohudtrackers_lockandloadresolution_desc",
+			"callback" : "AdditionalPocoHudTrackers_SetLockAndLoadResolution",
+			"value" : "LockAndLoadResolution",
+			"default_value" : 4,
+			"max" : 15,
+			"min" : 1,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "sld_additionalpocohudtrackers_bulletstormpotentialresolution",
+			"title" : "sld_additionalpocohudtrackers_bulletstormpotentialresolution_title",
+			"description" : "sld_additionalpocohudtrackers_bulletstormpotentialresolution_desc",
+			"callback" : "AdditionalPocoHudTrackers_SetBulletstormPotentialResolution",
+			"value" : "BulletstormPotentialResolution",
+			"default_value" : 4,
+			"max" : 10,
+			"min" : 1,
+			"step" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : "40"
+		},
+		{
+			"type" : "button",
+			"id" : "btn_additionalpocohudtrackers_reset",
+			"title" : "btn_additionalpocohudtrackers_reset_title",
+			"description" : "btn_additionalpocohudtrackers_reset_desc",
+			"callback" : "AdditionalPocoHudTrackers_Reset"
+		},
+		{
+			"type" : "divider",
+			"size" : "40"
+		},
+		{
+			"type" : "button",
+			"id" : "btn_additionalpocohudtrackers_experimentalheader",
+			"title" : "btn_additionalpocohudtrackers_experimentalheader_title",
+			"description" : "btn_additionalpocohudtrackers_experimentalheader_desc",
+			"callback" : "AdditionalPocoHudTrackers_ExperimentalHeader"
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_togglehookpocohudreload",
+			"title" : "tog_additionalpocohudtrackers_togglehookpocohudreload_title",
+			"description" : "tog_additionalpocohudtrackers_togglehookpocohudreload_desc",
+			"callback" : "AdditionalPocoHudTrackers_ToggleHookPocoHudReload",
+			"value" : "ToggleHookPocoHudReload",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_disablepocohudinterpolation",
+			"title" : "tog_additionalpocohudtrackers_disablepocohudinterpolation_title",
+			"description" : "tog_additionalpocohudtrackers_disablepocohudinterpolation_desc",
+			"callback" : "AdditionalPocoHudTrackers_DisablePocoHudInterpolation",
+			"value" : "DisablePocoHudInterpolation",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_additionalpocohudtrackers_disablepocohudhitflashes",
+			"title" : "tog_additionalpocohudtrackers_disablepocohudhitflashes_title",
+			"description" : "tog_additionalpocohudtrackers_disablepocohudhitflashes_desc",
+			"callback" : "AdditionalPocoHudTrackers_DisablePocoHudHitFlashes",
+			"value" : "DisablePocoHudHitFlashes",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : "20"
+		}
+	]
+}

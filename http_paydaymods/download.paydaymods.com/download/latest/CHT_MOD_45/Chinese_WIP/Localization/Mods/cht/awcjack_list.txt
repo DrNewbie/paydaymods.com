@@ -1,0 +1,17 @@
+{
+  "link": "https://bitbucket.org/awcjack/payday-2-cwip-mod-text/raw/master/awcjack/",
+  "list": [
+    {
+      "name": "BLT",
+      "tag": "BLT.json"
+    },
+    {
+      "name": "中文化模組",
+      "tag": "cht_WIP.json"
+    },
+    {
+      "name": "Real Weapon Name (From Wolfhud)",
+      "tag": "RealWeaponName.json"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+	"menu_id" : "waypointtweaks_menu_id",
+	"parent_menu_id" : "blt_options",
+	"title" : "waypointtweaks_menu_title",
+	"description" : "waypointtweaks_menu_desc",
+	"focus_changed_callback" : "WaypointTweaks_Focus",
+	"back_callback" : "WaypointTweaks_SaveSettings",
+	"area_bg" : "half",
+	"items" : [
+		{
+			"type" : "slider",
+			"id" : "sld_waypointtweaks_duration",
+			"title" : "sld_waypointtweaks_duration_title",
+			"description" : "sld_waypointtweaks_duration_desc",
+			"callback" : "WaypointTweaks_SetDuration",
+			"value" : "Duration",
+			"default_value" : 1,
+			"max" : 2.0,
+			"min" : 0.0,
+			"step" : 0.05
+		},
+		{
+			"type" : "slider",
+			"id" : "sld_waypointtweaks_radius",
+			"title" : "sld_waypointtweaks_radius_title",
+			"description" : "sld_waypointtweaks_radius_desc",
+			"callback" : "WaypointTweaks_SetRadius",
+			"value" : "Radius",
+			"default_value" : 160,
+			"max" : 355,
+			"min" : 5,
+			"step" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : "20"
+		},
+		{
+			"type" : "button",
+			"id" : "btn_waypointtweaks_reset",
+			"title" : "btn_waypointtweaks_reset_title",
+			"description" : "btn_waypointtweaks_reset_desc",
+			"callback" : "WaypointTweaks_Reset"
+		}
+	]
+}

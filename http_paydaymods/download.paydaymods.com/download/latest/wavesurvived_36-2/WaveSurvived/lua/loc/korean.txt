@@ -1,0 +1,117 @@
+{
+    "WaveSurvived_compatibility_title" : "Wave Survived 모드 설정",
+    "WaveSurvived_compatibility_desc" : "모드 호환성을 변경합니다.",
+    "WaveSurvived_item_title" : "모드 호한성",
+    "WaveSurvived_item_desc" : "다른 HUD모드를 사용하신다면 변경해 주시기 바랍니다, 게임 팅김 현상이 일어날 수 있으니, 적용 후 재시작이 필요합니다.",
+
+    "WaveSurvived_language_title" : "언어",
+    "WaveSurvived_language_desc" : "언어를 변경합니다 - 재시작이 필요합니다.",
+    "WaveSurvived_language_english" : "영어",
+    "WaveSurvived_language_french" : "프랑스어",
+    "WaveSurvived_language_russian" : "러시아어",
+    "WaveSurvived_language_italian" : "이탈리아어",
+    "WaveSurvived_language_german" : "독일어",
+    "WaveSurvived_language_spanish" : "스페인어",
+    "WaveSurvived_language_hungarian" : "헝가리어",
+	"WaveSurvived_language_korean" : "한국어",
+
+    "WaveSurvived_no_hud" : "기본 HUD",
+    "WaveSurvived_nepgearsy_hud" : "Nepgearsy HUD",
+    "WaveSurvived_holoui" : "HoloUI",
+    "WaveSurvived_restoration" : "Restoration Mod",
+    "WaveSurvived_pdthhud" : "PDTH Hud",
+    "WaveSurvived_lddghud" : "LDDG Hud",
+    "WaveSurvived_void" : "Void UI",
+    
+
+    "WaveSurvived_duration_title" : "지속 시간",
+    "WaveSurvived_duration_desc" : "지속시간을 선택합니다. Restoration 모드는 지원 안합니다.",
+
+    "WaveSurvived_duration_original" : "기본 (8.6초)",
+    "WaveSurvived_duration_15sec" : "15초",
+    "WaveSurvived_duration_20sec" : "20초",
+    "WaveSurvived_duration_25sec" : "25초",
+    "WaveSurvived_duration_infinite" : "무한",
+
+    "WaveSurvived_customtext_title" : "내용 변경 (WS)",
+    "WaveSurvived_customtext_desc" : "글자를 변경합니다. HoloUI, Restoration 모드는 기본만 지원합니다.",
+
+    "WaveSurvived_customtext_1" : "웨이브 생존",
+    "WaveSurvived_customtext_2" : "생존",
+    "WaveSurvived_customtext_3" : "강습 생존",
+    "WaveSurvived_customtext_4" : "강습 종료",
+    "WaveSurvived_customtext_5" : "응 안 끝났어",
+
+    "WaveSurvived_custompanelcolor_title" : "사용자 색상 (WS)",
+    "WaveSurvived_custompanelcolor_desc" : "색상을 변경합니다. HoloUI는 지원 안합니다.",
+
+    "WaveSurvived_custompanelcolor_1" : "초록라임색 (기본)",
+    "WaveSurvived_custompanelcolor_2" : "노랑",
+    "WaveSurvived_custompanelcolor_3" : "빨강",
+    "WaveSurvived_custompanelcolor_4" : "시안",
+    "WaveSurvived_custompanelcolor_5" : "주황",
+    "WaveSurvived_custompanelcolor_6" : "사용자 설정",
+
+    "WaveSurvived_custompanelcolor_customslider_red_title" : "빨강 (WS)",
+    "WaveSurvived_custompanelcolor_customslider_red_desc" : "빨강의 수치를 변경합니다 (RGB Format)",
+    "WaveSurvived_custompanelcolor_customslider_green_title" : "초록 (WS)",
+    "WaveSurvived_custompanelcolor_customslider_green_desc" : "초록의 수치를 변경합니다 (RGB Format)",
+    "WaveSurvived_custompanelcolor_customslider_blue_title" : "파랑 (WS)",
+    "WaveSurvived_custompanelcolor_customslider_blue_desc" : "파란색의 수치를 변경합니다 (RGB Format)",
+
+    "WaveSurvived_custompanelcolor_endless_title" : "사용자 색상 (EW)",
+    "WaveSurvived_custompanelcolor_endless_desc" : "색상을 변경합니다.",
+
+    "WaveSurvived_custompanelcolor_endless_1" : "빨간색 (기본)",
+    "WaveSurvived_custompanelcolor_endless_2" : "노란색",
+    "WaveSurvived_custompanelcolor_endless_3" : "초록라임색",
+    "WaveSurvived_custompanelcolor_endless_4" : "시안",
+    "WaveSurvived_custompanelcolor_endless_5" : "오렌지",
+    "WaveSurvived_custompanelcolor_endless_6" : "사용자 설정",
+
+    "WaveSurvived_custompanelcolor_endless_customslider_red_title" : "빨간색 (EW)",
+    "WaveSurvived_custompanelcolor_endless_customslider_red_desc" : "빨간색의 수치 (RGB Format)",
+    "WaveSurvived_custompanelcolor_endless_customslider_green_title" : "Green (EW)",
+    "WaveSurvived_custompanelcolor_endless_customslider_green_desc" : "초록색의 수치를 변경합니다 (RGB Format)",
+    "WaveSurvived_custompanelcolor_endless_customslider_blue_title" : "Blue (EW)",
+    "WaveSurvived_custompanelcolor_endless_customslider_blue_desc" : "파란색의 수치를 변경합니다 (RGB Format)",
+
+    "WaveSurvived_custompanelcolor_website_title" : "RGB color에 대한 웹사이트",
+    "WaveSurvived_custompanelcolor_website_desc" : "RGB format으로 정확한 색상을 찾는걸 도와줍니다. Steam overlay(이)가 적용되어 있어야 합니다.",
+    
+    "WaveSurvived_endless_customtext_title" : "내용 커스텀 (EW)",
+    "WaveSurvived_endless_customtext_desc" : "칸에 들어갈 내용을 변경합니다.",
+
+    "WaveSurvived_endless_customtext_1" : "무한 웨이브 진행중",
+    "WaveSurvived_endless_customtext_2" : "무한 강습 진행중",
+    "WaveSurvived_endless_customtext_3" : "무한 강습",
+    "WaveSurvived_endless_customtext_4" : "절대 끝나지 않는다",
+
+    "WaveSurvived_alert_compatibility_title" : "Wave Survived: 호환성 문제",
+    "WaveSurvived_alert_compatibility_message" : "모드 설정에서 호환성에 문제가 생겼습니다, 아니면 이 모드와 게임을 처음 실행하셨군요.\n\nWave Survived 모드의 호환성이 변경되었습니다.",
+    "WaveSurvived_alert_compatibility_button_ok" : "확인",
+
+    "WaveSurvived_enable_checks_title" : "자동 설정 켜기",
+    "WaveSurvived_enable_checks_desc" : "HUD 호환성을 자동으로 변경해 줍니다",
+
+    "assault_survived_1_name" : "Assault Survived I",
+    "assault_survived_1_desc" : "",
+    "assault_survived_1_objective" : "Survive the police assault 5 times.",
+
+    "assault_survived_2_name" : "Assault Survived II",
+    "assault_survived_2_desc" : "",
+    "assault_survived_2_objective" : "Survive the police assault 30 times.",
+
+    "assault_survived_3_name" : "Assault Survived III",
+    "assault_survived_3_desc" : "",
+    "assault_survived_3_objective" : "Survive the police assault 75 times.",
+
+    "assault_survived_4_name" : "Assault Survived IV",
+    "assault_survived_4_desc" : "",
+    "assault_survived_4_objective" : "Survive the police assault 200 times.",
+
+    "assault_survived_5_name" : "Assault Survived V",
+    "assault_survived_5_desc" : "",
+    "assault_survived_5_objective" : "Survive the police assault 500 times."
+
+}

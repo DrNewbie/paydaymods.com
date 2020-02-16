@@ -1,0 +1,52 @@
+{
+	"menu_id" : "khud_menu_panel_healthbar",
+	"parent_menu_id" : "khud_menu_panels",
+	"title" : "khud_menu_healthbar_title",
+	"description" : "khud_menu_healthbar_desc",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "khud_panel_healthbar_custom_xy",
+			"title" : "khud_panel_healthbar_custom_xy_title",
+			"description" : "khud_panel_healthbar_custom_xy_desc",
+			"callback" : "callback_khud_panel_healthbar_custom_xy",
+			"value" : "healthbar_panel_custom_xy"
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_panel_healthbar_set_x",
+			"title" : "khud_panel_healthbar_set_x_title",
+			"description" : "khud_panel_healthbar_set_x_desc",
+			"callback" : "callback_khud_panel_healthbar_set_x",
+			"value" : "healthbar_panel_x",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 2000,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_panel_healthbar_set_y",
+			"title" : "khud_panel_healthbar_set_y_title",
+			"description" : "khud_panel_healthbar_set_y_desc",
+			"callback" : "callback_khud_panel_healthbar_set_y",
+			"value" : "healthbar_panel_y",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 2000,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_panel_healthbar_set_scale",
+			"title" : "khud_panel_healthbar_set_scale_title",
+			"description" : "khud_panel_healthbar_set_scale_desc",
+			"callback" : "callback_khud_panel_healthbar_set_scale",
+			"value" : "healthbar_panel_scale",
+			"default_value" : 1,
+			"min" : 0.01,
+			"max" : 2,
+			"step" : 0.01
+		}
+	]
+}

@@ -1,0 +1,130 @@
+{
+	"menu_id" : "wac_menu_ar_hk416c",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_hk416c_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hk416longb",
+			"title" : "wac_replace_hk416longb_title",
+			"callback" : "callback_toggle_replace_hk416longb",
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_hk416longb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hk416jpre",
+			"title" : "wac_replace_hk416jpre_title",
+			"callback" : "callback_toggle_replace_hk416jpre",		
+			"items" : [
+				"wac_default_multi",
+				"firepig_multi",
+				"tank_multi",
+				"stubby_multi",
+				"surefire_multi",
+				"linear_multi",
+				"jprifles_multi",
+				"battle_multi",
+				"stndfhider_multi"
+			],
+			"value" : "replace_hk416jpre",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hk416ccomp",
+			"title" : "wac_replace_useflashhider_title",
+			"callback" : "callback_toggle_replace_hk416ccomp",
+			"items" : [
+				"wac_default_multi",
+				"stndfhider_multi",
+				"hk416jpre_multi"
+			],
+			"value" : "replace_hk416ccomp",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_usehk416cgrip",
+			"title" : "wac_replace_usestndgrip_title",
+			"callback" : "callback_toggle_replace_usehk416cgrip",
+			"value" : "replace_usehk416cgrip",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hk416ccmag",
+			"title" : "wac_replace_cmag_title",
+			"callback" : "callback_toggle_replace_hk416ccmag",
+			"items" : [
+				"wac_default_multi",
+				"quadstack_multi",
+				"betacmag_multi",
+				"20rndstanag_multi",
+				"30rndstanag_multi",
+				"pmag_multi",
+				"l5_multi",
+				"emag_multi",
+				"augmag_multi"
+			],
+			"value" : "replace_hk416ccmag",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hk416stock",
+			"title" : "wac_replace_stockuseonly_title",
+			"callback" : "callback_toggle_replace_hk416stock",		
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi",
+				"m4_s_pts_multi",
+				"foldst_multi",
+				"m4_s_crane_multi",
+				"m16solidst_multi",
+				"m4_s_stnd_multi",
+				"hk417st_multi",
+				"m4_vltor_multi"
+			],
+			"value" : "replace_hk416stock",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hk416cvertgrip",
+			"title" : "wac_replace_stndvertgrip_title",
+			"callback" : "callback_toggle_replace_hk416cvertgrip",		
+			"items" : [
+				"wac_default_multi",
+				"stubbygrip_multi",
+				"vertgrip_multi",
+				"afg2_multi",
+				"vectorvert_multi",
+				"surefirem900_multi",
+				"novertgrip_multi"
+			],
+			"value" : "replace_hk416cvertgrip",
+			"default_value" : 1
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name" : "Sell All Items",
+	"description" : "Adds the ability to sell all inventory items of a given category: Primary weapons, Secondary weapons, or Masks. (Located in Mod Options)",
+	"author" : "Offyerrocker",
+	"image" : "sell.png",
+	"color" : "64 128 255",
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "1.1",
+	"blt_version" : 2,
+	"updates" : [
+		{
+			"identifier" : "sellsellsell"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		}
+	]
+}

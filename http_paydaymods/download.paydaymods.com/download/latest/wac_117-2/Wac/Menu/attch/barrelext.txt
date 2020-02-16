@@ -1,0 +1,267 @@
+{
+	"menu_id" : "wac_menu_attch_barrelext",
+	"parent_menu_id" : "wac_menu_attch",
+	"title" : "wac_menu_attch_barrelext_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_jprifles",
+			"title" : "wac_replace_jprifles_title",
+			"callback" : "callback_toggle_replace_jprifles",		
+			"items" : [
+				"wac_default_multi",
+				"firepig_multi",
+				"tank_multi",
+				"stubby_multi",
+				"surefire_multi",
+				"linear_multi",
+				"battle_multi",
+				"wac_selectable_multi",
+				"wac_selectable2_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_jprifles",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_firepig",
+			"title" : "wac_replace_firepig_title",
+			"callback" : "callback_toggle_replace_firepig",		
+			"items" : [
+				"wac_default_multi",
+				"jprifles_multi",
+				"tank_multi",
+				"stubby_multi",
+				"surefire_multi",
+				"linear_multi",
+				"battle_multi",
+				"wac_selectable_multi",
+				"wac_selectable2_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_firepig",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_linear",
+			"title" : "wac_replace_linear_title",
+			"callback" : "callback_toggle_replace_linear",		
+			"items" : [
+				"wac_default_multi",
+				"jprifles_multi",
+				"firepig_multi",
+				"tank_multi",
+				"stubby_multi",
+				"surefire_multi",
+				"battle_multi",
+				"wac_selectable_multi",
+				"wac_selectable2_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_linear",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_stubby",
+			"title" : "wac_replace_stubby_title",
+			"callback" : "callback_toggle_replace_stubby",		
+			"items" : [
+				"wac_default_multi",
+				"jprifles_multi",
+				"firepig_multi",
+				"tank_multi",
+				"surefire_multi",
+				"linear_multi",
+				"battle_multi",
+				"wac_selectable_multi",
+				"wac_selectable2_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_stubby",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_surefire",
+			"title" : "wac_replace_surefire_title",
+			"callback" : "callback_toggle_replace_surefire",		
+			"items" : [
+				"wac_default_multi",
+				"jprifles_multi",
+				"firepig_multi",
+				"tank_multi",
+				"stubby_multi",
+				"linear_multi",
+				"battle_multi",
+				"wac_selectable_multi",
+				"wac_selectable2_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_surefire",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_selectablebarrelext",
+			"title" : "wac_replace_selectablemodel_title",
+			"callback" : "callback_toggle_replace_selectablebarrelext",		
+			"items" : [
+				"wac_menu_ar_scarh_title",
+				"wac_menu_ar_vhs_title",
+				"wac_menu_ar_hk416c_title",
+				"hk416jpre_multi",
+				"wac_menu_smg_cz805_title"
+			],
+			"value" : "replace_selectablebarrelext",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_selectablebarrelext2",
+			"title" : "wac_replace_selectablemodel2_title",
+			"callback" : "callback_toggle_replace_selectablebarrelext2",		
+			"items" : [
+				"wac_menu_ar_scarh_title",
+				"wac_menu_ar_vhs_title",
+				"wac_menu_ar_hk416c_title",
+				"hk416jpre_multi",
+				"wac_menu_smg_cz805_title"
+			],
+			"value" : "replace_selectablebarrelext2",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_kingbreach",
+			"title" : "wac_replace_kingbreach_title",
+			"callback" : "callback_toggle_replace_kingbreach",		
+			"items" : [
+				"wac_default_multi",
+				"sharkbrake_multi",
+				"firepig_multi",
+				"stubby_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_kingbreach",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sharkbrake",
+			"title" : "wac_replace_sharkbrake_title",
+			"callback" : "callback_toggle_replace_sharkbrake",		
+			"items" : [
+				"wac_default_multi",
+				"kingbreach_multi",
+				"firepig_multi",
+				"stubby_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_sharkbrake",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_duckbill",
+			"title" : "wac_replace_duckbill_title",
+			"callback" : "callback_toggle_replace_duckbill",		
+			"items" : [
+				"wac_default_multi",
+				"sharkbrake_multi",
+				"kingbreach_multi",
+				"firepig_multi",
+				"stubby_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_duckbill",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_pisflashhider",
+			"title" : "wac_replace_pisflashhider_title",
+			"callback" : "callback_toggle_replace_pisflashhider",		
+			"items" : [
+				"wac_default_multi",
+				"pistenderizer_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_pisflashhider",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_pistenderizer",
+			"title" : "wac_replace_pistenderizer_title",
+			"callback" : "callback_toggle_replace_pistenderizer",		
+			"items" : [
+				"wac_default_multi",
+				"pisflashhider_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_pistenderizer",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_ipsccomp",
+			"title" : "wac_replace_ipsccomp_title",
+			"callback" : "callback_toggle_replace_ipsccomp",		
+			"items" : [
+				"wac_default_multi",
+				"pisflashhider_multi",
+				"pistenderizer_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_ipsccomp",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_hidebarrelextarsmg",
+			"title" : "wac_replace_hidebarrelextarsmg_title",
+			"callback" : "callback_toggle_replace_hidebarrelextarsmg",
+			"value" : "replace_hidebarrelextarsmg",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_hidebarrelextsh",
+			"title" : "wac_replace_hidebarrelextsh_title",
+			"callback" : "callback_toggle_replace_hidebarrelextsh",
+			"value" : "replace_hidebarrelextsh",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_hidebarrelextpis",
+			"title" : "wac_replace_hidebarrelextpis_title",
+			"callback" : "callback_toggle_replace_hidebarrelextpis",
+			"value" : "replace_hidebarrelextpis",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_hidebarrelextunique",
+			"title" : "wac_replace_hidebarrelextunique_title",
+			"callback" : "callback_toggle_replace_hidebarrelextunique",
+			"value" : "replace_hidebarrelextunique",
+			"default_value" : false
+		}
+	]
+}

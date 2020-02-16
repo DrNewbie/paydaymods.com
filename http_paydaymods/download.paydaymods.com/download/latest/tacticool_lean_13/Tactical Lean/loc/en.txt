@@ -1,0 +1,13 @@
+{
+	"taclean_title" : "Tactical Leaning mod menu",
+	"taclean_togglelean_title" : "Toggle Lean",
+	"taclean_togglelean_desc" : "If enabled, press once to lean in a direction; else, hold to lean in a direction.",
+	"taclean_keybind_right_title" : "Lean Right",
+	"taclean_keybind_right_desc" : "Bind a key to lean right",
+	"taclean_keybind_left_title" : "Lean Left",
+	"taclean_keybind_left_desc" : "Bind a key to lean left",
+	"taclean_slider_distance_title" : "Lean distance",
+	"taclean_slider_distance_desc" : "Change the distance to lean to",
+	"taclean_slider_angle_title" : "Lean angle",
+	"taclean_slider_angle_desc" : "Change the angle to lean at"
+}

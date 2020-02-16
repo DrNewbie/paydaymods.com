@@ -1,0 +1,43 @@
+{
+	"menu_id" : "wac_menu_misc",
+	"parent_menu_id" : "wac_menu",
+	"title" : "wac_menu_misc_title",
+	"description" : "wac_menu_misc_desc",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_weaponnames",
+			"title" : "wac_wacnames_title",
+			"description" : "wac_restartreloadneeded_desc",
+			"callback" : "callback_toggle_weaponnames",		
+			"items" : [
+				"wac_loc_pd2_multi",
+				"wac_loc_real_multi"
+			],
+			"value" : "weaponnames",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_pd2weaponnames",
+			"title" : "wac_pd2wpnnames_title",
+			"description" : "wac_restartreloadneeded_desc",
+			"callback" : "callback_toggle_pd2weaponnames",		
+			"items" : [
+				"wac_loc_pd2_multi",
+				"wac_loc_real_multi"
+			],
+			"value" : "pd2weaponnames",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_fixes",
+			"title" : "wac_fixes_title",
+			"description" : "wac_fixes_desc",
+			"callback" : "callback_toggle_fixes",
+			"value" : "fixes",
+			"default_value" : false
+		}
+	]
+}

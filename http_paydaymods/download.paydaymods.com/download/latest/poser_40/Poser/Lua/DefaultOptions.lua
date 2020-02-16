@@ -1,0 +1,14 @@
+Poser.loaded_options = {}
+Poser.loaded_options.Menu = {}
+Poser.loaded_options.Menu.Smoke = true
+Poser.loaded_options.Menu.Pattern = true
+Poser.loaded_options.Menu.Logo = true
+Poser.loaded_options.Menu.Deployables = true
+Poser.loaded_options.Menu.Particles = true
+Poser.loaded_options.Menu.Position_save = false
+Poser.loaded_options.Menu.Pose_save = false
+Poser.loaded_options.Menu.Weapon_update = true
+Poser.loaded_options.Menu.Save_yaw = false
+Poser.loaded_options.Menu.menu_deploy = true
+Poser.loaded_options.Menu.COPSafe = true
+Poser.loaded_options.Menu.ChristmasEffect = true

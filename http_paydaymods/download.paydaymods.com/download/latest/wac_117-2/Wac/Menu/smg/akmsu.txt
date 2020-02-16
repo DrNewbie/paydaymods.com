@@ -1,0 +1,183 @@
+{
+	"menu_id" : "wac_menu_smg_akmsu",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_akmsu_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_akmsupbs1",
+			"title" : "wac_replace_pbs1supp_title",
+			"callback" : "callback_toggle_replace_akmsupbs1",
+			"value" : "replace_akmsupbs1",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmsurail",
+			"title" : "wac_replace_akmsurail_title",
+			"callback" : "callback_toggle_replace_akmsurail",		
+			"items" : [
+				"wac_default_multi",
+				"akmsuzenit_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_akmsurail",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmsuzenit",
+			"title" : "wac_replace_akmsuzenit_title",
+			"callback" : "callback_toggle_replace_akmsuzenit",		
+			"items" : [
+				"wac_default_multi",
+				"akmsurail_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_akmsuzenit",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmsuquad",
+			"title" : "wac_replace_akquad_title",
+			"callback" : "callback_toggle_replace_akmsuquad",		
+			"items" : [
+				"wac_default_multi",
+				"rpkmag_multi",
+				"rpkdrummag_multi",
+				"akmmag_multi",
+				"ak74mag_multi",
+				"uspalm_ak30_multi"
+			],
+			"value" : "replace_akmsuquad",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmsuuspalm",
+			"title" : "wac_replace_akuspalm_title",
+			"callback" : "callback_toggle_replace_akmsuuspalm",		
+			"items" : [
+				"wac_default_multi",
+				"akmmag_multi",
+				"ak74mag_multi"
+			],
+			"value" : "replace_akmsuuspalm",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmsumagpulassist",
+			"title" : "wac_replace_magpulmagassist_title",
+			"callback" : "callback_toggle_replace_akmsumagpulassist",		
+			"items" : [
+				"wac_default_multi",
+				"akmmag_multi",
+				"ak74mag_multi"
+			],
+			"value" : "replace_akmsumagpulassist",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmsustock1",
+			"title" : "wac_replace_skelst_title",
+			"callback" : "callback_toggle_replace_akmsustock1",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi",
+				"skelst_multi",
+				"akpslst_multi",
+				"akclassst_multi",
+				"m4_s_stnd_multi",
+				"m4_s_pts_multi",
+				"m4_vltor_multi"
+			],
+			"value" : "replace_akmsustock1",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmsustock2",
+			"title" : "wac_replace_ar15_m4mk46_title",
+			"callback" : "callback_toggle_replace_akmsustock2",		
+			"items" : [
+				"wac_default_multi",
+				"skelst_multi",
+				"foldst_multi",
+				"akpslst_multi",
+				"akclassst_multi",
+				"rpkst_multi",
+				"rpkwoodst_multi",
+				"m4_s_stnd_multi",
+				"m4_s_pts_multi",
+				"m4_vltor_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_akmsustock2",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmsustock3",
+			"title" : "wac_replace_akclassicst_title",
+			"callback" : "callback_toggle_replace_akmsustock3",		
+			"items" : [
+				"wac_default_multi",
+				"skelst_multi",
+				"foldst_multi",
+				"akpslst_multi",
+				"rpkst_multi",
+				"rpkwoodst_multi",
+				"m4_s_stnd_multi",
+				"m4_s_pts_multi",
+				"m4_vltor_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_akmsustock3",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmsuupperrec",
+			"title" : "wac_replace_upperrec_title",
+			"callback" : "callback_toggle_replace_akmsuupperrec",		
+			"items" : [
+				"wac_default_multi",
+				"aksmoothcover_multi"
+			],
+			"value" : "replace_akmsuupperrec",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_akmsusingle",
+			"title" : "wac_replace_singlefire_title",
+			"description" : "wac_singlefiremode_desc",
+			"callback" : "callback_toggle_replace_akmsusingle",
+			"value" : "replace_akmsusingle",
+			"default_value" : false
+		}
+	]
+}

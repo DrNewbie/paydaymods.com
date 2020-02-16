@@ -1,0 +1,51 @@
+{
+	"menu_id" : "wac_menu_pis_p30l",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_p30l_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_p30lwickcomp",
+			"title" : "wac_replace_p30lwickcomp_title",
+			"callback" : "callback_toggle_replace_p30lwickcomp",
+			"value" : "replace_p30lwickcomp",
+			"default_value" : false
+		},		{
+			"type" : "toggle",
+			"id" : "toggle_replace_p30lwickcompsupp",
+			"title" : "wac_replace_p30lwickcompsupp_title",
+			"description" : "wac_requireadditionalmod_desc",
+			"callback" : "callback_toggle_replace_p30lwickcompsupp",
+			"value" : "replace_p30lwickcompsupp",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_p30lextmag",
+			"title" : "wac_replace_hideextmag_title",
+			"callback" : "callback_toggle_replace_p30lextmag",
+			"value" : "replace_p30lextmag",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_p30lfibersights",
+			"title" : "wac_replace_p30lfibersights_title",
+			"callback" : "callback_toggle_replace_p30lfibersights",		
+			"items" : [
+				"wac_default_multi",
+				"stndsights_multi"
+			],
+			"value" : "replace_p30lfibersights",
+			"default_value" : 1
+		}
+	]
+}

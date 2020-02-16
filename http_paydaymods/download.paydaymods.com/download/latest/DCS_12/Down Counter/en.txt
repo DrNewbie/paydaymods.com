@@ -1,0 +1,29 @@
+{
+	"dcs_title" : "Down Counter Standalone Options",
+	"dcs_chatmode_title" : "Chat Mode",
+	"dcs_chatmode_desc" : "Choose whom this mod announces to:",
+	"dcs_chatmode_a" : "Off [Silent]",
+	"dcs_chatmode_b" : "Only you",
+	"dcs_chatmode_c" : "Everyone",
+	"dcs_alertmode_title" : "Counter Mode",
+	"dcs_alertmode_desc" : "Choose whose downs this mod will announce",	                    
+	"dcs_alertmode_a" : "All Players",
+	"dcs_alertmode_b" : "Team Only",
+	"dcs_alertmode_c" : "Yours Only",
+	"dcs_downs_low_title" : "Announce Low Downs Only",
+	"dcs_downs_low_desc" : "Only announce downs when player is on their last life",
+	"dcs_custody_title" : "Announce going into Custody",
+	"dcs_custody_desc" : "Announce when a player goes into custody",
+	"dcs_docbags_title" : "Announce doctor bag use",
+	"dcs_docbags_desc" : "Announce when a player uses a doctor bag"
+	"dcs_extras_title" : "Announce misc player states",
+	"dcs_extras_desc" : "Announce when a player is tased/cloaked/cuffed",
+	"dcs_hudmode_title" : "Enable HUD Mode",
+	"dcs_hudmode_desc" : "Shows how many downs each player has via a number inside the health circle."
+}
+
+			
+			
+				
+				
+				

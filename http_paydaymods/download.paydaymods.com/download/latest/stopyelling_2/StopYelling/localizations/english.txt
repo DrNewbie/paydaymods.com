@@ -1,0 +1,12 @@
+{
+	"stopyelling_menu_title" : "Stop Yelling",
+	"stopyelling_menu_desc" : "Configure Stop Yelling options",
+
+	"tog_stopyelling_allowwhitelistedsounds_title" : "Allow whitelisted speech",
+	"tog_stopyelling_allowwhitelistedsounds_desc" : "Determines whether speech lines that do not have non-assault phase versions should be permitted to use their assault phase versions. Disabling this will cause certain speech lines (e.g. war cries) to be silent for affected voices",
+
+	"tog_stopyelling_affectdelayedsounds_title" : "Try to affect delayed speech",
+	"tog_stopyelling_affectdelayedsounds_desc" : "Determines whether speech lines that are delayed (e.g. special unit kill lines) should be forced to use their non-assault phase versions. Due to the way the game implements such speech, this mod cannot reliably override these speech lines 100% of the time, so a best effort approach is taken for this functionality",
+
+	"stopyelling_character_desc" : "Determines whether $character should be forced to use their non-assault speech lines"
+}

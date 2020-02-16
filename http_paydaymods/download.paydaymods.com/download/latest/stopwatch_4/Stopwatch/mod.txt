@@ -1,0 +1,42 @@
+{
+	"name": "Stopwatch",
+	"description": "Shows your current and best time for every completed objective/level",
+	"author": "jan-di",
+	"contact": "mail@jand.one",
+	"version": "1.1.0",
+	"blt_version": 2,
+	"color": "249 120 44",
+	"updates": [
+		{
+			"identifier": "stopwatch"
+		}
+	],
+	"pre_hooks": [
+		{
+			"hook_id": "lib/managers/menumanager",
+			"script_path": "src/init.lua"
+		}
+	],
+	"hooks": [
+		{
+			"hook_id": "lib/managers/localizationmanager",
+			"script_path": "src/hook/LocalizationManager.lua"
+		},
+		{
+			"hook_id": "lib/managers/menumanager",
+			"script_path": "src/hook/MenuManager.lua"
+		},
+		{
+			"hook_id": "lib/managers/objectivesmanager",
+			"script_path": "src/hook/ObjectivesManager.lua"
+		},
+		{
+			"hook_id": "lib/utils/game_state_machine/gamestatemachine",
+			"script_path": "src/hook/GameStateMachine.lua"
+		},
+		{
+			"hook_id": "lib/setups/setup",
+			"script_path": "src/hook/LuaNetworking.lua"
+		}
+	]
+}

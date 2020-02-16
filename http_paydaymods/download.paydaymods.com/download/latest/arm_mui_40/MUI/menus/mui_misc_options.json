@@ -1,0 +1,62 @@
+{
+	"menu_id" : "mui_misc_options",
+	"parent_menu_id" : "mui_options",
+	"position" : "section_3",
+	"subposition" : "after",
+	"back_callback" : "mui_save_options",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_font_pref",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_font_s",
+				"mui_font_m",
+				"mui_font_ms",
+				"mui_font_l"
+			],
+			"default_value" : 4
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_workspace",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_workspace_safe",
+				"mui_workspace_full"
+			],
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_mask_instruct",
+			"callback" : "mui_toggle_callback",
+			"default_value" : false
+		}
+		{
+			"type" : "toggle",
+			"id" : "mui_begin_hidden",
+			"callback" : "mui_toggle_callback",
+			"default_value" : false
+		}
+		{
+			"type" : "divider",
+			"size" : "10"
+		},
+		{
+			"type" : "button",
+			"id" : "mui_reset",
+			"callback" : "mui_reset_callback"
+		},
+		{
+			"type" : "divider",
+			"size" : "10"
+		},
+		{
+			"type" : "button",
+			"id" : "mui_reset_all",
+			"callback" : "mui_reset_all_callback"
+		}
+	]
+
+}

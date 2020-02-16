@@ -1,0 +1,76 @@
+{
+    "name" : "YOMC - BETA",
+    "description" : "This mod is in BETA. A detailed changelog can be found in the steam group.",
+    "author" : "2Cas, credit to DMC/LazyOzzy/B1313",
+    "contact" : "http://steamcommunity.com/groups/YOMCB",
+    "version" : "beta1.22a",
+    "priority" : 94,
+    "updates" : [
+			{
+				"revision" : 12.1,
+				"identifier" : "YOMC",
+			}
+	]
+    "hooks" :   [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "lua/YOMCSetup.lua" 
+		},
+		{ 
+			"hook_id" : "lib/managers/mission/elementmissionend", 
+			"script_path" : "lua/YOMCSetup.lua" 
+		},
+		{ 	
+			"hook_id" : "lib/units/weapons/raycastweaponbase",
+			"script_path" : "lua/YOMCSetup.lua" 
+		},
+		{ 	
+			"hook_id" : "lib/units/weapons/newraycastweaponbase",
+			"script_path" : "lua/YOMCSetup.lua" 
+		},
+		{ 	
+			"hook_id" : "lib/managers/blackmarketmanager",
+			"script_path" : "lua/YOMCSetup.lua" 
+		},
+		{ 	
+			"hook_id" : "lib/managers/menu/blackmarketgui",
+			"script_path" : "lua/YOMCSetup.lua" 
+		},
+    		{ 	
+			"hook_id" : "lib/tweak_data/blackmarkettweakdata",
+			"script_path" : "lua/YOMCSetup.lua" 
+		},
+		{ 	
+			"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "lua/YOMCSetup.lua"
+		},
+		{ 	
+			"hook_id" : "lib/managers/weaponfactorymanager",
+			"script_path" : "lua/YOMCSetup.lua"
+		},
+		{ 	
+			"hook_id" : "lib/tweak_data/upgradestweakdata",
+			"script_path" : "lua/YOMCSetup.lua"
+		},
+		{ 	
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "lua/YOMCSetup.lua"
+		},
+		{ 	
+			"hook_id" : "lib/units/weapons/akimboweaponbase",
+			"script_path" : "lua/YOMCSetup.lua"
+		},
+		{ 	
+			"hook_id" : "lib/managers/hudmanagerpd2",
+			"script_path" : "lua/YOMCSetup.lua"
+		},
+		{ 	
+			"hook_id" : "lib/managers/hud/hudteammate",
+			"script_path" : "lua/YOMCSetup.lua"
+		},
+		{ 	
+			"hook_id" : "lib/units/weapons/shotgun/newshotgunbase",
+			"script_path" : "lua/YOMCSetup.lua"
+		}
+	]
+}

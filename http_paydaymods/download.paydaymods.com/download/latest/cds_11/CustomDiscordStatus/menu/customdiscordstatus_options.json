@@ -1,0 +1,7 @@
+{
+    "menu_id": "customdiscordstatus_options",
+    "parent_menu_id": "blt_options",
+    "title": "customdiscordstatus_options",
+    "description": "customdiscordstatus_options_desc",
+    "items": []
+}

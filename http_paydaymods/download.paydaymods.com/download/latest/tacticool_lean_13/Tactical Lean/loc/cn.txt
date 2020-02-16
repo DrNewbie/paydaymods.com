@@ -1,0 +1,13 @@
+{
+	"taclean_title" : "战术倾斜MOD选项",
+	"taclean_togglelean_title" : "切换倾斜",
+	"taclean_togglelean_desc" : "如果启用，只需按一次即可以朝一个方向倾斜；否则，必须长按以倾斜于一个方向。",
+	"taclean_keybind_right_title" : "向右倾斜",
+	"taclean_keybind_right_desc" : "绑定一个键位应用于向右倾斜",
+	"taclean_keybind_left_title" : "向左倾斜",
+	"taclean_keybind_left_desc" : "绑定一个键位应用于向左倾斜",
+	"taclean_slider_distance_title" : "倾斜距离",
+	"taclean_slider_distance_desc" : "改变倾斜距离",
+	"taclean_slider_angle_title" : "倾斜角度",
+	"taclean_slider_angle_desc" : "改变倾斜角度"
+}

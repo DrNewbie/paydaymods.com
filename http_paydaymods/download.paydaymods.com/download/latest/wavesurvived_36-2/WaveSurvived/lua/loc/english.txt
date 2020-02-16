@@ -1,0 +1,115 @@
+{
+    "WaveSurvived_compatibility_title" : "Wave Survived Options",
+    "WaveSurvived_compatibility_desc" : "Change the mod compatibility for Wave Survived.",
+    "WaveSurvived_item_title" : "Mod compatibility",
+    "WaveSurvived_item_desc" : "You need to change the mod compatibility if you are using a different HUD. Otherwise, the game will crash. Restart the game to take effect.",
+
+    "WaveSurvived_language_title" : "Language",
+    "WaveSurvived_language_desc" : "Change the language of the mod - Restart the game to take effect.",
+    "WaveSurvived_language_english" : "English",
+    "WaveSurvived_language_french" : "French",
+    "WaveSurvived_language_russian" : "Russian",
+    "WaveSurvived_language_italian" : "Italian",
+    "WaveSurvived_language_german" : "German",
+    "WaveSurvived_language_spanish" : "Spanish",
+    "WaveSurvived_language_hungarian" : "Hungarian",
+    "WaveSurvived_language_korean" : "Korean",
+
+    "WaveSurvived_no_hud" : "No custom HUD",
+    "WaveSurvived_nepgearsy_hud" : "Nepgearsy HUD",
+    "WaveSurvived_holoui" : "HoloUI",
+    "WaveSurvived_restoration" : "Restoration Mod",
+    "WaveSurvived_pdthhud" : "PDTH Hud",
+    "WaveSurvived_lddghud" : "LDDG Hud",
+    "WaveSurvived_void" : "Void UI",
+
+    "WaveSurvived_duration_title" : "Duration",
+    "WaveSurvived_duration_desc" : "Choose the duration of the wave survived banner. Not compatible with Restoration Mod.",
+
+    "WaveSurvived_duration_original" : "Original (8.6 sec)",
+    "WaveSurvived_duration_15sec" : "15 sec",
+    "WaveSurvived_duration_20sec" : "20 sec",
+    "WaveSurvived_duration_25sec" : "25 sec",
+    "WaveSurvived_duration_infinite" : "Infinite",
+
+    "WaveSurvived_customtext_title" : "Custom Banner (WS)",
+    "WaveSurvived_customtext_desc" : "Customize the text of the Wave Survived banner. Only compatible with the default setup, HoloUI and Restoration Mod.",
+
+    "WaveSurvived_customtext_1" : "WAVE SURVIVED",
+    "WaveSurvived_customtext_2" : "SURVIVED",
+    "WaveSurvived_customtext_3" : "ASSAULT SURVIVED",
+    "WaveSurvived_customtext_4" : "ASSAULT ENDED",
+    "WaveSurvived_customtext_5" : "IT'S NOT OVER YET!",
+
+    "WaveSurvived_custompanelcolor_title" : "Custom Color (WS)",
+    "WaveSurvived_custompanelcolor_desc" : "Customize the Wave Survived panel color. Not compatible with HoloUI.",
+
+    "WaveSurvived_custompanelcolor_1" : "Green lime (default)",
+    "WaveSurvived_custompanelcolor_2" : "Yellow",
+    "WaveSurvived_custompanelcolor_3" : "Red",
+    "WaveSurvived_custompanelcolor_4" : "Cyan",
+    "WaveSurvived_custompanelcolor_5" : "Orange",
+    "WaveSurvived_custompanelcolor_6" : "Custom",
+
+    "WaveSurvived_custompanelcolor_customslider_red_title" : "Red (WS)",
+    "WaveSurvived_custompanelcolor_customslider_red_desc" : "Amount of red for Wave Survived (RGB Format)",
+    "WaveSurvived_custompanelcolor_customslider_green_title" : "Green (WS)",
+    "WaveSurvived_custompanelcolor_customslider_green_desc" : "Amount of green for Wave Survived (RGB Format)",
+    "WaveSurvived_custompanelcolor_customslider_blue_title" : "Blue (WS)",
+    "WaveSurvived_custompanelcolor_customslider_blue_desc" : "Amount of blue for Wave Survived (RGB Format)",
+
+    "WaveSurvived_custompanelcolor_endless_title" : "Custom Color (EW)",
+    "WaveSurvived_custompanelcolor_endless_desc" : "Customize the Endless Wave panel color.",
+
+    "WaveSurvived_custompanelcolor_endless_1" : "Red (default)",
+    "WaveSurvived_custompanelcolor_endless_2" : "Yellow",
+    "WaveSurvived_custompanelcolor_endless_3" : "Green lime",
+    "WaveSurvived_custompanelcolor_endless_4" : "Cyan",
+    "WaveSurvived_custompanelcolor_endless_5" : "Orange",
+    "WaveSurvived_custompanelcolor_endless_6" : "Custom",
+
+    "WaveSurvived_custompanelcolor_endless_customslider_red_title" : "Red (EW)",
+    "WaveSurvived_custompanelcolor_endless_customslider_red_desc" : "Amount of red for Endless Wave (RGB Format)",
+    "WaveSurvived_custompanelcolor_endless_customslider_green_title" : "Green (EW)",
+    "WaveSurvived_custompanelcolor_endless_customslider_green_desc" : "Amount of green for Endless Wave (RGB Format)",
+    "WaveSurvived_custompanelcolor_endless_customslider_blue_title" : "Blue (EW)",
+    "WaveSurvived_custompanelcolor_endless_customslider_blue_desc" : "Amount of blue for Endless Wave (RGB Format)",
+
+    "WaveSurvived_custompanelcolor_website_title" : "Website for RGB colors",
+    "WaveSurvived_custompanelcolor_website_desc" : "This will open a website to help you picking a precise color in RGB format. Steam overlay enabled required.",
+    
+    "WaveSurvived_endless_customtext_title" : "Custom Banner (EW)",
+    "WaveSurvived_endless_customtext_desc" : "Customize the text of the Endless Wave banner.",
+
+    "WaveSurvived_endless_customtext_1" : "ENDLESS WAVE IN PROGRESS",
+    "WaveSurvived_endless_customtext_2" : "ENDLESS ASSAULT IN PROGRESS",
+    "WaveSurvived_endless_customtext_3" : "ENDLESS ASSAULT",
+    "WaveSurvived_endless_customtext_4" : "THIS WILL NEVER END",
+
+    "WaveSurvived_alert_compatibility_title" : "Wave Survived : Compatibility Alert",
+    "WaveSurvived_alert_compatibility_message" : "It seems you are using the wrong compatibility in the mod options, or it's the first time you launch the game with this mod.\n\nWave Survived compatibility settings has been changed.",
+    "WaveSurvived_alert_compatibility_button_ok" : "OK",
+
+    "WaveSurvived_enable_checks_title" : "Enable auto-checks",
+    "WaveSurvived_enable_checks_desc" : "Tick to automatically change your HUD compatibility when it's needed at the startup.",
+
+    "assault_survived_1_name" : "Assault Survived I",
+    "assault_survived_1_desc" : "",
+    "assault_survived_1_objective" : "Survive the police assault 5 times.",
+
+    "assault_survived_2_name" : "Assault Survived II",
+    "assault_survived_2_desc" : "",
+    "assault_survived_2_objective" : "Survive the police assault 30 times.",
+
+    "assault_survived_3_name" : "Assault Survived III",
+    "assault_survived_3_desc" : "",
+    "assault_survived_3_objective" : "Survive the police assault 75 times.",
+
+    "assault_survived_4_name" : "Assault Survived IV",
+    "assault_survived_4_desc" : "",
+    "assault_survived_4_objective" : "Survive the police assault 200 times.",
+
+    "assault_survived_5_name" : "Assault Survived V",
+    "assault_survived_5_desc" : "",
+    "assault_survived_5_objective" : "Survive the police assault 500 times."
+}

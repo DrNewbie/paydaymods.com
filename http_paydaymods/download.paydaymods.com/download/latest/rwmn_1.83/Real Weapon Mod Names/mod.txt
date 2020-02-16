@@ -1,0 +1,20 @@
+{
+	"name" : "Noep's Real Weapon & Mod names",
+	"description" : "Full renaming of the weapons and mods present in PD2"
+	"author" : "DeadMansChest",
+	"contact" : "id/qt3_14",
+	"version" : "1.83",
+	"priority" : 70,
+	"updates" : [
+		{
+			"revision" : 1.83,
+			"identifier" : "reelnames",
+		}
+	]
+	"hooks" : [
+		{ 	
+			"hook_id" : "lib/managers/localizationmanager",
+			"script_path" : "RealNames.lua"
+		}
+	]
+}

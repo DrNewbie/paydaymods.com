@@ -1,0 +1,59 @@
+{
+    "name" : "Classic Gunplay Mod - Core",
+    "description" : "A gun rebalance mod trying to capture pre-greedfest gunplay feeling and fix the weapons which infamous OVK weapon rebalance failed to fix or straight-up ruined. With extras, like realism and balance enhancements, while still being balanced around and for classic vanilla gameplay.",
+    "author" : "Jon, Herr Lutter, including code from Blaze the Fox, DMCWO, A_Squared.",
+    "contact" : "http://steamcommunity.com/id/ACPL_Jon/ & http://steamcommunity.com/id/Herr_Lutter/",
+    "version" : "1.40",
+
+"updates" : [
+    {
+        "revision" : 140,
+        "identifier" : "JCGM_Core",
+    },
+    {
+        "revision" : 140,
+        "identifier" : "JCGM_Pistols",
+        "display_name" : "Classic Gunplay Mod - Pistols"
+    },
+    {
+        "revision" : 140,
+        "identifier" : "JCGM_LMGs",
+        "display_name" : "Classic Gunplay Mod - LMGs"
+    },
+    {
+        "revision" : 140,
+        "identifier" : "JCGM_Minigun",
+        "display_name" : "Classic Gunplay Mod - Minigun"
+    },
+    {
+        "revision" : 140,
+        "identifier" : "JCGM_Shotguns",
+        "display_name" : "Classic Gunplay Mod - Shotguns"
+    },
+    {
+        "revision" : 140,
+        "identifier" : "JCGM_RPG",
+        "display_name" : "Classic Gunplay Mod - RPG7"
+    },
+    {
+        "revision" : 140,
+        "identifier" : "JCGM_Akimbo",
+        "display_name" : "Classic Gunplay Mod - Akimbo"
+    },
+    {
+        "revision" : 140,
+        "identifier" : "JCGM_Melee",
+        "display_name" : "Classic Gunplay Mod - Melee"
+    }
+],
+	"persist_scripts" : [
+		{ "global" : "RebalanceAttachments", "script_path": "Rebalance_attach.lua"}
+	]
+
+	"hooks": [
+		{
+			"hook_id": "lib/tweak_data/weapontweakdata",
+			"script_path" : "Rebalance_weapons.lua"
+		}
+	]
+}

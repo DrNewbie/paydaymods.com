@@ -1,0 +1,36 @@
+{
+	"menu_id" : "wac_menu_sh_spikex1saiga",
+	"parent_menu_id" : "wac_menu_sh",
+	"title" : "wac_menu_sh_spikex1saiga_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_spikex1saigashortfg",
+			"title" : "wac_replace_spikex1saigashorfg_title",
+			"callback" : "callback_toggle_replace_spikex1saigashortfg",		
+			"items" : [
+				"wac_default_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_spikex1saigashortfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_spikex1saigaextmag",
+			"title" : "wac_replace_sgmtact_title",
+			"callback" : "callback_toggle_replace_spikex1saigaextmag",
+			"items" : [
+				"wac_default_multi",
+				"stndmag_multi",
+				"wac_saiga12kdrum_multi"
+			],
+			"value" : "replace_spikex1saigaextmag",
+			"default_value" : 1
+		}
+	]
+}

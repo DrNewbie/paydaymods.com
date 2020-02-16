@@ -1,0 +1,45 @@
+{
+	"menu_id" : "wac_menu_pis_hs2k",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_hs2k_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_hs2kextmag",
+			"title" : "wac_replace_hideextmag_title",
+			"callback" : "callback_toggle_replace_hs2kextmag",
+			"value" : "replace_hs2kextmag",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hs2kcustom",
+			"title" : "wac_replace_customsl_title",
+			"callback" : "callback_toggle_replace_hs2kcustom",		
+			"items" : [
+				"wac_default_multi",
+				"longsl_multi",
+				"stndslide_multi"
+			],
+			"value" : "replace_hs2kcustom",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hs2klong",
+			"title" : "wac_replace_longsl_title",
+			"callback" : "callback_toggle_replace_hs2klong",		
+			"items" : [
+				"wac_default_multi",
+				"custsl_multi",
+				"stndslide_multi"
+			],
+			"value" : "replace_hs2klong",
+			"default_value" : 1
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{  
+	"name": "Scrollable menus",
+	"author": "Luffy",
+	"updates":[{"revision" : 2, "identifier" : "ScrollableMenusUpdates"}],   
+	"hooks":[{"hook_id":"lib/managers/menu/menunodegui", "script_path":"MenuNodeGui.lua"}]
+}

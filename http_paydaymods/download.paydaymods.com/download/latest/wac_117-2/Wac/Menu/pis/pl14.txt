@@ -1,0 +1,32 @@
+{
+	"menu_id" : "wac_menu_pis_pl14",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_pl14_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_pl14protob",
+			"title" : "wac_replace_protob_title",
+			"callback" : "callback_toggle_replace_pl14protob",		
+			"items" : [
+				"wac_default_multi",
+				"hidebext_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_pl14protob",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_pl14extmag",
+			"title" : "wac_replace_hideextmag_title",
+			"callback" : "callback_toggle_replace_pl14extmag",
+			"value" : "replace_pl14extmag",
+			"default_value" : false
+		}
+	]
+}

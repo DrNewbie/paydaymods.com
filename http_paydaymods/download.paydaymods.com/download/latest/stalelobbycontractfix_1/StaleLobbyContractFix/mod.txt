@@ -1,0 +1,19 @@
+{
+	"name" : "Stale Lobby Contract Fix",
+	"description" : "Forces the lobby to be reported as contractless to Steam matchmaking upon contract completion or termination",
+	"author" : "Snh20",
+	"version" : "0.0.1",
+	"priority" : 10,
+	"updates" : [
+		{
+			"revision" : 1,
+			"identifier" : "stalelobbycontractfix"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/network/base/hostnetworksession",
+			"script_path" : "hostnetworksession.lua"
+		}
+	]
+}

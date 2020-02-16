@@ -1,0 +1,27 @@
+{
+	"name" : "Sniper Focus",
+	"description" : "Makes snipers less bullshit",
+	"author" : "CGNick",
+	"contact" : "http://steamcommunity.com/id/cgnick/",
+	"version" : "1.0",
+	"hooks" : [
+			{   
+				"hook_id" : "lib/units/enemies/cop/logics/coplogicsniper",
+				"script_path" : "lua/coplogicsniper.lua"
+			},
+			{   
+				"hook_id" : "lib/units/enemies/cop/copbrain",
+				"script_path" : "lua/copbrain.lua"
+			},
+			{   
+				"hook_id" : "lib/units/enemies/cop/copmovement",
+				"script_path" : "lua/copmovement.lua"
+			}
+		],
+	"updates" : [
+		{
+			"revision" : 1,
+			"identifier" : "sniper_focus",
+		}
+	]
+}

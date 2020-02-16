@@ -1,0 +1,162 @@
+{
+	"base_options_menu_lua_mods" : "已安裝的模組",
+	"base_options_menu_lua_mods_desc" : "檢查、開關你已安裝的模組",
+	"base_options_menu_keybinds" : "模組按鍵",
+	"base_options_menu_keybinds_desc" : "修改模組的按鍵",
+	"base_options_menu_lua_mod_options" : "模組設定",
+	"base_options_menu_lua_mod_options_desc" : "個人化你已安裝的模組",
+
+	"base_mod_info_version" : "版本",
+	"base_mod_info_author" : "作者",
+	"base_mod_info_contact" : "聯絡方法",
+	"base_mod_info_path" : "路徑",
+	"base_mod_info_keybinds" : "按鍵",
+	"base_mod_info_prehooks" : "Pre-Hooks",
+	"base_mod_info_hooks" : "Hooks",
+	"base_mod_info_persist" : "Persistent Scripts",
+	"base_mod_info_disabled" : "已關閉",
+	"base_mod_info_to_be_disabled" : "當重開遊戲時將會關閉",
+	"base_mod_info_to_be_enabled" : "當重開遊戲時將會打開",
+	"base_mod_info_disabled_impossible" : "不能關閉",
+
+	"base_mod_info_no_name" : "沒有名稱",
+	"base_mod_info_no_desc" : "作者很懶 沒有打介紹",
+	"base_mod_info_no_author" : "沒有特定作者",
+	"base_mod_info_no_contact" : "作者不想被你找到",
+	"base_mod_info_no_keybinds" : "沒有新增按鍵",
+	"base_mod_info_no_hooks" : "沒有 Hooks",
+	"base_mod_info_no_prehooks" : "沒有 Pre-Hooks",
+	"base_mod_info_no_persist_scripts" : "沒有 Persistent Scripts",
+
+	"base_mod_notifications_none" : "沒有通知",
+	"base_mod_notifications_prev" : "<",
+	"base_mod_notifications_next" : ">",
+	"base_mod_notifications_count" : "$current/$max",
+
+	"base_mod_updates_all_up_to_date" : "所有模組都是最新！",
+	"base_mod_updates_updates_required" : "$count 個模組需要更新",
+    "base_mod_updates_mod_required" : " $count 個模組需要",
+	"base_mod_updates_updates_required_row" : "        $mod",
+	"base_mod_updates_click_manager" : "[點擊以查看更新管理員]",
+
+	"base_mod_updates_update_all" : "更新所有模組",
+	"base_mod_automically_check_for_updates" : "$mod_name 自動更新",
+	"base_mod_automically_check_for_updates_desc" : "每次打開遊戲時，將會自動檢查模組有否更新",
+	"base_mod_check_for_updates_now" : "現在檢查更新 $mod_name",
+	"base_mod_check_for_updates_now_desc" : "現在檢查 $mod_name 有否更新",
+    
+    "base_mod_notify_required" : "$mod_name 通知",
+	"base_mod_notify_required_desc" : "$mod_name 需要安裝某些模組時自動通知",
+	"base_mod_download_required_now" : "現在下載 $mod_name",
+	"base_mod_download_required_now_desc" : "現在下載及安裝 $mod_name",
+    
+	"base_mod_updates_show_update_available" : "$mod_name 有可用更新",
+	"base_mod_updates_show_update_available_message" : "在左下方打開模組更新管理員！\n$mod_name 有更新！",
+
+	"base_mod_updates_update_mod_now" : "現在更新 $mod_name",
+	"base_mod_update_update_available" : "$mod_name 已經推出更新！\n你想現在就更新 $mod_name ？",
+	"base_mod_updates_open_update_manager" : "打開模組更新管理員",
+	"base_mod_updates_open_update_notes" : "查看更新記錄(需要打開Steam內嵌介面)",
+	"base_mod_updates_update_now" : "現在更新",
+	"base_mod_updates_update_later" : "未來更新",
+
+    "base_mod_updates_show_required_available" : "現在下載 $mod_name",
+	"base_mod_updates_show_required_available_message" : "$req_mod_name 需要先安裝 $mod_name ！\n你想現在下載 $mod_name ？",
+	"base_mod_updates_show_required_available_optional_message" : "$req_mod_name 需要安裝 $mod_name 才能使用完整功能！\n你想現在下載 $mod_name ？",
+	"base_mod_required_update_mod_now" : "現在下載",
+	"base_mod_required_update_later" : "未來下載",
+    "base_mod_updates_show_multiple_require_available" : "需要多個模組",
+	"base_mod_updates_show_multiple_require_available_message" : "需要安裝以下的模組以使用完整功能：\n$mods\n你可在左下方打開模組更新管理員更新它們！",
+    
+	"base_mod_updates_show_multiple_update_available" : "多個可用更新",
+	"base_mod_updates_show_multiple_update_available_message" : "你可在左下方打開模組更新管理員，以下模組有可用更新：\n$mods ！",
+	"base_mod_updates_update_all_now" : "現在更新所有模組",
+
+	"base_mod_update_no_update_available_title" : "$mod_name 已是最新版！",
+	"base_mod_update_no_update_available" : "你已有最新版的 $mod_name 。\n你想自動重新下載及安裝 $mod_name ？",
+	"base_mod_update_no_update_available_no_data" : "你已有最新版的 $mod_name 。",
+	"base_mod_update_no_update_available_force" : "強制重新下載",
+
+	"base_mod_download_downloading_mod" : "$mod_name 下載中",
+	"base_mod_download_download_progress" : "已下載 $downloaded kb / $total kb",
+	"base_mod_download_download_progress_extract" : "正在解壓縮檔案...",
+	"base_mod_download_download_progress_complete" : "下載完成，請重新打開遊戲！",
+	"base_mod_download_download_progress_failed" : "下載失敗，請重試！ :(",
+
+	"base_language_select" : "語言",
+	"base_language_select_desc" : "選擇 BLT 顯示的語言",
+	"base_language_en" : "英語",
+	"base_language_de" : "德語",
+	"base_language_fr" : "法語",
+	"base_language_ru" : "俄語",
+	"base_language_tr" : "土耳共語",
+	"base_language_id" : "印語",
+	"base_language_zh-cn" : "簡體中文",	
+	"base_language_cht" : "正體中文",
+	
+	
+	
+	
+	"blt_options_menu_blt_mods" : "BLT 模組",
+	"blt_options_menu_blt_mods_desc" : "更新及管理你安裝的 BLT 模組。",
+	"blt_options_menu_lua_mod_options" : "模組設定",
+	"blt_options_menu_lua_mod_options_desc" : "個人化你已安裝的 BLT 模組。",
+	"blt_options_menu_keybinds" : "模組按鍵",
+	"blt_options_menu_keybinds_desc" : "設定你的 BLT 模組按鍵。",
+
+	"blt_mod_state_enabled" : "已開啟",
+	"blt_mod_state_enabled_desc" : "此模組在遊戲開始時會載入。",
+	"blt_mod_state_disabled" : "已關掉",
+	"blt_mod_state_disabled_desc" : "此模組在遊戲開始時並不會載入。",
+
+	"blt_mod_state_enabled_on_restart" : "重新打開遊戲時開啟",
+	"blt_mod_state_enabled_on_restart_desc" : "此模組在遊戲下次打開時會載入。",
+	"blt_mod_state_disabled_on_restart" : "重新打開遊戲時關掉",
+	"blt_mod_state_disabled_on_restart_desc" : "此模組在遊戲下次打開時並不會載入。",
+
+	"blt_mod_safemode_enabled" : "安全模式：\n已開啟",
+	"blt_mod_safemode_enabled_help" : "在主要遊戲更新後這模組會自動關掉以防止閃退。",
+	"blt_mod_safemode_disabled" : "安全模組：\n已關掉",
+	"blt_mod_safemode_disabled_help" : "在主要遊戲更新後這模組依然會繼續運作。",
+
+	"blt_mod_updates_enabled" : "自動更新：\n已開啟",
+	"blt_mod_updates_enabled_help" : "自動在 PaydayMods 伺服器上檢查此模組的更新。",
+	"blt_mod_updates_disabled" : "自動更新：\n已關掉",
+	"blt_mod_updates_disabled_help" : "不會自動在 PaydayMods 伺服器上檢查此模組的更新。",
+
+	"blt_mod_check_for_updates" : "檢查更新",
+	"blt_mod_check_for_updates_desc" : "現在在 PaydayMods 伺服器檢查更新。",
+
+	"blt_mod_toggle_dev" : "開關開發者資訊",
+	"blt_mod_toggle_dev_desc" : "顯示/隱藏此模組的開發者資訊",
+
+	"blt_update_mod_title" : "$name 更新",
+	"blt_update_mod_up_to_date" : "$name 已是最新版！",
+	"blt_update_mod_error" : "如果此模組已是最新版就不能檢查。\n$reason",
+	"blt_update_mod_available" : "$name 有可用更新！它被加到下載管理員了！",
+	"blt_update_mod_goto_manager" : "進入下載管理員",
+
+	"blt_update_dll_title" : "重大更新",
+	"blt_update_dll_text" : "BLT DLL 有可用更新，你需要自己在網頁上下載及重新安裝以更新。\n\n由於是重要更新，請盡快更新以修復可能引致閃退的問題。",
+	"blt_update_dll_goto_website" : "前往 PaydayMods 下載",
+	"blt_update_later" : "之後更新",
+	
+	"blt_download_manager" : "下載管理員",
+	"blt_download_manager_help" : "更新你的 BLT 模組。\n看在主的份上，更新你的模組。",
+	"blt_download_ready" : "準備好更新",
+	"blt_download_waiting" : "等待中 ...",
+	"blt_download_downloading" : "下載中 ... $bytes;b/$total_bytes;b",
+	"blt_download_saving" : "保存到硬盤中...",
+	"blt_download_extracting" : "解壓中...",
+	"blt_download_done" : "完成！",
+
+	"blt_checking_updates" : "檢查更新",
+	"blt_checking_updates_help" : "檢查更新",
+	"blt_checking_updates_required" : "需要更新",
+	"blt_checking_updates_required_help" : "你的模組有可用更新，前往更新管理員以更新它們！",
+	"blt_view_patch_notes" : "檢視更新紀錄",
+
+	"blt_no_image" : "沒有圖片",
+	"blt_no_name" : "沒有名稱",
+	"blt_no_desc" : "沒有介紹"
+}

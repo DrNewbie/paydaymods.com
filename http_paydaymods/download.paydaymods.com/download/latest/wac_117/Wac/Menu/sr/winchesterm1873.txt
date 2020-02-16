@@ -1,0 +1,19 @@
+{
+	"menu_id" : "wac_menu_winchesterm1873",
+	"parent_menu_id" : "wac_menu_sr",
+	"title" : "wac_menu_sr_winchesterm1873_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_winm1873longb",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_winm1873longb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_winm1873longb",
+			"default_value" : 1
+		}
+	]
+}

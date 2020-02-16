@@ -1,0 +1,37 @@
+{
+	"menu_id" : "khud_menu_panel_player",
+	"parent_menu_id" : "khud_menu_panels",
+	"title" : "khud_menu_panel_player_title",
+	"description" : "khud_menu_panel_player_desc",
+	"back_callback" : "callback_khud_panel_player_close",
+	"priority" : 1,
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "khud_panel_player_enabled",
+			"title" : "khud_panel_player_enabled_title",
+			"description" : "khud_panel_player_enabled_desc",
+			"callback" : "callback_khud_panel_player_enabled",
+			"value" : "panel_player_enabled",
+			"priority" : 7
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_panel_player_show_sentry_tracker",
+			"title" : "khud_panel_player_show_sentry_tracker_title",
+			"description" : "khud_panel_player_show_sentry_tracker_desc",
+			"callback" : "callback_khud_panel_player_show_sentry_tracker",
+			"value" : "show_sentry_tracker",
+			"priority" : 6
+		},
+		{
+			"type" : "toggle",
+			"id" : "id_khud_mission_enabled",
+			"title" : "khud_mission_enabled_title",
+			"description" : "khud_mission_enabled_desc",
+			"callback" : "callback_khud_mission_enabled",
+			"value" : "hud_mission_enabled",
+			"priority" : 5
+		}
+	]
+}

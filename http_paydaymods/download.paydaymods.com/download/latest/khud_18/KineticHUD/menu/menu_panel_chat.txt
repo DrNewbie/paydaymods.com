@@ -1,0 +1,50 @@
+{
+	"menu_id" : "khud_menu_panel_chat",
+	"parent_menu_id" : "khud_menu_panel_player",
+	"title" : "khud_menu_panel_chat_title",
+	"description" : "khud_menu_panel_chat_desc",
+	"back_callback" : "callback_khud_panel_chat_close",
+	"priority" : 1,
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "khud_quickchat_antispam",
+			"title" : "khud_quickchat_antispam_title",
+			"description" : "khud_quickchat_antispam_desc",
+			"callback" : "callback_khud_quickchat_antispam",
+			"value" : "antispam_enabled"
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_panel_chat_custom_xy",
+			"title" : "khud_panel_chat_custom_xy_title",
+			"description" : "khud_panel_chat_custom_xy_desc",
+			"callback" : "callback_khud_panel_chat_custom_xy",
+			"value" : "panel_chat_use_custom_xy"
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_panel_chat_x",
+			"title" : "khud_panel_chat_x_title",
+			"description" : "khud_panel_chat_x_desc",
+			"callback" : "callback_khud_panel_chat_x",
+			"value" : "panel_chat_x",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 1200,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_panel_chat_y",
+			"title" : "khud_panel_chat_y_title",
+			"description" : "khud_panel_chat_y_desc",
+			"callback" : "callback_khud_panel_chat_y",
+			"value" : "panel_chat_y",
+			"default_value" : 1,
+			"min" : -500,
+			"max" : 670,
+			"step" : 1
+		}
+	]
+}

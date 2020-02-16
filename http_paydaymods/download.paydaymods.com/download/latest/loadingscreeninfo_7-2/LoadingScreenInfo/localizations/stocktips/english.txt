@@ -1,0 +1,20 @@
+{
+	"tip_tactical_reload" : "You can reload your weapon even if you haven't completely emptied your current magazine.\n\nThis way you make sure that you have a full magazine the next time you run into trouble. This is called a \"tactical reload\".",
+	"tip_weapon_effecienty" : "Different weapons are more effective at different ranges, and are therefore suited for different situations.",
+	"tip_switch_to_sidearm" : "It is always quicker to switch to your sidearm than reloading your primary weapon.\n\nSo if you run out of ammo for your LMG and you're in a tight spot, switching to your sidearm instead of reloading could save your life.",
+	"tip_doctor_bag" : "The doctor's bag is a real life saver.\n\nIf your team runs low on health, place your doctor's bag on the ground and let everyone patch themselves up!",
+	"tip_ammo_bag" : "If you often run out of ammo, it might be a good idea to bring a bag of extra ammo.\n\nWhen ammo is running low, place the ammo bag on the ground and use it to refill your stash.",
+	"tip_head_shot" : "Shots to the head are more effective than shots to any other body part.",
+	"tip_secret_assignmnet" : "The four types of special units are very dangerous, especially if you face them alone.\n\nTeam up to take them down!",
+	"tip_help_bleed_out" : "If a robber is shot down they go into \"bleed-out\", where they are unable to move and can only shoot with their sidearm.\n\nA robber in bleed-out should be helped back up before they go into custody.",
+	"tip_dont_shoot_civilians" : "Don't shoot civilians. For each civilian you kill, penalty time is added to your regular custody time.\n\nThis means that if you are put in custody, you will have to wait longer before the police make an offer to trade you for a hostage.",
+	"tip_trading_hostage" : "A downed robber who is not helped up in time is put in custody. When in custody, you can only be brought back through a hostage trade.\n\nThe police will contact Bain to set up the trade.",
+	"tip_shoot_at_civilians" : "Shout at civilians to keep them in check.\n\nA living civilian is always an asset, and lying down he/she is more likely to stay alive.",
+	"tip_police_free_hostage" : "The police will always take the opportunity to free hostages when no robber is nearby.\n\nSpread your crew out and keep an eye on all the hostages - they are your life lines!",
+	"tip_steelsight" : "Aiming down your sights allows you to shoot more accurately than you do when you shoot from your hip.",
+	"tip_melee_attack" : "A hit with your melee weapon can be a good way to finish off an opponent.\n\nThis is especially useful if you are low on ammo.",
+	"tip_law_enforcers_as_hostages" : "If there are no civilians to take as hostages, you can always take law enforcers as hostages.",
+	"tip_mask_off" : "Law enforcers won't take notice of you if your mask is off - use that to your advantage.\n\nScout the place and take positions before you put your masks on. Once you have put your mask on, it can't be taken off for the remainder of the heist.",
+	"tip_objectives" : "Your current objective is shown in the upper left corner of the screen.\n\nA more detailed description of the objective, as well as a list of completed objectives, can be seen in the info screen.",
+	"tip_shoot_in_bleed_out" : "While in bleed-out, you can still fire your weapon.\n\nWhen a partner is helping you up you can protect the both of you, but provoking law enforcers while on your own makes you an easy and helpless target."
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Steam Inventory In Lobby",
+	"description": "",
+	"author": "Nepgearsy",
+	"contact": "id/Nepgearsy",
+	"version": "1.3",
+	"blt_version" : 2,
+    "image" : "siil.png",
+    "color" : "87 0 173",
+	"updates" : [
+    {
+        "revision" : 4,
+        "identifier" : "SIIL"
+    }
+    ],
+	"hooks": [
+		{
+			"hook_id": "lib/managers/menumanager",
+			"script_path": "menumanager.lua"
+		}
+	]
+}

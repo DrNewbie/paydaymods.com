@@ -1,0 +1,2493 @@
+[
+{
+	 "i"		: 1
+	,"ids"		: "Idstring(@ID692d601fbcc476f4@)"
+	,"StringID"	: "ch_eagle_eyes"
+	,"orig_text": "Point out a special enemy using the \"shout out\" command."
+},{
+	 "i"		: 2
+	,"ids"		: "Idstring(@IDc998f4f5299c30fc@)"
+	,"StringID"	: "ch_stand_together_hl"
+	,"orig_text": "Stand together"
+},{
+	 "i"		: 3
+	,"ids"		: "Idstring(@ID1c5d59b921b2f62d@)"
+	,"StringID"	: "ch_revive_3_hl"
+	,"orig_text": "A helping hand III"
+},{
+	 "i"		: 4
+	,"ids"		: "Idstring(@IDf0b2e6238659d548@)"
+	,"StringID"	: "ch_beretta92_vs_the_law_4_hl"
+	,"orig_text": "B9-S VS. the Law IV"
+},{
+	 "i"		: 5
+	,"ids"		: "Idstring(@ID00956b7b1ae52378@)"
+	,"StringID"	: "ch_bomb_man_hl"
+	,"orig_text": "Bomb man"
+},{
+	 "i"		: 6
+	,"ids"		: "Idstring(@ID85b1f4859d7f3cd0@)"
+	,"StringID"	: "ch_eagle_eyes_hl"
+	,"orig_text": "Eagle eyes"
+},{
+	 "i"		: 7
+	,"ids"		: "Idstring(@IDbced9b8b149ea10b@)"
+	,"StringID"	: "ch_bleed_out_kill_1_hl"
+	,"orig_text": "Wait, I'm not dead yet! I"
+},{
+	 "i"		: 8
+	,"ids"		: "Idstring(@IDf7281bd43e108863@)"
+	,"StringID"	: "ch_revive"
+	,"orig_text": "Revive or uncuff any teammate ##revive## times."
+},{
+	 "i"		: 9
+	,"ids"		: "Idstring(@ID444f084dc20584cb@)"
+	,"StringID"	: "ch_ak47_vs_the_law_5_hl"
+	,"orig_text": "AK VS. the Law V"
+},{
+	 "i"		: 10
+	,"ids"		: "Idstring(@IDcbecdb43b21abf5e@)"
+	,"StringID"	: "ch_aquire_money_5_hl"
+	,"orig_text": "...and that's a lot of cash V"
+},{
+	 "i"		: 11
+	,"ids"		: "Idstring(@ID30710558579a9cd2@)"
+	,"StringID"	: "ch_revive_1_hl"
+	,"orig_text": "A helping hand I"
+},{
+	 "i"		: 12
+	,"ids"		: "Idstring(@IDaf887d7eb8c27500@)"
+	,"StringID"	: "ch_quad_tripmine"
+	,"orig_text": "Defeat four Law enforcers with a single Trip Mine."
+},{
+	 "i"		: 13
+	,"ids"		: "Idstring(@ID66deee1204c000be@)"
+	,"StringID"	: "ch_revive_4_hl"
+	,"orig_text": "A helping hand IV"
+},{
+	 "i"		: 14
+	,"ids"		: "Idstring(@ID72a490570a96c5d5@)"
+	,"StringID"	: "ch_last_man_standing"
+	,"orig_text": "Beat a heist after having been the only one alive. (4 teammates)."
+},{
+	 "i"		: 15
+	,"ids"		: "Idstring(@IDde9eb5bce976dc8c@)"
+	,"StringID"	: "ch_m4_head_shots_3_hl"
+	,"orig_text": "Amcar-4 expert III"
+},{
+	 "i"		: 16
+	,"ids"		: "Idstring(@ID3392775db742bae4@)"
+	,"StringID"	: "ch_aquire_money_1_hl"
+	,"orig_text": "...and that's a lot of cash I"
+},{
+	 "i"		: 17
+	,"ids"		: "Idstring(@ID610ee45432bf075f@)"
+	,"StringID"	: "ch_suburbia_no_bleedouts_hl"
+	,"orig_text": "COUNTERFEIT: Bulletproof"
+},{
+	 "i"		: 18
+	,"ids"		: "Idstring(@ID1664e89de42618aa@)"
+	,"StringID"	: "ch_m14_vs_the_law_1_hl"
+	,"orig_text": "M308 VS. the Law I"
+},{
+	 "i"		: 19
+	,"ids"		: "Idstring(@ID81c7d614ad74f1cc@)"
+	,"StringID"	: "ch_beretta92_vs_the_law_1_hl"
+	,"orig_text": "B9-S VS. the Law I"
+},{
+	 "i"		: 20
+	,"ids"		: "Idstring(@ID4140100d82c8dacd@)"
+	,"StringID"	: "ch_reinbeck_spooc_kill"
+	,"orig_text": "Using the Reinbeck 880, defeat ##reinbeck_spooc_kill## Cloakers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 21
+	,"ids"		: "Idstring(@ID3502b52ff222dd09@)"
+	,"StringID"	: "ch_mossberg_head_shots_1_hl"
+	,"orig_text": "Locomotive 12G expert I"
+},{
+	 "i"		: 22
+	,"ids"		: "Idstring(@IDd5804f636296322a@)"
+	,"StringID"	: "ch_hk21_head_shots"
+	,"orig_text": "Using the Brenner 21, defeat ##hk21_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 23
+	,"ids"		: "Idstring(@IDf23f64a8068f4fc3@)"
+	,"StringID"	: "ch_aquire_money_10"
+	,"orig_text": "Acquire $1,000,000,000 in cash."
+},{
+	 "i"		: 24
+	,"ids"		: "Idstring(@ID049c1e410c540e33@)"
+	,"StringID"	: "ch_bridge_no_civilians_hl"
+	,"orig_text": "Green Bridge: Clean hit"
+},{
+	 "i"		: 25
+	,"ids"		: "Idstring(@ID8bc8493ae892801d@)"
+	,"StringID"	: "ch_quick_gold"
+	,"orig_text": "Beat SLAUGHTERHOUSE within 15 minutes, taking all the gold. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 26
+	,"ids"		: "Idstring(@ID5a48ee40616d4c60@)"
+	,"StringID"	: "ch_slaughterhouse_overkill_no_trade"
+	,"orig_text": "Complete Slaughterhouse on OVERKILL difficulty without anyone getting traded from custody."
+},{
+	 "i"		: 27
+	,"ids"		: "Idstring(@ID913cdd89a3e8089b@)"
+	,"StringID"	: "ch_bank_no_bleedouts_hl"
+	,"orig_text": "First World Bank: Bulletproof"
+},{
+	 "i"		: 28
+	,"ids"		: "Idstring(@IDadbe02ef9cf8886e@)"
+	,"StringID"	: "ch_me_vs_tank"
+	,"orig_text": "Defeat ##tank_kill## Bulldozers.  Using Trip Mines or Melee does not count towards this challenge!"
+},{
+	 "i"		: 29
+	,"ids"		: "Idstring(@IDb2f32d579e42f6a6@)"
+	,"StringID"	: "ch_apartment_on_overkill_145_hl"
+	,"orig_text": "Brush with death"
+},{
+	 "i"		: 30
+	,"ids"		: "Idstring(@ID2664288de3d73d32@)"
+	,"StringID"	: "ch_secret_stash_no_deaths_hl"
+	,"orig_text": "UNDERCOVER: Like a pro"
+},{
+	 "i"		: 31
+	,"ids"		: "Idstring(@IDb1f4578fbf15a75c@)"
+	,"StringID"	: "ch_meat_packing"
+	,"orig_text": "Stay inside THE MAIN ROOM in SLAUGHTERHOUSE for an hour or more. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 32
+	,"ids"		: "Idstring(@IDdc4d3677a2f67a3e@)"
+	,"StringID"	: "ch_m4_vs_the_law_2_hl"
+	,"orig_text": "Amcar-4 VS. the Law II"
+},{
+	 "i"		: 33
+	,"ids"		: "Idstring(@IDefba0e0087005dd4@)"
+	,"StringID"	: "ch_mp5_head_shots"
+	,"orig_text": "Using the Compact-5, defeat ##mp5_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 34
+	,"ids"		: "Idstring(@IDc67c32451c18aae5@)"
+	,"StringID"	: "ch_m4_head_shots_4_hl"
+	,"orig_text": "Amcar-4 expert IV"
+},{
+	 "i"		: 35
+	,"ids"		: "Idstring(@IDc70f66c1c0a2dc5e@)"
+	,"StringID"	: "ch_mossberg_vs_the_law_1_hl"
+	,"orig_text": "Locomotive 12G VS. the Law I"
+},{
+	 "i"		: 36
+	,"ids"		: "Idstring(@ID2698892d19141e27@)"
+	,"StringID"	: "ch_glock_vs_the_law_4_hl"
+	,"orig_text": "STRYK VS. the Law IV"
+},{
+	 "i"		: 37
+	,"ids"		: "Idstring(@ID2d9f110553407dd8@)"
+	,"StringID"	: "ch_cheney"
+	,"orig_text": "Defeat a Bulldozer with a shotgun."
+},{
+	 "i"		: 38
+	,"ids"		: "Idstring(@IDb186415640e779e9@)"
+	,"StringID"	: "ch_mac11_heavy_swat_kill_1_hl"
+	,"orig_text": "Mark 11 VS. Heavy SWATS"
+},{
+	 "i"		: 39
+	,"ids"		: "Idstring(@ID4d9d68b409dafe22@)"
+	,"StringID"	: "ch_intimidating"
+	,"orig_text": "Get a Heavy SWAT to give up."
+},{
+	 "i"		: 40
+	,"ids"		: "Idstring(@IDc3f9466d44a4c4cb@)"
+	,"StringID"	: "ch_street_no_bleedouts_hl"
+	,"orig_text": "Heat Street: Bulletproof"
+},{
+	 "i"		: 41
+	,"ids"		: "Idstring(@IDe6c30827ecb1f2ea@)"
+	,"StringID"	: "ch_aquire_money_9_hl"
+	,"orig_text": "...and that's a lot of cash IX"
+},{
+	 "i"		: 42
+	,"ids"		: "Idstring(@IDdcbe7645b89e35f0@)"
+	,"StringID"	: "ch_me_vs_the_law"
+	,"orig_text": "Defeat ##law_kill## Law enforcers.  Using Trip Mines or Melee does not count towards this challenge!"
+},{
+	 "i"		: 43
+	,"ids"		: "Idstring(@ID0b7c3a39d169afdb@)"
+	,"StringID"	: "ch_cant_touch"
+	,"orig_text": "Beat HEAT STREET on OVERKILL difficulty, with your group accuracy being at 60% or higher. To complete this challenge, everyone in your crew will have to have played the heist from the start."
+},{
+	 "i"		: 44
+	,"ids"		: "Idstring(@ID9e5131f55acc0ae6@)"
+	,"StringID"	: "ch_duck_hunting_hl"
+	,"orig_text": "A bridge too far!"
+},{
+	 "i"		: 45
+	,"ids"		: "Idstring(@IDe7e2a8b14ae8fff3@)"
+	,"StringID"	: "ch_diplomatic"
+	,"orig_text": "Perform a hostage trade."
+},{
+	 "i"		: 46
+	,"ids"		: "Idstring(@ID53d34a4e1ef0602d@)"
+	,"StringID"	: "ch_street_no_civilians_hl"
+	,"orig_text": "Heat Street: Clean hit"
+},{
+	 "i"		: 47
+	,"ids"		: "Idstring(@ID893df2300d1b8fe2@)"
+	,"StringID"	: "ch_c45_vs_the_law_3_hl"
+	,"orig_text": "Crosskill .45 VS. the Law III"
+},{
+	 "i"		: 48
+	,"ids"		: "Idstring(@ID54c647fda6a5764b@)"
+	,"StringID"	: "ch_m4_spooc_head_shot"
+	,"orig_text": "Using the Amcar-4, defeat ##m4_spooc_head_shot## Cloakers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 49
+	,"ids"		: "Idstring(@IDe91cb9224d3a1298@)"
+	,"StringID"	: "ch_golden_boy"
+	,"orig_text": "Beat all original heists on OVERKILL 145+ difficulty and show them all you are on top! Completing this will make you golden!"
+},{
+	 "i"		: 50
+	,"ids"		: "Idstring(@IDb6020b05e0f36c25@)"
+	,"StringID"	: "ch_bridge_overkill_no_trade_hl"
+	,"orig_text": "Green Bridge: Don't lose face"
+},{
+	 "i"		: 51
+	,"ids"		: "Idstring(@ID9bb3916b9fd7d666@)"
+	,"StringID"	: "ch_mossberg_vs_the_law_6_hl"
+	,"orig_text": "Locomotive 12G VS. the Law VI"
+},{
+	 "i"		: 52
+	,"ids"		: "Idstring(@ID4e978f92fba02bf3@)"
+	,"StringID"	: "ch_street_on_overkill"
+	,"orig_text": "Complete Heat Street on OVERKILL difficulty."
+},{
+	 "i"		: 53
+	,"ids"		: "Idstring(@IDcd05ec9eefbc37a6@)"
+	,"StringID"	: "ch_mossberg_cop_kill"
+	,"orig_text": "Using the Locomotive 12G, defeat ##mossberg_cop_kill## Cops. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 54
+	,"ids"		: "Idstring(@ID2ff0a244e1ceb6a2@)"
+	,"StringID"	: "ch_glock_head_shots_4_hl"
+	,"orig_text": "STRYK VS. the Law Headshot IV"
+},{
+	 "i"		: 55
+	,"ids"		: "Idstring(@IDc29f4a7bdb5cade1@)"
+	,"StringID"	: "ch_bank_no_deaths"
+	,"orig_text": "Complete First World Bank on hard difficulty without being taken into custody."
+},{
+	 "i"		: 56
+	,"ids"		: "Idstring(@IDac45ea03a5231f0f@)"
+	,"StringID"	: "ch_meat_packing_hl"
+	,"orig_text": "Meat packin'"
+},{
+	 "i"		: 57
+	,"ids"		: "Idstring(@IDe34e1b52503eedbe@)"
+	,"StringID"	: "ch_m4_vs_the_law_3_hl"
+	,"orig_text": "Amcar-4 VS. the Law III"
+},{
+	 "i"		: 58
+	,"ids"		: "Idstring(@ID3eeb99d6e0026f1f@)"
+	,"StringID"	: "ch_intimidating_hl"
+	,"orig_text": "Intimidating"
+},{
+	 "i"		: 59
+	,"ids"		: "Idstring(@ID70b388f8c34b853c@)"
+	,"StringID"	: "ch_cant_touch_hl"
+	,"orig_text": "Easy street"
+},{
+	 "i"		: 60
+	,"ids"		: "Idstring(@ID0fad497e7470d4c0@)"
+	,"StringID"	: "ch_mp5_shield_head_shot"
+	,"orig_text": "Using the Compact-5, defeat ##mp5_shield_head_shot## Shields with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 61
+	,"ids"		: "Idstring(@ID02507948ad73ac6e@)"
+	,"StringID"	: "ch_suburbia_on_overkill_hl"
+	,"orig_text": "COUNTERFEIT: OVERKILL"
+},{
+	 "i"		: 62
+	,"ids"		: "Idstring(@ID5886a2d761cfaa16@)"
+	,"StringID"	: "ch_golden_boy_hl"
+	,"orig_text": "You are GOLDEN! OVERKILL salutes you!"
+},{
+	 "i"		: 63
+	,"ids"		: "Idstring(@IDda4a60e84d219f22@)"
+	,"StringID"	: "ch_m79_simultaneous_kills_3_hl"
+	,"orig_text": "GL40 Cluster Kill III"
+},{
+	 "i"		: 64
+	,"ids"		: "Idstring(@ID5786efb030568f53@)"
+	,"StringID"	: "ch_me_vs_the_law_head_shot"
+	,"orig_text": "Defeat ##law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 65
+	,"ids"		: "Idstring(@ID12c41b1eeb6cb62a@)"
+	,"StringID"	: "ch_trip_mine_vs_the_law_4_hl"
+	,"orig_text": "Trip Mines VS. the Law IV"
+},{
+	 "i"		: 66
+	,"ids"		: "Idstring(@ID15b154a6322fd2d8@)"
+	,"StringID"	: "ch_melee"
+	,"orig_text": "Defeat ##melee_law_kill## Law enforcers with melee attacks."
+},{
+	 "i"		: 67
+	,"ids"		: "Idstring(@IDd9a7f912ecfece78@)"
+	,"StringID"	: "ch_take_sapphires_hl"
+	,"orig_text": "Are those the blue ones?"
+},{
+	 "i"		: 68
+	,"ids"		: "Idstring(@ID40441d0c6bf23087@)"
+	,"StringID"	: "ch_reinbeck_head_shots_3_hl"
+	,"orig_text": "Reinbeck 880 expert III"
+},{
+	 "i"		: 69
+	,"ids"		: "Idstring(@ID63ca3862e9513b1f@)"
+	,"StringID"	: "ch_mossberg_head_shots_4_hl"
+	,"orig_text": "Locomotive 12G expert IV"
+},{
+	 "i"		: 70
+	,"ids"		: "Idstring(@IDaee83ad7402da010@)"
+	,"StringID"	: "ch_cheney_hl"
+	,"orig_text": "Cheney?"
+},{
+	 "i"		: 71
+	,"ids"		: "Idstring(@ID3406ed4092b0721a@)"
+	,"StringID"	: "ch_hk21_head_shots_1_hl"
+	,"orig_text": "Brenner 21 expert I"
+},{
+	 "i"		: 72
+	,"ids"		: "Idstring(@ID492e7359b3ef4ec4@)"
+	,"StringID"	: "ch_m79_simultaneous_kills_4_hl"
+	,"orig_text": "GL40 Cluster Kill IV"
+},{
+	 "i"		: 73
+	,"ids"		: "Idstring(@ID96145651cf067b11@)"
+	,"StringID"	: "ch_reinbeck_head_shots_4_hl"
+	,"orig_text": "Reinbeck 880 expert IV"
+},{
+	 "i"		: 74
+	,"ids"		: "Idstring(@IDddc91155dfee5b02@)"
+	,"StringID"	: "ch_hos_afraid_of_the_dark"
+	,"orig_text": "In NO MERCY, get the power back up within 5 seconds of it being shut down. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 75
+	,"ids"		: "Idstring(@ID9794d89d53f29ceb@)"
+	,"StringID"	: "ch_bronco_tank_kill_1_hl"
+	,"orig_text": "Bronco .44 VS. Bulldozers"
+},{
+	 "i"		: 76
+	,"ids"		: "Idstring(@ID53660dbb2fb44fea@)"
+	,"StringID"	: "ch_stand_together"
+	,"orig_text": "Beat HEAT STREET on normal difficulty or above without anyone getting downed. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 77
+	,"ids"		: "Idstring(@ID986c0c5c965b01c5@)"
+	,"StringID"	: "ch_beretta92_vs_the_law_2_hl"
+	,"orig_text": "B9-S VS. the Law II"
+},{
+	 "i"		: 78
+	,"ids"		: "Idstring(@IDceb0e5d9f0c837cb@)"
+	,"StringID"	: "ch_hk21_head_shots_4_hl"
+	,"orig_text": "Brenner 21 expert IV"
+},{
+	 "i"		: 79
+	,"ids"		: "Idstring(@ID2235ae6a11646f4b@)"
+	,"StringID"	: "ch_beretta92_head_shots_3_hl"
+	,"orig_text": "B9-S expert III"
+},{
+	 "i"		: 80
+	,"ids"		: "Idstring(@IDc82b47e3d9d1355b@)"
+	,"StringID"	: "ch_glock_head_shots"
+	,"orig_text": "Using the STRYK, defeat ##glock_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 81
+	,"ids"		: "Idstring(@IDb12a523248b1ddba@)"
+	,"StringID"	: "ch_hk21_head_shots_3_hl"
+	,"orig_text": "Brenner 21 expert III"
+},{
+	 "i"		: 82
+	,"ids"		: "Idstring(@ID4e0c64bad1802285@)"
+	,"StringID"	: "ch_mp5_vs_the_law_1_hl"
+	,"orig_text": "Compact-5 VS. the Law I"
+},{
+	 "i"		: 83
+	,"ids"		: "Idstring(@IDc739d1c75a6c127a@)"
+	,"StringID"	: "ch_mac11_vs_the_law_6_hl"
+	,"orig_text": "Mark 11 VS. the Law VI"
+},{
+	 "i"		: 84
+	,"ids"		: "Idstring(@ID6fbda4640c347107@)"
+	,"StringID"	: "ch_reinbeck_vs_the_law_4_hl"
+	,"orig_text": "Reinbeck 880 VS. the Law IV"
+},{
+	 "i"		: 85
+	,"ids"		: "Idstring(@ID79140919757433f9@)"
+	,"StringID"	: "ch_reinbeck_vs_the_law_6_hl"
+	,"orig_text": "Reinbeck 880 VS. the Law VI"
+},{
+	 "i"		: 86
+	,"ids"		: "Idstring(@ID14c14457bbf4d7d0@)"
+	,"StringID"	: "ch_hk21_shield_kill_1_hl"
+	,"orig_text": "Brenner 21 VS. Shields"
+},{
+	 "i"		: 87
+	,"ids"		: "Idstring(@IDee42d01fbdb19c83@)"
+	,"StringID"	: "ch_payday"
+	,"orig_text": "Aquire one billion dollars in total cash. One. BILLION. Dollars."
+},{
+	 "i"		: 88
+	,"ids"		: "Idstring(@ID192a6518e325334e@)"
+	,"StringID"	: "ch_tiedown_civilian_hl"
+	,"orig_text": "Don't go anywhere!"
+},{
+	 "i"		: 89
+	,"ids"		: "Idstring(@ID403c98fcdfb7b1e2@)"
+	,"StringID"	: "ch_civil_disobedience_hl"
+	,"orig_text": "Civil disobedience"
+},{
+	 "i"		: 90
+	,"ids"		: "Idstring(@IDcb6d888c44c458bc@)"
+	,"StringID"	: "ch_tris_tripmine_hl"
+	,"orig_text": "Three guys went on a Trip"
+},{
+	 "i"		: 91
+	,"ids"		: "Idstring(@IDa60382b0d1c013be@)"
+	,"StringID"	: "ch_bank_no_civilians"
+	,"orig_text": "Complete First World Bank on hard difficulty without killing any civilians."
+},{
+	 "i"		: 92
+	,"ids"		: "Idstring(@IDcca4777562d4415c@)"
+	,"StringID"	: "ch_bronco_vs_the_law_1_hl"
+	,"orig_text": "Bronco .44 VS. the Law I"
+},{
+	 "i"		: 93
+	,"ids"		: "Idstring(@ID3bf9bbe2bcd727ff@)"
+	,"StringID"	: "ch_mossberg_head_shots"
+	,"orig_text": "Using the Locomotive 12G, defeat ##mossberg_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 94
+	,"ids"		: "Idstring(@ID7e339a51632a5245@)"
+	,"StringID"	: "ch_melee_2_hl"
+	,"orig_text": "Saving bullets II"
+},{
+	 "i"		: 95
+	,"ids"		: "Idstring(@ID3dd0e427b25b4b2c@)"
+	,"StringID"	: "ch_the_darkness"
+	,"orig_text": "On GREEN BRIDGE, destroy all the lights in the main scaffolding tower. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 96
+	,"ids"		: "Idstring(@ID3a2732be7e44a15d@)"
+	,"StringID"	: "ch_aquire_money_7_hl"
+	,"orig_text": "...and that's a lot of cash VII"
+},{
+	 "i"		: 97
+	,"ids"		: "Idstring(@ID89e25839f4425978@)"
+	,"StringID"	: "ch_me_vs_the_law_head_shot_3_hl"
+	,"orig_text": "Me VS. the Law Headshot III"
+},{
+	 "i"		: 98
+	,"ids"		: "Idstring(@IDf25958a48615704c@)"
+	,"StringID"	: "ch_diamond_heist_no_deaths"
+	,"orig_text": "Complete Diamond Heist on hard difficulty without being taken into custody."
+},{
+	 "i"		: 99
+	,"ids"		: "Idstring(@ID4b017d2baf493e66@)"
+	,"StringID"	: "ch_secret_stash_no_bleedouts"
+	,"orig_text": "Complete UNDERCOVER on hard difficulty without going into bleedout."
+},{
+	 "i"		: 100
+	,"ids"		: "Idstring(@ID0c9467f2b86c8ad1@)"
+	,"StringID"	: "ch_me_vs_spooc"
+	,"orig_text": "Defeat ##spooc_kill## Cloakers. Using Trip Mines or Melee does not count towards this challenge!"
+},{
+	 "i"		: 101
+	,"ids"		: "Idstring(@ID0c8b6d4ce1b3263d@)"
+	,"StringID"	: "ch_mp5_head_shots_1_hl"
+	,"orig_text": "Compact-5 expert I"
+},{
+	 "i"		: 102
+	,"ids"		: "Idstring(@IDce19340246cc81cf@)"
+	,"StringID"	: "ch_reinbeck_head_shots_2_hl"
+	,"orig_text": "Reinbeck 880 expert II"
+},{
+	 "i"		: 103
+	,"ids"		: "Idstring(@ID6ee1e238822420ff@)"
+	,"StringID"	: "ch_aquire_money_5"
+	,"orig_text": "Acquire $300,000,000 in cash."
+},{
+	 "i"		: 104
+	,"ids"		: "Idstring(@IDd25fc15328902889@)"
+	,"StringID"	: "ch_me_vs_fbi_hl"
+	,"orig_text": "Me VS. FBI Agents"
+},{
+	 "i"		: 105
+	,"ids"		: "Idstring(@ID2d96948d2962cec5@)"
+	,"StringID"	: "ch_dont_lose_face_hl"
+	,"orig_text": "Don't lose face"
+},{
+	 "i"		: 106
+	,"ids"		: "Idstring(@ID6b1bb884ec72a4e9@)"
+	,"StringID"	: "ch_suburbia_on_overkill_145"
+	,"orig_text": "Complete COUNTERFEIT on OVERKILL 145+ difficulty."
+},{
+	 "i"		: 107
+	,"ids"		: "Idstring(@ID6dbb3e538054621a@)"
+	,"StringID"	: "ch_me_vs_the_law_head_shot_5_hl"
+	,"orig_text": "Me VS. the Law Headshot V"
+},{
+	 "i"		: 108
+	,"ids"		: "Idstring(@IDa8e272bbbd047c01@)"
+	,"StringID"	: "ch_suburbia_no_deaths"
+	,"orig_text": "Complete COUNTERFEIT on hard difficulty, without being taken into custody."
+},{
+	 "i"		: 109
+	,"ids"		: "Idstring(@IDc62d11eec0c19e1d@)"
+	,"StringID"	: "ch_m79_simultaneous_specials_1_hl"
+	,"orig_text": "GL40 Special Treat"
+},{
+	 "i"		: 110
+	,"ids"		: "Idstring(@IDb81234ea51bfc4d9@)"
+	,"StringID"	: "ch_deploy_ammobag_hl"
+	,"orig_text": "Ammo provider"
+},{
+	 "i"		: 111
+	,"ids"		: "Idstring(@ID44e28e7dc3dedb17@)"
+	,"StringID"	: "ch_apartment_overkill_no_trade_hl"
+	,"orig_text": "Panic Room: Don't lose face"
+},{
+	 "i"		: 112
+	,"ids"		: "Idstring(@IDa5de7ce6fe6b13fe@)"
+	,"StringID"	: "ch_slaughterhouse_no_bleedouts_hl"
+	,"orig_text": "Slaughterhouse: Bulletproof"
+},{
+	 "i"		: 113
+	,"ids"		: "Idstring(@ID037ff2056d1cc81e@)"
+	,"StringID"	: "ch_bullet_to_bleed_out_hl"
+	,"orig_text": "Down, but not dead"
+},{
+	 "i"		: 114
+	,"ids"		: "Idstring(@IDbaaddecd8729d545@)"
+	,"StringID"	: "ch_christmas_present"
+	,"orig_text": "In multiplayer, find a Xmas present on any level."
+},{
+	 "i"		: 115
+	,"ids"		: "Idstring(@ID69eacf12da9128ee@)"
+	,"StringID"	: "ch_saviour_hl"
+	,"orig_text": "Saviour"
+},{
+	 "i"		: 116
+	,"ids"		: "Idstring(@IDd67e0b4e44da4756@)"
+	,"StringID"	: "ch_glock_head_shots_1_hl"
+	,"orig_text": "STRYK VS. the Law Headshot I"
+},{
+	 "i"		: 117
+	,"ids"		: "Idstring(@ID7eb39b2a69c002b8@)"
+	,"StringID"	: "ch_c45_head_shots_1_hl"
+	,"orig_text": "Crosskill .45 expert I"
+},{
+	 "i"		: 118
+	,"ids"		: "Idstring(@IDf1a73449943a8695@)"
+	,"StringID"	: "ch_beretta92_taser_kill"
+	,"orig_text": "Using the B9-S, defeat ##beretta92_taser_kill## tasers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 119
+	,"ids"		: "Idstring(@ID549db244498945a4@)"
+	,"StringID"	: "ch_m14_vs_the_law_3_hl"
+	,"orig_text": "M308 VS. the Law III"
+},{
+	 "i"		: 120
+	,"ids"		: "Idstring(@ID52b249b30089a199@)"
+	,"StringID"	: "ch_me_vs_cop_hl"
+	,"orig_text": "Me VS. the Cops"
+},{
+	 "i"		: 121
+	,"ids"		: "Idstring(@ID67701a6277cc0e0c@)"
+	,"StringID"	: "ch_me_vs_heavy_swat"
+	,"orig_text": "Defeat ##heavy_swat_kill## Heavy SWAT. Using Trip Mines or Melee does not count towards this challenge!"
+},{
+	 "i"		: 122
+	,"ids"		: "Idstring(@ID57e3165cdfdb155a@)"
+	,"StringID"	: "ch_reinbeck_spooc_kill_1_hl"
+	,"orig_text": "Reinbeck 880 VS. Cloakers"
+},{
+	 "i"		: 123
+	,"ids"		: "Idstring(@ID22c7361b1b7063fc@)"
+	,"StringID"	: "ch_diamond_heist_no_civilians_hl"
+	,"orig_text": "Diamond Heist: Clean hit"
+},{
+	 "i"		: 124
+	,"ids"		: "Idstring(@ID3788ddb162ad8a8c@)"
+	,"StringID"	: "ch_got_your_back"
+	,"orig_text": "Get traded for a hostage in your first game."
+},{
+	 "i"		: 125
+	,"ids"		: "Idstring(@IDbb41ce515ade8d12@)"
+	,"StringID"	: "ch_hk21_vs_the_law_3_hl"
+	,"orig_text": "Brenner 21 VS. the Law III"
+},{
+	 "i"		: 126
+	,"ids"		: "Idstring(@ID7a5c81b09a2073d7@)"
+	,"StringID"	: "ch_akimbo"
+	,"orig_text": "Get a secondary weapon."
+},{
+	 "i"		: 127
+	,"ids"		: "Idstring(@ID69fd29d881cab47b@)"
+	,"StringID"	: "ch_one_shot_one_kill_hl"
+	,"orig_text": "One shot, one kill - repeat"
+},{
+	 "i"		: 128
+	,"ids"		: "Idstring(@IDcb25b5887ba49c37@)"
+	,"StringID"	: "ch_m79_vs_the_law_5_hl"
+	,"orig_text": "GL40 VS. the Law V"
+},{
+	 "i"		: 129
+	,"ids"		: "Idstring(@IDc827c0ac177e5a77@)"
+	,"StringID"	: "ch_apartment_on_overkill"
+	,"orig_text": "Complete Panic Room on OVERKILL difficulty."
+},{
+	 "i"		: 130
+	,"ids"		: "Idstring(@IDafb1ef481cf964e9@)"
+	,"StringID"	: "ch_bleed_out_kill_4_hl"
+	,"orig_text": "Wait, I'm not dead yet! IV"
+},{
+	 "i"		: 131
+	,"ids"		: "Idstring(@ID712cbcbad70421aa@)"
+	,"StringID"	: "ch_diamond_heist_no_bleedouts"
+	,"orig_text": "Complete Diamond Heist on hard difficulty without going into bleedout."
+},{
+	 "i"		: 132
+	,"ids"		: "Idstring(@IDbcfdf97cc6a76da4@)"
+	,"StringID"	: "ch_m14_vs_the_law"
+	,"orig_text": "Using the M308, defeat ##m14_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 133
+	,"ids"		: "Idstring(@IDe11126798ac46787@)"
+	,"StringID"	: "ch_pacifist_hl"
+	,"orig_text": "Pacifist"
+},{
+	 "i"		: 134
+	,"ids"		: "Idstring(@ID2a2d341982b69645@)"
+	,"StringID"	: "ch_street_no_deaths"
+	,"orig_text": "Complete Heat Street on hard difficulty without being taken into custody."
+},{
+	 "i"		: 135
+	,"ids"		: "Idstring(@IDad91d8b21c4a887a@)"
+	,"StringID"	: "ch_bank_no_civilians_hl"
+	,"orig_text": "First World Bank: Clean hit"
+},{
+	 "i"		: 136
+	,"ids"		: "Idstring(@IDc6c13f88cb3e5cfe@)"
+	,"StringID"	: "ch_bleed_out_multikill_hl"
+	,"orig_text": "Legendary last stand"
+},{
+	 "i"		: 137
+	,"ids"		: "Idstring(@IDf35afcbfc74bf883@)"
+	,"StringID"	: "ch_bank_on_overkill_145_hl"
+	,"orig_text": "Bank on me"
+},{
+	 "i"		: 138
+	,"ids"		: "Idstring(@IDe24294c8d4af9a26@)"
+	,"StringID"	: "ch_slaughterhouse_on_overkill"
+	,"orig_text": "Complete Slaughterhouse on OVERKILL difficulty."
+},{
+	 "i"		: 139
+	,"ids"		: "Idstring(@IDb36cb3465cdb30e6@)"
+	,"StringID"	: "ch_bronco_head_shots_3_hl"
+	,"orig_text": "Bronco .44 expert III"
+},{
+	 "i"		: 140
+	,"ids"		: "Idstring(@IDf2c1ee77aab63132@)"
+	,"StringID"	: "ch_apartment_on_overkill_hl"
+	,"orig_text": "Panic Room: OVERKILL"
+},{
+	 "i"		: 141
+	,"ids"		: "Idstring(@ID5ecb3884fdba7a4b@)"
+	,"StringID"	: "ch_m14_head_shots_1_hl"
+	,"orig_text": "M308 expert I"
+},{
+	 "i"		: 142
+	,"ids"		: "Idstring(@IDaa7f995c37853a49@)"
+	,"StringID"	: "ch_bleed_out_kill_3_hl"
+	,"orig_text": "Wait, I'm not dead yet! III"
+},{
+	 "i"		: 143
+	,"ids"		: "Idstring(@IDb82a976d53e1200b@)"
+	,"StringID"	: "ch_windowlicker_hl"
+	,"orig_text": "Windowlicker"
+},{
+	 "i"		: 144
+	,"ids"		: "Idstring(@ID8d03b073b95aa64c@)"
+	,"StringID"	: "ch_bridge_no_deaths"
+	,"orig_text": "Complete Green Bridge on hard difficulty without being taken into custody."
+},{
+	 "i"		: 145
+	,"ids"		: "Idstring(@ID144ca51be5e50c62@)"
+	,"StringID"	: "ch_tiedown_cop_hl"
+	,"orig_text": "Owning the Police"
+},{
+	 "i"		: 146
+	,"ids"		: "Idstring(@ID807b8c3cfb00295a@)"
+	,"StringID"	: "ch_c45_vs_the_law"
+	,"orig_text": "Using the Crosskill, defeat ##c45_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 147
+	,"ids"		: "Idstring(@IDc0b5bdd5e4c95ed7@)"
+	,"StringID"	: "ch_me_vs_tank_hl"
+	,"orig_text": "Me VS. Bulldozers"
+},{
+	 "i"		: 148
+	,"ids"		: "Idstring(@ID8fd694e4fc0f223e@)"
+	,"StringID"	: "ch_mac11_head_shots_3_hl"
+	,"orig_text": "Mark 11 expert III"
+},{
+	 "i"		: 149
+	,"ids"		: "Idstring(@ID5fa7fb345c63952a@)"
+	,"StringID"	: "ch_dodge_this_hl"
+	,"orig_text": "Dodge this!"
+},{
+	 "i"		: 150
+	,"ids"		: "Idstring(@ID18856e2e531861b3@)"
+	,"StringID"	: "ch_glock_vs_the_law"
+	,"orig_text": "Using the STRYK, defeat ##glock_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 151
+	,"ids"		: "Idstring(@ID2447a7a72a08c830@)"
+	,"StringID"	: "ch_mp5_shield_head_shot_1_hl"
+	,"orig_text": "Compact-5 VS. Shields"
+},{
+	 "i"		: 152
+	,"ids"		: "Idstring(@ID05ada6fa18354bca@)"
+	,"StringID"	: "ch_hk21_vs_the_law_1_hl"
+	,"orig_text": "Brenner 21 VS. the Law I"
+},{
+	 "i"		: 153
+	,"ids"		: "Idstring(@ID37ee5da8f485f2dc@)"
+	,"StringID"	: "ch_secret_stash_no_bleedouts_hl"
+	,"orig_text": "UNDERCOVER: Bulletproof"
+},{
+	 "i"		: 154
+	,"ids"		: "Idstring(@ID5d4b708020e24597@)"
+	,"StringID"	: "ch_m79_vs_the_law_1_hl"
+	,"orig_text": "GL40 VS. the Law I"
+},{
+	 "i"		: 155
+	,"ids"		: "Idstring(@ID5797a96f4fea1228@)"
+	,"StringID"	: "ch_me_vs_the_law_head_shot_2_hl"
+	,"orig_text": "Me VS. the Law Headshot II"
+},{
+	 "i"		: 156
+	,"ids"		: "Idstring(@ID8eb810382b0e1160@)"
+	,"StringID"	: "ch_ready_yet_hl"
+	,"orig_text": "Are you ready yet?"
+},{
+	 "i"		: 157
+	,"ids"		: "Idstring(@ID86909fb99cd37e7e@)"
+	,"StringID"	: "ch_mp5_vs_the_law_5_hl"
+	,"orig_text": "Compact-5 VS. the Law V"
+},{
+	 "i"		: 158
+	,"ids"		: "Idstring(@ID45925c87ccd552f2@)"
+	,"StringID"	: "ch_diplomatic_hl"
+	,"orig_text": "Diplomatic"
+},{
+	 "i"		: 159
+	,"ids"		: "Idstring(@ID41e184b9b87a7fbc@)"
+	,"StringID"	: "ch_apartment_no_bleedouts_hl"
+	,"orig_text": "Panic Room: Bulletproof"
+},{
+	 "i"		: 160
+	,"ids"		: "Idstring(@ID7886a960df4bdded@)"
+	,"StringID"	: "ch_overkill"
+	,"orig_text": "Do it all!"
+},{
+	 "i"		: 161
+	,"ids"		: "Idstring(@ID0de126de843d351e@)"
+	,"StringID"	: "ch_sentry_gun_vs_the_law_2_hl"
+	,"orig_text": "SENTRY GUN VS. the Law II"
+},{
+	 "i"		: 162
+	,"ids"		: "Idstring(@IDa4fefc8abd24b0ff@)"
+	,"StringID"	: "ch_m79_vs_the_law"
+	,"orig_text": "Using the GL40, defeat ##m79_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 163
+	,"ids"		: "Idstring(@ID808f67a8b4098621@)"
+	,"StringID"	: "ch_mossberg_vs_the_law_3_hl"
+	,"orig_text": "Locomotive 12G VS. the Law III"
+},{
+	 "i"		: 164
+	,"ids"		: "Idstring(@IDa7c2224dd76ea51c@)"
+	,"StringID"	: "ch_me_vs_the_law_head_shot_4_hl"
+	,"orig_text": "Me VS. the Law Headshot IV"
+},{
+	 "i"		: 165
+	,"ids"		: "Idstring(@ID6555f206eaf3db82@)"
+	,"StringID"	: "ch_bridge_no_civilians"
+	,"orig_text": "Complete Green Bridge on hard difficulty without killing any civilians."
+},{
+	 "i"		: 166
+	,"ids"		: "Idstring(@ID85724ef88557afec@)"
+	,"StringID"	: "ch_kill_cameras_hl"
+	,"orig_text": "No photos"
+},{
+	 "i"		: 167
+	,"ids"		: "Idstring(@ID699e1900cc4be791@)"
+	,"StringID"	: "ch_reinbeck_head_shots"
+	,"orig_text": "Using the Reinbeck 880, defeat ##reinbeck_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 168
+	,"ids"		: "Idstring(@ID2e81469a97c004fd@)"
+	,"StringID"	: "ch_payday_cat_hl"
+	,"orig_text": "PAYDAY: The Heist"
+},{
+	 "i"		: 169
+	,"ids"		: "Idstring(@ID7672084a464fed5f@)"
+	,"StringID"	: "ch_me_vs_taser_hl"
+	,"orig_text": "Me VS. Tasers"
+},{
+	 "i"		: 170
+	,"ids"		: "Idstring(@ID95162226e57450e6@)"
+	,"StringID"	: "ch_sentry_gun_row_kills"
+	,"orig_text": "Using the SENTRY GUN, defeat ##sentry_gun_law_row_kills## Law enforcers in a row."
+},{
+	 "i"		: 171
+	,"ids"		: "Idstring(@ID31cc0529ad039f09@)"
+	,"StringID"	: "ch_slaughterhouse_no_deaths"
+	,"orig_text": "Complete Slaughterhouse on hard difficulty without being taken into custody."
+},{
+	 "i"		: 172
+	,"ids"		: "Idstring(@IDbfcb218e4026de36@)"
+	,"StringID"	: "ch_grim_reaper"
+	,"orig_text": "Defeat a Law enforcer while you're in custody."
+},{
+	 "i"		: 173
+	,"ids"		: "Idstring(@ID63ac122577d1c81e@)"
+	,"StringID"	: "ch_m4_vs_the_law"
+	,"orig_text": "Using the Amcar-4, defeat ##m4_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 174
+	,"ids"		: "Idstring(@ID4b6e323e4e8c2ddd@)"
+	,"StringID"	: "ch_diamond_heist_on_overkill"
+	,"orig_text": "Complete Diamond Heist on OVERKILL difficulty."
+},{
+	 "i"		: 175
+	,"ids"		: "Idstring(@ID8bc5de16f7b6a387@)"
+	,"StringID"	: "ch_bridge_on_overkill_145"
+	,"orig_text": "Beat GREEN BRIDGE on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 176
+	,"ids"		: "Idstring(@IDcbf8aeb75bd87626@)"
+	,"StringID"	: "ch_slaughterhouse_on_overkill_hl"
+	,"orig_text": "Slaughterhouse: OVERKILL"
+},{
+	 "i"		: 177
+	,"ids"		: "Idstring(@ID875662f3c5507486@)"
+	,"StringID"	: "ch_mp5_head_shots_2_hl"
+	,"orig_text": "Compact-5 expert II"
+},{
+	 "i"		: 178
+	,"ids"		: "Idstring(@IDa98df7614cc50a81@)"
+	,"StringID"	: "ch_plant_tripmine_hl"
+	,"orig_text": "Trip Mine plantation"
+},{
+	 "i"		: 179
+	,"ids"		: "Idstring(@ID1454ffdb9abda87f@)"
+	,"StringID"	: "ch_aquire_money_6"
+	,"orig_text": "Acquire $400,000,000 in cash."
+},{
+	 "i"		: 180
+	,"ids"		: "Idstring(@IDd60a82a0d5dca88d@)"
+	,"StringID"	: "ch_mossberg_head_shots_3_hl"
+	,"orig_text": "Locomotive 12G expert III"
+},{
+	 "i"		: 181
+	,"ids"		: "Idstring(@ID2e2f7f67ca2381de@)"
+	,"StringID"	: "ch_ak47_vs_the_law_4_hl"
+	,"orig_text": "AK VS. the Law IV"
+},{
+	 "i"		: 182
+	,"ids"		: "Idstring(@ID4cde4c861da7349e@)"
+	,"StringID"	: "ch_revived_hl"
+	,"orig_text": "Thanks, I owe you one!"
+},{
+	 "i"		: 183
+	,"ids"		: "Idstring(@ID8f9a444b7484f86a@)"
+	,"StringID"	: "ch_m4_head_shots_1_hl"
+	,"orig_text": "Amcar-4 expert I"
+},{
+	 "i"		: 184
+	,"ids"		: "Idstring(@IDf40cda46a9f0daa8@)"
+	,"StringID"	: "ch_grim_reaper_hl"
+	,"orig_text": "Grim reaper"
+},{
+	 "i"		: 185
+	,"ids"		: "Idstring(@ID5c56e54df5b08aac@)"
+	,"StringID"	: "ch_chavez_can_run_hl"
+	,"orig_text": "You can run but you can't hide"
+},{
+	 "i"		: 186
+	,"ids"		: "Idstring(@ID7a3dcec5e2ae1152@)"
+	,"StringID"	: "ch_c45_vs_the_law_6_hl"
+	,"orig_text": "Crosskill .45 VS. the Law VI"
+},{
+	 "i"		: 187
+	,"ids"		: "Idstring(@IDc8b38ff5d0f6f95d@)"
+	,"StringID"	: "ch_diamond_heist_overkill_no_trade"
+	,"orig_text": "Complete Diamond Heist on OVERKILL difficulty without anyone getting traded from custody."
+},{
+	 "i"		: 188
+	,"ids"		: "Idstring(@ID9f90489639eafdb4@)"
+	,"StringID"	: "ch_melee_3_hl"
+	,"orig_text": "Saving bullets III"
+},{
+	 "i"		: 189
+	,"ids"		: "Idstring(@IDea99d246d311232a@)"
+	,"StringID"	: "ch_left_for_dead_hl"
+	,"orig_text": "Left for dead"
+},{
+	 "i"		: 190
+	,"ids"		: "Idstring(@ID7f376d24e3e97199@)"
+	,"StringID"	: "ch_one_shot_one_kill"
+	,"orig_text": "Get 30 kills using 30 shots, using only the M308 Rifle."
+},{
+	 "i"		: 191
+	,"ids"		: "Idstring(@IDa40de11c813de6c0@)"
+	,"StringID"	: "ch_slaughterhouse_no_civilians_hl"
+	,"orig_text": "Slaughterhouse: Clean hit"
+},{
+	 "i"		: 192
+	,"ids"		: "Idstring(@IDc73096a3b93a2291@)"
+	,"StringID"	: "ch_bank_on_overkill_145"
+	,"orig_text": "Beat FIRST WORLD BANK on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 193
+	,"ids"		: "Idstring(@IDc4159284501c7101@)"
+	,"StringID"	: "ch_m4_head_shots"
+	,"orig_text": "Using the Amcar-4, defeat ##m4_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 194
+	,"ids"		: "Idstring(@ID8dce0c713c9ed598@)"
+	,"StringID"	: "ch_mossberg_vs_the_law_2_hl"
+	,"orig_text": "Locomotive 12G VS. the Law II"
+},{
+	 "i"		: 195
+	,"ids"		: "Idstring(@ID1d06fa885f0ee53a@)"
+	,"StringID"	: "ch_aquire_money_9"
+	,"orig_text": "Acquire $800,000,000 in cash."
+},{
+	 "i"		: 196
+	,"ids"		: "Idstring(@ID2e7d9e55a0a97c0c@)"
+	,"StringID"	: "ch_m14_head_shots_4_hl"
+	,"orig_text": "M308 expert IV"
+},{
+	 "i"		: 197
+	,"ids"		: "Idstring(@ID0808aec0303e05c3@)"
+	,"StringID"	: "ch_bronco_head_shots_2_hl"
+	,"orig_text": "Bronco .44 expert II"
+},{
+	 "i"		: 198
+	,"ids"		: "Idstring(@IDad298ab3911fb4de@)"
+	,"StringID"	: "ch_me_vs_cop"
+	,"orig_text": "Defeat ##cop_kill## Cops. Using Trip Mines or Melee does not count towards this challenge!"
+},{
+	 "i"		: 199
+	,"ids"		: "Idstring(@ID30e90d8d77575a12@)"
+	,"StringID"	: "ch_blow_out_hl"
+	,"orig_text": "Blow-out"
+},{
+	 "i"		: 200
+	,"ids"		: "Idstring(@ID5eaa3c5eef261cb7@)"
+	,"StringID"	: "ch_c45_head_shots"
+	,"orig_text": "Using the Crosskill, defeat ##c45_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 201
+	,"ids"		: "Idstring(@ID3a08f71c3b23e814@)"
+	,"StringID"	: "ch_sentry_gun_row_kills_1_hl"
+	,"orig_text": "SENTRY GUN Kills in a Row I"
+},{
+	 "i"		: 202
+	,"ids"		: "Idstring(@ID59228f5279157a9c@)"
+	,"StringID"	: "ch_mac11_heavy_swat_kill"
+	,"orig_text": "Using the Mark 11, defeat ##mac11_heavy_swat_kill## Heavy SWATS. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 203
+	,"ids"		: "Idstring(@ID35dc028206803cdb@)"
+	,"StringID"	: "ch_m4_vs_the_law_6_hl"
+	,"orig_text": "Amcar-4 VS. the Law VI"
+},{
+	 "i"		: 204
+	,"ids"		: "Idstring(@ID5a025016ef119f44@)"
+	,"StringID"	: "ch_c45_vs_the_law_4_hl"
+	,"orig_text": "Crosskill .45 VS. the Law IV"
+},{
+	 "i"		: 205
+	,"ids"		: "Idstring(@IDd6174d97a1857113@)"
+	,"StringID"	: "ch_suburbia_on_overkill"
+	,"orig_text": "Complete COUNTERFEIT on OVERKILL difficulty."
+},{
+	 "i"		: 206
+	,"ids"		: "Idstring(@ID8b5255b2a6d17156@)"
+	,"StringID"	: "ch_bridge_overkill_no_trade"
+	,"orig_text": "Complete Green Bridge on OVERKILL difficulty without anyone getting traded from custody."
+},{
+	 "i"		: 207
+	,"ids"		: "Idstring(@IDb8f684ffce9ef0d9@)"
+	,"StringID"	: "ch_slaughterhouse_no_civilians"
+	,"orig_text": "Complete Slaughterhouse on hard difficulty without killing any civilians."
+},{
+	 "i"		: 208
+	,"ids"		: "Idstring(@ID16f5de421675b90c@)"
+	,"StringID"	: "ch_the_darkness_hl"
+	,"orig_text": "Darkness"
+},{
+	 "i"		: 209
+	,"ids"		: "Idstring(@ID1049a103d4e9273b@)"
+	,"StringID"	: "ch_bleed_out_kill_2_hl"
+	,"orig_text": "Wait, I'm not dead yet! II"
+},{
+	 "i"		: 210
+	,"ids"		: "Idstring(@ID40c2181cfa78940a@)"
+	,"StringID"	: "ch_blood_in_blood_out_hl"
+	,"orig_text": "Blood in, blood out"
+},{
+	 "i"		: 211
+	,"ids"		: "Idstring(@ID1128c7747b6d45aa@)"
+	,"StringID"	: "ch_c45_head_shots_2_hl"
+	,"orig_text": "Crosskill .45 expert II"
+},{
+	 "i"		: 212
+	,"ids"		: "Idstring(@ID0c336f405b55bc6a@)"
+	,"StringID"	: "ch_bronco_vs_the_law_5_hl"
+	,"orig_text": "Bronco .44 VS. the Law V"
+},{
+	 "i"		: 213
+	,"ids"		: "Idstring(@IDdf9b4f6dfa984d4e@)"
+	,"StringID"	: "ch_me_vs_heavy_swat_hl"
+	,"orig_text": "Me VS. Heavy SWAT"
+},{
+	 "i"		: 214
+	,"ids"		: "Idstring(@ID2d901811cb64e3ba@)"
+	,"StringID"	: "ch_dozen_angry_hl"
+	,"orig_text": "I pushed the button and lived!"
+},{
+	 "i"		: 215
+	,"ids"		: "Idstring(@ID660cdc0955672549@)"
+	,"StringID"	: "ch_street_overkill_no_trade_hl"
+	,"orig_text": "Heat Street: Don't lose face"
+},{
+	 "i"		: 216
+	,"ids"		: "Idstring(@ID03725bb787807b42@)"
+	,"StringID"	: "ch_me_vs_fbi"
+	,"orig_text": "Defeat ##fbi_kill## FBI Agents. Using Trip Mines or Melee does not count towards this challenge!"
+},{
+	 "i"		: 217
+	,"ids"		: "Idstring(@IDaa7f39103ddee2af@)"
+	,"StringID"	: "ch_never_downed_hl"
+	,"orig_text": "Flawless"
+},{
+	 "i"		: 218
+	,"ids"		: "Idstring(@IDa764728b227568ea@)"
+	,"StringID"	: "ch_mossberg_head_shots_2_hl"
+	,"orig_text": "Locomotive 12G expert II"
+},{
+	 "i"		: 219
+	,"ids"		: "Idstring(@ID16739238a83d0cbf@)"
+	,"StringID"	: "ch_bronco_vs_the_law_6_hl"
+	,"orig_text": "Bronco .44 VS. the Law VI"
+},{
+	 "i"		: 220
+	,"ids"		: "Idstring(@ID987fab8b1c7da283@)"
+	,"StringID"	: "ch_m14_head_shots"
+	,"orig_text": "Using the M308, defeat ##m14_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 221
+	,"ids"		: "Idstring(@IDcf4255b02a866197@)"
+	,"StringID"	: "ch_reinbeck_vs_the_law_2_hl"
+	,"orig_text": "Reinbeck 880 VS. the Law II"
+},{
+	 "i"		: 222
+	,"ids"		: "Idstring(@ID68ac5b37124cfea3@)"
+	,"StringID"	: "ch_m79_simultaneous_kills"
+	,"orig_text": "Using the GL40, defeat ##m79_law_simultaneous_kills## Law enforcers simultaneously."
+},{
+	 "i"		: 223
+	,"ids"		: "Idstring(@IDae180a12f6f6d439@)"
+	,"StringID"	: "ch_m4_vs_the_law_4_hl"
+	,"orig_text": "Amcar-4 VS. the Law IV"
+},{
+	 "i"		: 224
+	,"ids"		: "Idstring(@ID606b184a3e2c87fc@)"
+	,"StringID"	: "ch_m14_head_shots_3_hl"
+	,"orig_text": "M308 expert III"
+},{
+	 "i"		: 225
+	,"ids"		: "Idstring(@ID39219be60d4831b5@)"
+	,"StringID"	: "ch_mp5_head_shots_4_hl"
+	,"orig_text": "Compact-5 expert IV"
+},{
+	 "i"		: 226
+	,"ids"		: "Idstring(@IDb5dd84abfcce1085@)"
+	,"StringID"	: "ch_me_vs_spooc_hl"
+	,"orig_text": "Me VS. Cloakers"
+},{
+	 "i"		: 227
+	,"ids"		: "Idstring(@IDeb21808c3d099a94@)"
+	,"StringID"	: "ch_aquire_money_2"
+	,"orig_text": "Acquire $50,000,000 in cash."
+},{
+	 "i"		: 228
+	,"ids"		: "Idstring(@ID2974e8624f53e1c3@)"
+	,"StringID"	: "ch_tiedown_swat"
+	,"orig_text": "Force ##tiedown_swat## blue SWATs to cuff themselves."
+},{
+	 "i"		: 229
+	,"ids"		: "Idstring(@ID2d26349b033bd761@)"
+	,"StringID"	: "ch_bullet_to_bleed_out"
+	,"orig_text": "Go into bleedout from enemy fire."
+},{
+	 "i"		: 230
+	,"ids"		: "Idstring(@IDb18d5580385ff950@)"
+	,"StringID"	: "ch_crowd_control"
+	,"orig_text": "Beat COUNTERFEIT without letting any hostage escape or die. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 231
+	,"ids"		: "Idstring(@ID828b17944faece01@)"
+	,"StringID"	: "ch_bank_overkill_no_trade_hl"
+	,"orig_text": "First World Bank: Don't lose face"
+},{
+	 "i"		: 232
+	,"ids"		: "Idstring(@IDf2ebfe6d9e64e256@)"
+	,"StringID"	: "ch_diamond_heist_no_civilians"
+	,"orig_text": "Complete Diamond Heist on hard difficulty without killing any civilians."
+},{
+	 "i"		: 233
+	,"ids"		: "Idstring(@ID6c538262f968b244@)"
+	,"StringID"	: "ch_take_sapphires"
+	,"orig_text": "Steal all the sapphires in DIAMOND HEIST on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 234
+	,"ids"		: "Idstring(@ID7b045f14f079ee8b@)"
+	,"StringID"	: "ch_ninja_hl"
+	,"orig_text": "Shinobi"
+},{
+	 "i"		: 235
+	,"ids"		: "Idstring(@IDea8540477b0d1d4f@)"
+	,"StringID"	: "ch_civil_disobedience"
+	,"orig_text": "Defeat 100 law enforcers in a single heist."
+},{
+	 "i"		: 236
+	,"ids"		: "Idstring(@IDd3b063328a9561c9@)"
+	,"StringID"	: "ch_mac11_vs_the_law_1_hl"
+	,"orig_text": "Mark 11 VS. the Law I"
+},{
+	 "i"		: 237
+	,"ids"		: "Idstring(@ID6b7f896005ff45f7@)"
+	,"StringID"	: "ch_secret_stash_on_overkill_hl"
+	,"orig_text": "UNDERCOVER: OVERKILL"
+},{
+	 "i"		: 238
+	,"ids"		: "Idstring(@IDddabac24fbe4a195@)"
+	,"StringID"	: "ch_beretta92_head_shots_4_hl"
+	,"orig_text": "B9-S expert IV"
+},{
+	 "i"		: 239
+	,"ids"		: "Idstring(@IDf41e9a5d89ca1a2d@)"
+	,"StringID"	: "ch_aquire_money_7"
+	,"orig_text": "Acquire $500,000,000 in cash."
+},{
+	 "i"		: 240
+	,"ids"		: "Idstring(@ID2848c8644c11e90a@)"
+	,"StringID"	: "ch_trip_mine_vs_the_law_2_hl"
+	,"orig_text": "Trip Mines VS. the Law II"
+},{
+	 "i"		: 241
+	,"ids"		: "Idstring(@ID31a77478cd9ce3da@)"
+	,"StringID"	: "ch_suburbia_no_bleedouts"
+	,"orig_text": "Complete COUNTERFEIT on hard difficulty without going into bleedout."
+},{
+	 "i"		: 242
+	,"ids"		: "Idstring(@ID34ad0c1dd402b8a4@)"
+	,"StringID"	: "ch_bank_no_bleedouts"
+	,"orig_text": "Complete First World Bank heist on hard difficulty without going into bleedout."
+},{
+	 "i"		: 243
+	,"ids"		: "Idstring(@IDa47c0f3b8392d9e6@)"
+	,"StringID"	: "ch_bridge_no_bleedouts_hl"
+	,"orig_text": "Green Bridge: Bulletproof"
+},{
+	 "i"		: 244
+	,"ids"		: "Idstring(@IDe1fbe2059af19371@)"
+	,"StringID"	: "ch_never_downed"
+	,"orig_text": "Complete one entire successful session without getting downed."
+},{
+	 "i"		: 245
+	,"ids"		: "Idstring(@IDe7be60771467c319@)"
+	,"StringID"	: "ch_citys_finest_hl"
+	,"orig_text": "The city's finest"
+},{
+	 "i"		: 246
+	,"ids"		: "Idstring(@IDb8acacf12feff2df@)"
+	,"StringID"	: "ch_mac11_vs_the_law_5_hl"
+	,"orig_text": "Mark 11 VS. the Law V"
+},{
+	 "i"		: 247
+	,"ids"		: "Idstring(@ID84b99356f1bc77f4@)"
+	,"StringID"	: "ch_apartment_no_civilians_hl"
+	,"orig_text": "Panic Room: Clean hit"
+},{
+	 "i"		: 248
+	,"ids"		: "Idstring(@ID0d378d1806a0ab53@)"
+	,"StringID"	: "ch_diamond_heist_overkill_no_trade_hl"
+	,"orig_text": "Diamond Heist: Don't lose face"
+},{
+	 "i"		: 249
+	,"ids"		: "Idstring(@IDd129629ad29efaa6@)"
+	,"StringID"	: "ch_me_vs_taser"
+	,"orig_text": "Defeat ##taser_kill## Tasers. Using Trip Mines or Melee does not count towards this challenge!"
+},{
+	 "i"		: 250
+	,"ids"		: "Idstring(@ID364cac010db4b9d7@)"
+	,"StringID"	: "ch_aquire_money_10_hl"
+	,"orig_text": "...and that's a lot of cash X"
+},{
+	 "i"		: 251
+	,"ids"		: "Idstring(@ID169cf3315212e12f@)"
+	,"StringID"	: "ch_trip_mine_vs_the_law"
+	,"orig_text": "Defeat ##trip_mine_law_kill## Law enforcers using your Trip Mines. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 252
+	,"ids"		: "Idstring(@IDa7610a2967380efa@)"
+	,"StringID"	: "ch_trip_mine_vs_the_law_3_hl"
+	,"orig_text": "Trip Mines VS. the Law III"
+},{
+	 "i"		: 253
+	,"ids"		: "Idstring(@ID9e7770d7b3932f25@)"
+	,"StringID"	: "ch_aquire_money_2_hl"
+	,"orig_text": "...and that's a lot of cash II"
+},{
+	 "i"		: 254
+	,"ids"		: "Idstring(@ID77781311916bc430@)"
+	,"StringID"	: "ch_glock_vs_the_law_1_hl"
+	,"orig_text": "STRYK VS. the Law I"
+},{
+	 "i"		: 255
+	,"ids"		: "Idstring(@IDd092b0bf57fb3ab0@)"
+	,"StringID"	: "ch_mp5_vs_the_law"
+	,"orig_text": "Using the Compact-5, defeat ##mp5_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 256
+	,"ids"		: "Idstring(@ID6481749d8ed68142@)"
+	,"StringID"	: "ch_m14_taser_head_shot"
+	,"orig_text": "Using the M308, defeat ##m14_taser_head_shot## Tasers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 257
+	,"ids"		: "Idstring(@ID26810cafc5ffb5e6@)"
+	,"StringID"	: "ch_mac11_vs_the_law"
+	,"orig_text": "Using the Mark 11, defeat ##mac11_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 258
+	,"ids"		: "Idstring(@IDf6975fa1030403b9@)"
+	,"StringID"	: "ch_beretta92_taser_kill_1_hl"
+	,"orig_text": "B9-S VS. Tasers"
+},{
+	 "i"		: 259
+	,"ids"		: "Idstring(@ID3307c7ac8494b7f1@)"
+	,"StringID"	: "ch_aquire_money_8"
+	,"orig_text": "Acquire $600,000,000 in cash."
+},{
+	 "i"		: 260
+	,"ids"		: "Idstring(@ID4a2bef51c34c4b0c@)"
+	,"StringID"	: "ch_payday_hl"
+	,"orig_text": "PAYDAY"
+},{
+	 "i"		: 261
+	,"ids"		: "Idstring(@ID414cf8ca2fe1c767@)"
+	,"StringID"	: "ch_street_overkill_no_trade"
+	,"orig_text": "Complete Heat Street on OVERKILL difficulty without anyone getting traded from custody."
+},{
+	 "i"		: 262
+	,"ids"		: "Idstring(@ID07eafd7072803d2f@)"
+	,"StringID"	: "ch_apartment_no_deaths_hl"
+	,"orig_text": "Panic Room: Like a pro"
+},{
+	 "i"		: 263
+	,"ids"		: "Idstring(@IDe4c4356cd9949fb5@)"
+	,"StringID"	: "ch_m4_vs_the_law_1_hl"
+	,"orig_text": "Amcar-4 VS. the Law I"
+},{
+	 "i"		: 264
+	,"ids"		: "Idstring(@IDa348ae04ce3cd8ba@)"
+	,"StringID"	: "ch_c45_fbi_kill"
+	,"orig_text": "Using the Crosskill, defeat ##c45_fbi_kill## FBI agents. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 265
+	,"ids"		: "Idstring(@ID0043b04d9e668864@)"
+	,"StringID"	: "ch_aquire_money_4_hl"
+	,"orig_text": "...and that's a lot of cash IV"
+},{
+	 "i"		: 266
+	,"ids"		: "Idstring(@ID583542b4ba0007c6@)"
+	,"StringID"	: "ch_bridge_on_overkill_145_hl"
+	,"orig_text": "Beat the shield"
+},{
+	 "i"		: 267
+	,"ids"		: "Idstring(@ID6afc588d3fba07b6@)"
+	,"StringID"	: "ch_m4_head_shots_2_hl"
+	,"orig_text": "Amcar-4 expert II"
+},{
+	 "i"		: 268
+	,"ids"		: "Idstring(@IDb75cda3a43f432c9@)"
+	,"StringID"	: "ch_me_vs_the_law_head_shot_1_hl"
+	,"orig_text": "Me VS. the Law Headshot I"
+},{
+	 "i"		: 269
+	,"ids"		: "Idstring(@IDe470fca8a3bbe101@)"
+	,"StringID"	: "ch_m14_vs_the_law_2_hl"
+	,"orig_text": "M308 VS. the Law II"
+},{
+	 "i"		: 270
+	,"ids"		: "Idstring(@ID0365f6dfa630f6a0@)"
+	,"StringID"	: "ch_trip_mine_vs_the_law_1_hl"
+	,"orig_text": "Trip Mines VS. the Law I"
+},{
+	 "i"		: 271
+	,"ids"		: "Idstring(@ID64bb3134b22500e0@)"
+	,"StringID"	: "ch_beretta92_vs_the_law_3_hl"
+	,"orig_text": "B9-S VS. the Law III"
+},{
+	 "i"		: 272
+	,"ids"		: "Idstring(@IDcb0f072a8348d150@)"
+	,"StringID"	: "ch_suburbia_no_deaths_hl"
+	,"orig_text": "COUNTERFEIT: Like a pro"
+},{
+	 "i"		: 273
+	,"ids"		: "Idstring(@IDe4b578f55bb28916@)"
+	,"StringID"	: "ch_bridge_on_overkill_hl"
+	,"orig_text": "Green Bridge: OVERKILL"
+},{
+	 "i"		: 274
+	,"ids"		: "Idstring(@IDcddafb3ad0fa41c6@)"
+	,"StringID"	: "ch_mac11_vs_the_law_3_hl"
+	,"orig_text": "Mark 11 VS. the Law III"
+},{
+	 "i"		: 275
+	,"ids"		: "Idstring(@IDfe786916affd5178@)"
+	,"StringID"	: "ch_mac11_vs_the_law_2_hl"
+	,"orig_text": "Mark 11 VS. the Law II"
+},{
+	 "i"		: 276
+	,"ids"		: "Idstring(@ID6d905c7f56ea1c42@)"
+	,"StringID"	: "ch_ninja"
+	,"orig_text": "Bypassing all 3 consoles before raising the alarm, beat DIAMOND HEIST on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 277
+	,"ids"		: "Idstring(@IDa8dda584777b8440@)"
+	,"StringID"	: "ch_c45_vs_the_law_2_hl"
+	,"orig_text": "Crosskill .45 VS. the Law II"
+},{
+	 "i"		: 278
+	,"ids"		: "Idstring(@ID798b0b3fa29f861d@)"
+	,"StringID"	: "ch_me_vs_the_law_1_hl"
+	,"orig_text": "Me VS. the Law I"
+},{
+	 "i"		: 279
+	,"ids"		: "Idstring(@IDf4373e80861ecbe1@)"
+	,"StringID"	: "ch_dodge_this"
+	,"orig_text": "Beat a heist on normal difficulty or above, having killed a Bulldozer without taking damage from any Bulldozer. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 280
+	,"ids"		: "Idstring(@ID50550efd02241f4b@)"
+	,"StringID"	: "ch_dual_tripmine_hl"
+	,"orig_text": "Two guys went on a Trip"
+},{
+	 "i"		: 281
+	,"ids"		: "Idstring(@IDab3cb6a993c20b02@)"
+	,"StringID"	: "ch_ak47_vs_the_law_2_hl"
+	,"orig_text": "AK VS. the Law II"
+},{
+	 "i"		: 282
+	,"ids"		: "Idstring(@IDa192918705aee1ea@)"
+	,"StringID"	: "ch_bank_on_overkill"
+	,"orig_text": "Complete First World Bank on OVERKILL difficulty."
+},{
+	 "i"		: 283
+	,"ids"		: "Idstring(@IDcc6a3b08cc087f75@)"
+	,"StringID"	: "ch_hk21_vs_the_law_6_hl"
+	,"orig_text": "Brenner 21 VS. the Law VI"
+},{
+	 "i"		: 284
+	,"ids"		: "Idstring(@ID905b5a50ad717054@)"
+	,"StringID"	: "ch_hk21_vs_the_law"
+	,"orig_text": "Using the Brenner 21, defeat ##hk21_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 285
+	,"ids"		: "Idstring(@IDd61bb40b1ea54a0d@)"
+	,"StringID"	: "ch_m4_vs_the_law_5_hl"
+	,"orig_text": "Amcar-4 VS. the Law V"
+},{
+	 "i"		: 286
+	,"ids"		: "Idstring(@ID52208ebc593801a9@)"
+	,"StringID"	: "ch_tiedown_law"
+	,"orig_text": "Force ##tiedown_law## Law enforcers to cuff themselves."
+},{
+	 "i"		: 287
+	,"ids"		: "Idstring(@IDf015d9231af78b56@)"
+	,"StringID"	: "ch_revive_2_hl"
+	,"orig_text": "A helping hand II"
+},{
+	 "i"		: 288
+	,"ids"		: "Idstring(@IDcda87c9ca42fb71c@)"
+	,"StringID"	: "ch_glock_vs_the_law_3_hl"
+	,"orig_text": "STRYK VS. the Law III"
+},{
+	 "i"		: 289
+	,"ids"		: "Idstring(@IDb814e64ce9978d1e@)"
+	,"StringID"	: "ch_plant_tripmine"
+	,"orig_text": "Plant ##plant_tripmine## Trip Mines."
+},{
+	 "i"		: 290
+	,"ids"		: "Idstring(@ID0922c5c7a61c92c3@)"
+	,"StringID"	: "ch_aquire_money_8_hl"
+	,"orig_text": "...and that's a lot of cash VIII"
+},{
+	 "i"		: 291
+	,"ids"		: "Idstring(@ID29d027d9e922350a@)"
+	,"StringID"	: "ch_last_man_standing_hl"
+	,"orig_text": "Last man standing"
+},{
+	 "i"		: 292
+	,"ids"		: "Idstring(@ID2744ee02a0bfb84c@)"
+	,"StringID"	: "ch_mp5_vs_the_law_2_hl"
+	,"orig_text": "Compact-5 VS. the Law II"
+},{
+	 "i"		: 293
+	,"ids"		: "Idstring(@IDac10994287ba16f2@)"
+	,"StringID"	: "ch_aquire_money_3_hl"
+	,"orig_text": "...and that's a lot of cash III"
+},{
+	 "i"		: 294
+	,"ids"		: "Idstring(@ID9923528f48fab692@)"
+	,"StringID"	: "ch_ak47_head_shots_3_hl"
+	,"orig_text": "AK VS. the Law Headshot III"
+},{
+	 "i"		: 295
+	,"ids"		: "Idstring(@IDea2bc40269f59af9@)"
+	,"StringID"	: "ch_fall_to_bleed_out"
+	,"orig_text": "Go into bleedout from fall damage."
+},{
+	 "i"		: 296
+	,"ids"		: "Idstring(@ID8dec1bc1fc46d67d@)"
+	,"StringID"	: "ch_bank_on_overkill_hl"
+	,"orig_text": "First World Bank: OVERKILL"
+},{
+	 "i"		: 297
+	,"ids"		: "Idstring(@IDa32ee1de0584e965@)"
+	,"StringID"	: "ch_beretta92_head_shots_2_hl"
+	,"orig_text": "B9-S expert II"
+},{
+	 "i"		: 298
+	,"ids"		: "Idstring(@IDfeb4b81bb01055ff@)"
+	,"StringID"	: "ch_mossberg_vs_the_law_5_hl"
+	,"orig_text": "Locomotive 12G VS. the Law V"
+},{
+	 "i"		: 299
+	,"ids"		: "Idstring(@ID91f0a09c405dd621@)"
+	,"StringID"	: "ch_secret_stash_on_overkill"
+	,"orig_text": "Complete UNDERCOVER on OVERKILL difficulty."
+},{
+	 "i"		: 300
+	,"ids"		: "Idstring(@ID09bb042bf5d697b9@)"
+	,"StringID"	: "ch_m79_simultaneous_kills_1_hl"
+	,"orig_text": "GL40 Cluster Kill I"
+},{
+	 "i"		: 301
+	,"ids"		: "Idstring(@ID0a3e081f9cb20a26@)"
+	,"StringID"	: "ch_tiedown_swat_hl"
+	,"orig_text": "Owning the blue SWAT"
+},{
+	 "i"		: 302
+	,"ids"		: "Idstring(@ID82a10f18d4311975@)"
+	,"StringID"	: "ch_slaughterhouse_on_overkill_145"
+	,"orig_text": "Beat SLAUGHTERHOUSE on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 303
+	,"ids"		: "Idstring(@ID6c518e79610caa8f@)"
+	,"StringID"	: "ch_mac11_head_shots_1_hl"
+	,"orig_text": "Mark 11 expert I"
+},{
+	 "i"		: 304
+	,"ids"		: "Idstring(@ID426078b30b5c8772@)"
+	,"StringID"	: "ch_diamond_heist_on_overkill_hl"
+	,"orig_text": "Diamond Heist: OVERKILL"
+},{
+	 "i"		: 305
+	,"ids"		: "Idstring(@IDe43efc2c21f05acf@)"
+	,"StringID"	: "ch_me_vs_shield"
+	,"orig_text": "Defeat ##shield_kill## Shields. Using Trip Mines or Melee does not count towards this challenge!"
+},{
+	 "i"		: 306
+	,"ids"		: "Idstring(@ID1bc951868b781a3d@)"
+	,"StringID"	: "ch_reinbeck_vs_the_law_1_hl"
+	,"orig_text": "Reinbeck 880 VS. the Law I"
+},{
+	 "i"		: 307
+	,"ids"		: "Idstring(@ID3f68f53c8f5ce0a7@)"
+	,"StringID"	: "ch_mp5_head_shots_3_hl"
+	,"orig_text": "Compact-5 expert III"
+},{
+	 "i"		: 308
+	,"ids"		: "Idstring(@ID138a9a5dd7203c64@)"
+	,"StringID"	: "ch_apartment_no_civilians"
+	,"orig_text": "Complete Panic Room on hard difficulty without killing any civilians."
+},{
+	 "i"		: 309
+	,"ids"		: "Idstring(@IDbe57103b7947bc11@)"
+	,"StringID"	: "ch_m79_vs_the_law_2_hl"
+	,"orig_text": "GL40 VS. the Law II"
+},{
+	 "i"		: 310
+	,"ids"		: "Idstring(@IDbdf313c33d437270@)"
+	,"StringID"	: "ch_hos_cut_wire"
+	,"orig_text": "In NO MERCY, cut the correct wire opening the ICU door security system. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 311
+	,"ids"		: "Idstring(@ID66d47229c037661e@)"
+	,"StringID"	: "ch_sentry_gun_row_kills_4_hl"
+	,"orig_text": "SENTRY GUN Kills in a Row IV"
+},{
+	 "i"		: 312
+	,"ids"		: "Idstring(@ID2a956c219109e9e4@)"
+	,"StringID"	: "ch_tiedown_law_hl"
+	,"orig_text": "Owning the Law"
+},{
+	 "i"		: 313
+	,"ids"		: "Idstring(@IDba56a503d81d549a@)"
+	,"StringID"	: "ch_melee_1_hl"
+	,"orig_text": "Saving bullets I"
+},{
+	 "i"		: 314
+	,"ids"		: "Idstring(@IDa8a52bda43dd77c2@)"
+	,"StringID"	: "ch_me_vs_the_law_3_hl"
+	,"orig_text": "Me VS. the Law III"
+},{
+	 "i"		: 315
+	,"ids"		: "Idstring(@ID8ce93f231da2bfdb@)"
+	,"StringID"	: "ch_dual_tripmine"
+	,"orig_text": "Defeat two Law enforcers with a single Trip Mine."
+},{
+	 "i"		: 316
+	,"ids"		: "Idstring(@ID66df9f4324d36a45@)"
+	,"StringID"	: "ch_me_vs_swat_hl"
+	,"orig_text": "Me VS. blue SWAT"
+},{
+	 "i"		: 317
+	,"ids"		: "Idstring(@ID865a95e37faa864c@)"
+	,"StringID"	: "ch_m14_head_shots_2_hl"
+	,"orig_text": "M308 expert II"
+},{
+	 "i"		: 318
+	,"ids"		: "Idstring(@IDaad727fd0d190a29@)"
+	,"StringID"	: "ch_bronco_vs_the_law_4_hl"
+	,"orig_text": "Bronco .44 VS. the Law IV"
+},{
+	 "i"		: 319
+	,"ids"		: "Idstring(@ID12f11e241b27cd7a@)"
+	,"StringID"	: "ch_hot_lava_hl"
+	,"orig_text": "Hot lava"
+},{
+	 "i"		: 320
+	,"ids"		: "Idstring(@IDfab5c249e9346bb6@)"
+	,"StringID"	: "ch_c45_head_shots_3_hl"
+	,"orig_text": "Crosskill .45 expert III"
+},{
+	 "i"		: 321
+	,"ids"		: "Idstring(@IDd717b672ab5b0551@)"
+	,"StringID"	: "ch_beretta92_vs_the_law_6_hl"
+	,"orig_text": "B9-S VS. the Law VI"
+},{
+	 "i"		: 322
+	,"ids"		: "Idstring(@IDb8c25e6ccbd57f07@)"
+	,"StringID"	: "ch_arrested_single"
+	,"orig_text": "Get arrested."
+},{
+	 "i"		: 323
+	,"ids"		: "Idstring(@ID1bfc05920af85e72@)"
+	,"StringID"	: "ch_secret_stash_no_deaths"
+	,"orig_text": "Complete UNDERCOVER on hard difficulty without being taken into custody."
+},{
+	 "i"		: 324
+	,"ids"		: "Idstring(@ID650c00f7e5859f5b@)"
+	,"StringID"	: "ch_me_vs_shield_hl"
+	,"orig_text": "Me VS. Shields"
+},{
+	 "i"		: 325
+	,"ids"		: "Idstring(@ID74a129e9ce9d5b15@)"
+	,"StringID"	: "ch_beretta92_head_shots"
+	,"orig_text": "Using the B9-S, defeat ##beretta92_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 326
+	,"ids"		: "Idstring(@IDc01f38c4a0c59f0b@)"
+	,"StringID"	: "ch_bronco_head_shots_4_hl"
+	,"orig_text": "Bronco .44 expert IV"
+},{
+	 "i"		: 327
+	,"ids"		: "Idstring(@IDf4852ffcc3c6e60a@)"
+	,"StringID"	: "ch_ak47_vs_the_law_1_hl"
+	,"orig_text": "AK VS. the Law I"
+},{
+	 "i"		: 328
+	,"ids"		: "Idstring(@ID2f7d6243774ec7ce@)"
+	,"StringID"	: "ch_bronco_head_shots_1_hl"
+	,"orig_text": "Bronco .44 expert I"
+},{
+	 "i"		: 329
+	,"ids"		: "Idstring(@ID0b52814e836c255d@)"
+	,"StringID"	: "ch_glock_head_shots_2_hl"
+	,"orig_text": "STRYK VS. the Law Headshot II"
+},{
+	 "i"		: 330
+	,"ids"		: "Idstring(@ID7aa79c4e20dbceb9@)"
+	,"StringID"	: "ch_reinbeck_head_shots_1_hl"
+	,"orig_text": "Reinbeck 880 expert I"
+},{
+	 "i"		: 331
+	,"ids"		: "Idstring(@ID94b14a9874fe3c91@)"
+	,"StringID"	: "ch_dont_lose_face"
+	,"orig_text": "Beat all original heists on OVERKILL difficulty without anyone getting traded from custody. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 332
+	,"ids"		: "Idstring(@ID578256303dd605d0@)"
+	,"StringID"	: "ch_mp5_vs_the_law_3_hl"
+	,"orig_text": "Compact-5 VS. the Law III"
+},{
+	 "i"		: 333
+	,"ids"		: "Idstring(@ID335fb8522ba68439@)"
+	,"StringID"	: "ch_m14_vs_the_law_4_hl"
+	,"orig_text": "M308 VS. the Law IV"
+},{
+	 "i"		: 334
+	,"ids"		: "Idstring(@IDbdbdc0d2707bfde2@)"
+	,"StringID"	: "ch_c45_vs_the_law_1_hl"
+	,"orig_text": "Crosskill .45 VS. the Law I"
+},{
+	 "i"		: 335
+	,"ids"		: "Idstring(@ID1b1b7d080d8905ea@)"
+	,"StringID"	: "ch_ak47_vs_the_law"
+	,"orig_text": "Using the AK, defeat ##ak47_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 336
+	,"ids"		: "Idstring(@IDe7c8d23f10ef7a66@)"
+	,"StringID"	: "ch_slaughterhouse_overkill_no_trade_hl"
+	,"orig_text": "Slaughterhouse: Don't lose face"
+},{
+	 "i"		: 337
+	,"ids"		: "Idstring(@ID43397cad05de484e@)"
+	,"StringID"	: "ch_aquire_money_3"
+	,"orig_text": "Acquire $100,000,000 in cash."
+},{
+	 "i"		: 338
+	,"ids"		: "Idstring(@IDd33d5ba33893c04f@)"
+	,"StringID"	: "ch_m14_taser_head_shot_1_hl"
+	,"orig_text": "M308 VS. Tasers"
+},{
+	 "i"		: 339
+	,"ids"		: "Idstring(@ID32e94274abd39a7c@)"
+	,"StringID"	: "ch_ak47_vs_the_law_6_hl"
+	,"orig_text": "AK VS. the Law VI"
+},{
+	 "i"		: 340
+	,"ids"		: "Idstring(@ID90417f3caf120cff@)"
+	,"StringID"	: "ch_c45_fbi_kill_1_hl"
+	,"orig_text": "Crosskill .45 VS. the FBI"
+},{
+	 "i"		: 341
+	,"ids"		: "Idstring(@IDca80a8794cf9021d@)"
+	,"StringID"	: "ch_hk21_vs_the_law_5_hl"
+	,"orig_text": "Brenner 21 VS. the Law V"
+},{
+	 "i"		: 342
+	,"ids"		: "Idstring(@IDaea2b8750384db3f@)"
+	,"StringID"	: "ch_m4_spooc_head_shot_1_hl"
+	,"orig_text": "Amcar-4 VS. Cloakers"
+},{
+	 "i"		: 343
+	,"ids"		: "Idstring(@ID6a65f5fd15128692@)"
+	,"StringID"	: "ch_hk21_vs_the_law_2_hl"
+	,"orig_text": "Brenner 21 VS. the Law II"
+},{
+	 "i"		: 344
+	,"ids"		: "Idstring(@ID1b6600f8d0a5d7bd@)"
+	,"StringID"	: "ch_saviour"
+	,"orig_text": "On UNDERCOVER, place 20 planks by yourself on windows, vents or fences."
+},{
+	 "i"		: 345
+	,"ids"		: "Idstring(@ID002ce1ebc5f17a04@)"
+	,"StringID"	: "ch_bronco_vs_the_law_3_hl"
+	,"orig_text": "Bronco .44 VS. the Law III"
+},{
+	 "i"		: 346
+	,"ids"		: "Idstring(@IDc62d2280d6ea0ab3@)"
+	,"StringID"	: "ch_mp5_vs_the_law_4_hl"
+	,"orig_text": "Compact-5 VS. the Law IV"
+},{
+	 "i"		: 347
+	,"ids"		: "Idstring(@IDd4e7880896053aa6@)"
+	,"StringID"	: "ch_mossberg_vs_the_law_4_hl"
+	,"orig_text": "Locomotive 12G VS. the Law IV"
+},{
+	 "i"		: 348
+	,"ids"		: "Idstring(@IDf9d0692b87e2548c@)"
+	,"StringID"	: "ch_reinbeck_vs_the_law"
+	,"orig_text": "Using the Reinbeck 880, defeat ##reinbeck_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 349
+	,"ids"		: "Idstring(@IDb45ea2eaee72e8ba@)"
+	,"StringID"	: "ch_m79_simultaneous_kills_2_hl"
+	,"orig_text": "GL40 Cluster Kill II"
+},{
+	 "i"		: 350
+	,"ids"		: "Idstring(@IDceef66f12e332291@)"
+	,"StringID"	: "ch_hk21_vs_the_law_4_hl"
+	,"orig_text": "Brenner 21 VS. the Law IV"
+},{
+	 "i"		: 351
+	,"ids"		: "Idstring(@IDcb705a253de7fe3f@)"
+	,"StringID"	: "ch_drop_armored_car_hl"
+	,"orig_text": "But how?"
+},{
+	 "i"		: 352
+	,"ids"		: "Idstring(@ID1ad079cff7ba0776@)"
+	,"StringID"	: "ch_c45_vs_the_law_5_hl"
+	,"orig_text": "Crosskill .45 VS. the Law V"
+},{
+	 "i"		: 353
+	,"ids"		: "Idstring(@ID4fe1fd859cb1bd4a@)"
+	,"StringID"	: "ch_bronco_vs_the_law"
+	,"orig_text": "Using the Bronco .44, defeat ##bronco_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 354
+	,"ids"		: "Idstring(@ID227efd0a13a047c8@)"
+	,"StringID"	: "ch_tris_tripmine"
+	,"orig_text": "Defeat three Law enforcers with a single Trip Mine."
+},{
+	 "i"		: 355
+	,"ids"		: "Idstring(@ID9c41f04be097a938@)"
+	,"StringID"	: "ch_kill_thugs"
+	,"orig_text": "In PANIC ROOM, kill all armed thugs in and around the apartment building within 60 seconds of you and your crew drawing your weapons. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 356
+	,"ids"		: "Idstring(@ID713d5bf8bb32e3ea@)"
+	,"StringID"	: "ch_me_vs_swat"
+	,"orig_text": "Defeat ##swat_kill## blue SWAT. Using Trip Mines or Melee does not count towards this challenge!"
+},{
+	 "i"		: 357
+	,"ids"		: "Idstring(@IDd4d864165b58a66b@)"
+	,"StringID"	: "ch_m14_vs_the_law_6_hl"
+	,"orig_text": "M308 VS. the Law VI"
+},{
+	 "i"		: 358
+	,"ids"		: "Idstring(@ID8ec4d35ae3b26758@)"
+	,"StringID"	: "ch_mac11_head_shots"
+	,"orig_text": "Using the Mark 11, defeat ##mac11_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 359
+	,"ids"		: "Idstring(@ID46de1d28f9916da2@)"
+	,"StringID"	: "ch_mac11_head_shots_4_hl"
+	,"orig_text": "Mark 11 expert IV"
+},{
+	 "i"		: 360
+	,"ids"		: "Idstring(@IDd1c2f8d16ba4e929@)"
+	,"StringID"	: "ch_beretta92_vs_the_law_5_hl"
+	,"orig_text": "B9-S VS. the Law V"
+},{
+	 "i"		: 361
+	,"ids"		: "Idstring(@ID515d2afaf8e3e1b2@)"
+	,"StringID"	: "ch_diamond_heist_no_deaths_hl"
+	,"orig_text": "Diamond Heist: Like a pro"
+},{
+	 "i"		: 362
+	,"ids"		: "Idstring(@IDc54809765c139691@)"
+	,"StringID"	: "ch_apartment_no_deaths"
+	,"orig_text": "Complete Panic Room on hard difficulty without being taken into custody."
+},{
+	 "i"		: 363
+	,"ids"		: "Idstring(@IDdf1dc10b3ad3cb8f@)"
+	,"StringID"	: "ch_aquire_money_1"
+	,"orig_text": "Acquire $20,000,000 in cash."
+},{
+	 "i"		: 364
+	,"ids"		: "Idstring(@IDf60a3869a62c56af@)"
+	,"StringID"	: "ch_melee_4_hl"
+	,"orig_text": "Saving bullets IV"
+},{
+	 "i"		: 365
+	,"ids"		: "Idstring(@ID8057d0ed95e339a9@)"
+	,"StringID"	: "ch_fall_to_bleed_out_hl"
+	,"orig_text": "I've fallen - and I can't get up!"
+},{
+	 "i"		: 366
+	,"ids"		: "Idstring(@IDbad0d299fe3b45ca@)"
+	,"StringID"	: "ch_beretta92_head_shots_1_hl"
+	,"orig_text": "B9-S expert I"
+},{
+	 "i"		: 367
+	,"ids"		: "Idstring(@ID6914ac800491d368@)"
+	,"StringID"	: "ch_bridge_on_overkill"
+	,"orig_text": "Complete Green Bridge on OVERKILL difficulty."
+},{
+	 "i"		: 368
+	,"ids"		: "Idstring(@IDf57bcd64e652d22c@)"
+	,"StringID"	: "ch_mp5_vs_the_law_6_hl"
+	,"orig_text": "Compact-5 VS. the Law VI"
+},{
+	 "i"		: 369
+	,"ids"		: "Idstring(@IDefe32fc7f9777d04@)"
+	,"StringID"	: "ch_bronco_vs_the_law_2_hl"
+	,"orig_text": "Bronco .44 VS. the Law II"
+},{
+	 "i"		: 370
+	,"ids"		: "Idstring(@ID751e27f54fc609e2@)"
+	,"StringID"	: "ch_me_vs_the_law_2_hl"
+	,"orig_text": "Me VS. the Law II"
+},{
+	 "i"		: 371
+	,"ids"		: "Idstring(@IDede25f5e1dc44216@)"
+	,"StringID"	: "ch_mossberg_cop_kill_1_hl"
+	,"orig_text": "Locomotive 12G VS. Cops"
+},{
+	 "i"		: 372
+	,"ids"		: "Idstring(@IDdc6deed6db1cc850@)"
+	,"StringID"	: "ch_tiedown_fbi"
+	,"orig_text": "Force ##tiedown_fbi## FBI agents to cuff themselves."
+},{
+	 "i"		: 373
+	,"ids"		: "Idstring(@IDdacf671832f6f28d@)"
+	,"StringID"	: "ch_bridge_no_deaths_hl"
+	,"orig_text": "Green Bridge: Like a pro"
+},{
+	 "i"		: 374
+	,"ids"		: "Idstring(@IDd57e55c954b2224b@)"
+	,"StringID"	: "ch_mac11_vs_the_law_4_hl"
+	,"orig_text": "Mark 11 VS. the Law IV"
+},{
+	 "i"		: 375
+	,"ids"		: "Idstring(@IDfb576cbc917d8467@)"
+	,"StringID"	: "ch_hk21_head_shots_2_hl"
+	,"orig_text": "Brenner 21 expert II"
+},{
+	 "i"		: 376
+	,"ids"		: "Idstring(@ID417d43b337057f27@)"
+	,"StringID"	: "ch_tiedown_smep_hl"
+	,"orig_text": "Owning the HEAVY SWATS"
+},{
+	 "i"		: 377
+	,"ids"		: "Idstring(@IDd926197f6a1b26f1@)"
+	,"StringID"	: "ch_apartment_overkill_no_trade"
+	,"orig_text": "Complete Panic Room on OVERKILL difficulty without anyone getting traded from custody."
+},{
+	 "i"		: 378
+	,"ids"		: "Idstring(@ID74ef0ec5e2c2ab6c@)"
+	,"StringID"	: "ch_tiedown_smep"
+	,"orig_text": "Force ##tiedown_smep## HEAVY SWATS to cuff themselves."
+},{
+	 "i"		: 379
+	,"ids"		: "Idstring(@ID9c0a8b731bb8afec@)"
+	,"StringID"	: "ch_windowlicker"
+	,"orig_text": "Defeat a law enforcer planting C4 in FIRST WORLD BANK on hard difficulty or above. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 380
+	,"ids"		: "Idstring(@ID8ffc34d653c3d649@)"
+	,"StringID"	: "ch_reinbeck_vs_the_law_5_hl"
+	,"orig_text": "Reinbeck 880 VS. the Law V"
+},{
+	 "i"		: 381
+	,"ids"		: "Idstring(@IDb7bdbc2e22d75fb8@)"
+	,"StringID"	: "ch_mossberg_vs_the_law"
+	,"orig_text": "Using the Locomotive 12G, defeat ##mossberg_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 382
+	,"ids"		: "Idstring(@ID3081ccb1de1f687f@)"
+	,"StringID"	: "ch_c45_head_shots_4_hl"
+	,"orig_text": "Crosskill .45 expert IV"
+},{
+	 "i"		: 383
+	,"ids"		: "Idstring(@IDa60687d2c56493f9@)"
+	,"StringID"	: "ch_beretta92_vs_the_law"
+	,"orig_text": "Using the B9-S, defeat ##beretta92_law_kill## Law enforcers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 384
+	,"ids"		: "Idstring(@ID05b6db6fd7af13d5@)"
+	,"StringID"	: "ch_bronco_head_shots"
+	,"orig_text": "Using the Bronco .44, defeat ##bronco_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 385
+	,"ids"		: "Idstring(@IDcba5030fd1cf17e6@)"
+	,"StringID"	: "ch_bronco_tank_kill"
+	,"orig_text": "Using the Bronco .44, defeat ##bronco_tank_kill## bulldozers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 386
+	,"ids"		: "Idstring(@ID0615954061664536@)"
+	,"StringID"	: "ch_reinbeck_vs_the_law_3_hl"
+	,"orig_text": "Reinbeck 880 VS. the Law III"
+},{
+	 "i"		: 387
+	,"ids"		: "Idstring(@ID8d9929a6e1081683@)"
+	,"StringID"	: "ch_mac11_head_shots_2_hl"
+	,"orig_text": "Mark 11 expert II"
+},{
+	 "i"		: 388
+	,"ids"		: "Idstring(@IDc411892fdfdd22fe@)"
+	,"StringID"	: "ch_m14_vs_the_law_5_hl"
+	,"orig_text": "M308 VS. the Law V"
+},{
+	 "i"		: 389
+	,"ids"		: "Idstring(@ID0c6a9581a362b65a@)"
+	,"StringID"	: "ch_hk21_shield_kill"
+	,"orig_text": "Using the Brenner 21, defeat ##hk21_shield_kill## Shields. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 390
+	,"ids"		: "Idstring(@ID14fd03ed1bac9bad@)"
+	,"StringID"	: "ch_quad_tripmine_hl"
+	,"orig_text": "Four guys went on a Trip"
+},{
+	 "i"		: 391
+	,"ids"		: "Idstring(@ID23aa51cc04f27e28@)"
+	,"StringID"	: "ch_bleed_out_kill"
+	,"orig_text": "Defeat ##bleed_out_kill## Law enforcers while you're in bleedout. Using Trip Mines or Sentry Gun does not count towards this challenge!"
+},{
+	 "i"		: 392
+	,"ids"		: "Idstring(@ID0cd03260b4e84633@)"
+	,"StringID"	: "ch_bleed_out_multikill"
+	,"orig_text": "Defeat ##bleed_out_multikill## Law enforcers during a single bleedout."
+},{
+	 "i"		: 393
+	,"ids"		: "Idstring(@ID317aa2c42fcc54e0@)"
+	,"StringID"	: "ch_revived_single"
+	,"orig_text": "Get revived by one of your crew mates."
+},{
+	 "i"		: 394
+	,"ids"		: "Idstring(@ID58da601ce5383de0@)"
+	,"StringID"	: "ch_arrested_hl"
+	,"orig_text": "OK, you got me!"
+},{
+	 "i"		: 395
+	,"ids"		: "Idstring(@ID25e61e6a0c35c27e@)"
+	,"StringID"	: "ch_tiedown_civilian"
+	,"orig_text": "Tie down ##tiedown_civilians## civilians."
+},{
+	 "i"		: 396
+	,"ids"		: "Idstring(@ID8056e8db12e67c96@)"
+	,"StringID"	: "ch_tiedown_cop"
+	,"orig_text": "Force ##tiedown_cop## Police officers to cuff themselves."
+},{
+	 "i"		: 397
+	,"ids"		: "Idstring(@IDf65481ea4ced750b@)"
+	,"StringID"	: "ch_tiedown_fbi_hl"
+	,"orig_text": "Owning the FBI"
+},{
+	 "i"		: 398
+	,"ids"		: "Idstring(@ID8d250ab8efe6c3f5@)"
+	,"StringID"	: "ch_deploy_ammobag"
+	,"orig_text": "Deploy ##deploy_ammobag## Ammo Bags."
+},{
+	 "i"		: 399
+	,"ids"		: "Idstring(@ID9348826dcd0aed13@)"
+	,"StringID"	: "ch_aquire_money_4"
+	,"orig_text": "Acquire $200,000,000 in cash."
+},{
+	 "i"		: 400
+	,"ids"		: "Idstring(@IDcc71038b67dbf31c@)"
+	,"StringID"	: "ch_aquire_money_6_hl"
+	,"orig_text": "...and that's a lot of cash VI"
+},{
+	 "i"		: 401
+	,"ids"		: "Idstring(@ID53f4942547f5ef8a@)"
+	,"StringID"	: "ch_bank_no_deaths_hl"
+	,"orig_text": "First World Bank: Like a pro"
+},{
+	 "i"		: 402
+	,"ids"		: "Idstring(@ID39773c834d74842a@)"
+	,"StringID"	: "ch_bank_overkill_no_trade"
+	,"orig_text": "Complete First World Bank on OVERKILL difficulty without anyone getting traded from custody."
+},{
+	 "i"		: 403
+	,"ids"		: "Idstring(@IDadd4f768f15bb840@)"
+	,"StringID"	: "ch_street_no_civilians"
+	,"orig_text": "Complete Heat Street on hard difficulty without killing any civilians."
+},{
+	 "i"		: 404
+	,"ids"		: "Idstring(@ID30a9879aac862077@)"
+	,"StringID"	: "ch_street_no_deaths_hl"
+	,"orig_text": "Heat Street: Like a pro"
+},{
+	 "i"		: 405
+	,"ids"		: "Idstring(@ID2f1dab5b27dc73e2@)"
+	,"StringID"	: "ch_street_no_bleedouts"
+	,"orig_text": "Complete Heat Street on hard difficulty without going into bleedout."
+},{
+	 "i"		: 406
+	,"ids"		: "Idstring(@ID4873c74baf4feb1d@)"
+	,"StringID"	: "ch_street_on_overkill_hl"
+	,"orig_text": "Heat Street: OVERKILL"
+},{
+	 "i"		: 407
+	,"ids"		: "Idstring(@IDa97de67becf7c18c@)"
+	,"StringID"	: "ch_bridge_no_bleedouts"
+	,"orig_text": "Complete Green Bridge on hard difficulty without going into bleedout."
+},{
+	 "i"		: 408
+	,"ids"		: "Idstring(@IDa61f2455b36f912b@)"
+	,"StringID"	: "ch_apartment_no_bleedouts"
+	,"orig_text": "Complete Panic Room on hard difficulty without going into bleedout."
+},{
+	 "i"		: 409
+	,"ids"		: "Idstring(@IDc77958cfcaf92e6d@)"
+	,"StringID"	: "ch_slaughterhouse_no_deaths_hl"
+	,"orig_text": "Slaughterhouse: Like a pro"
+},{
+	 "i"		: 410
+	,"ids"		: "Idstring(@IDf54145ca2d6fd5a7@)"
+	,"StringID"	: "ch_slaughterhouse_no_bleedouts"
+	,"orig_text": "Complete Slaughterhouse on hard difficulty without going into bleedout."
+},{
+	 "i"		: 411
+	,"ids"		: "Idstring(@ID81d1d62a9fa7dd86@)"
+	,"StringID"	: "ch_diamond_heist_no_bleedouts_hl"
+	,"orig_text": "Diamond Heist: Bulletproof"
+},{
+	 "i"		: 412
+	,"ids"		: "Idstring(@IDf81545e87075dcf5@)"
+	,"StringID"	: "ch_akimbo_hl"
+	,"orig_text": "Akimbo"
+},{
+	 "i"		: 413
+	,"ids"		: "Idstring(@ID35afdaaad0b8e8c6@)"
+	,"StringID"	: "ch_left_for_dead"
+	,"orig_text": "Finish a heist in custody while all your team mates are alive. (4 teammates)."
+},{
+	 "i"		: 414
+	,"ids"		: "Idstring(@ID1674735968869df8@)"
+	,"StringID"	: "ch_blood_in_blood_out"
+	,"orig_text": "Trade all the butchers in SLAUGHTERHOUSE."
+},{
+	 "i"		: 415
+	,"ids"		: "Idstring(@ID346829877424a123@)"
+	,"StringID"	: "ch_drop_armored_car"
+	,"orig_text": "Get the armored car to drop without shooting at it in SLAUGHTERHOUSE. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 416
+	,"ids"		: "Idstring(@ID27acd88b7b89f9b4@)"
+	,"StringID"	: "ch_take_money"
+	,"orig_text": "Find ten money bundles in PANIC ROOM."
+},{
+	 "i"		: 417
+	,"ids"		: "Idstring(@IDe14c29dc9f9e2021@)"
+	,"StringID"	: "ch_take_money_hl"
+	,"orig_text": "Are there more than two?"
+},{
+	 "i"		: 418
+	,"ids"		: "Idstring(@ID92c2e88c2765a9b6@)"
+	,"StringID"	: "ch_chavez_can_run"
+	,"orig_text": "In PANIC ROOM, take the key from Chavez within the first 45 seconds of starting the mission. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 419
+	,"ids"		: "Idstring(@ID7b419f4a817ecb26@)"
+	,"StringID"	: "ch_quick_gold_hl"
+	,"orig_text": "Gold digger"
+},{
+	 "i"		: 420
+	,"ids"		: "Idstring(@IDc9994c0b7e86be5f@)"
+	,"StringID"	: "ch_kill_thugs_hl"
+	,"orig_text": "Quick draw"
+},{
+	 "i"		: 421
+	,"ids"		: "Idstring(@IDf67c6cf18d156c82@)"
+	,"StringID"	: "ch_kill_cameras"
+	,"orig_text": "Destroy all the cameras in FIRST WORLD BANK within 10 seconds of drawing your weapons. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 422
+	,"ids"		: "Idstring(@ID77497c7fa27c54ac@)"
+	,"StringID"	: "ch_hot_lava"
+	,"orig_text": "Don't let any law enforcers reach the graffiti on the center of the roof in PANIC ROOM from the SECURE THE ROOF objective until the ESCAPE objective on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 423
+	,"ids"		: "Idstring(@IDd04dbcf52e83c8de@)"
+	,"StringID"	: "ch_federal_crime"
+	,"orig_text": "Defeat 25 FBI agents in a row."
+},{
+	 "i"		: 424
+	,"ids"		: "Idstring(@ID5c77e0067205a9f1@)"
+	,"StringID"	: "ch_federal_crime_hl"
+	,"orig_text": "Federal crime"
+},{
+	 "i"		: 425
+	,"ids"		: "Idstring(@ID20a1ce30b9ce5c09@)"
+	,"StringID"	: "ch_bomb_man"
+	,"orig_text": "In DIAMOND HEIST, defeat all twelve Patrol Guards using only trip mines. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 426
+	,"ids"		: "Idstring(@ID176e535884aeeaec@)"
+	,"StringID"	: "ch_duck_hunting"
+	,"orig_text": "Complete the GREEN BRIDGE on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 427
+	,"ids"		: "Idstring(@ID7732fdc37ee14c67@)"
+	,"StringID"	: "ch_ready_yet"
+	,"orig_text": "In DIAMOND HEIST, get Bain to come back for you at least 7 times on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 428
+	,"ids"		: "Idstring(@ID64dc41fcc67d692e@)"
+	,"StringID"	: "ch_citys_finest"
+	,"orig_text": "Defeat 44,150 law enforcers (2010 numbers.)"
+},{
+	 "i"		: 429
+	,"ids"		: "Idstring(@ID05da7ced24f358b7@)"
+	,"StringID"	: "ch_dozen_angry"
+	,"orig_text": "In DIAMOND HEIST, get the big diamond and escape on OVERKILL difficulty with you and all your team mates alive. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 430
+	,"ids"		: "Idstring(@ID8b1ac2c99d615afe@)"
+	,"StringID"	: "ch_noob_herder"
+	,"orig_text": "Beat any heist on OVERKILL difficulty with three other players who are all using the Noob Lube perk. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 431
+	,"ids"		: "Idstring(@ID168f5d005be2b35f@)"
+	,"StringID"	: "ch_noob_herder_hl"
+	,"orig_text": "Noob herder"
+},{
+	 "i"		: 432
+	,"ids"		: "Idstring(@ID2c1ac1cb7602efdc@)"
+	,"StringID"	: "ch_got_your_back_hl"
+	,"orig_text": "Got your back, noob"
+},{
+	 "i"		: 433
+	,"ids"		: "Idstring(@ID14c896b2f63a67ed@)"
+	,"StringID"	: "ch_aint_afraid"
+	,"orig_text": "Gain a level in the Assault tree during an assault."
+},{
+	 "i"		: 434
+	,"ids"		: "Idstring(@IDb1249fb0ca2ef947@)"
+	,"StringID"	: "ch_aint_afraid_hl"
+	,"orig_text": "I ain't afraid no more"
+},{
+	 "i"		: 435
+	,"ids"		: "Idstring(@ID47341f8591d2d893@)"
+	,"StringID"	: "ch_crack_bang"
+	,"orig_text": "Gain a level in the Sharpshooter tree with your last kill being a Sniper."
+},{
+	 "i"		: 436
+	,"ids"		: "Idstring(@IDcf32bd798b50da28@)"
+	,"StringID"	: "ch_crack_bang_hl"
+	,"orig_text": "Crack-bang"
+},{
+	 "i"		: 437
+	,"ids"		: "Idstring(@IDcfaec7605698718d@)"
+	,"StringID"	: "ch_lay_on_hands"
+	,"orig_text": "Gain a level in the Support tree while reviving a teammate."
+},{
+	 "i"		: 438
+	,"ids"		: "Idstring(@IDdbaa5bc087d654b1@)"
+	,"StringID"	: "ch_lay_on_hands_hl"
+	,"orig_text": "Lay on hands"
+},{
+	 "i"		: 439
+	,"ids"		: "Idstring(@IDf2adebddb0956dc0@)"
+	,"StringID"	: "ch_overkill_hl"
+	,"orig_text": "OVERKILL"
+},{
+	 "i"		: 440
+	,"ids"		: "Idstring(@ID3deb27213f5f91ea@)"
+	,"StringID"	: "ch_glock_vs_the_law_2_hl"
+	,"orig_text": "STRYK VS. the Law II"
+},{
+	 "i"		: 441
+	,"ids"		: "Idstring(@ID57818cf75327d1d5@)"
+	,"StringID"	: "ch_glock_vs_the_law_5_hl"
+	,"orig_text": "STRYK VS. the Law V"
+},{
+	 "i"		: 442
+	,"ids"		: "Idstring(@IDde983b3deaa2f69f@)"
+	,"StringID"	: "ch_glock_vs_the_law_6_hl"
+	,"orig_text": "STRYK VS. the Law VI"
+},{
+	 "i"		: 443
+	,"ids"		: "Idstring(@ID7ff5fd65a29b32e9@)"
+	,"StringID"	: "ch_glock_head_shots_3_hl"
+	,"orig_text": "STRYK VS. the Law Headshot III"
+},{
+	 "i"		: 444
+	,"ids"		: "Idstring(@ID93e63f66388b4f15@)"
+	,"StringID"	: "ch_glock_shield_body_shot_1_hl"
+	,"orig_text": "STRYK VS. Shields"
+},{
+	 "i"		: 445
+	,"ids"		: "Idstring(@ID6a779908c2faa38e@)"
+	,"StringID"	: "ch_ak47_vs_the_law_3_hl"
+	,"orig_text": "AK VS. the Law III"
+},{
+	 "i"		: 446
+	,"ids"		: "Idstring(@ID97ce5d30f83c4c5d@)"
+	,"StringID"	: "ch_ak47_head_shots_1_hl"
+	,"orig_text": "AK VS. the Law Headshot I"
+},{
+	 "i"		: 447
+	,"ids"		: "Idstring(@IDe3345b7363f11b2b@)"
+	,"StringID"	: "ch_ak47_head_shots_2_hl"
+	,"orig_text": "AK VS. the Law Headshot II"
+},{
+	 "i"		: 448
+	,"ids"		: "Idstring(@IDb88e3a0933f90dd0@)"
+	,"StringID"	: "ch_ak47_head_shots_4_hl"
+	,"orig_text": "AK VS. the Law Headshot IV"
+},{
+	 "i"		: 449
+	,"ids"		: "Idstring(@ID1043b9dee149b9ab@)"
+	,"StringID"	: "ch_ak47_taser_kill_1_hl"
+	,"orig_text": "AK VS. Tasers"
+},{
+	 "i"		: 450
+	,"ids"		: "Idstring(@ID1a6f9ec116329b6b@)"
+	,"StringID"	: "ch_m79_vs_the_law_3_hl"
+	,"orig_text": "GL40 VS. the Law III"
+},{
+	 "i"		: 451
+	,"ids"		: "Idstring(@ID2636ce74dff92b7c@)"
+	,"StringID"	: "ch_m79_vs_the_law_4_hl"
+	,"orig_text": "GL40 VS. the Law IV"
+},{
+	 "i"		: 452
+	,"ids"		: "Idstring(@ID7d79aecd2b528483@)"
+	,"StringID"	: "ch_m79_vs_the_law_6_hl"
+	,"orig_text": "GL40 VS. the Law VI"
+},{
+	 "i"		: 453
+	,"ids"		: "Idstring(@IDbf12ffbdbbf7cb9d@)"
+	,"StringID"	: "ch_sentry_gun_vs_the_law_1_hl"
+	,"orig_text": "SENTRY GUN VS. the Law I"
+},{
+	 "i"		: 454
+	,"ids"		: "Idstring(@ID29cb0e0eebf090a0@)"
+	,"StringID"	: "ch_sentry_gun_vs_the_law_3_hl"
+	,"orig_text": "SENTRY GUN VS. the Law III"
+},{
+	 "i"		: 455
+	,"ids"		: "Idstring(@ID98f126d0fd9a5431@)"
+	,"StringID"	: "ch_sentry_gun_vs_the_law_4_hl"
+	,"orig_text": "SENTRY GUN VS. the Law IV"
+},{
+	 "i"		: 456
+	,"ids"		: "Idstring(@ID2b5a0a7903829972@)"
+	,"StringID"	: "ch_sentry_gun_vs_the_law_5_hl"
+	,"orig_text": "SENTRY GUN VS. the Law V"
+},{
+	 "i"		: 457
+	,"ids"		: "Idstring(@ID84e16fe6cfa76a6d@)"
+	,"StringID"	: "ch_sentry_gun_vs_the_law_6_hl"
+	,"orig_text": "SENTRY GUN VS. the Law VI"
+},{
+	 "i"		: 458
+	,"ids"		: "Idstring(@ID99b6f94f26ffa672@)"
+	,"StringID"	: "ch_sentry_gun_row_kills_2_hl"
+	,"orig_text": "SENTRY GUN Kills in a Row II"
+},{
+	 "i"		: 459
+	,"ids"		: "Idstring(@ID05ddb6bde1705381@)"
+	,"StringID"	: "ch_sentry_gun_row_kills_3_hl"
+	,"orig_text": "SENTRY GUN Kills in a Row III"
+},{
+	 "i"		: 460
+	,"ids"		: "Idstring(@ID59b77818d89c295b@)"
+	,"StringID"	: "ch_sentry_gun_resources_hl"
+	,"orig_text": "SENTRY GUN VS. the World"
+},{
+	 "i"		: 461
+	,"ids"		: "Idstring(@ID98ffc30aa23f5921@)"
+	,"StringID"	: "ch_ak47_head_shots"
+	,"orig_text": "Using the AK, defeat ##ak47_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 462
+	,"ids"		: "Idstring(@ID03c603418a6bf4e7@)"
+	,"StringID"	: "ch_m79_head_shots"
+	,"orig_text": "Using the GL40, defeat ##m79_law_head_shot## Law enforcers with headshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 463
+	,"ids"		: "Idstring(@IDe1e44f6f105d0cdd@)"
+	,"StringID"	: "ch_glock_shield_body_shot"
+	,"orig_text": "Using the STRYK, defeat ##glock_shield_body_shot## Shields with bodyshots. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 464
+	,"ids"		: "Idstring(@ID11b88341721a52ee@)"
+	,"StringID"	: "ch_ak47_taser_kill"
+	,"orig_text": "Using the AK, defeat ##ak47_taser_kill## Tasers. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 465
+	,"ids"		: "Idstring(@ID00031c1c66fde5ce@)"
+	,"StringID"	: "ch_sentry_gun_vs_the_law"
+	,"orig_text": "Using the SENTRY GUN, defeat ##sentry_gun_law_kill## Law enforcers."
+},{
+	 "i"		: 466
+	,"ids"		: "Idstring(@ID1a04fc3031b993fe@)"
+	,"StringID"	: "ch_sentry_gun_resources"
+	,"orig_text": "Be in a team that places four Sentry Guns during a heist."
+},{
+	 "i"		: 467
+	,"ids"		: "Idstring(@IDbb65f50a27fa13f6@)"
+	,"StringID"	: "ch_m79_simultaneous_specials"
+	,"orig_text": "Using the GL40, defeat ##m79_simultaneous_specials## Special Units simultaneously."
+},{
+	 "i"		: 468
+	,"ids"		: "Idstring(@ID7530e743e219dfdf@)"
+	,"StringID"	: "ch_secret_stash_overkill_no_trade"
+	,"orig_text": "Complete UNDERCOVER on OVERKILL difficulty without anyone getting traded from custody."
+},{
+	 "i"		: 469
+	,"ids"		: "Idstring(@ID38aec0f35e916c21@)"
+	,"StringID"	: "ch_secret_stash_overkill_no_trade_hl"
+	,"orig_text": "UNDERCOVER: Don't lose face"
+},{
+	 "i"		: 470
+	,"ids"		: "Idstring(@ID8eb3b72f9eeb4901@)"
+	,"StringID"	: "ch_secret_stash_on_overkill_145"
+	,"orig_text": "Complete UNDERCOVER on OVERKILL 145+ difficulty."
+},{
+	 "i"		: 471
+	,"ids"		: "Idstring(@IDb5634467a5ee021d@)"
+	,"StringID"	: "ch_secret_stash_on_overkill_145_hl"
+	,"orig_text": "In for a Dime, In for a Dollar"
+},{
+	 "i"		: 472
+	,"ids"		: "Idstring(@ID30e503683fda219f@)"
+	,"StringID"	: "ch_suburbia_no_civilians_hl"
+	,"orig_text": "COUNTERFEIT: Clean hit"
+},{
+	 "i"		: 473
+	,"ids"		: "Idstring(@IDa9424cdffae84648@)"
+	,"StringID"	: "ch_suburbia_no_civilians"
+	,"orig_text": "Complete COUNTERFEIT on hard difficulty without killing any civilians."
+},{
+	 "i"		: 474
+	,"ids"		: "Idstring(@ID1421a9bfb9d8b90f@)"
+	,"StringID"	: "ch_suburbia_overkill_no_trade"
+	,"orig_text": "Complete COUNTERFEIT on OVERKILL difficulty without anyone getting traded from custody."
+},{
+	 "i"		: 475
+	,"ids"		: "Idstring(@IDa8582de0ed8c0724@)"
+	,"StringID"	: "ch_suburbia_overkill_no_trade_hl"
+	,"orig_text": "COUNTERFEIT: Don't lose face"
+},{
+	 "i"		: 476
+	,"ids"		: "Idstring(@ID1a9cb2ffb88aa6d6@)"
+	,"StringID"	: "ch_suburbia_on_overkill_145_hl"
+	,"orig_text": "Under Pressure"
+},{
+	 "i"		: 477
+	,"ids"		: "Idstring(@ID7227a85156449129@)"
+	,"StringID"	: "ch_blow_out"
+	,"orig_text": "Beat UNDERCOVER with everyone in the crew only using the GL40. To complete this challenge, everyone in your crew will have to have played the heist from the start. Using Melee does not count towards this challenge!"
+},{
+	 "i"		: 478
+	,"ids"		: "Idstring(@ID302bbaa6bb0fca9f@)"
+	,"StringID"	: "ch_crowd_control_hl"
+	,"orig_text": "Crowd control"
+},{
+	 "i"		: 479
+	,"ids"		: "Idstring(@ID9d355a41d4469a78@)"
+	,"StringID"	: "ch_det_gadget_hl"
+	,"orig_text": "Detective Gadget"
+},{
+	 "i"		: 480
+	,"ids"		: "Idstring(@ID174b94cbda7b830d@)"
+	,"StringID"	: "ch_det_gadget"
+	,"orig_text": "Beat any heist using the STRYK Pistol, AK Rifle, GL40 Grenade Launcher, Toolkit upgrade, Sentry Gun equipment and Big Game Hunters crew bonus. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 481
+	,"ids"		: "Idstring(@IDa3ba21b9562fdcc2@)"
+	,"StringID"	: "ch_pacifist"
+	,"orig_text": "Beat COUNTERFEIT on hard difficulty or above without killing any law enforcers or civilians. To complete this challenge, everyone in your crew will have to have played the heist from the start."
+},{
+	 "i"		: 482
+	,"ids"		: "Idstring(@IDfe9ab47a2ee91b8c@)"
+	,"StringID"	: "ch_quick_hands_hl"
+	,"orig_text": "Quick hands"
+},{
+	 "i"		: 483
+	,"ids"		: "Idstring(@ID6feb504eb3c77f89@)"
+	,"StringID"	: "ch_quick_hands"
+	,"orig_text": "On COUNTERFEIT, manage to defuse all C4 charges."
+},{
+	 "i"		: 484
+	,"ids"		: "Idstring(@ID6d1c0b1483aaf0f7@)"
+	,"StringID"	: "ch_street_on_overkill_145_hl"
+	,"orig_text": "Hills Street Blues"
+},{
+	 "i"		: 485
+	,"ids"		: "Idstring(@ID56b3ce7af9c1ac16@)"
+	,"StringID"	: "ch_street_on_overkill_145"
+	,"orig_text": "Beat HEAT STREET on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 486
+	,"ids"		: "Idstring(@ID8ab55b7c3e667c25@)"
+	,"StringID"	: "ch_apartment_on_overkill_145"
+	,"orig_text": "Beat PANIC ROOM on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 487
+	,"ids"		: "Idstring(@ID5959237dc7905950@)"
+	,"StringID"	: "ch_slaughterhouse_on_overkill_145_hl"
+	,"orig_text": "Lots of pigs, but no pigs"
+},{
+	 "i"		: 488
+	,"ids"		: "Idstring(@ID30c9433fbef16e21@)"
+	,"StringID"	: "ch_diamond_heist_on_overkill_145_hl"
+	,"orig_text": "Bad code"
+},{
+	 "i"		: 489
+	,"ids"		: "Idstring(@ID95f4dd58ae28f43d@)"
+	,"StringID"	: "ch_diamond_heist_on_overkill_145"
+	,"orig_text": "Beat DIAMOND HEIST on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 490
+	,"ids"		: "Idstring(@ID14298dac4614a5b2@)"
+	,"StringID"	: "ch_president_hl"
+	,"orig_text": "Four more years"
+},{
+	 "i"		: 491
+	,"ids"		: "Idstring(@ID2fe17b82978d0b9c@)"
+	,"StringID"	: "ch_president"
+	,"orig_text": "Reach level 145. This gives you the presidential masks for further campaigning."
+},{
+	 "i"		: 492
+	,"ids"		: "Idstring(@IDf5de8adff9b6db77@)"
+	,"StringID"	: "ch_christmas_present_hl"
+	,"orig_text": "Merry Xmas"
+},{
+	 "i"		: 493
+	,"ids"		: "Idstring(@ID55ea610356f2d73d@)"
+	,"StringID"	: "ch_hos_dont_panic_hl"
+	,"orig_text": "Don't panic"
+},{
+	 "i"		: 494
+	,"ids"		: "Idstring(@IDd433d3ff60f99f23@)"
+	,"StringID"	: "ch_hos_dont_panic"
+	,"orig_text": "Complete NO MERCY on hard or OVERKILL without any civilian raising the alarm. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 495
+	,"ids"		: "Idstring(@ID4e499cfe7ab1b6ab@)"
+	,"StringID"	: "ch_hos_cut_wire_hl"
+	,"orig_text": "...or was it the blue one?"
+},{
+	 "i"		: 496
+	,"ids"		: "Idstring(@ID44469cb3d062787f@)"
+	,"StringID"	: "ch_hos_wrong_door_hl"
+	,"orig_text": "That's the wrong door, again!"
+},{
+	 "i"		: 497
+	,"ids"		: "Idstring(@ID0e62214b654f3686@)"
+	,"StringID"	: "ch_hos_wrong_door"
+	,"orig_text": "Complete NO MERCY on OVERKILL difficulty, having sawed open all three ICU security doors. To complete this challenge, you will have to have played the heist from the start."
+},{
+	 "i"		: 498
+	,"ids"		: "Idstring(@IDef124708c6647d49@)"
+	,"StringID"	: "ch_hos_afraid_of_the_dark_hl"
+	,"orig_text": "Afraid of the dark"
+}
+]

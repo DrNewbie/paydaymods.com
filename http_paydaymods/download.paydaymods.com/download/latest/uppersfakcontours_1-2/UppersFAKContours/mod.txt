@@ -1,0 +1,19 @@
+{
+	"name" : "Uppers-enabled First Aid Kit Contours",
+	"description" : "Replaces the contours around Uppers-enabled First Aid Kits to allow them to be distinguished from basic ones",
+	"author" : "Snh20",
+	"version" : "0.0.1",
+	"priority" : "10",
+	"updates" : [
+		{
+			"revision" : 1,
+			"identifier" : "uppersfakcontours"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/units/equipment/first_aid_kit/firstaidkitbase",
+			"script_path" : "firstaidkitbase.lua"
+		}
+	]
+}

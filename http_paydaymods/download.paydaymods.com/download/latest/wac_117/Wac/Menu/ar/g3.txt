@@ -1,0 +1,177 @@
+{
+	"menu_id" : "wac_menu_ar_g3",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_g3_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_g3barrel",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_g3barrel",
+			"items" : [
+				"wac_default_multi",
+				"wac_shortb_multi"
+			],
+			"value" : "replace_g3barrel",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_g3barreldmr",
+			"title" : "wac_replace_dmrb_title",
+			"callback" : "callback_toggle_replace_g3barreldmr",
+			"items" : [
+				"wac_default_multi",
+				"wac_longb_multi",
+				"wac_shortb_multi"
+			],
+			"value" : "replace_g3barreldmr",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_g3foregripprecision",
+			"title" : "wac_replace_g3foregripprecision_title",
+			"callback" : "callback_toggle_replace_g3foregripprecision",
+			"items" : [
+				"wac_default_multi",
+				"tactfg_multi",
+				"woodenfg_multi",
+				"g3foregripplastic_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_g3foregripprecision",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_g3foregriptactical",
+			"title" : "wac_replace_tactfg_title",
+			"callback" : "callback_toggle_replace_g3foregriptactical",
+			"items" : [
+				"wac_default_multi",
+				"g3foregripprecision_multi",
+				"woodenfg_multi",
+				"g3foregripplastic_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_g3foregriptactical",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_g3foregripwooden",
+			"title" : "wac_replace_woodenfg_title",
+			"callback" : "callback_toggle_replace_g3foregripwooden",
+			"items" : [
+				"wac_default_multi",
+				"g3foregripprecision_multi",
+				"tactfg_multi",
+				"g3foregripplastic_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_g3foregripwooden",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_g3handguardplastic",
+			"title" : "wac_replace_plasticfg_title",
+			"callback" : "callback_toggle_replace_g3handguardplastic",
+			"items" : [
+				"wac_default_multi",
+				"g3foregripprecision_multi",
+				"tactfg_multi",
+				"woodenfg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_g3handguardplastic",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_g3psg1grip",
+			"title" : "wac_replace_g3psg1grip_title",
+			"callback" : "callback_toggle_replace_g3psg1grip",
+			"items" : [
+				"wac_default_multi",
+				"g3retrogrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_g3psg1grip",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_g3retrogrip",
+			"title" : "wac_replace_g3retrogrip_title",
+			"callback" : "callback_toggle_replace_g3retrogrip",
+			"items" : [
+				"wac_default_multi",
+				"g3psg1grip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_g3retrogrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_g3sniperstock",
+			"title" : "wac_replace_g3sniperst_title",
+			"callback" : "callback_toggle_replace_g3sniperstock",
+			"items" : [
+				"wac_default_multi",
+				"woodenstock_multi",
+				"stndst_multi"
+			],
+			"value" : "replace_g3sniperstock",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_g3woodstock",
+			"title" : "wac_replace_woodenst_title",
+			"callback" : "callback_toggle_replace_g3woodstock",
+			"items" : [
+				"wac_default_multi",
+				"g3sniperstock_multi",
+				"stndst_multi"
+			],
+			"value" : "replace_g3woodstock",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_g3single",
+			"title" : "wac_replace_singlefire_title",
+			"description" : "wac_singlefiremode_desc",
+			"callback" : "callback_toggle_replace_g3single",
+			"value" : "replace_g3single",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_g3psgforce",
+			"title" : "wac_replace_g3psgforce_title",
+			"callback" : "callback_toggle_replace_g3psgforce",
+			"value" : "replace_g3psgforce",
+			"default_value" : false
+		}
+	]
+}

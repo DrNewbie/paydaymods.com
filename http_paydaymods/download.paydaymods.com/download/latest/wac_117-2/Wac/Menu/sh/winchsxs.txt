@@ -1,0 +1,35 @@
+{
+	"menu_id" : "wac_menu_sh_winchsxs",
+	"parent_menu_id" : "wac_menu_sh",
+	"title" : "wac_menu_sh_winchsxs_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_winchsxsshortb",
+			"title" : "wac_replace_bs09shortb_title",
+			"callback" : "callback_toggle_replace_winchsxsshortb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_winchsxsshortb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_winchsxsshortst",
+			"title" : "wac_replace_m79sawoffst_title",
+			"callback" : "callback_toggle_replace_winchsxsshortst",		
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi"
+			],
+			"value" : "replace_winchsxsshortst",
+			"default_value" : 1
+		}
+	]
+}

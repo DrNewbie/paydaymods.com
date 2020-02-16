@@ -1,0 +1,30 @@
+{
+	"saveequipment_menu_title" : "Save-Equipment Настройки",
+	"saveequipment_menu_desc" : "Настройки для SaveEquipment",
+	"saveequipment_help_title" : "Помощь",
+	"saveequipment_help_desc" : "Помощь по возможностям мода и его настройкам.",
+	"saveequipment_enable_medic_downs_title" : "Падений",
+	"saveequipment_enable_medic_downs_desc" : "Укажите кол-во падений, после которого можно будет использовать медпакеты",
+	
+	"saveequipment_enable_medic_downs_option_0" : "0 (всегда)",
+	"saveequipment_enable_medic_downs_option_1" : "1",
+	"saveequipment_enable_medic_downs_option_2" : "2",
+	"saveequipment_enable_medic_downs_option_3" : "3",
+	"saveequipment_enable_medic_downs_option_4" : "4 (навык)",
+	
+	"saveequipment_subtitle_medic_enable" : "[Медпакет] доступен:",
+	
+	"saveequipment_help_popup_title" : "Save-Equipment Помощь",
+	"saveequipment_help_popup_message" : "Данный мод запрещает использовать медпакеты до необходимого момента. Если вы являетесь хостом и ваши напарники пытаются использовать медпакет слишком рано, они будут электризованы на короткое время, чтобы не позволить им взаимодействовать с медпакетом.",
+	"saveequipment_help_popup_back" : "Назад",
+	
+	"saveequipment_try_hint_medic_0" : "пытался использовать медпакет, не упав",
+	"saveequipment_try_hint_medic_1" : "раз(а).",
+	"saveequipment_try_message_medic_0" : "Вы пытались использовать медпакет, ещё не упав",
+	"saveequipment_try_message_medic_1" : "раз(а).",
+	
+	"saveequipment_join_message_medic_0" : "В этом лобби вы можете использовать медпакеты, если вы упадёте",
+	"saveequipment_join_message_medic_1" : "раз(а).",
+	
+	"saveequipment_try_message_notallowed" : "Данное действие недоступно в данном лобби."
+}

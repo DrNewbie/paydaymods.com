@@ -1,0 +1,31 @@
+{
+	"menu_id" : "wac_menu_pis_fs",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_fs_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_fsnitrideb",
+			"title" : "wac_replace_fsnitrideb_title",
+			"callback" : "callback_toggle_replace_fsnitrideb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_fsnitrideb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_fsextmag",
+			"title" : "wac_replace_hideextmag_title",
+			"callback" : "callback_toggle_replace_fsextmag",
+			"value" : "replace_fsextmag",
+			"default_value" : false
+		}
+	]
+}

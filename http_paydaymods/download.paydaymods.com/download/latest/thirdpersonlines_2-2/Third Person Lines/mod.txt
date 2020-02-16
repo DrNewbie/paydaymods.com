@@ -1,0 +1,22 @@
+{
+	"name": "Third Person lines",
+	"description": "You can hear third person lines",
+	"author": "Lanz",
+	"contact": "francoisbastidas66@gmail.com",
+	"image" : "3PL.png",
+	"color" : "255 255 120",
+	"blt_version": "2",
+	"priority": 0,
+	"updates" : [
+		{
+			"revision" : 2,
+			"identifier" : "thirdpersonlines"
+		}
+	],
+	"persist_scripts": [
+		{
+			"global": "ThirdPersonLines",
+			"script_path": "ThirdPersonLines.lua"
+		}
+	]
+}

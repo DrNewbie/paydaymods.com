@@ -1,0 +1,249 @@
+{
+	"menu_id": "BangHUD_options",
+	"parent_menu_id": "blt_options",
+	"title": "BangHUD_options",
+	"description": "BangHUD_options_desc",
+	"items": [
+		{
+		    "type": "toggle",
+			"id": "swap_bars",
+			"title": "swap_bars",
+			"description": "swap_bars_desc",
+			"callback": "banghud_menu_callback",
+			"value": "swap_bars",
+			"default_value": false
+		},
+		{
+			"type": "divider",
+			"size": 16
+		},
+		{
+			"type": "slider",
+			"id": "bars_scale",
+			"title": "bars_scale",
+			"description": "bars_scale_desc",
+			"callback": "banghud_menu_callback",
+			"value": "bars_scale",
+			"max": 2,
+			"min": 0.1,
+			"step": 0.01,
+			"default_value": 1
+		},
+		{
+			"type": "slider",
+			"id": "center_margin",
+			"title": "center_margin",
+			"description": "center_margin_desc",
+			"callback": "banghud_menu_callback",
+			"value": "center_margin",
+			"max": 1000,
+			"min": 0,
+			"step": 1,
+			"default_value": 100
+		},
+		{
+			"type": "slider",
+			"id": "x_offset",
+			"title": "x_offset",
+			"description": "x_offset_desc",
+			"callback": "banghud_menu_callback",
+			"value": "x_offset",
+			"max": 1000,
+			"min": -1000,
+			"step": 1,
+			"default_value": 0
+		},
+		{
+			"type": "slider",
+			"id": "y_offset",
+			"title": "y_offset",
+			"description": "y_offset_desc",
+			"callback": "banghud_menu_callback",
+			"value": "y_offset",
+			"max": 1000,
+			"min": -1000,
+			"step": 1,
+			"default_value": 0
+		},
+		{
+			"type": "divider",
+			"size": 16
+		},
+		{
+			"type": "slider",
+			"id": "bars_alpha",
+			"title": "bars_alpha",
+			"description": "bars_alpha_desc",
+			"callback": "banghud_menu_callback",
+			"value": "bars_alpha",
+			"max": 1,
+			"min": 0,
+			"step": 0.01,
+			"default_value": 0.35
+		},
+		{
+			"type": "slider",
+			"id": "background_alpha",
+			"title": "background_alpha",
+			"description": "background_alpha_desc",
+			"callback": "banghud_menu_callback",
+			"value": "background_alpha",
+			"max": 1,
+			"min": 0,
+			"step": 0.01,
+			"default_value": 0.3
+		},
+		{
+			"type": "divider",
+			"size": 16
+		},
+		{
+			"type": "multiple_choice",
+			"id": "stealth_behaviour",
+			"title": "stealth_behaviour",
+			"description": "stealth_behaviour_desc",
+			"callback": "banghud_menu_callback",
+			"value": "stealth_behaviour",
+			"items" : [
+				"always_show",
+				"armor_and_health",
+				"armor_only",
+				"always_hide"
+			],
+			"default_value": 2
+		},
+		{
+			"type": "multiple_choice",
+			"id": "loud_behaviour",
+			"title": "loud_behaviour",
+			"description": "loud_behaviour_desc",
+			"callback": "banghud_menu_callback",
+			"value": "loud_behaviour",
+			"items" : [
+				"always_show",
+				"armor_and_health",
+				"armor_only"
+			],
+			"default_value": 2
+		},
+		{
+			"type": "multiple_choice",
+			"id": "frenzy_handling",
+			"title": "frenzy_handling",
+			"description": "frenzy_handling_desc",
+			"callback": "banghud_menu_callback",
+			"value": "frenzy_handling",
+			"items" : [
+				"vanilla_style",
+				"frenzy_relative",
+				"hide_at_frenzy_cap"
+			],
+			"default_value": 2
+		},
+		{
+			"type": "slider",
+			"id": "fade_out_time",
+			"title": "fade_out_time",
+			"description": "fade_out_time_desc",
+			"callback": "banghud_menu_callback",
+			"value": "fade_out_time",
+			"max": 10,
+			"min": 0,
+			"step": 0.1,
+			"default_value": 0.5
+		},
+		{
+			"type": "divider",
+			"size": 16
+		},
+		{
+			"type": "toggle",
+			"id": "show_armor_timer",
+			"title": "show_armor_timer",
+			"description": "show_armor_timer_desc",
+			"callback": "banghud_menu_callback",
+			"value": "show_armor_timer",
+			"default_value": true
+		},
+		{
+			"type": "toggle",
+			"id": "show_anarchist_timer",
+			"title": "show_anarchist_timer",
+			"description": "show_anarchist_timer_desc",
+			"callback": "banghud_menu_callback",
+			"value": "show_anarchist_timer",
+			"default_value": true
+		},
+		{
+			"type": "toggle",
+			"id": "show_invincibility_timer",
+			"title": "show_invincibility_timer",
+			"description": "show_invincibility_timer_desc",
+			"callback": "banghud_menu_callback",
+			"value": "show_invincibility_timer",
+			"default_value": true
+		},
+		{
+			"type": "divider",
+			"size": 16
+		},
+		{
+			"type": "slider",
+			"id": "swan_song_intensity",
+			"title": "swan_song_intensity",
+			"description": "swan_song_intensity_desc",
+			"callback": "banghud_menu_callback",
+			"value": "swan_song_intensity",
+			"max": 1,
+			"min": 0,
+			"step": 0.01,
+			"default_value": 1
+		},
+		{
+			"type": "slider",
+			"id": "chico_injector_intensity",
+			"title": "chico_injector_intensity",
+			"description": "chico_injector_intensity_desc",
+			"callback": "banghud_menu_callback",
+			"value": "chico_injector_intensity",
+			"max": 1,
+			"min": 0,
+			"step": 0.01,
+			"default_value": 1
+		},
+		{
+			"type": "divider",
+			"size": 16
+		},
+		{
+			"type": "toggle",
+			"id": "show_downs_counter",
+			"title": "show_downs_counter",
+			"description": "show_downs_counter_desc",
+			"callback": "banghud_menu_callback",
+			"value": "show_downs_counter",
+			"default_value": true
+		},
+		{
+			"type": "toggle",
+			"id": "show_downs_counter_skull",
+			"title": "show_downs_counter_skull",
+			"description": "show_downs_counter_skull_desc",
+			"callback": "banghud_menu_callback",
+			"value": "show_downs_counter_skull",
+			"default_value": true
+		},
+		{
+			"type": "slider",
+			"id": "downs_counter_alpha",
+			"title": "downs_counter_alpha",
+			"description": "downs_counter_alpha_desc",
+			"callback": "banghud_menu_callback",
+			"value": "downs_counter_alpha",
+			"max": 1,
+			"min": 0,
+			"step": 0.01,
+			"default_value": 0.8
+		}
+	]
+}

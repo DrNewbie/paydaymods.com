@@ -1,0 +1,19 @@
+{
+	"name" : "Cloacked",
+	"description" : "This mod announces everyone that you have been cloacked, no need to type 'clk' anymore",
+	"author" : "FishTaco",
+	"contact" : "http://steamcommunity.com/id/zo0mer170/",
+	"version" : "1.2",
+	"updates" : [
+		{
+			"revision" : 3,
+			"identifier" : "Cloacked"
+		}
+	],
+	"hooks" : [
+		{  
+			"hook_id" : "lib/units/beings/player/PlayerMovement",
+			"script_path" : "Cloacked.lua"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"menu_id" 			: "cWIP_options_Dev_Only",
+	"parent_menu_id" 	: "cWIP_options",
+	"title" 			: "cWIP_options_Dev_Only_T",
+	"description" 		: "cWIP_options_Dev_Only_D",
+	"back_callback" 	: "cWIP_Close_Options",
+	"priority"			: 3,
+	"items" : [
+		{
+			"type" 			: "toggle",
+			"id" 			: "cWIP_DevelopeMode",
+			"title" 		: "cWIP_DevelopeMode_T",
+			"description" 	: "cWIP_DevelopeMode_D",
+			"value" 		: "DevelopeMode",
+			"default_value" : false,
+			"callback" 		: "callback_ValueSet",
+			"priority"		: 100
+		},
+		{
+			"type" 			: "toggle",
+			"id" 			: "cWIP_NetDebugMode",
+			"title" 		: "cWIP_NetDebugMode_T",
+			"description" 	: "cWIP_NetDebugMode_D",
+			"value" 		: "NetDebugMode",
+			"default_value" : false,
+			"callback" 		: "callback_ValueSet",
+			"priority"		: 95
+		},
+		{
+			"type" 			: "multiple_choice",
+			"id" 			: "cWIP_StringIDType",
+			"title" 		: "cWIP_StringIDType_T",
+			"description" 	: "cWIP_StringIDType_D",
+			"callback" 		: "callback_ValueSet",
+			"items" 		: [
+				"cWIP_StringIDType_1",
+				"cWIP_StringIDType_2",
+				"cWIP_StringIDType_3"
+			],
+			"value"			: "StringIDType",
+			"default_value" : 1,
+			"priority"		: 90
+		}
+	]
+}

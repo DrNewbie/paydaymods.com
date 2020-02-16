@@ -1,0 +1,212 @@
+{
+	"name" : "KineticHUD",
+	"description" : "Buffs tracker, QuickChat, ECM Timer, and more!",
+	"author" : "Offyerrocker"
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "v0.13 beta",
+	"blt_version" : 2,
+	"image" : "khud.png",
+	"color" : "255 234 99",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "lua/menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudteammate",
+			"script_path" : "lua/hud/hudteammate.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/newhudstatsscreen",
+			"script_path" : "lua/hud/newhudstatsscreen.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hudmanagerpd2",
+			"script_path" : "lua/hud/hudmanagerpd2.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudtemp",
+			"script_path" : "lua/hud/hudtemp.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudplayerdowned",
+			"script_path" : "lua/hud/hudplayerdowned.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudplayercustody",
+			"script_path" : "lua/hud/hudplayercustody.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudheisttimer",
+			"script_path" : "lua/hud/hudheisttimer.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudobjectives",
+			"script_path" : "lua/hud/hudobjectives.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudassaultcorner",
+			"script_path" : "lua/hud/hudassaultcorner.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudchat",
+			"script_path" : "lua/hud/hudchat.lua"
+		},
+		{
+			"hook_id" : "lib/units/interactions/interactionext",
+			"script_path" : "lua/interactionext.lua"
+		},
+		{
+			"hook_id" : "lib/managers/playermanager",
+			"script_path" : "lua/player/playermanager.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/playerdamage",
+			"script_path" : "lua/player/playerdamage.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/huskplayermovement",
+			"script_path" : "lua/player/huskplayermovement.lua"
+		},
+		{
+			"hook_id" : "lib/units/weapons/newraycastweaponbase",
+			"script_path" : "lua/newraycastweaponbase.lua"
+		},
+		{
+			"hook_id" : "lib/units/player_team/teamaimovement",
+			"script_path" : "lua/player/teamaimovement.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/playermovement",
+			"script_path" : "lua/player/playermovement.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "lua/player/playerstandard.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/states/playertased",
+			"script_path" : "lua/player/playertased.lua"
+		},
+		{
+			"hook_id" : "lib/managers/criminalsmanager",
+			"script_path" : "lua/criminalsmanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/trademanager",
+			"script_path" : "lua/trademanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/localizationmanager",
+			"script_path" : "lua/localizationmanager.lua"
+		},
+		{
+			"hook_id" : "lib/network/base/clientnetworksession",
+			"script_path" : "lua/clientnetworksession.lua"
+		},
+		{
+			"hook_id" : "lib/network/base/hostnetworksession",
+			"script_path" : "lua/hostnetworksession.lua"
+		},
+		{
+			"hook_id" : "lib/managers/skilltreemanager",
+			"script_path" : "lua/skilltreemanager.lua"
+		},
+		{
+			"hook_id" : "lib/units/equipment/doctor_bag/doctorbagbase",
+			"script_path" : "lua/equipment/doctorbagbase.lua"
+		},
+		{
+			"hook_id" : "lib/units/equipment/ecm_jammer/ecmjammerbase",
+			"script_path" : "lua/equipment/ecmjammerbase.lua"
+		},
+		{
+			"hook_id" : "lib/units/equipment/sentry_gun/sentrygunbase",
+			"script_path" : "lua/equipment/sentrygunbase.lua"
+		},
+		{
+			"hook_id" : "lib/managers/group_ai_states/groupaistatebesiege",
+			"script_path" : "lua/groupaistatebesiege.lua"
+		},
+		{
+			"hook_id" : "lib/managers/group_ai_states/groupaistatebase",
+			"script_path" : "lua/groupaistatebase.lua"
+		},
+		{
+			"hook_id" : "lib/tweak_data/skilltreetweakdata",
+			"script_path" : "lua/skilltreetweakdata.lua"		
+		},
+		{
+			"hook_id": "lib/managers/statisticsmanager",
+			"script_path": "lua/statisticsmanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/controllerwrapper",
+			"script_path" : "lua/controllerwrapper.lua"
+		},
+		{
+			"hook_id" : "core/lib/managers/coreenvironmentcontrollermanager",
+			"script_path" : "lua/coreenvironmentcontrollermanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/menuscenemanager",
+			"script_path" : "lua/menuscenemanager.lua"
+		},
+		{
+			"hook_id" : "lib/network/handlers/unitnetworkhandler",
+			"script_path" : "lua/unitnetworkhandler.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "khud"
+		}
+	],
+	"keybinds" : [
+		{
+			"keybind_id" : "id_khud_quickchat_1",
+			"name" : "khud_quickchat_1_keybind_title",
+			"description" : "khud_quickchat_1_keybind_desc",
+			"run_in_game" : true,
+			"run_in_menu" : false,
+			"script_path" : "lua/keybinds/quickchat_1.lua",
+			"localized" : true
+		},
+		{
+			"keybind_id" : "id_khud_quickchat_2",
+			"name" : "khud_quickchat_2_keybind_title",
+			"description" : "khud_quickchat_2_keybind_desc",
+			"run_in_game" : true,
+			"run_in_menu" : false,
+			"script_path" : "lua/keybinds/quickchat_2.lua",
+			"localized" : true
+		},
+		{
+			"keybind_id" : "id_khud_quickchat_3",
+			"name" : "khud_quickchat_3_keybind_title",
+			"description" : "khud_quickchat_3_keybind_desc",
+			"run_in_game" : true,
+			"run_in_menu" : false,
+			"script_path" : "lua/keybinds/quickchat_3.lua",
+			"localized" : true
+		},
+		{
+			"keybind_id" : "id_khud_quickchat_4",
+			"name" : "khud_quickchat_4_keybind_title",
+			"description" : "khud_quickchat_4_keybind_desc",
+			"run_in_game" : true,
+			"run_in_menu" : false,
+			"script_path" : "lua/keybinds/quickchat_4.lua",
+			"localized" : true
+		},
+		{
+			"keybind_id" : "id_khud_weapon_safety",
+			"name" : "khud_weapon_safety_keybind_title",
+			"description" : "khud_weapon_safety_keybind_desc",
+			"run_in_game" : true,
+			"run_in_menu" : false,
+			"script_path" : "lua/keybinds/firemode_safe.lua",
+			"localized" : true
+		}	
+	]
+}

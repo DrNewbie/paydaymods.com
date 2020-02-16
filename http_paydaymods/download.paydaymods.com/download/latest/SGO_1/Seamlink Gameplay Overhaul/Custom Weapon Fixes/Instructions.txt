@@ -1,0 +1,5 @@
+This has been done to extend ammo pickup changes to custom akimbo shotguns.
+
+Just copy those folders you see, for each akimbo shotgun and paste it on your mod_overrides, replace what you have
+
+KEEP IN MIND: YOU NEED THE CUSTOM WEAPON INSTALLED FIRST! 

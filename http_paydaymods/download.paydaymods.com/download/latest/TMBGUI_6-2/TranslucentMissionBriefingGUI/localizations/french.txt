@@ -1,0 +1,23 @@
+{
+	"TMBGUI_show_context" : "Afficher le contexte",
+	"TMBGUI_hide_context" : "Masquer le contexte",
+	"TMBGUI_character" : "Joueur",
+	"TMBGUI_toggle_panning" : "Vue panoramique",
+	"TMBGUI_current_character" : "Actuellement en train de regarder:",
+	"TMBGUI_nobody" : "Personne",
+
+	"translucentmissionbriefinggui_menu_title" : "Translucent Mission Briefing GUI",
+	"translucentmissionbriefinggui_menu_desc" : "Configurer les options de Translucent Mission Briefing GUI",
+
+	"tog_translucentmissionbriefinggui_fadeelements_title" : "Elements fanées",
+	"tog_translucentmissionbriefinggui_fadeelements_desc" : "Détermine si les éléments pour être cachée sont fanées ou arrière au lieu d'être cachée instantanément",
+
+	"sld_translucentmissionbriefinggui_fadeduration_title" : "Duration fanées",
+	"sld_translucentmissionbriefinggui_fadeduration_desc" : "Détermine le temps nécessaire pour estomper les éléments dedans/dehors, en quelques secondes. N'a aucun effet si les élements fanées n'est pas activé",
+
+	"tog_translucentmissionbriefinggui_autohidebackground_title" : "Masquer automatiquement le background",
+	"tog_translucentmissionbriefinggui_autohidebackground_desc" : "Détermine si l'arrière-plan est automatiquement cachée dès que le bouton «Afficher le contexte» est activé",
+
+	"btn_translucentmissionbriefinggui_reset_title" : "Réinitialiser les paramètres par défaut",
+	"btn_translucentmissionbriefinggui_reset_desc" : "Réinitialise toutes les options à leurs valeurs par défaut"
+}

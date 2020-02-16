@@ -1,0 +1,111 @@
+{
+	"menu_id" : "wac_menu_ar_sg552",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_sg552_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sg552longb",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_sg552longb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_sg552longb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sg552enhfg",
+			"title" : "wac_replace_sg552enhfg_title",
+			"callback" : "callback_toggle_replace_sg552enhfg",		
+			"items" : [
+				"wac_default_multi",
+				"railfg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_sg552enhfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sg553railedfg",
+			"title" : "wac_replace_railedfg_title",
+			"callback" : "callback_toggle_replace_sg553railedfg",		
+			"items" : [
+				"wac_default_multi",
+				"sg552enhfg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_sg553railedfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sg552grip",
+			"title" : "wac_replace_sg552grip_title",
+			"callback" : "callback_toggle_replace_sg552grip",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_sg552grip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sg552stock",
+			"title" : "wac_replace_stockuseonly_title",
+			"callback" : "callback_toggle_replace_sg552stock",		
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi",
+				"sgenhst_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_sg552stock",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sg552receiver",
+			"title" : "wac_replace_stndrec_title",
+			"callback" : "callback_toggle_replace_sg552receiver",		
+			"items" : [
+				"wac_default_multi",
+				"sgblackrec_multi"
+			],
+			"value" : "replace_sg552receiver",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sg552blackreceiver",
+			"title" : "wac_replace_sg552blackrec_title",
+			"callback" : "callback_toggle_replace_sg552blackreceiver",		
+			"items" : [
+				"wac_default_multi",
+				"stnduprec_multi"
+			],
+			"value" : "replace_sg552blackreceiver",
+			"default_value" : 1
+		}
+	]
+}

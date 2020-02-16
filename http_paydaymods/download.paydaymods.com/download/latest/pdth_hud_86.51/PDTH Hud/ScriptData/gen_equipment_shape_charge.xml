@@ -1,0 +1,18 @@
+<table>
+    <table search="unit">
+        <table search="sequence;name='\'show\''">
+            <material_config name="'units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge'"/>
+        </table>
+        <sequence editable_state="true" name="'activate'" triggable="true">
+            <interaction enabled="true"/>
+            <body enabled="false" name="'body_static'"/>
+            <object enabled="true" name="'g_gen_equipment_shape_charge'"/>
+            <object enabled="false" name="'g_gen_equipment_shape_charge_glow'"/>
+            <effect_spawner enabled="false" name="'effect_light'"/>
+            <effect_spawner enabled="false" name="'effect_light2'"/>
+            <material_config name="'units/pd2_dlc_cage/masks/f1/msk_f1_mask'"/>
+            <graphic_group name="'c4_icon'" visibility="false"/>
+            <graphic_group name="'c4_icon'" visibility="false"/>
+        </sequence>
+    </table>
+</table>

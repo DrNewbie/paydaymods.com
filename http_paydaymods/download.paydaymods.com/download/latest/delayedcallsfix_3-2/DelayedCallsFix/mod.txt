@@ -1,0 +1,22 @@
+{
+	"name" : "Delayed Calls Fix",
+	"description" : "Provides a corrected implementation of the DelayedCalls class provided by BLT.\nThe latter is flawed in that identifiers are inadvertently discarded and replaced with integral indexes instead, which prevents DelayedCalls:Remove() from functioning correctly and also causes delayed callbacks to stack up multiple times in certain cases.",
+	"author" : "\n    Snh20\n    James Wilkinson (original BLT implementation)",
+	"blt_version" : 2,
+	"version" : "0.0.1.2",
+	"priority" : 1000,
+	"color" : "0.15 0.15 0.15",
+	"image" : "_icon.png",
+	"updates" : [
+		{
+			"revision" : 3,
+			"identifier" : "delayedcallsfix"
+		}
+	],
+	"pre_hooks" : [
+		{
+			"hook_id" : "core/lib/utils/coreapp",
+			"script_path" : "delayed_calls.lua"
+		}
+	]
+}

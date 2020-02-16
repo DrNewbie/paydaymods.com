@@ -1,0 +1,103 @@
+{
+	"menu_id" 			: "cWIP_options",
+	"parent_menu_id" 	: "blt_options",
+	"title" 			: "cWIP_Options_T",
+	"description" 		: "cWIP_Options_D",
+	"back_callback" 	: "cWIP_check_font",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "cWIP_Download_font",
+			"title" : "cWIP_Download_font_T",
+			"description" : "cWIP_Download_font_D",
+			"callback" : "cWIP_download_or_update_custom_font",
+			"priority" : 10000000
+		},
+		{
+			"type"			: "toggle",
+			"id"			: "cWIP_Auto_check_font",
+			"title" 		: "cWIP_auto_check_font_T",
+			"description" 	: "cWIP_auto_check_font_D",
+			"value" 		: "Auto_check_font",
+			"default_value" : true,
+			"callback" 		: "callback_ValueSet",
+			"priority"		: 9999999
+		},
+		{
+			"type"			: "button",
+			"id"			: "cWIP_Language_download",
+			"title" 		: "cWIP_Lang_T",
+			"description"	: "cWIP_Lang_D",
+			"callback"		: "cWIP_language_download_quick_menu",
+			"priority"		: 9999998
+		},
+		{
+			"type"			: "toggle",
+			"id"			: "cWIP_Auto_check_lang",
+			"title" 		: "cWIP_Auto_update_T",
+			"description" 	: "cWIP_Auto_update_D",
+			"value" 		: "Auto_check_lang",
+			"default_value" : true,
+			"callback" 		: "callback_ValueSet",
+			"priority"		: 9999997
+		},
+		{
+			"type"			: "button",
+			"id"			: "cWIP_Language_mod_download",
+			"title" 		: "cWIP_Lang_mod_T",
+			"description"	: "cWIP_Lang_mod_D",
+			"callback"		: "cWIP_Lang_mod_quick_menu",
+			"priority"		: 9999996
+		},
+		{
+			"type"			: "toggle",
+			"id"			: "cWIP_NoUpper",
+			"title" 		: "cWIP_NoUpper_T",
+			"description" 	: "cWIP_NoUpper_D",
+			"value" 		: "NoUpper",
+			"default_value" : false,
+			"callback" 		: "callback_ValueSet",
+			"priority"		: 95
+		},
+		{
+			"type" 			: "toggle",
+			"id" 			: "cWIP_SayTranslate",
+			"title" 		: "cWIP_SayTranslate_T",
+			"description" 	: "cWIP_SayTranslate_D",
+			"value" 		: "SayTranslate",
+			"default_value" : true,
+			"callback" 		: "callback_ValueSet",
+			"priority"		: 90
+		},
+		{
+			"type" 			: "toggle",
+			"id" 			: "cWIP_Allow_mod_override",
+			"title" 		: "cWIP_Allow_mod_override_T",
+			"description" 	: "cWIP_Allow_mod_override_D",
+			"value" 		: "Allow_mod_override",
+			"default_value" : true,
+			"callback" 		: "callback_ValueSet",
+			"priority"		: 90
+		},
+		{
+			"type" 			: "button",
+			"id" 			: "cWIP_Contact_author",
+			"title" 		: "cWIP_Contact_author_T",
+			"description" 	: "cWIP_Contact_author_D",
+			"callback" 		: "cWIP_steam_group",
+			"priority"		: 2
+		},
+		{ "type" : "divider", "size" : 20 , "priority" : 9999994 },
+		{ "type" : "divider", "size" : 20 , "priority" : 20 },
+		{ "type" : "divider", "size" : 20 , "priority" : 10 },
+		{ "type" : "divider", "size" : 20 , "priority" : 1  },
+		{
+			"type" 			: "button",
+			"id" 			: "cWIP_Outputer",
+			"title" 		: "cWIP_Outputer_T",
+			"description" 	: "cWIP_Outputer_D",
+			"callback" 		: "StringDataOutputer",
+			"priority"		: 0
+		}
+	]
+}

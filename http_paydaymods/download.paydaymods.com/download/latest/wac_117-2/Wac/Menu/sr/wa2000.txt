@@ -1,0 +1,65 @@
+{
+	"menu_id" : "wac_menu_sr_wa2000",
+	"parent_menu_id" : "wac_menu_sr",
+	"title" : "wac_menu_sr_wa2000_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_wa2000longb",
+			"title" : "wac_replace_wa200longb_title",
+			"callback" : "callback_toggle_replace_wa2000longb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_wa2000longb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_wa2000lightgrip",
+			"title" : "wac_replace_wa2000lightgrip_title",
+			"callback" : "callback_toggle_replace_wa2000lightgrip",		
+			"items" : [
+				"wac_default_multi",
+				"wa2000stealthgrip_multi",
+				"wa2000walnutgrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_wa2000lightgrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_wa2000stealthgrip",
+			"title" : "wac_replace_wa2000stealthgrip_title",
+			"callback" : "callback_toggle_replace_wa2000stealthgrip",		
+			"items" : [
+				"wac_default_multi",
+				"wa2000lightgrip_multi",
+				"wa2000walnutgrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_wa2000stealthgrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_wa2000walnutgrip",
+			"title" : "wac_replace_wa2000walnutgrip_title",
+			"callback" : "callback_toggle_replace_wa2000walnutgrip",		
+			"items" : [
+				"wac_default_multi",
+				"wa2000lightgrip_multi",
+				"wa2000stealthgrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_wa2000walnutgrip",
+			"default_value" : 1
+		}
+	]
+}

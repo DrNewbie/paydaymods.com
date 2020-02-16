@@ -1,0 +1,99 @@
+{
+	"menu_id" : "khud_menu",
+	"parent_menu_id" : "blt_options",
+	"title" : "khud_menu_title",
+	"back_callback" : "callback_khud_close",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "khud_show_crosshair",
+			"title" : "khud_show_crosshair_title",
+			"description" : "khud_show_crosshair_desc",
+			"callback" : "callback_khud_show_crosshair",
+			"value" : "show_crosshair"
+		},
+		{
+			"type" : "toggle",
+			"id" : "id_khud_debugmode",
+			"title" : "khud_debugmode_title",
+			"description" : "khud_debugmode_desc",
+			"callback" : "callback_khud_debugmode",
+			"value" : "show_debug"
+		},
+		{
+			"type" : "keybind",
+			"id" : "id_khud_quickchat_1",
+			"title" : "khud_quickchat_1_keybind_title",
+			"description" : "khud_quickchat_1_keybind_desc",
+			"keybind_id" : "khud_quickchat_1_keybind",
+			"run_in_game" : true,
+			"func" : "func_quickchat_1"
+		},
+		{
+			"type" : "keybind",
+			"id" : "id_khud_quickchat_2",
+			"title" : "khud_quickchat_2_keybind_title",
+			"description" : "khud_quickchat_2_keybind_desc",
+			"keybind_id" : "khud_quickchat_2_keybind",
+			"run_in_game" : true,
+			"func" : "func_quickchat_2"
+		},
+		{
+			"type" : "keybind",
+			"id" : "id_khud_quickchat_3",
+			"title" : "khud_quickchat_3_keybind_title",
+			"description" : "khud_quickchat_3_keybind_desc",
+			"keybind_id" : "khud_quickchat_3_keybind",
+			"run_in_game" : true,
+			"func" : "func_quickchat_3"
+		},
+		{
+			"type" : "keybind",
+			"id" : "id_khud_quickchat_4",
+			"title" : "khud_quickchat_4_keybind_title",
+			"description" : "khud_quickchat_4_keybind_desc",
+			"keybind_id" : "khud_quickchat_4_keybind",
+			"run_in_game" : true,
+			"func" : "func_quickchat_4"
+		},
+		{
+			"type" : "button",
+			"id" : "id_khud_customize_buffs",
+			"title" : "khud_customize_buffs_title",
+			"description" : "khud_customize_buffs_desc",
+			"callback" : "callback_khud_customize_buffs"
+		},
+		{
+			"type" : "toggle",
+			"id" : "id_khud_show_buffs_master",
+			"title" : "khud_show_buffs_master_title",
+			"description" : "khud_show_buffs_master_desc",
+			"callback" : "callback_khud_show_buffs_master",
+			"value" : "show_buffs_master"
+		},
+		{
+			"type" : "toggle",
+			"id" : "id_khud_mission_enabled",
+			"title" : "khud_mission_enabled_title",
+			"description" : "khud_mission_enabled_desc",
+			"callback" : "callback_khud_mission_enabled",
+			"value" : "mission_enabled"
+		},
+		{
+			"type" : "toggle",
+			"id" : "id_khud_show_location",
+			"title" : "khud_show_location_title",
+			"description" : "khud_show_location_desc",
+			"callback" : "callback_khud_show_location",
+			"value" : "show_location"
+		},
+		{
+			"type" : "toggle",
+			"id" : "id_khud_show_unusuals",
+			"title" : "khud_show_unusuals_title",
+			"description" : "khud_show_unusuals_desc",
+			"callback" : "callback_khud_show_unusuals",
+			"value" : "show_unusuals"
+		}
+	]
+}

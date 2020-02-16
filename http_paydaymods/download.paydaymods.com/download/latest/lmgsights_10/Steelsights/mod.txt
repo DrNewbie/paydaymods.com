@@ -1,0 +1,24 @@
+{
+    "name" : "LMG Steelsights v0.62",
+    "description" : "Adds the ability to use iron sights and sights on Light Machine guns.",
+    "author" : "KarateF22 (original script), Dotoo (added Buzzsaw sights), SC (added the M240 code, added lmg Bipod ADSing and Bipod ADS spread) Iron Predator (added blt support and firemode changer) Feelgood (added lmg sights)"
+    "contact" : "g_manuel98@yahoo.com",
+    "version" : "0.63",
+    "priority" : 10,
+    "blt_version" : 2,	
+	"hooks" : [   
+        { "hook_id" : "lib/tweak_data/playertweakdata" "script_path" : "lmgsights.lua"},
+   	{ "hook_id" : "lib/units/beings/player/states/playerbipod" "script_path" : "bipod.lua"},
+	{ "hook_id" : "lib/tweak_data/weapontweakdata","script_path" : "weapontweak.lua" },		
+	{ "hook_id" : "lib/tweak_data/weaponfactorytweakdata",
+	"script_path" : "weaponfactory.lua"
+}
+		
+	],
+	"updates" : [
+    {
+        "revision" :8,
+        "identifier" : "lmgsight"
+    }
+	]
+}

@@ -1,0 +1,176 @@
+{
+	"menu_id" : "bb_menu",
+	"parent_menu_id" : "blt_options",
+	"title" : "bb_menu_title",
+	"description" : "bb_menu_desc",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "health_choice",
+			"title" : "health_choice_title",
+			"description" : "health_choice_desc",
+			"callback" : "callback_health_choice",
+			"items" : [
+				"health_choice_default",
+				"health_choice_no_scale",
+				"health_choice_zeal"
+			],
+			"value" : "health",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "move_choice",
+			"title" : "move_choice_title",
+			"description" : "move_choice_desc",
+			"callback" : "callback_move_choice",
+			"items" : [
+				"move_choice_default",
+				"move_choice_dodge",
+				"move_choice_no_crouching"
+			],
+			"value" : "move",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "dodge_choice",
+			"title" : "dodge_choice_title",
+			"description" : "dodge_choice_desc",
+			"callback" : "callback_dodge_choice",
+			"items" : [
+				"dodge_choice_poor",
+				"dodge_choice_average",
+				"dodge_choice_heavy",
+				"dodge_choice_athletic",
+				"dodge_choice_ninja"
+			],
+			"value" : "dodge",
+			"default_value" : 4
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "dmgmul_choice",
+			"title" : "dmgmul_choice_title",
+			"description" : "dmgmul_choice_desc",
+			"callback" : "callback_dmgmul_choice",
+			"items" : [
+				"dmgmul_choice_1",
+				"dmgmul_choice_2",
+				"dmgmul_choice_3",
+				"dmgmul_choice_4",
+				"dmgmul_choice_5"
+			],
+			"value" : "dmgmul",
+			"default_value" : 5
+		},
+		{
+			"type" : "toggle",
+			"id" : "dwn_toggle",
+			"title" : "dwn_toggle_title",
+			"description" : "dwn_toggle_desc",
+			"callback" : "callback_dwn_toggle",
+			"value" : "instadwn",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "clk_toggle",
+			"title" : "clk_toggle_title",
+			"description" : "clk_toggle_desc",
+			"callback" : "callback_clk_toggle",
+			"value" : "clkarrest",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "chat_toggle",
+			"title" : "chat_toggle_title",
+			"description" : "chat_toggle_desc",
+			"callback" : "callback_chat_toggle",
+			"value" : "chat",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "doc_toggle",
+			"title" : "doc_toggle_title",
+			"description" : "doc_toggle_desc",
+			"callback" : "callback_doc_toggle",
+			"value" : "doc",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "dom_toggle",
+			"title" : "dom_toggle_title",
+			"description" : "dom_toggle_desc",
+			"callback" : "callback_dom_toggle",
+			"value" : "dom",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "biglob_toggle",
+			"title" : "biglob_toggle_title",
+			"description" : "biglob_toggle_desc",
+			"callback" : "callback_biglob_toggle",
+			"value" : "biglob",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "reflex_toggle",
+			"title" : "reflex_toggle_title",
+			"description" : "reflex_toggle_desc",
+			"callback" : "callback_reflex_toggle",
+			"value" : "reflex",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "maskup_toggle",
+			"title" : "maskup_toggle_title",
+			"description" : "maskup_toggle_desc",
+			"callback" : "callback_maskup_toggle",
+			"value" : "maskup",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "equip_toggle",
+			"title" : "equip_toggle_title",
+			"description" : "equip_toggle_desc",
+			"callback" : "callback_equip_toggle",
+			"value" : "equip",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "combat_toggle",
+			"title" : "combat_toggle_title",
+			"description" : "combat_toggle_desc",
+			"callback" : "callback_combat_toggle",
+			"value" : "combat",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "ammo_toggle",
+			"title" : "ammo_toggle_title",
+			"description" : "ammo_toggle_desc",
+			"callback" : "callback_ammo_toggle",
+			"value" : "ammo",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "conc_toggle",
+			"title" : "conc_toggle_title",
+			"description" : "conc_toggle_desc",
+			"callback" : "callback_conc_toggle",
+			"value" : "conc",
+			"default_value" : false
+		}
+	]
+}

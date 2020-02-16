@@ -1,0 +1,32 @@
+{
+	"menu_id" : "wac_menu_spec_m134",
+	"parent_menu_id" : "wac_menu_spec",
+	"title" : "wac_menu_spec_m134_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m134aab",
+			"title" : "wac_replace_m134aab_title",
+			"callback" : "callback_toggle_replace_m134aab",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_m134aab",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m134shortb",
+			"title" : "wac_replace_m134shortb_title",
+			"callback" : "callback_toggle_replace_m134shortb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_m134aab_multi"
+			],
+			"value" : "replace_m134shortb",
+			"default_value" : 1
+		}
+	]
+}

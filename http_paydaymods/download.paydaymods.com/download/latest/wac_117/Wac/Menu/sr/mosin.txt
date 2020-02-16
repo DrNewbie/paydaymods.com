@@ -1,0 +1,45 @@
+{
+	"menu_id" : "wac_menu_sr_mosin",
+	"parent_menu_id" : "wac_menu_sr",
+	"title" : "wac_menu_sr_mosin_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_mosinm9130barrel",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_mosinm9130barrel",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_shortb_multi"
+			],
+			"value" : "replace_mosinm9130barrel",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_mosinm38barrel",
+			"title" : "wac_replace_shortb_title",
+			"callback" : "callback_toggle_replace_mosinm38barrel",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_longb_multi"
+			],
+			"value" : "replace_mosinm38barrel",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_mosinblackstock",
+			"title" : "wac_replace_mosinblackst_title",
+			"callback" : "callback_toggle_replace_mosinblackstock",
+			"value" : "replace_mosinblackstock",
+			"default_value" : false
+		}
+	]
+}

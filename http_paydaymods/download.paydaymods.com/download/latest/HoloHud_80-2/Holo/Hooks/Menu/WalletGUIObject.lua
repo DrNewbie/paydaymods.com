@@ -1,0 +1,25 @@
+if Holo.Options:GetValue("Menu") then 
+	Hooks:PostHook(WalletGuiObject, "set_object_visible", "HoloSetObjectVisible", function()
+		Holo.Utils:ModifyWallet()
+	end)
+	Hooks:PostHook(WalletGuiObject, "set_object_visible", "HoloSetObjectVisible", function()
+		Holo.Utils:ModifyWallet()
+	end)
+	Hooks:PostHook(WalletGuiObject, "set_wallet", "HoloSetWallet", function()
+		Holo.Utils:ModifyWallet()
+	end)
+	Hooks:PostHook(WalletGuiObject, "refresh", "HoloRefresh", function()
+		Holo.Utils:ModifyWallet()
+	end)
+	if GoonBase then
+		Hooks:Add("WalletGuiObjectOnSetWallet", "HoloWalletGuiObjectOnSetWallet", function()
+			Holo.Utils:ModifyWallet()
+		end)	
+		Hooks:Add("WalletGuiObjectOnRefresh", "HoloWalletGuiObjectOnRefresh", function()
+			Holo.Utils:ModifyWallet()
+		end)	
+		Hooks:Add("WalletGuiObjectSetObjectVisible", "HoloWalletGuiObjectSetObjectVisible", function()
+			Holo.Utils:ModifyWallet()
+		end)
+	end
+end

@@ -1,0 +1,98 @@
+{
+	"menu_id" : "wac_menu_ar_scarh",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_scarh_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_scarhlongb",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_scarhlongb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_shortb_multi"
+			],
+			"value" : "replace_scarhlongb",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_scarhflashhider",
+			"title" : "wac_replace_useownflashhider_title",
+			"callback" : "callback_toggle_replace_scarhflashhider",
+			"value" : "replace_scarhflashhider",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_scarsrxrail",
+			"title" : "wac_replace_scarsrxrail_title",
+			"callback" : "callback_toggle_replace_scarsrxrail",		
+			"items" : [
+				"wac_default_multi",
+				"noextrail_multi"
+			],
+			"value" : "replace_scarsrxrail",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_afg2",
+			"title" : "wac_replace_afg2_title",
+			"callback" : "callback_toggle_replace_afg2",		
+			"items" : [
+				"wac_default_multi",
+				"stubbygrip_multi",
+				"vertgrip_multi",
+				"hk416cvert_multi",
+				"vectorvert_multi",
+				"novertgrip_multi",
+				"surefirem900_multi"
+			],
+			"value" : "replace_afg2",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_scarhsnipstock",
+			"title" : "wac_replace_sniperst_title",
+			"callback" : "callback_toggle_replace_scarhsnipstock",		
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi",
+				"m4_s_stnd_multi",
+				"m4_s_crane_multi",
+				"m4_s_ubr_multi",
+				"m4_vltor_multi"
+			],
+			"value" : "replace_scarhsnipstock",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_scarhsingle",
+			"title" : "wac_replace_singlefire_title",
+			"description" : "wac_singlefiremode_desc",
+			"callback" : "callback_toggle_replace_scarhsingle",
+			"value" : "replace_scarhsingle",
+			"default_value" : false
+		}
+	]
+}

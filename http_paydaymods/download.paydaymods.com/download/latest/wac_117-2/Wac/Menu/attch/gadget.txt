@@ -1,0 +1,88 @@
+{
+	"menu_id" : "wac_menu_attch_gadget",
+	"parent_menu_id" : "wac_menu_attch",
+	"title" : "wac_menu_attch_gadget_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_compactlaser",
+			"title" : "wac_replace_compactlaser_title",
+			"callback" : "callback_toggle_replace_compactlaser",		
+			"items" : [
+				"wac_default_multi",
+				"peqbox_multi",
+				"surefirefl_multi"
+			],
+			"value" : "replace_compactlaser",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_peq15",
+			"title" : "wac_replace_peq15_title",
+			"callback" : "callback_toggle_replace_peq15",		
+			"items" : [
+				"wac_default_multi",
+				"peqbox_multi",
+				"surefirefl_multi"
+			],
+			"value" : "replace_peq15",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_utg",
+			"title" : "wac_replace_utg_title",
+			"callback" : "callback_toggle_replace_utg",		
+			"items" : [
+				"wac_default_multi",
+				"peq15_multi",
+				"peqbox_multi",
+				"surefirefl_multi"
+			],
+			"value" : "replace_utg",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_x400v",
+			"title" : "wac_replace_x400v_title",
+			"callback" : "callback_toggle_replace_x400v",		
+			"items" : [
+				"wac_default_multi",
+				"cmr206_multi",
+				"cmr201_multi"
+			],
+			"value" : "replace_x400v",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_cmr201",
+			"title" : "wac_replace_cmr201_title",
+			"callback" : "callback_toggle_replace_cmr201",		
+			"items" : [
+				"wac_default_multi",
+				"cmr206_multi"
+			],
+			"value" : "replace_cmr201",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m3x",
+			"title" : "wac_replace_m3x_title",
+			"callback" : "callback_toggle_replace_m3x",		
+			"items" : [
+				"wac_default_multi",
+				"tlr1_multi"
+			],
+			"value" : "replace_m3x",
+			"default_value" : 1
+		}
+	]
+}

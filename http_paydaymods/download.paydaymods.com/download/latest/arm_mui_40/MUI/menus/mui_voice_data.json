@@ -1,0 +1,18 @@
+[
+	{ "key":"1", "name":"Oh f@%#.", "sound":"g60" },
+	{ "key":"2", "name":"S#%@!", "sound":"g29", "anim":"cmd_down" },
+	{ "key":"3", "name":"I got the drill.", "sound":"g61", "anim":"cmd_stop" },
+	{ "key":"4", "name":"Thanks.", "sound":"s05x_sin", "anim":"cmd_stop" },
+	{ "key":"5", "name":"Medic bag!", "sound":"g80x_plu" },
+	{ "key":"6", "name":"Ammo bag!", "sound":"g81x_plu" },	
+	{ "key":"7", "name":"Help me up!", "sound":"f11e_plu" },
+	{ "key":"8", "name":"Let's go.", "sound":"g13", "anim":"cmd_gogo" },
+	{ "key":"9", "name":"Alright.", "sound":"g92" },
+	{ "key":"0", "name":"Time to go.", "sound":"g17", "anim":"cmd_gogo" },
+	{ "key":"Q", "name":"I'll fix you up.", "sound":"s08x_sin" },
+	{ "key":"E", "name":"Get out!", "sound":"g07", "anim":"cmd_gogo" },
+	{ "key":"R", "name":"Shoot them!", "sound":"g23", "anim":"cmd_point" },
+	{ "key":"T", "name":"Be careful.", "sound":"g10", "anim":"cmd_stop" },
+	{ "key":"F", "name":"What did I say?!", "sound":"f02b_sin", "anim":"cmd_down" },
+	{ "key":"X", "name":"Cancel" }
+]

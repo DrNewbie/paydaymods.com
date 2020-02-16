@@ -1,0 +1,24 @@
+{
+	"twoclicksafehouse_oldsafehouse" : "Старое Убежище"
+
+	"twoclicksafehouse_menu_title" : "Убежище в два клика",
+	"twoclicksafehouse_menu_desc" : "Измените настройки Убежища в два клика",
+
+	"tog_twoclicksafehouse_openu110safehouseguiinstead_title" : "Всегда открывать интерфейс Улучшаемого Убежища",
+	"tog_twoclicksafehouse_openu110safehouseguiinstead_desc" : "Определяет, нужно ли показывать интерфейс Улучшаемого Убежища или сразу загружать его",
+
+	"mul_twoclicksafehouse_defaultselection_title" : "Выбор по умолчанию",
+	"mul_twoclicksafehouse_defaultselection_desc" : "Определяет стандартный выбор убежища для подтверждающего диалога, или выполняемое действие, если диалог подтверждения отключен",
+
+	"tog_twoclicksafehouse_noconfirmation_title" : "Без подтверждающего диалога",
+	"tog_twoclicksafehouse_noconfirmation_desc" : "Определяет, нужно ли показывать подтверждающий диалог. Если включено, при нажатии кнопки в главном меню будет загружено убежище по умолчанию ",
+
+	"btn_twoclicksafehouse_reset_title" : "Восстановить значения по умолчанию",
+	"btn_twoclicksafehouse_reset_desc" : "Сбрасывает все настройки до их значений по умолчанию",
+
+	"dlg_twoclicksafehouse_obsoletemoddeletionsuccessful_title" : "Обнаружение устаревшего мода прошло успешно",
+	"dlg_twoclicksafehouse_obsoletemoddeletionsuccessful_body" : "[Сообщение показано модом Убежище в два клика]\n\nInfo: Успешно удален устаревший мод $path, последующие действия не требуются.\n\nВы не увидите это сообщение снова.",
+
+	"dlg_twoclicksafehouse_obsoletemoddeletionfailure_title" : "Обнаружение устаревшего мода провалилось",
+	"dlg_twoclicksafehouse_obsoletemoddeletionfailure_body" : "[Сообщение показано модом Убежище в два клика]\n\nError: Не удалось удалить устаревший мод $path, пожалуйста, удалите его вручную, чтобы избежать ошибок.\n\nЭто сообщение будет показываться, пока устаревишй мод не будет удален."
+}

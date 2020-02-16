@@ -1,0 +1,289 @@
+OI! WHAT'RE YEW DOIN' IN MY SWAMP?
+GET OU', I'M MODDING HERE.
+
+v1.13
+- Fixed "Hipfire Only" option for crosshair not applying 
+- Fixed Health Regen buff from Hostage Taker occasionally failing to remove itself after the hostage providing the proc is removed, resulting in a negative timer number
+- Fixed crashing from fire damage from explosive barrels/other invalid-weapon damage sources
+- Fixed crashing when looking at certain objects
+
+
+Priority TODO:
+- fix objectivehud not updating when objective amount (eg bag amount) reached
+- Fix buff sorting offscreen
+- add left scanner for enemy health bar
+- fix left scanner not updating whilst being looked at
+-	rework fade code
+- show stoic hp regen amount on health bar
+
+- chat scaling
+- chat bg colors
+
+- Add better crosshair options w/ actual custom textures (beardlib req)
+
+- Button to show/hide chat like D2
+- Ammo counter for underbarrel
+
+
+
+- highest priority buffs in center of screen (scanner left panel)
+- buffs by priority 
+- create ammo counter display for teammates
+
+- separate quickchat panel from chat
+- allow custom x/y for quickchat panel
+- downcounter: option to show downs instead of revives
+- custom interaction circle w/ timer?
+- show teammates' interaction circles
+- bag carry icon for teammates/self]
+
+---
+
+- crosshair color multiplechoice (normal, enemy, civ, bot ai)
+- downcounter only/not shown for late join teammates?
+
+
+- if you scale the weapon display past 1 it cuts it off (-gimme)
+
+- add hp bar width scale setting
+- deployables waypoints
+
+- Fix ai masks
+- Sixth sense does not work as a buff (temp disabled)
+
+
+
+- Animate teammate special eq sort/apply to local
+	* recreate carry panel with player bag icon
+	* restyle carry panel
+	
+	* fancy frivolous init anims (checkbox, banner, container)
+	* fadein objective amount text
+	* anim for changing objective text
+	* reminder box resize anim
+	* obj toast
+
+- add 3 new maps per update (ongoing)
+
+- Add buff priority: table.sort buffs on add
+- More prominent High Priority Buffs (make swansong/bulletstorm more obvious)
+- Pocket ecm timer from other clients
+- QuickChat
+	* Manually block input for quickchat
+	* Use TF2 system (z,x,c; 1-9) instead of Rocket League (1-4,1,4)
+- Write improved waypoints 
+
+FEATURES:
+
+- dynamic bloom for crosshair 
+- Limit name characters
+- Health % as waypoint icon
+
+- Bodybags num?
+- Stats Screen
+
+- Sentry tracking
+- ECM feedback tracker
+- Sync Assault state from hosts with KHUD	
+- Converts panel
+- Enemy health bars
+- Menu: Toggle vs hold to use quickchat menu?
+- Show kills rem. free to grenade from team ai boost?
+
+PLANNED, POSSIBLY:
+- Flashbang status for teammates who are estimated to be flashbanged/synced flashbanged state + duration to other hud users
+- Enemy Counter?
+- Show berserker "effective" maxhp bar
+- Rangefinder on hud if weapon has rangefinder scope
+- Kill counter for melee/grenade/underbarrel
+
+- Voiced assistant w/ voicelines on event (hurt, kill, low ammo etc)
+- Crouch/stand/prone/lean indicators
+- Sad violin music when you die??
+- Inspect gun to view ammo??
+
+TODO: 
+- Animate dark souls-style "lost hp" drain
+- HoldTheKey add hook on key bound
+- Press2Hold integration
+
+
+BUG FIXES:
+- Assault phases don't always show timer
+- incorrect sentry amount shown when replenish (not updated)
+- status icons still display (override set_condition) (temporarily overridden)
+- ex pres z fighting with health bar gradient
+
+POLISH:
+- separate region from teammate panel (should integrate with stats panel) (requires photoshop mockup)
+- bag carry should be on the outside since it pops up, and should be more visible
+- ex pres should be more visible in case of bars with similar colors (test fix)
+
+- colorblind friendly
+- beautify downs
+- standardise color tweakdata
+- standardise panel_border naming
+- stats panel shows weapon kills with weapon's custom name (weapon.custom_name)
+- fadeout alpha for used equipments
+- beautify weapon kills
+	--guis/textures/pd2/hud_difficultymarkers
+	--guis/textures/pd2/mission_briefing/difficulty_icons
+	--guis/textures/pd2/hud_difficultymarkers_2
+
+
+
+CARTOGRAPHER:
+- about 82 heists left to catalogue
+- do a lot of stuff. like a lot.
+- Priority: 
+	Hoxton Revenge,
+	Framing Frame Day 3
+	Alesso,
+	Jewelry/Ukranian,
+	Big Bank,
+	The Yacht, Car Shop,
+	THE CLASSICS: 	Counterfeit, Diamond Heist, First World Bank, Green Bridge,	Heat Street, Panic Room, Slaughterhouse, Undercover
+	Hoxton Breakout
+- In progress:
+	Escape: Overpass 
+- Done:
+	Art Gallery
+	Bank Heist (+ variations)
+	Nightclub
+	
+BUFFS:
+
+- "overrides" for buffs with straight upgrades, eg. overkill/overkill aced
+- bloodthirst melee stacks
+- Streamline buff update/refresh code (set color for refresh)
+- downed status
+- expres stored hp buff
+- priority list for buffs
+- stoic 4s calm countdown
+- hitman armor regen
+- infiltrator stacks
+- sociopath armor gate?
+- gambler cooldowns? (2)
+- yakuza proc?
+- sicario smoke buff 
+- tag team buff
+
+
+Hex#|Dec #|Description
+E012|57362|New Inventory Icon "!"
+E013|57363|Ghost
+E014|57364|Skull
+E015|57365|Padlock
+E016|57366|"+" in a hexagon (skin boost?)
+E017|57367|"♥" in a hexagon (skin boost?)
+E018|57368|Crime Spree Icon
+E019|57369|CS Timer Short
+E01A|57370|CS Timer Medium
+E01B|57371|CS Timer Long
+E01C|57372|Ghost CS Stealth Heist
+E01D|57373|Continental Coin Icon
+
+DB:create_entry(Idstring("texture"), Idstring("path/in/game"), "path/to/file/in/drive.texture")
+
+about 83 left. hoo boy
+	Art Gallery (DONE/dupe)
+	Bank Heist (DONE)
+	Car Shop
+	Cook Off (dupe)
+	Diamond Store
+	GO Bank (use CSGO callouts)
+	Jewelry Store (dupe)
+	Reservoir Dogs (2)
+	Shadow Raid
+	Alesso
+	Transport: Crossroads
+	Transport: Downtown 
+	Transport: Harbour
+	Transport: Park
+	Transport: Train
+	Transport: Underpass
+	Escape: Park
+	Escape: Underpass
+	Escape: Garage
+	Escape: Cafe
+	
+	Counterfeit
+	Diamond Heist (oh boy)
+	First World Bank
+	Green Bridge
+	Heat Street
+	Panic Room
+	Slaughterhouse
+	Undercover
+	no mercy when
+
+	Cursed Kill Room
+	Lab Rats
+	Prison Nightmare
+	Safe House Nightmare
+	Safe House Raid
+	Safe House (neither nightmare nor raid)
+	
+	Firestarter (3)
+	Rats (3)
+	Watchdogs (2)
+	
+	Boiling Point
+	Murky Station
+	
+	Alaskan Deal
+	Beneath the Mountain
+	Birth of Sky
+	Breakin' Feds (stay consistent to hoxbreak)
+	Brooklyn Bank
+	Henry's Rock
+	Shacklethorne Auction
+	
+	Scarface Mansion
+	The Bomb: Dockyard
+	The Bomb: Forest
+	
+	Brooklyn 10-10
+	Yacht
+	
+	Golden Grin Casino
+	Hotline Miami (2)
+	Hoxton Breakout (2)
+	Hoxton Revenge
+	Big Bank
+	The Diamond (Museum)
+	
+	Big Oil (2)
+	Election Day (3)
+	
+	Framing Frame (3) (1/3 done)
+	The Biker Heist (2)
+	
+	Aftershock
+	Four Stores
+	Goat Simulator (2)
+	Mallcrasher
+	Meltdown
+	Nightclub
+	Santa's Workshop
+	Stealing Xmas
+	Ukranian Job
+	White Xmas
+
+adefgjkloqrtuxyz
+
+		
+	overwatch hud options: todo steal these	
+	--circle
+	--crosshair
+	--show dot
+	
+	--show_accuracy
+	--color
+	--thickness
+	--crosshair length
+	--center gap
+	--opacity
+	--outline opacity
+	--dot size
+	--dot opacity

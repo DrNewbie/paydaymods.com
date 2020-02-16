@@ -1,0 +1,471 @@
+{
+	"name" : "Seamlink Gameplay Overhaul",
+	"description" : "SGO brings a new feel and experience to PD2 with more fair weapons stats to handle hordes of cops",
+	"author" : "Subsimple, Brand0, Dr.Newbie, DMCWO, Fooksie, Seven, Seamlink and lots of more people!",
+	"version" : "2.3",
+    "blt_version": 2.0,
+	"contact" : "seamlink@hotmail.com",
+	"priority" : 48,
+	"color" : "0 0 0",
+	"image" : "sgo.png",
+	"updates" : [
+		{
+			"revision" : 1,
+			"identifier" : "SGO",
+		}
+	],
+	"libraries": [
+		{
+			"display_name": "Full Speed Swarm",
+			"identifier": "FS",
+			"optional": "false"
+		},
+		{
+			"display_name": "Spawn More and Faster",
+			"identifier": "20649",
+			"optional": "false"
+		}
+	],
+	"persist_scripts" : [
+		{
+			"global" : "SetVideoWith",
+			"script_path" : "lua/screwthoseffects.lua"
+		},
+		{
+			"global" : "SetVideoWithout",
+			"script_path" : "lua/screwthoseffects2.lua"
+		},
+		{
+			"global" : "SetVideoGrad",
+			"script_path" : "lua/screwthoseffects3.lua"
+		},
+		{
+			"global" : "SetVideoLight",
+			"script_path" : "lua/screwthoseffects4.lua"
+		},
+		{
+			"global" : "Loomynierty",
+			"script_path" : "lua/Slots.lua"
+		}	
+	],
+	"keybinds" : [
+		{
+			"keybind_id" : "methautocooker",
+			"name" : "METH AUTOCOOKER (host)",
+			"description" : "Bain will cook for you now, it also bags the meth for you HOST ONLY!",
+			"script_path" : "lua/bind2.lua",
+			"run_in_menu" : false,
+			"run_in_game" : true,
+			"localized" : false
+		},
+		{
+			"keybind_id" : "stfubain",
+			"name" : "Mute Bain Voice & Dialogues",
+			"description" : "Bain will finally stop talking with this, Mute/Unmute",
+			"script_path" : "lua/bind3.lua",
+			"run_in_menu" : false,
+			"run_in_game" : true,
+			"localized" : false
+		},
+		{
+			"keybind_id" : "overdrillnao",
+			"name" : "Activate Overdrill (host)",
+			"description" : "This will activate Overdrill on First World Bank, you HAVE to be the HOST for this to work",
+			"script_path" : "lua/bind4.lua",
+			"run_in_menu" : false,
+			"run_in_game" : true,
+			"localized" : false
+		},
+		{
+			"keybind_id": "slowmo",
+			"name": "Slow Motion Trigger",
+			"description": "Activate slow motion by pressing the desired key, press again to disable it, dont use it more than 6 seconds or the desync will take longer to recover (3 seconds)",
+			"script_path": "lua/bind.lua",
+			"run_in_menu": true,
+			"run_in_game": true,
+			"localized": false
+		},
+		{
+			"keybind_id" : "killallcivs",
+			"name" : "Kill All Civilians to Increase Difficulty",
+			"description" : "This kills all civilians, this will make everything HARDER, by increasing SPECIALS spawn frecuency",
+			"script_path" : "lua/kill_civilians.lua",
+			"run_in_menu" : false,
+			"run_in_game" : true,
+			"localized" : false
+		},
+		{
+			"keybind_id" : "newtest",
+			"name" : "Test Custom Script",
+			"description" : "You can run your own custom scripts here",
+			"script_path" : "lua/test.lua",
+			"run_in_menu" : true,
+			"run_in_game" : true,
+			"localized" : false
+		}
+	],
+	"pre_hooks" : [
+		{
+			"hook_id" : "core/lib/utils/coreapp",
+			"script_path" : "lua/delayed_calls.lua"
+		}
+	],
+	"hooks" : [
+		{  
+            "hook_id":"lib/setups/setup",
+            "script_path":"lua/nolodtexbyzdann.lua"
+        },
+		{ 	
+			"hook_id" : "lib/tweak_data/tweakdata",
+			"script_path" : "lua/contractunrestrictor.lua"
+		},
+		{  
+            "hook_id":"lib/managers/crimespreemanager",
+            "script_path":"lua/crimespreefixbynepgearsy.lua"
+        },
+		{ 
+			"hook_id" : "lib/tweak_data/playertweakdata",
+			"script_path" : "lua/lmgsights.lua"
+		},
+		{ 
+			"hook_id" : "lib/units/beings/player/states/playerbipod",
+			"script_path" : "lua/bipod.lua"
+		},
+		{ 
+			"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "lua/weapontweak.lua" 
+		},		
+		{ 
+			"hook_id" : "lib/tweak_data/weaponfactorytweakdata",
+			"script_path" : "lua/weaponfactory.lua"
+		},
+		{	
+			"hook_id" : "lib/tweak_data/blackmarkettweakdata",
+        	"script_path" : "lua/invisiarmor.lua"
+    	},
+		{
+			"hook_id": "lib/managers/hudmanager",
+			"script_path" : "lua/9600baudsmuteobjective.lua"
+		},
+		{   
+			"hook_id" : "lib/managers/menumanagerdialogs",
+			"script_path" : "lua/nodialogs.lua"
+		},
+		{	
+			"hook_id" : "lib/managers/menumanager", 
+			"script_path" : "lua/nofadetoblackbyluffy.lua"
+		},
+		{ 
+			"hook_id" : "lib/units/enemies/cop/copdamage", 
+			"script_path" : "lua/CopDamage.lua" 
+		},
+		{ 
+			"hook_id" : "lib/units/enemies/cop/copmovement", 
+			"script_path" : "lua/CopMovement.lua" 
+		},
+		{
+		 	"hook_id" : "lib/managers/objectinteractionmanager",
+			"script_path" : "lua/hold2pick.lua"
+		},
+		{
+			"hook_id": "lib/managers/missionassetsmanager",
+			"script_path": "lua/script.lua"
+		},
+		{
+			"hook_id": "lib/managers/localizationmanager",
+			"script_path": "lua/script.lua"
+		},
+		{ 	
+			"hook_id" : "lib/units/beings/player/states/playerdriving",
+			"script_path" : "lua/driverneckbraceremoved.lua"
+		},
+		{ 
+			"hook_id" : "lib/managers/menu/stageendscreengui", 
+			"script_path" : "lua/skip.lua"
+		},
+        { 
+			"hook_id" : "lib/managers/menu/lootdropscreengui", 
+			"script_path" : "lua/skip.lua"
+		},
+        { 
+			"hook_id" : "lib/states/ingamewaitingforplayers", 
+			"script_path" : "lua/skip.lua"
+		},
+		{ 
+			"hook_id": "lib/managers/hudmanagerpd2", 
+			"script_path": "lua/interaction.lua" 
+		},
+		{ 
+			"hook_id": "lib/managers/hud/hudinteraction", 
+			"script_path": "lua/interaction.lua" 
+		},
+		{ 
+			"hook_id": "lib/units/beings/player/states/playercivilian", 
+			"script_path": "lua/interaction.lua" 
+		},
+		{ 
+			"hook_id": "lib/units/beings/player/states/playerstandard", 
+			"script_path": "lua/interaction.lua" 
+		},
+		{ 
+			"hook_id": "lib/units/equipment/sentry_gun/sentrygunbase", 
+			"script_path" : "lua/killcounter.lua" 
+		},   
+        { 
+			"hook_id": "lib/units/enemies/cop/copdamage", 
+			"script_path" : "lua/killcounter.lua" 
+		},
+        { 
+			"hook_id": "lib/managers/hudmanagerpd2", 
+			"script_path" : "lua/killcounter.lua" 
+		},
+        { 
+			"hook_id": "lib/managers/hud/hudteammate", 
+			"script_path" : "lua/killcounter.lua" 
+		},
+		{ 
+			"hook_id": "lib/units/beings/player/states/playerstandard", 
+			"script_path" : "lua/lock.lua" 
+		},
+		{ 
+			"hook_id": "lib/tweak_data/weapontweakdata", 
+			"script_path" : "lua/lock.lua" 
+		},
+		{
+			"hook_id" : "lib/units/weapons/newraycastweaponbase",
+			"script_path" : "lua/lock.lua"
+		},
+		{ 
+			"hook_id": "lib/units/beings/player/states/playerstandard", 
+			"script_path": "lua/BurstFire.lua" 
+		},
+		{ 
+			"hook_id": "lib/units/weapons/newraycastweaponbase", 
+			"script_path": "lua/BurstFire.lua" 
+		},
+		{ 
+			"hook_id": "lib/units/weapons/akimboweaponbase", 
+			"script_path": "lua/BurstFire.lua"
+		},
+		{ 
+			"hook_id": "lib/managers/hudmanagerpd2", 
+			"script_path": "lua/BurstFire.lua" 
+		},
+		{ 
+			"hook_id": "lib/managers/hud/hudteammate", 
+			"script_path": "lua/BurstFire.lua" 
+		},
+		{ 
+			"hook_id": "lib/managers/menu/blackmarketgui", 
+			"script_path": "lua/names.lua" 
+		},
+		{ 
+			"hook_id": "lib/managers/hudmanagerpd2", 
+			"script_path": "lua/stamina.lua" 
+		},
+		{ 
+			"hook_id": "lib/managers/hud/hudteammate", 
+			"script_path": "lua/stamina.lua" 
+		},
+		{ 
+			"hook_id": "lib/managers/hud/Hudteammate", 
+			"script_path" : "lua/Real_ammo.lua"
+		},
+		{  
+            "hook_id" : "lib/network/base/handlers/connectionnetworkhandler",
+            "script_path" : "lua/downcounter.lua"
+        },
+        {  
+            "hook_id" : "lib/managers/hudmanagerpd2",
+            "script_path" : "lua/downcounter.lua"
+        },
+        {
+            "hook_id": "lib/managers/hud/hudteammate",
+            "script_path": "lua/downcounter.lua"
+        },
+        {
+            "hook_id": "lib/network/handlers/unitnetworkhandler",
+            "script_path": "lua/downcounter.lua"
+        },
+        {
+            "hook_id": "lib/managers/group_ai_states/groupaistatebase",
+            "script_path": "lua/downcounter.lua"
+        },
+		{   
+			"hook_id" : "lib/tweak_data",
+			"script_path" : "lua/Slots.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/blackmarketgui",
+			"script_path" : "lua/blackmarketgui.lua"
+		},
+		{
+			"hook_id" : "core/lib/system/coresystem",
+			"script_path" : "lua/menumanager.lua"
+		},
+		{	
+			"hook_id" : "lib/managers/group_ai_states/groupaistatebesiege",
+			"script_path" : "lua/assaulttweaks.lua"
+		},
+		{	
+			"hook_id" : "lib/managers/group_ai_states/groupaistatebase",
+			"script_path" : "lua/groupaistatebase.lua"
+		},
+		{
+			"hook_id" : "lib/managers/enemymanager",
+			"script_path" : "lua/enemymanager.lua"
+		},
+		{	
+			"hook_id" : "lib/units/enemies/cop/logics/coplogictravel",
+			"script_path" : "lua/coplogictravel.lua"
+		},
+		{	
+			"hook_id" : "lib/units/enemies/tank/logics/tanklogictravel",
+	   		"script_path" : "lua/tanklogicattack.lua"
+		},
+		{	
+			"hook_id" : "lib/units/enemies/spooc/logics/spooclogictravel",
+			"script_path" : "lua/spooclogicattack.lua"
+		},
+		{	
+			"hook_id" : "lib/units/enemies/shield/logics/shieldlogictravel",
+			"script_path" : "lua/shieldlogicattack.lua"
+		},
+		{	
+			"hook_id" : "lib/units/enemies/cop/logics/coplogicattack",
+			"script_path" : "lua/coplogicattack.lua"
+		},
+		{	
+			"hook_id" : "lib/units/enemies/cop/logics/coplogicidle",
+			"script_path" : "lua/coplogicidle.lua"
+		},
+		{
+			"hook_id" : "lib/tweak_data/weaponfactorytweakdata",
+			"script_path" : "lua/weaponfactorytweakdata.lua"
+		},
+		{	
+			"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "lua/Blaze_Rebalance.lua"
+		},
+		{	
+			"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "lua/albusnervaweaponoverhaul.lua.lua"
+		},
+		{  
+			"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "lua/scwo.lua"
+		},
+		{  
+			"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "lua/scworeb.lua"
+		},
+		{  
+			"hook_id" : "lib/tweak_data/blackmarket/meleeweaponstweakdata",
+			"script_path" : "lua/melee.lua"
+		},
+		{  
+			"hook_id" : "lib/tweak_data/tweakdata",
+			"script_path" : "lua/throwables.lua"
+		},
+		{
+			"hook_id" : "lib/managers/mission/elementmissionend",
+			"script_path" : "lua/announce_in_chat.lua"
+		},
+		{
+			"hook_id": "lib/units/beings/player/states/playerstandard",
+			"script_path": "lua/sliding.lua"
+		},
+		{
+			"hook_id": "lib/units/weapons/weaponlaser",
+			"script_path": "lua/bowoverhaul.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/states/playerbleedout",
+			"script_path" : "lua/playerbleedout.lua"
+		},
+		{
+			"hook_id" : "lib/tweak_data/skilltreetweakdata",
+			"script_path" : "lua/difficultytweaks.lua"
+		},
+		{
+			"hook_id" : "lib/units/enemies/tank/tankcopdamage",
+			"script_path" : "lua/tankdamage.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "lua/playertweaks.lua"
+		},
+		{
+			"hook_id": "lib/tweak_data/upgradestweakdata",
+			"script_path": "lua/upgradestweakdata.lua"
+		},
+		{	
+			"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "lua/soundsreplacement.lua"
+		},
+		{
+			"hook_id": "lib/tweak_data/tweakdata",
+			"script_path": "lua/tweak_data.lua"
+		},
+		{
+			"hook_id": "lib/managers/mission/elementblurzone",
+			"script_path": "lua/ratsblurremoval.lua"
+		},
+		{
+			"hook_id": "lib/units/interactions/interactionext",
+			"script_path": "lua/interactionext.lua"
+		},
+		{
+			"hook_id": "lib/states/ingamebleedout",
+			"script_path": "lua/incap.lua"
+		},
+		{
+			"hook_id": "lib/tweak_data/upgradestweakdata",
+			"script_path": "lua/goodtimes.lua"
+		}, 
+		{
+			"hook_id": "lib/units/beings/player/playermovement",
+			"script_path": "lua/runforestrun.lua"
+		},
+		{
+			"hook_id": "lib/tweak_data/carrytweakdata",
+			"script_path": "lua/thisshitisheavy.lua"
+		},
+		{
+			"hook_id": "lib/units/weapons/weaponliongadget1",
+			"script_path": "lua/lmgloveon.lua"
+		},
+		{
+			"hook_id": "lib/network/base/clientnetworksession",
+			"script_path": "lua/sync.lua"
+		},
+		{
+			"hook_id":"core/lib/managers/mission/coremissionscriptelement",
+			"script_path":"lua/coremissionscriptelement2.lua"
+		},
+		{	
+			"hook_id" : "lib/tweak_data/groupaitweakdata",
+			"script_path" : "lua/rebalanceissues.lua"
+		},
+		{	
+			"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "lua/animations.lua"
+		},
+		{
+			"hook_id" : "lib/tweak_data/skilltreetweakdata",
+			"script_path" : "lua/branchtweakdata1.lua"
+		},
+		{
+			"hook_id" : "lib/tweak_data/skilltreetweakdata",
+			"script_path" : "lua/branchtweakdata2.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/menuscenemanager",
+			"script_path" : "lua/timer.lua"
+		},
+		{   
+			"hook_id" : "lib/units/weapons/raycastweaponbase",
+			"script_path" : "lua/autofirefix.lua"
+		}
+	]
+}

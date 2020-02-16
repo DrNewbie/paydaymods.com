@@ -1,0 +1,30 @@
+{
+	"name" : "Change Default Gadget Color",
+	"description" : "Changes the default laser gadget color to literally anything else",
+	"author" : "Offyerrocker",
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "1.4",
+	"priority" : 11,
+	"blt_version" : 2,
+	"image" : "dgc.png"
+	"color" : "1 128 0",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/blackmarketmanager",
+			"script_path" : "blackmarketmanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/blackmarketgui",
+			"script_path" : "blackmarketgui.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "DGC"
+		}
+	]
+}

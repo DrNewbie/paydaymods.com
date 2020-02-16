@@ -1,0 +1,36 @@
+{
+	"menu_id" : "wac_menu_ar_hk417",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_hk417_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_hk417comp",
+			"title" : "wac_replace_useownflashhider_title",
+			"callback" : "callback_toggle_replace_hk417comp",
+			"value" : "replace_hk417comp",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hk417stndst",
+			"title" : "wac_replace_stndst_title",
+			"callback" : "callback_toggle_replace_hk417stndst",		
+			"items" : [
+				"wac_default_multi",
+				"m4_s_stnd_multi",
+				"m4_s_pts_multi",
+				"m4_s_crane_multi",
+				"m4_s_ubr_multi",
+				"m4_vltor_multi",
+				"hk416cst_multi"
+			],
+			"value" : "replace_hk417stndst",
+			"default_value" : 1
+		}
+	]
+}

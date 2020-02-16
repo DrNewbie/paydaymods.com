@@ -1,0 +1,68 @@
+{
+	"menu_id" : "wac_menu_smg_cobraym11",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_cobraym11_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_cobraybarrelext",
+			"title" : "wac_replace_cobraybarrelext_title",
+			"callback" : "callback_toggle_replace_cobraybarrelext",
+			"value" : "replace_cobraybarrelext",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_cobraywerbellssup",
+			"title" : "wac_replace_cobraywerbellssup_title",
+			"callback" : "callback_toggle_replace_cobraywerbellssup",
+			"value" : "replace_cobraywerbellssup",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m119stock",
+			"title" : "wac_replace_stockuseonly_title",
+			"callback" : "callback_toggle_replace_m119stock",
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_m119stock",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m119receiver",
+			"title" : "wac_replace_stndrec_title",
+			"callback" : "callback_toggle_replace_m119receiver",		
+			"items" : [
+				"wac_default_multi",
+				"m119rec80s_multi"
+			],
+			"value" : "replace_m119receiver",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m11980s",
+			"title" : "wac_replace_m119rec80s_title",
+			"callback" : "callback_toggle_replace_m11980s",		
+			"items" : [
+				"wac_default_multi",
+				"stnduprec_multi"
+			],
+			"value" : "replace_m11980s",
+			"default_value" : 1
+		}
+	]
+}

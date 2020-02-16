@@ -1,0 +1,48 @@
+{
+	"name" : "Payday 2 Korean patch",
+	"description" : "Change most of ingame text into korean. also allows korean chat.",
+	"author" : "MaxShouldier\nCoding help: Yakumo Yukari\nTranslation Help: Anonymous Group of Korean PAYDAY 2 Players\nTranslation Check Help: SteamUser",
+	"contact" : "bomuljs0203@gmail.com",
+	"version" : "184",
+	"blt_version" : 2,
+	"priority" : 100,
+	"image" : "gatgaem.png",
+	"undisablable" : false,
+	"disable_safe_mode" : true,
+	"updates" : [
+    {
+        "revision" : 55,
+        "identifier" : "PD2KRnext"
+    },
+    {
+        "revision" : "./assets/mod_overrides/KRFonts/revision.txt",
+        "identifier" : "PD2KRlist",
+        "install_dir" : "assets/mod_overrides/",
+        "install_folder" : "KRFonts",
+        "display_name" : "KRFont"
+    }
+],
+	"hooks" :
+[
+	{   
+    		"hook_id" : "lib/managers/menumanager",
+  		"script_path" : "lua/menumanager.lua"
+	},
+	{   
+    		"hook_id" : "lib/managers/localizationmanager",
+  		"script_path" : "lua/KRloc.lua"
+	},
+	{
+		"hook_id" : "lib/units/props/timergui",
+		"script_path" : "lua/TimerGui.lua"
+	},
+	{
+		"hook_id" : "lib/utils/LevelLoadingScreenGuiScript",
+		"script_path" : "lua/LevelLoadingScreenGuiScript.lua"
+	},
+	{
+		"hook_id" : "lib/utils/lightloadingscreenguiscript",
+		"script_path" : "lua/lightloadingscreenguiscript.lua"
+	}
+]
+}

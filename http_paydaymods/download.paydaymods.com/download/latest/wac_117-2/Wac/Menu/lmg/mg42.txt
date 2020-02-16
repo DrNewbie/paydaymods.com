@@ -1,0 +1,27 @@
+{
+	"menu_id" : "wac_menu_lmg_mg42",
+	"parent_menu_id" : "wac_menu_lmg",
+	"title" : "wac_menu_lmg_mg42_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_mg32barrel",
+			"title" : "wac_replace_mg32barrel_title",
+			"callback" : "callback_toggle_replace_mg32barrel",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_mg32barrel",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_mg42_dlt19",
+			"title" : "wac_replace_uniquesupp_title",
+			"callback" : "callback_toggle_replace_mg42_dlt19",
+			"value" : "replace_mg42_dlt19",
+			"default_value" : false
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name" : "Instant Cardflip",
+	"description" : "Skips the 5 seconds countdown before a card is flipped after picking it.",
+	"author" : "Takku",
+	"contact" : "steamcommunity.com/groups/shavehud",
+	"version" : "3",
+	"blt_version": 2,
+	"image" : "insta_cardflip.png",
+	"color" : "0 0.47 1",
+	"updates" : [
+		{
+			"identifier" : "InstaCardflip"
+		}
+	],
+	"hooks": [
+		{
+			"hook_id": "lib/managers/hud/hudlootscreen",
+			"script_path" : "hudlootscreen.lua"
+		}
+	]
+}

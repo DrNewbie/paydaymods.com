@@ -1,0 +1,49 @@
+{
+	"menu_id" : "wac_menu_sh_bs09",
+	"parent_menu_id" : "wac_menu_sh",
+	"title" : "wac_menu_sh_bs09_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_bs09shortb",
+			"title" : "wac_replace_bs09shortb_title",
+			"callback" : "callback_toggle_replace_bs09shortb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_bs09shortb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_bs09shortst",
+			"title" : "wac_replace_bs09shortst_title",
+			"callback" : "callback_toggle_replace_bs09shortst",		
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi",
+				"wac_bs09ammost_multi"
+			],
+			"value" : "replace_bs09shortst",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_bs09ammopouch",
+			"title" : "wac_replace_ammopouchst_title",
+			"callback" : "callback_toggle_replace_bs09ammopouch",		
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi",
+				"wac_bs09shortst_multi"
+			],
+			"value" : "replace_bs09ammopouch",
+			"default_value" : 1
+		}
+	]
+}

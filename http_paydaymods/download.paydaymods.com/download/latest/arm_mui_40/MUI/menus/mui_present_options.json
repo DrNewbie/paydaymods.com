@@ -1,0 +1,170 @@
+{
+	"menu_id" : "mui_present_options",
+	"parent_menu_id" : "mui_options",
+	"position" : "section_2",
+	"subposition" : "after",
+	"focus_changed_callback" : "mui_options_focus",
+	"focus_class" : "MUIPresent",
+	"back_callback" : "mui_save_options",
+	"area_bg" : "half",
+	"items" : [
+		{
+			"type" : "slider",
+			"id" : "mui_pst_size",
+			"description" : "mui_size_desc",
+			"title" : "mui_size_title",
+			"callback" : "mui_floored_callback",
+			"default_value" : 20,
+			"max" : 200,
+			"min" : 2,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "mui_pst_alpha",
+			"title" : "mui_alpha_title",
+			"description" : "mui_alpha_desc",
+			"callback" : "mui_floored_callback",
+			"default_value" : 100,
+			"max" : 100,
+			"min" : 0,
+			"step" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : "10"
+		},
+		{
+			"type" : "slider",
+			"id" : "mui_pst_gap",
+			"title" : "mui_gap_size_title",
+			"description" : "mui_gap_size_desc",
+			"callback" : "mui_floored_callback",
+			"default_value" : 10,
+			"max" : 120,
+			"min" : 0,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "mui_pst_limit",
+			"title" : "mui_limit_title",
+			"callback" : "mui_floored_callback",
+			"default_value" : 4,
+			"max" : 10,
+			"min" : 1,
+			"step" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_pst_dir",
+			"title" : "mui_direction_title",
+			"description" : "mui_direction_desc",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_direction_hori",
+				"mui_direction_vert"
+			],
+			"default_value" : 2
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_pst_order",
+			"title" : "mui_order_title",
+			"description" : "mui_order_desc",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_order_obv",
+				"mui_order_rev"
+			],
+			"default_value" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "mui_pst_aspd",
+			"title" : "mui_aspd_title",
+			"description" : "mui_aspd_desc",
+			"callback" : "mui_floored_callback",
+			"default_value" : 3000,
+			"max" : 5000,
+			"min" : 1000,
+			"step" : 100
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_pst_simple",
+			"callback" : "mui_toggle_callback",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_pst_sound",
+			"title" : "mui_sound_title",
+			"description" : "mui_sound_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : "10"
+		},
+		{
+			"type" : "slider",
+			"id" : "mui_pst_h_marg",
+			"title" : "mui_margin_h_title",
+			"description" : "mui_margin_h_desc",
+			"callback" : "mui_floored_callback",
+			"default_value" : 60,
+			"max" : 2400,
+			"min" : 0,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "mui_pst_v_marg",
+			"title" : "mui_margin_v_title",
+			"description" : "mui_margin_v_desc",
+			"callback" : "mui_floored_callback",
+			"default_value" : 60,
+			"max" : 2400,
+			"min" : 0,
+			"step" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_pst_h_pos",
+			"title" : "mui_position_h_title",
+			"description" : "mui_position_h_desc",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_position_left",
+				"mui_position_center",
+				"mui_position_right"
+			],
+			"default_value" : 3
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_pst_v_pos",
+			"title" : "mui_position_v_title",
+			"description" : "mui_position_v_desc",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_position_top",
+				"mui_position_center",
+				"mui_position_bottom"
+			],
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : "10"
+		},
+		{
+			"type" : "button",
+			"id" : "mui_reset",
+			"callback" : "mui_reset_callback"
+		}
+	]
+
+}

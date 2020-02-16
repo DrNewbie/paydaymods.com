@@ -1,0 +1,4 @@
+As this is a Payday 2 BLT Mod, you need the Payday2-BLT - Mod - System installed. You can download this from http://paydaymods.com/download/
+
+
+Simply extract the InspirePriority - Folder into the /mods - directory.

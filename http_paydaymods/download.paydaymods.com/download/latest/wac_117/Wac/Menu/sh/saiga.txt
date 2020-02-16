@@ -1,0 +1,176 @@
+{
+	"menu_id" : "wac_menu_sh_saiga",
+	"parent_menu_id" : "wac_menu_sh",
+	"title" : "wac_menu_sh_saiga_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_s12kshortb",
+			"title" : "wac_replace_shortb_title",
+			"callback" : "callback_toggle_replace_s12kshortb",
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_s12kshortb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_s12kfg",
+			"title" : "wac_replace_stndfg_title",
+			"callback" : "callback_toggle_replace_s12kfg",
+			"items" : [
+				"wac_default_multi",
+				"s12ktacrail_multi",
+				"s12ktapcofg_multi"
+			],
+			"value" : "replace_s12kfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_s12ktacrail",
+			"title" : "wac_replace_s12ktacrail_title",
+			"callback" : "callback_toggle_replace_s12ktacrail",
+			"items" : [
+				"wac_default_multi",
+				"s12ktapcofg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_s12ktacrail",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_s12fuglystickcobra",
+			"title" : "wac_replace_s12fuglystickcobra_title",
+			"callback" : "callback_toggle_replace_s12fuglystickcobra",
+			"items" : [
+				"wac_default_multi",
+				"s12ktacrail_multi",
+				"s12ktapcofg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_s12fuglystickcobra",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_s12kextmag",
+			"title" : "wac_replace_sgmtact_title",
+			"callback" : "callback_toggle_replace_s12kextmag",
+			"items" : [
+				"wac_default_multi",
+				"stndmag_multi",
+				"wac_saiga12kdrum_multi"
+			],
+			"value" : "replace_s12kextmag",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_s12kstock1",
+			"title" : "wac_replace_skelst_title",
+			"callback" : "callback_toggle_replace_s12kstock1",
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi",
+				"foldst_multi",
+				"akpslst_multi",
+				"akclassst_multi",
+				"rpkst_multi",
+				"rpkwoodst_multi"
+			],
+			"value" : "replace_s12kstock1",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_s12kstock2",
+			"title" : "wac_replace_ar15_m4mk46_title",
+			"callback" : "callback_toggle_replace_s12kstock2",
+			"items" : [
+				"wac_default_multi",
+				"skelst_multi",
+				"foldst_multi",
+				"akpslst_multi",
+				"akclassst_multi",
+				"rpkst_multi",
+				"rpkwoodst_multi"
+			],
+			"value" : "replace_s12kstock2",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_s12kstock3",
+			"title" : "wac_replace_akclassicst_title",
+			"callback" : "callback_toggle_replace_s12kstock3",
+			"items" : [
+				"wac_default_multi",
+				"skelst_multi",
+				"foldst_multi",
+				"akpslst_multi",
+				"rpkst_multi",
+				"rpkwoodst_multi"
+			],
+			"value" : "replace_s12kstock3",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_s12kupperrec",
+			"title" : "wac_replace_upperrec_title",
+			"callback" : "callback_toggle_replace_s12kupperrec",
+			"items" : [
+				"wac_default_multi",
+				"aksmoothcover_multi"
+			],
+			"value" : "replace_s12kupperrec",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_ironsightssaiga",
+			"title" : "wac_replace_ironsights_title",
+			"callback" : "callback_toggle_replace_ironsightssaiga",
+			"items" : [
+				"wac_default_multi",
+				"ironsightdd_multi",
+				"ironsightmbus_multi"
+			],
+			"value" : "replace_ironsightssaiga",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_s12ksingle",
+			"title" : "wac_replace_singlefire_title",
+			"description" : "wac_singlefiremode_desc",
+			"callback" : "callback_toggle_replace_s12ksingle",
+			"value" : "replace_s12ksingle",
+			"default_value" : false
+		}
+	]
+}

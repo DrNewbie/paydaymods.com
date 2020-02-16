@@ -1,0 +1,13 @@
+<table>
+    <table search="unit/sequence;name='\'activate\''">
+        <table search="animation_group" enabled="false"/>
+        <table search="object;name='\'g_base\''" enabled="true"/>
+        <table search="object;name='\'g_drill\''" enabled="true"/>
+        <table search="object;name='\'g_drill_drill\''" enabled="true"/>
+        <table search="graphic_group;name='\'icon\''" enabled="false"/>
+        <material name="'mtr_drill'" texture="'units/gui/gui_color_use_df'" search_render_template="'generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP'" multiple_objects="true"/>
+    </table>
+    <table search="unit/sequence;name='\'int_seq_show_texured\''">
+        <material name="'mtr_drill'" texture="'units/payday2/equipment/gen_interactable_drill_small/drill_small_df'" search_render_template="'generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP'" multiple_objects="true"/>
+    </table>
+</table>

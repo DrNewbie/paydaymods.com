@@ -1,0 +1,49 @@
+{
+	"menu_id" : "khud_menu_basic",
+	"parent_menu_id" : "khud_mainmenu",
+	"title" : "khud_menu_basic_title",
+	"description" : "khud_menu_basic_desc",
+	"back_callback" : "callback_khud_close",
+	"priority" : 1,
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "id_khud_debugmode",
+			"title" : "khud_debugmode_title",
+			"description" : "khud_debugmode_desc",
+			"callback" : "callback_khud_debugmode",
+			"value" : "show_debug"
+		},
+		{
+			"type" : "toggle",
+			"id" : "id_khud_show_location",
+			"title" : "khud_show_location_title",
+			"description" : "khud_show_location_desc",
+			"callback" : "callback_khud_show_location",
+			"value" : "show_location"
+		},
+		{
+			"type" : "toggle",
+			"id" : "id_khud_use_nav_surfaces",
+			"title" : "khud_use_nav_surfaces_title",
+			"description" : "khud_use_nav_surfaces_desc",
+			"callback" : "callback_khud_use_nav_surfaces",
+			"value" : "use_nav_surfaces"
+		},
+		{
+			"type" : "toggle",
+			"id" : "id_khud_show_unusuals",
+			"title" : "khud_show_unusuals_title",
+			"description" : "khud_show_unusuals_desc",
+			"callback" : "callback_khud_show_unusuals",
+			"value" : "show_unusuals"
+		},
+		{
+			"type" : "button",
+			"id" : "id_khud_reset_all",
+			"title" : "khud_menu_reset_all_title",
+			"description" : "khud_menu_reset_all_desc",
+			"callback" : "callback_reset_khud_all"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"tip_tactical_reload" : "Du kannst deine Waffe selbst dann nachladen, wenn du das aktuelle Magazin noch nicht vollständig geleert hast.\n\nAuf diese Weise stellst du sicher, dass der Clip voll ist, wenn du das nächste Mal in Schwierigkeiten gerätst. So etwas nennt man \"taktisches Nachladen\".",
+	"tip_weapon_effecienty" : "Waffen sind jeweils bei verschiedenen Reichweiten effektiv und eignen sich daher jeweils für bestimmte Situationen.",
+	"tip_switch_to_sidearm" : "Es ist immer schneller, die Waffe zu wechseln, als die primäre Waffe nachzuladen.\n\nWenn deiner Maschinenpistole also die Munition ausgeht und du in der Klemme sitzt, könnte es dir das Leben retten, wenn du statt nachzuladen die Waffe wechselst.",
+	"tip_doctor_bag" : "Die Arzttasche ist ein wahrer Lebensretter.\n\nWenn die Gesundheit deines Teams stark gefährdet ist, stelle die Arzttasche auf den Boden und sorge dafür, dass sich jeder selbst verarztet!",
+	"tip_ammo_bag" : "Wenn dir häufig die Munition ausgeht, könnte es eine gute Idee sein, eine zusätzliche Munitionstasche dabei zu haben.\n\nGeht die Munition zur Neige, stelle die Munitionstasche auf den Boden und fülle deinen Vorrat daraus auf.",
+	"tip_head_shot" : "Beim Schießen auf den Kopf zu zielen, ist effektiver, als auf den Rest des Körpers zu zielen.",
+	"tip_secret_assignmnet" : "Die drei Spezialeinheiten sind sehr gefährlich, vor allem dann, wenn du ihnen alleine gegenüberstehst.\n\nSchließe dich mit jemandem zusammen, um sie außer Gefecht zu setzen!",
+	"tip_help_bleed_out" : "Wenn ein Räuber niedergeschossen wird, beginnt er zu \"bluten\"; dann kann er sich nicht bewegen und nur mit seiner Faustfeuerwaffe schießen.\n\nEinem Räuber, der blutet, kann man aufhelfen, ohne dass es etwas kostet.",
+	"tip_dont_shoot_civilians" : "Schieß nicht auf Zivilisten. Jede Tötung eines Zivilisten verlängert deine reguläre Zeit in Haft.\n\nDas bedeutet, dass, wenn du verhaftet wirst, du länger warten musst, bevor die Polizei anbietet, dich gegen eine Geisel auszutauschen.",
+	"tip_trading_hostage" : "Ein Räuber, der seine gesamte Gesundheit verliert, wird in Haft genommen. Wenn du dich in Haft befindest, kannst du nur durch einen Geiselaustausch wieder freikommen.\n\nDie Polizei wird sich mit Bain in Verbindung setzen, um den Austausch durchzuführen.",
+	"tip_shoot_at_civilians" : "Schreie Zivilisten an, um sie in Schach zu halten.\n\nEin Zivilist, der am Leben ist, bedeutet immer einen Vorteil. Wenn er sich hinlegt, ist die Wahrscheinlichkeit größer, dass er am Leben bleibt.",
+	"tip_police_free_hostage" : "Die Polizei wird immer die Gelegenheit ergreifen, Geiseln zu befreien, wenn kein Räuber in der Nähe ist.\n\nVerteile deine Leute und behalte alle Geiseln im Auge. Sie können wesentlich für deine Rettung sein!",
+	"tip_steelsight" : "Wenn du beim Schießen durch das Visier schaust, ermöglicht dies dir, genauer zu schießen, als wenn du aus der Hüfte schießt.",
+	"tip_melee_attack" : "Ein Schlag mit dem Kolben der Waffe ist außerdem eine gute Möglichkeit, einen Gegner zur Strecke zu bringen.\n\nDas ist besonders nützlich, wenn dir die Munition ausgeht.",
+	"tip_law_enforcers_as_hostages" : "Wenn keine Zivilisten da sind, die du als Geiseln nehmen kannst, kannst du stattdessen Sicherheitskräfte nehmen.",
+	"tip_mask_off" : "Ohne Maske fällst du Sicherheitskräften nicht auf. Setze das zu deinem Vorteil ein.\n\nErkunde die Örtlichkeit und geh in Position, bevor du die Maske überziehst. Sobald du die Maske aufgesetzt hast, kann sie für die Restdauer des überfalls nicht mehr abgenommen werden.",
+	"tip_objectives" : "Dein aktuelles Ziel wird in der oberen linken Ecke des Bildschirms angezeigt.\n\nEine detailliertere Beschreibung des Ziels sowie eine Liste der erreichten Ziele findest du auf dem Info-Bildschirm.",
+	"tip_shoot_in_bleed_out" : "Wenn du blutest, kannst du immer noch mit der Faustfeuerwaffe schießen.\n\nWenn dir ein Partner aufhilft, kannst du euch beide beschützen, aber wenn du auf dich allein gestellt bist und dann die Sicherheitskräfte provozierst, wirst du zu einem leichten und hilflosen Ziel."
+}

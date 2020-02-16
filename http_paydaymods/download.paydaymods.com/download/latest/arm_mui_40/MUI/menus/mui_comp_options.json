@@ -1,0 +1,113 @@
+{
+	"menu_id" : "mui_comp_options",
+	"parent_menu_id" : "mui_options",
+	"position" : "section_1",
+	"subposition" : "before",
+	"back_callback" : "mui_save_options",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "mui_team_enabled",
+			"title" : "mui_team_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_label_enabled",
+			"title" : "mui_label_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_stats_enabled",
+			"title" : "mui_stats_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_chat_enabled",
+			"title" : "mui_chat_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_bag_enabled",
+			"title" : "mui_bag_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_interact_enabled",
+			"title" : "mui_interact_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_voice_enabled",
+			"title" : "mui_voice_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_subtitle_enabled",
+			"title" : "mui_subtitle_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_suspicion_enabled",
+			"title" : "mui_suspicion_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_present_enabled",
+			"title" : "mui_present_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_waypoint_enabled",
+			"title" : "mui_waypoint_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_custody_enabled",
+			"title" : "mui_custody_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_hint_enabled",
+			"title" : "mui_hint_options_title",
+			"description" : "mui_comp_enabled_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		}
+	]
+}

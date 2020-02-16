@@ -1,0 +1,14 @@
+{
+	"m_vlx_mm_name" : "Jacket's MiniMap",
+	"m_vlx_mm_desc" : "This mod will allow you to use a hud minimap",
+	"mm_toggle_name" : "Minimap ON/OFF",
+	"mm_toggle_desc" : "enable/disable the minimap",
+	"mm_toggle_enabled" : "Enabled",
+	"mm_toggle_disabled" : "Disabled",
+	"mm_zoom_name" : "zoom(not working)",
+	"mm_zoom_desc" : "Set the minimap zoom(not working)",
+	"mm_rotate_name" : "Rotation ON/OFF",
+	"mm_rotate_desc" : "enable/disable the minimap rotation",
+	"mm_stealth_only_name" : "auto-hide the minimap if alarm is raised",
+	"mm_stealth_only_desc" : "enable/disable the automatic hidding of the minimap if the alarm is raised",
+}

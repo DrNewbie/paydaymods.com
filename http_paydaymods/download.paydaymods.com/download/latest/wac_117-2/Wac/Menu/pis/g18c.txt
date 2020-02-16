@@ -1,0 +1,62 @@
+{
+	"menu_id" : "wac_menu_pis_g18c",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_g18c_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_glockcomp2",
+			"title" : "wac_replace_velocitycomp_title",
+			"callback" : "callback_toggle_replace_glockcomp2",		
+			"items" : [
+				"wac_default_multi",
+				"ventcomp_multi",
+				"pisflashhider_multi",
+				"pistenderizer_multi"
+			],
+			"value" : "replace_glockcomp2",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_glockextmag",
+			"title" : "wac_replace_hideextmag_title",
+			"callback" : "callback_toggle_replace_glockextmag",
+			"value" : "replace_glockextmag",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_g18c_glr440",
+			"title" : "wac_replace_g18c_glr440_title",
+			"callback" : "callback_toggle_replace_g18c_glr440",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_g18c_glr440",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_g18csingle",
+			"title" : "wac_replace_singlefire_title",
+			"description" : "wac_singlefiremode_desc",
+			"callback" : "callback_toggle_replace_g18csingle",
+			"value" : "replace_g18csingle",
+			"default_value" : false
+		}
+	]
+}

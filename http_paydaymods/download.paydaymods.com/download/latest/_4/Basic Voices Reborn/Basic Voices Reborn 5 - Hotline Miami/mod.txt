@@ -1,0 +1,23 @@
+{
+	"name" : "Basic Voices Reborn 5 - Hotline Miami"
+	"description" : "Play dialogue lines from Hotline Miami from Bain and the Commissar."
+	"author" : "Lanz"
+	"contact" : "francoisbastidas66@gmail.com"
+	"version" : "v1.00"
+	"priority" : 250
+	"updates" : 
+	[
+	    {
+		    "revision" : 1,
+			"identifier" : "basicvoicesrebornHSUMVHBMBCCG",
+		}
+	],
+	"hooks" : 
+	[
+		{"hook_id" : "lib/managers/menumanager",
+		"script_path" : "basicvoices5.lua"}
+	]
+}
+	
+	
+	

@@ -1,0 +1,35 @@
+{
+	"menu_id" : "wac_menu_sr_msr",
+	"parent_menu_id" : "wac_menu_sr",
+	"title" : "wac_menu_sr_msr_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_msrlongb",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_msrlongb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_msrlongb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_msrbodyst",
+			"title" : "wac_replace_woodenst_title",
+			"callback" : "callback_toggle_replace_msrbodyst",		
+			"items" : [
+				"wac_default_multi",
+				"msrstock_multi"
+			],
+			"value" : "replace_msrbodyst",
+			"default_value" : 1
+		}
+	]
+}

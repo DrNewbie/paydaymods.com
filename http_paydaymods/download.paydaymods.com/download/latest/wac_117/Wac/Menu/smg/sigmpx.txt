@@ -1,0 +1,79 @@
+{
+	"menu_id" : "wac_menu_smg_sigmpx",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_sigmpx_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_sigmpxflashhider",
+			"title" : "wac_replace_useownflashhider_title",
+			"callback" : "callback_toggle_replace_sigmpxflashhider",
+			"value" : "replace_sigmpxflashhider",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sigmpxk_handguard",
+			"title" : "wac_replace_sigmpxk_title",
+			"callback" : "callback_toggle_replace_sigmpxk_handguard",		
+			"items" : [
+				"wac_default_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_sigmpxk_handguard",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sigmpx_stnd_st",
+			"title" : "wac_replace_stndst_title",
+			"callback" : "callback_toggle_replace_sigmpx_stnd_st",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_sigmpx_stnd_st",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sigmpx_st_removed",
+			"title" : "wac_replace_nostock_title",
+			"callback" : "callback_toggle_replace_sigmpx_st_removed",		
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi"
+			],
+			"value" : "replace_sigmpx_st_removed",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_sigmpxstock",
+			"title" : "wac_replace_usestndst_title",
+			"callback" : "callback_toggle_replace_sigmpxstock",
+			"value" : "replace_sigmpxstock",
+			"default_value" : false
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sigmpx_akimbo_st",
+			"title" : "wac_replace_akimbost_title",
+			"callback" : "callback_toggle_replace_sigmpx_akimbo_st",		
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi"
+			],
+			"value" : "replace_sigmpx_akimbo_st",
+			"default_value" : 1
+		}
+	]
+}

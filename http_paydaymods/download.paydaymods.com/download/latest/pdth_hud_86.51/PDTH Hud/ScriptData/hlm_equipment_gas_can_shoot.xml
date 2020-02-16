@@ -1,0 +1,14 @@
+<table>
+    <table search="unit">
+        <table search="sequence;name'\'state_vis_show_interactable\''">
+            <table search="object;name'\'g_g\''" enabled="true"/>
+            <material_config name="'units/pd2_dlc_cage/masks/f1/msk_f1_mask'"/>
+        </table>
+        <table search="sequence;name'\'state_vis_hide_contour\''">
+            <table search="object;name'\'g_g\''" enabled="false"/>
+        </table>
+        <table search="sequence;name'\'interact\''">
+            <material_config name="'units/payday2/equipment/hlm_equipment_gas_can_shoot/hlm_equipment_gas_can_shoot'"/>
+        </table>
+    </table>
+</table>

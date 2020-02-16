@@ -1,0 +1,35 @@
+{
+	"menu_id" : "wac_menu_smg_pp19",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_pp19_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_pp19pbs1",
+			"title" : "wac_replace_pbs1supp_title",
+			"callback" : "callback_toggle_replace_pp19pbs1",
+			"value" : "replace_pp19pbs1",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_pp19flashhider",
+			"title" : "wac_replace_useownflashhider_title",
+			"callback" : "callback_toggle_replace_pp19flashhider",
+			"value" : "replace_pp19flashhider",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_pp19stndgrip",
+			"title" : "wac_replace_usestndgrip_title",
+			"callback" : "callback_toggle_replace_pp19stndgrip",
+			"value" : "replace_pp19stndgrip",
+			"default_value" : false
+		}
+	]
+}

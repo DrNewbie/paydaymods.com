@@ -1,0 +1,36 @@
+{
+	"menu_id" : "wac_menu_sr_ttit1",
+	"parent_menu_id" : "wac_menu_sr",
+	"title" : "wac_menu_sr_ttitr1_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_ttitr1grip",
+			"title" : "wac_replace_usestndgrip_title",
+			"callback" : "callback_toggle_replace_ttitr1grip",
+			"value" : "replace_ttitr1grip",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_ttitr1stock",
+			"title" : "wac_replace_stockuseonly_title",
+			"callback" : "callback_toggle_replace_ttitr1stock",
+			"items" : [
+				"wac_default_multi",
+				"m4_vltor_multi",
+				"foldst_multi",
+				"m4_s_stnd_multi",
+				"m4_s_pts_multi",
+				"m4_s_crane_multi",
+				"hk417st_multi"
+			],
+			"value" : "replace_ttitr1stock",
+			"default_value" : 1
+		}
+	]
+}

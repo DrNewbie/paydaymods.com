@@ -1,0 +1,869 @@
+{
+	"menu_id" : "basic_voices4_menu",
+	"parent_menu_id" : "lua_mod_options_menu",
+	"title" : "basic_voices4_menu_title",
+	"description" : "basic_voices4_menu_desc",
+	"items" : [
+		{
+			"type" : "keybind",
+			"id" : "Santa : Ho ho ho",
+			"title" : "santahohoho",
+			"description" : "keybind_reminder",
+			"keybind_id" : "santahohoho",
+			"func" : "santahohoho",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Bile death line",
+			"title" : "biledeath",
+			"description" : "keybind_reminder",
+			"keybind_id" : "biledeath",
+			"func" : "biledeath",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Car Shop Couple Dialogue 1",
+			"title" : "cscouple1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cscouple1",
+			"func" : "cscouple1",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Car Shop Couple Dialogue 2",
+			"title" : "cscouple2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cscouple2",
+			"func" : "cscouple2",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Car Shop Manager Dialogue",
+			"title" : "csmanager",
+			"description" : "keybind_reminder",
+			"keybind_id" : "csmanager",
+			"func" : "csmanager",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Teller Conversation Approve",
+			"title" : "telleryes",
+			"description" : "keybind_reminder",
+			"keybind_id" : "telleryes",
+			"func" : "telleryes",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Teller Conversation Deny",
+			"title" : "tellerno",
+			"description" : "keybind_reminder",
+			"keybind_id" : "tellerno",
+			"func" : "tellerno",	
+		},
+		
+		
+		
+		
+		{
+			"type" : "keybind",
+			"id" : "Male Civ 1 Burn Hurt",
+			"title" : "cm1bh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm1bh",
+			"func" : "cm1bh",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 1 Burn Death",
+			"title" : "cm1bd",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm1bd",
+			"func" : "cm1bd",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 1 call 911",
+			"title" : "cm1911",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm1911",
+			"func" : "cm1911",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 1 Stockholm Syndrome",
+			"title" : "cm1ss",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm1ss",
+			"func" : "cm1ss",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 1 Scream 1",
+			"title" : "cm1s1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm1s1",
+			"func" : "cm1s1",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 1 Scream 2",
+			"title" : "cm1s2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm1s2",
+			"func" : "cm1s2",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 1 Scream 3",
+			"title" : "cm1s3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm1s3",
+			"func" : "cm1s3",	
+		},
+		
+		
+		
+		
+		{
+			"type" : "keybind",
+			"id" : "Male Civ 2 Burn Hurt",
+			"title" : "cm2bh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm2bh",
+			"func" : "cm2bh",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 2 Burn Death",
+			"title" : "cm2bd",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm2bd",
+			"func" : "cm2bd",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 2 call 911",
+			"title" : "cm2911",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm2911",
+			"func" : "cm2911",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 2 Stockholm Syndrome",
+			"title" : "cm2ss",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm2ss",
+			"func" : "cm2ss",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 2 Scream 1",
+			"title" : "cm2s1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm2s1",
+			"func" : "cm2s1",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 2 Scream 2",
+			"title" : "cm2s2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm2s2",
+			"func" : "cm2s2",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 2 Scream 3",
+			"title" : "cm2s3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm2s3",
+			"func" : "cm2s3",	
+		},
+		
+		
+		
+		
+		
+		{
+			"type" : "keybind",
+			"id" : "Male Civ 3 Burn Hurt",
+			"title" : "cm3bh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm3bh",
+			"func" : "cm3bh",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 3 Burn Death",
+			"title" : "cm3bd",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm3bd",
+			"func" : "cm3bd",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 3 call 911",
+			"title" : "cm3911",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm3911",
+			"func" : "cm3911",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 3 Stockholm Syndrome",
+			"title" : "cm3ss",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm3ss",
+			"func" : "cm3ss",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 3 Scream 1",
+			"title" : "cm3s1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm3s1",
+			"func" : "cm3s1",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 3 Scream 2",
+			"title" : "cm3s2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm3s2",
+			"func" : "cm3s2",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 3 Scream 3",
+			"title" : "cm3s3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm3s3",
+			"func" : "cm3s3",	
+		},
+		
+		
+		
+		{
+			"type" : "keybind",
+			"id" : "Male Civ 4 Burn Hurt",
+			"title" : "cm4bh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm4bh",
+			"func" : "cm4bh",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 4 Burn Death",
+			"title" : "cm4bd",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm4bd",
+			"func" : "cm4bd",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 4 call 911",
+			"title" : "cm4911",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm4911",
+			"func" : "cm4911",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 4 Stockholm Syndrome",
+			"title" : "cm4ss",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm4ss",
+			"func" : "cm4ss",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 4 Scream 1",
+			"title" : "cm4s1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm4s1",
+			"func" : "cm4s1",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 4 Scream 2",
+			"title" : "cm4s2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm4s2",
+			"func" : "cm4s2",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 4 Scream 3",
+			"title" : "cm4s3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm4s3",
+			"func" : "cm4s3",	
+		},
+		
+		
+		
+		
+		
+		{
+			"type" : "keybind",
+			"id" : "Male Civ 5 Burn Hurt",
+			"title" : "cm5bh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm5bh",
+			"func" : "cm5bh",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 5 Burn Death",
+			"title" : "cm5bd",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm5bd",
+			"func" : "cm5bd",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 5 call 911",
+			"title" : "cm5911",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm5911",
+			"func" : "cm5911",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 5 Stockholm Syndrome",
+			"title" : "cm5ss",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm5ss",
+			"func" : "cm5ss",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 5 Scream 1",
+			"title" : "cm5s1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm5s1",
+			"func" : "cm5s1",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 5 Scream 2",
+			"title" : "cm5s2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm5s2",
+			"func" : "cm5s2",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 5 Scream 3",
+			"title" : "cm5s3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm5s3",
+			"func" : "cm5s3",	
+		},
+		
+		
+		
+		
+		{
+			"type" : "keybind",
+			"id" : "Male Civ 6 Burn Hurt",
+			"title" : "cm6bh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm6bh",
+			"func" : "cm6bh",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 6 Burn Death",
+			"title" : "cm6bd",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm6bd",
+			"func" : "cm6bd",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 6 call 911",
+			"title" : "cm6911",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm6911",
+			"func" : "cm6911",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 6 Stockholm Syndrome",
+			"title" : "cm6ss",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm6ss",
+			"func" : "cm6ss",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 6 Scream 1",
+			"title" : "cm6s1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm6s1",
+			"func" : "cm6s1",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 6 Scream 2",
+			"title" : "cm6s2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm6s2",
+			"func" : "cm6s2",	
+		},{
+			"type" : "keybind",
+			"id" : "Male Civ 6 Scream 3",
+			"title" : "cm6s3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cm6s3",
+			"func" : "cm6s3",	
+		},
+		
+		
+		
+		
+		
+		
+		
+		
+		{
+			"type" : "keybind",
+			"id" : "Female Civ 1 Burn Hurt",
+			"title" : "cf1bh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf1bh",
+			"func" : "cf1bh",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 1 Burn Death",
+			"title" : "cf1bd",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf1bd",
+			"func" : "cf1bd",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 1 Scream 1",
+			"title" : "cf1s1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf1s1",
+			"func" : "cf1s1",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 1 Scream 2",
+			"title" : "cf1s2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf1s2",
+			"func" : "cf1s2",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 1 Scream 3",
+			"title" : "cf1s3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf1s3",
+			"func" : "cf1s3",	
+		},
+		
+		
+		
+		
+		
+		
+		
+		{
+			"type" : "keybind",
+			"id" : "Female Civ 2 Burn Hurt",
+			"title" : "cf2bh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf2bh",
+			"func" : "cf2bh",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 2 Burn Death",
+			"title" : "cf2bd",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf2bd",
+			"func" : "cf2bd",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 2 Scream 1",
+			"title" : "cf2s1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf2s1",
+			"func" : "cf2s1",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 2 Scream 2",
+			"title" : "cf2s2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf2s2",
+			"func" : "cf2s2",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 2 Scream 3",
+			"title" : "cf2s3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf2s3",
+			"func" : "cf2s3",	
+		},
+		
+		
+		
+		
+		
+		{
+			"type" : "keybind",
+			"id" : "Female Civ 3 Burn Hurt",
+			"title" : "cf3bh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf3bh",
+			"func" : "cf3bh",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 3 Burn Death",
+			"title" : "cf3bd",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf3bd",
+			"func" : "cf3bd",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 3 Scream 1",
+			"title" : "cf3s1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf3s1",
+			"func" : "cf3s1",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 3 Scream 2",
+			"title" : "cf3s2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf3s2",
+			"func" : "cf3s2",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 3 Scream 3",
+			"title" : "cf3s3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf3s3",
+			"func" : "cf3s3",	
+		},
+		
+		
+		
+		
+		
+		{
+			"type" : "keybind",
+			"id" : "Female Civ 4 Burn Hurt",
+			"title" : "cf4bh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf4bh",
+			"func" : "cf4bh",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 4 Burn Death",
+			"title" : "cf4bd",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf4bd",
+			"func" : "cf4bd",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 4 Scream 1",
+			"title" : "cf4s1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf4s1",
+			"func" : "cf4s1",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 4 Scream 2",
+			"title" : "cf4s2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf4s2",
+			"func" : "cf4s2",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 4 Scream 3",
+			"title" : "cf4s3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf4s3",
+			"func" : "cf4s3",	
+		},
+		
+		
+		
+		
+		
+		
+		{
+			"type" : "keybind",
+			"id" : "Female Civ 5 Burn Death",
+			"title" : "cf5bd",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf5bd",
+			"func" : "cf5bd",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 5 Burn Hurt",
+			"title" : "cf5bh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf5bh",
+			"func" : "cf5bh",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 5 Scream 1",
+			"title" : "cf5s1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf5s1",
+			"func" : "cf5s1",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 5 Scream 2",
+			"title" : "cf5s2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf5s2",
+			"func" : "cf5s2",	
+		},{
+			"type" : "keybind",
+			"id" : "Female Civ 5 Scream 3",
+			"title" : "cf5s3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "cf5s3",
+			"func" : "cf5s3",	
+		},
+		
+		
+		
+		
+		
+		
+		
+		
+		{
+			"type" : "keybind",
+			"id" : "Alarm Countdown loop",
+			"title" : "acountdownloop",
+			"description" : "keybind_reminder",
+			"keybind_id" : "acountdownloop",
+			"func" : "acountdownloop",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Alarm Countdown Ticking Down (10 sec)",
+			"title" : "acountdown10",
+			"description" : "keybind_reminder",
+			"keybind_id" : "acountdown10",
+			"func" : "acountdown10",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Stop Alarm Countdown loop",
+			"title" : "acountdownloopstop",
+			"description" : "keybind_reminder",
+			"keybind_id" : "acountdownloopstop",
+			"func" : "acountdownloopstop",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Fire Alarm",
+			"title" : "afire",
+			"description" : "keybind_reminder",
+			"keybind_id" : "afire",
+			"func" : "afire",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Stop Fire Alarm",
+			"title" : "afirestop",
+			"description" : "keybind_reminder",
+			"keybind_id" : "afirestop",
+			"func" : "afirestop",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Shadow Raid Alarm",
+			"title" : "akosugi",
+			"description" : "keybind_reminder",
+			"keybind_id" : "akosugi",
+			"func" : "akosugi",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Stop Shadow Raid Alarm",
+			"title" : "akosugioff",
+			"description" : "keybind_reminder",
+			"keybind_id" : "akosugioff",
+			"func" : "akosugioff",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Museum Alarm",
+			"title" : "amuseum",
+			"description" : "keybind_reminder",
+			"keybind_id" : "amuseum",
+			"func" : "amuseum",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Stop Museum Alarm",
+			"title" : "amuseumoff",
+			"description" : "keybind_reminder",
+			"keybind_id" : "amuseumoff",
+			"func" : "amuseumoff",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Jewelry Alarm",
+			"title" : "ajewel",
+			"description" : "keybind_reminder",
+			"keybind_id" : "ajewel",
+			"func" : "ajewel",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Stop Jewelry Alarm",
+			"title" : "ajeweloff",
+			"description" : "keybind_reminder",
+			"keybind_id" : "ajeweloff",
+			"func" : "ajeweloff",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Benevolent Bank Alarm",
+			"title" : "ahiteclotec",
+			"description" : "keybind_reminder",
+			"keybind_id" : "ahiteclotec",
+			"func" : "ahiteclotec",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Stop Benevolent Bank Alarm",
+			"title" : "ahiteclotecoff",
+			"description" : "keybind_reminder",
+			"keybind_id" : "ahiteclotecoff",
+			"func" : "ahiteclotecoff",	
+		}
+		
+		
+		
+		
+		,
+		{
+			"type" : "keybind",
+			"id" : "C4 Explosion",
+			"title" : "c4blows",
+			"description" : "keybind_reminder",
+			"keybind_id" : "c4blows",
+			"func" : "c4blows",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "C4 Explosion near windows",
+			"title" : "c4blowwindow",
+			"description" : "keybind_reminder",
+			"keybind_id" : "c4blowwindow",
+			"func" : "c4blowwindow",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "C4 beeping loop",
+			"title" : "c4bip",
+			"description" : "keybind_reminder",
+			"keybind_id" : "c4bip",
+			"func" : "c4bip",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Siren",
+			"title" : "siren1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "siren1",
+			"func" : "siren1",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Distant Siren",
+			"title" : "siren2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "siren2",
+			"func" : "siren2",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Distant Car Siren parking",
+			"title" : "siren3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "siren3",
+			"func" : "siren3",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Car Chase Siren",
+			"title" : "siren4",
+			"description" : "keybind_reminder",
+			"keybind_id" : "siren4",
+			"func" : "siren4",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Police Radio",
+			"title" : "policeradio",
+			"description" : "keybind_reminder",
+			"keybind_id" : "policeradio",
+			"func" : "policeradio",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Burning Body SFX",
+			"title" : "fire1",
+			"description" : "keybind_reminder",
+			"keybind_id" : "fire1",
+			"func" : "fire1",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Common Burning SFX",
+			"title" : "fire2",
+			"description" : "keybind_reminder",
+			"keybind_id" : "fire2",
+			"func" : "fire2",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Large Fire Burning SFX",
+			"title" : "fire3",
+			"description" : "keybind_reminder",
+			"keybind_id" : "fire3",
+			"func" : "fire3",	
+		},
+		{
+			"type" : "keybind",
+			"id" : "Goat in the fan",
+			"title" : "gfanwoosh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "gfanwoosh",
+			"func" : "gfanwoosh",	
+		},{
+			"type" : "keybind",
+			"id" : "Goat in scaffold",
+			"title" : "ghscaffold",
+			"description" : "keybind_reminder",
+			"keybind_id" : "ghscaffold",
+			"func" : "ghscaffold",	
+		},{
+			"type" : "keybind",
+			"id" : "Goat headbutt",
+			"title" : "gheadbutt",
+			"description" : "keybind_reminder",
+			"keybind_id" : "gheadbutt",
+			"func" : "gheadbutt",	
+		},{
+			"type" : "keybind",
+			"id" : "Goat jump",
+			"title" : "gjump",
+			"description" : "keybind_reminder",
+			"keybind_id" : "gjump",
+			"func" : "gjump",	
+		},{
+			"type" : "keybind",
+			"id" : "Goat lick",
+			"title" : "glick",
+			"description" : "keybind_reminder",
+			"keybind_id" : "glick",
+			"func" : "glick",	
+		},{
+			"type" : "keybind",
+			"id" : "Goat bleat",
+			"title" : "gmeh",
+			"description" : "keybind_reminder",
+			"keybind_id" : "gmeh",
+			"func" : "gmeh",	
+		},{
+			"type" : "keybind",
+			"id" : "Goat bleat loop",
+			"title" : "gmehloop",
+			"description" : "keybind_reminder",
+			"keybind_id" : "gmehloop",
+			"func" : "gmehloop",	
+		},{
+			"type" : "keybind",
+			"id" : "Goat sleep",
+			"title" : "gsleep",
+			"description" : "keybind_reminder",
+			"keybind_id" : "gsleep",
+			"func" : "gsleep",	
+		},{
+			"type" : "keybind",
+			"id" : "Stop Goat sleep",
+			"title" : "gsleepstop",
+			"description" : "keybind_reminder",
+			"keybind_id" : "gsleepstop",
+			"func" : "gsleepstop",	
+		}
+	]
+}

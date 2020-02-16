@@ -1,0 +1,63 @@
+{
+	"menu_id" : "wac_menu_sh_m1014",
+	"parent_menu_id" : "wac_menu_sh",
+	"title" : "wac_menu_sh_m1014_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m1014nfab",
+			"title" : "wac_replace_shortb_title",
+			"callback" : "callback_toggle_replace_m1014nfab",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_longb_multi"
+			],
+			"value" : "replace_m1014nfab",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m1014longb",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_m1014longb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_shortb_multi"
+			],
+			"value" : "replace_m1014longb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m1014collapsedst",
+			"title" : "wac_replace_m1014collapsedst_title",
+			"callback" : "callback_toggle_replace_m1014collapsedst",		
+			"items" : [
+				"wac_default_multi",
+				"m4_s_ptr_multi",
+				"m1014uncollapsedst_multi"
+			],
+			"value" : "replace_m1014collapsedst",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m1014tacticalst",
+			"title" : "wac_replace_tactst_title",
+			"callback" : "callback_toggle_replace_m1014tacticalst",		
+			"items" : [
+				"wac_default_multi",
+				"m1014collapsedst_multi",
+				"m1014uncollapsedst_multi"
+			],
+			"value" : "replace_m1014tacticalst",
+			"default_value" : 1
+		}
+	]
+}

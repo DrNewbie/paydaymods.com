@@ -1,0 +1,1 @@
+managers.hud:refresh_quickchat_menu(2)

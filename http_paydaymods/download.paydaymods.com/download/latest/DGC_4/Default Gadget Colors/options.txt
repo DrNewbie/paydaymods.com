@@ -1,0 +1,136 @@
+{
+	"menu_id" : "default_gadget_colors_options",
+	"parent_menu_id" : "blt_options",
+	"title" : "dgc_menu_title",
+	"back_callback" : "callback_dgc_close",
+	"items" : [
+		{
+			"type" : "slider",
+			"id" : "dgc_laser_r_slider",
+			"title" : "dgc_laser_r_title",
+			"description" : "dgc_laser_r_desc",
+			"callback" : "callback_dgc_laser_r_slider",
+			"value" : "laser_r",
+			"default_value" : 0.9,
+			"min" : 0,
+			"max" : 1,
+			"step" : 0.05
+		},
+		{
+			"type" : "slider",
+			"id" : "dgc_laser_g_slider",
+			"title" : "dgc_laser_g_title",
+			"description" : "dgc_laser_g_desc",
+			"callback" : "callback_dgc_laser_g_slider",
+			"value" : "laser_g",
+			"default_value" : 0.2,
+			"min" : 0,
+			"max" : 1,
+			"step" : 0.05
+		},
+		{
+			"type" : "slider",
+			"id" : "dgc_laser_b_slider",
+			"title" : "dgc_laser_b_title",
+			"description" : "dgc_laser_b_desc",
+			"callback" : "callback_dgc_laser_b_slider",
+			"value" : "laser_b",
+			"default_value" : 0.15,
+			"min" : 0,
+			"max" : 1,
+			"step" : 0.05
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},		{
+			"type" : "slider",
+			"id" : "dgc_flash_r_slider",
+			"title" : "dgc_flash_r_title",
+			"description" : "dgc_flash_r_desc",
+			"callback" : "callback_dgc_flash_r_slider",
+			"value" : "flash_r",
+			"default_value" : 0.9,
+			"min" : 0,
+			"max" : 1,
+			"step" : 0.05
+		},
+		{
+			"type" : "slider",
+			"id" : "dgc_flash_g_slider",
+			"title" : "dgc_flash_g_title",
+			"description" : "dgc_flash_g_desc",
+			"callback" : "callback_dgc_flash_g_slider",
+			"value" : "flash_g",
+			"default_value" : 0.2,
+			"min" : 0,
+			"max" : 1,
+			"step" : 0.05
+		},
+		{
+			"type" : "slider",
+			"id" : "dgc_flash_b_slider",
+			"title" : "dgc_flash_b_title",
+			"description" : "dgc_flash_b_desc",
+			"callback" : "callback_dgc_flash_b_slider",
+			"value" : "flash_b",
+			"default_value" : 0.15,
+			"min" : 0,
+			"max" : 1,
+			"step" : 0.05
+		},	
+		{
+			"type" : "divider",
+			"size" : 16
+		},		
+		{
+			"type" : "multiple_choice",
+			"id" : "dgc_sight_color_multiplechoice",
+			"title" : "dgc_sight_color_title",
+			"description" : "dgc_sight_color_desc",
+			"callback" : "callback_dgc_sight_color_multiplechoice",
+			"items" : [
+				"dgc_sight_color_a",
+				"dgc_sight_color_b",
+				"dgc_sight_color_c",
+				"dgc_sight_color_d"
+			],
+			"value" : "sight_color"
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "dgc_sight_type_multiplechoice",
+			"title" : "dgc_sight_type_title",
+			"description" : "dgc_sight_type_desc",
+			"callback" : "callback_dgc_sight_type_multiplechoice",
+			"items" : [
+				"dgc_sight_type_a",
+				"dgc_sight_type_b",
+				"dgc_sight_type_c",
+				"dgc_sight_type_d",
+				"dgc_sight_type_e",
+				"dgc_sight_type_f",
+				"dgc_sight_type_g",
+				"dgc_sight_type_h",
+				"dgc_sight_type_i",
+				"dgc_sight_type_j",
+				"dgc_sight_type_k",
+				"dgc_sight_type_l",
+				"dgc_sight_type_m",
+				"dgc_sight_type_n",
+				"dgc_sight_type_o",
+				"dgc_sight_type_p",
+				"dgc_sight_type_q",
+				"dgc_sight_type_r",
+				"dgc_sight_type_s",
+				"dgc_sight_type_u",
+				"dgc_sight_type_v",
+				"dgc_sight_type_w",
+				"dgc_sight_type_x",
+				"dgc_sight_type_y"
+			],
+			"value" : "sight_type"
+		}
+	]
+
+}

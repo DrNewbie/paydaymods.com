@@ -1,0 +1,78 @@
+{
+	"menu_id" : "khud_menu_panel_weapons",
+	"parent_menu_id" : "khud_menu_panel_player",
+	"title" : "khud_menu_weapons_title",
+	"description" : "khud_menu_weapons_desc",
+	"back_callback" : "callback_khud_close",
+	"priority" : 4,
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "khud_panel_weapons_real_ammo",
+			"title" : "khud_panel_weapons_real_ammo_title",
+			"description" : "khud_panel_weapons_real_ammo_desc",
+			"callback" : "callback_khud_panel_weapons_real_ammo",
+			"value" : "use_wpn_real_ammo"
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_panel_weapons_custom_xy",
+			"title" : "khud_panel_weapons_custom_xy_title",
+			"description" : "khud_panel_weapons_custom_xy_desc",
+			"callback" : "callback_khud_panel_weapons_custom_xy",
+			"value" : "panel_weapon_custom_xy"
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_panel_weapons_show_name",
+			"title" : "khud_panel_weapons_show_name_title",
+			"description" : "khud_panel_weapons_show_name_desc",
+			"callback" : "callback_khud_panel_weapons_use_name",
+			"value" : "use_wpn_name"
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_panel_weapons_use_nickname",
+			"title" : "khud_panel_weapons_use_nickname_title",
+			"description" : "khud_panel_weapons_use_nickname_desc",
+			"callback" : "callback_khud_panel_weapons_use_nickname",
+			"value" : "use_wpn_nickname"
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_panel_weapons_set_x",
+			"title" : "khud_panel_weapons_set_x_title",
+			"description" : "khud_panel_weapons_set_x_desc",
+			"callback" : "callback_khud_panel_weapons_set_x",
+			"value" : "panel_weapon_x",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 2000,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_panel_weapons_set_y",
+			"title" : "khud_panel_weapons_set_y_title",
+			"description" : "khud_panel_weapons_set_y_desc",
+			"callback" : "callback_khud_panel_weapons_set_y",
+			"value" : "panel_weapon_y",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 2000,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_panel_weapons_set_scale",
+			"title" : "khud_panel_weapons_set_scale_title",
+			"description" : "khud_panel_weapons_set_scale_desc",
+			"callback" : "callback_khud_panel_weapons_set_scale",
+			"value" : "panel_weapon_scale",
+			"default_value" : 1,
+			"min" : 0.01,
+			"max" : 2,
+			"step" : 0.01
+		}
+	]
+}

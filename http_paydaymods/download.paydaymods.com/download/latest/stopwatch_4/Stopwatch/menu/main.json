@@ -1,0 +1,122 @@
+{
+	"menu_id": "stopwatch_menu_main",
+	"parent_menu_id": "blt_options",
+	"title": "stopwatch_menu_main",
+	"description": "stopwatch_menu_main_desc",
+	"items": [
+		{
+			"type": "toggle",
+			"id": "stopwatch_is_active",
+			"title": "stopwatch_is_active",
+			"description": "stopwatch_is_active_desc",
+			"callback": "callback_is_active",
+			"value": "is_active",
+			"default_value": true
+		},
+		{
+			"type": "divider",
+			"size": 10
+		},
+		{
+			"type": "toggle",
+			"id": "stopwatch_disable_chat",
+			"title": "stopwatch_disable_chat",
+			"description": "stopwatch_disable_chat_desc",
+			"callback": "callback_disable_chat",
+			"value": "disable_chat",
+			"default_value": false
+		},
+		{
+			"type": "divider",
+			"size": 10
+		},
+		{
+			"type": "multiple_choice",
+			"id": "stopwatch_init_record_color",
+			"title": "stopwatch_init_record_color",
+			"description": "stopwatch_init_record_color_desc",
+			"callback": "callback_init_record_color",
+			"items": [
+				"stopwatch_color_yellow",
+				"stopwatch_color_green",
+				"stopwatch_color_orange",
+				"stopwatch_color_pink",
+				"stopwatch_color_red",
+				"stopwatch_color_blue",
+				"stopwatch_color_cyan",
+				"stopwatch_color_white"
+			],
+			"value": "init_record_color",
+			"default_value": 1
+		},
+		{
+			"type": "multiple_choice",
+			"id": "stopwatch_new_record_color",
+			"title": "stopwatch_new_record_color",
+			"description": "stopwatch_new_record_color_desc",
+			"callback": "callback_new_record_color",
+			"items": [
+				"stopwatch_color_yellow",
+				"stopwatch_color_green",
+				"stopwatch_color_orange",
+				"stopwatch_color_pink",
+				"stopwatch_color_red",
+				"stopwatch_color_blue",
+				"stopwatch_color_cyan",
+				"stopwatch_color_white"
+			],
+			"value": "new_record_color",
+			"default_value": 2
+		},
+		{
+			"type": "multiple_choice",
+			"id": "stopwatch_old_record_color",
+			"title": "stopwatch_old_record_color",
+			"description": "stopwatch_old_record_color_desc",
+			"callback": "callback_old_record_color",
+			"items": [
+				"stopwatch_color_yellow",
+				"stopwatch_color_green",
+				"stopwatch_color_orange",
+				"stopwatch_color_pink",
+				"stopwatch_color_red",
+				"stopwatch_color_blue",
+				"stopwatch_color_cyan",
+				"stopwatch_color_white"
+			],
+			"value": "old_record_color",
+			"default_value": 3
+		},
+		{
+			"type": "multiple_choice",
+			"id": "stopwatch_equal_record_color",
+			"title": "stopwatch_equal_record_color",
+			"description": "stopwatch_equal_record_color_desc",
+			"callback": "callback_equal_record_color",
+			"items": [
+				"stopwatch_color_yellow",
+				"stopwatch_color_green",
+				"stopwatch_color_orange",
+				"stopwatch_color_pink",
+				"stopwatch_color_red",
+				"stopwatch_color_blue",
+				"stopwatch_color_cyan",
+				"stopwatch_color_white"
+			],
+			"value": "equal_record_color",
+			"default_value": 4
+		},
+		{
+			"type": "divider",
+			"size": 30
+		},
+		{
+			"type": "button",
+			"id": "stopwatch_btn_reset",
+			"title": "stopwatch_btn_reset",
+			"description": "stopwatch_btn_reset_desc",
+			"callback": "callback_btn_reset",
+			"back_callback": "callback_btn_reset_back"
+		}
+	]
+}

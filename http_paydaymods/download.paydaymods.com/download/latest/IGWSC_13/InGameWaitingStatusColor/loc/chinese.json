@@ -1,0 +1,36 @@
+{
+	"igwsc_menu_title": "自定义准备阶段状态颜色",
+	"igwsc_menu_desc": "自定义准备阶段状态信息(比如:未准备)的颜色和文字,",
+	
+	"igwsc_options_help_title": "帮助",
+	"igwsc_option_help_desc": "需要一个特定的颜色代码?点这个'帮助'按钮",
+	"igwsc_options_info_popup_message_help": "这个MOD使用HTML颜色代码(HEX颜色)进行修改.\n 这是一个你可以试一下的HTML颜色代码(HEX颜色)列表.\n   颜色代码列表\n       黑色      000000    白色       FFFFFF\n        红色        FF0000    黄绿色       00FF00\n         蓝色      0000FF    黄色     FFFF00\n        青色      00FFFF    品红  FF00FF\n        银色     C0C0C0    灰色       808080\n        红褐色   800000    橄榄色      808000\n        绿色     008000    紫色    800080\n        水鸭色        008080    深蓝色       000080\n- 你可以在网上搜一下HTML颜色生成器什么的.\n- 如果你想改颜色,在'颜色'区域内填上HTML颜色代码然后按回车就可以了.\n- 如果你看不到这个弹出框,你可以通过修改'IGWSC.txt'内你想修改的颜色代码来实现,(目录: \PAYDAY 2\\mods\\saves)\n",
+	"igwsc_options_info_popup_close": "关闭",
+	
+	"igwsc_options_reset_title": "重置",
+	"igwsc_options_reset_desc": "将颜色设置恢复到默认状态",
+	
+	"dropin_text_title": "'载入中'标签文字更改",
+	"dropin_text_desc": "修改'载入中'标签的文字",
+	
+	"dropin_color_title": "'载入中'标签颜色修改",
+	"dropin_color_desc": "修改'载入中'标签的颜色",
+	
+	"join_text_title": "'加入中'标签文字修改",
+	"join_text_desc": "修改'加入中'标签的文字",
+	
+	"join_color_title": "'加入中'标签颜色修改",
+	"join_color_desc": "修改'加入中'标签的颜色",
+	
+	"ready_text_title": "'准备'标签文字修改",
+	"ready_text_desc": "修改'准备'标签的文字",
+	
+	"ready_color_title": "'准备'标签颜色修改",
+	"ready_color_desc": "修改'准备'标签的颜色",
+	
+	"unready_color_title": "'未准备'标签颜色修改",
+	"unready_color_desc": "修改'未准备'标签的颜色",
+	
+	"unready_text_title": "'未准备'标签文字修改",
+	"unready_text_desc": "修改'未准备'标签的文字"
+}

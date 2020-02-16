@@ -1,0 +1,7 @@
+<table>
+    <table search="unit">
+        <table search="sequence;name=' \'interact\' '">
+            <material name="'ecm'" texture="'units/payday2/equipment/gen_equipment_jammer/ecm_df'" search_render_template="'generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP'" multiple_objects="false"/>
+        </table>
+    </table>
+</table>

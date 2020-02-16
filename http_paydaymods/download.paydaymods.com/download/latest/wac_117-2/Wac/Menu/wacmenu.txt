@@ -1,0 +1,19 @@
+{
+	"menu_id" : "wac_menu",
+	"parent_menu_id" : "blt_options",
+	"title" : "wac_menu_title",
+	"description" : "wac_menu_desc",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "wac_applychanges",
+			"title" : "wac_applychanges_title",
+			"description" : "wac_applychanges_desc",
+			"callback" : "callback_wac_applychanges"
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		}
+	]
+}

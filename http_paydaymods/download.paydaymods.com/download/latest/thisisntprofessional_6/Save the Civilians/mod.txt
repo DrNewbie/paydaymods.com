@@ -1,0 +1,33 @@
+{
+	"name" : "Save the Civilians!",
+	"description" : "Medics will now heal nearby civilians who take fatal damage, regardless of their healing-cooldown; nearby deployable sentry guns will keep intimidated civilians on the ground.",
+	"author" : "Offyerrocker",
+	"blt_version" : 2,
+	"image" : "stc.png",
+	"color" : "0.52 1 0",
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "1.0",
+	"hooks": [
+		{
+			"hook_id" : "lib/units/enemies/medic/medicdamage",
+			"script_path" : "medicdamage.lua"
+		},
+		{
+			"hook_id" : "lib/units/civilians/civiliandamage",
+			"script_path" : "civiliandamage.lua"
+		},
+		{
+			"hook_id" : "lib/units/civilians/logics/civilianlogicsurrender",
+			"script_path" : "civilianlogicsurrender.lua"
+		},
+		{
+			"hook_id" : "lib/units/equipment/sentry_gun/sentrygunbrain",
+			"script_path" : "sentrygunbrain.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "thisisntprofessional"
+		}
+	]
+}

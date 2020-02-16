@@ -1,0 +1,208 @@
+Updated November 2 2017 
+
+Hello there! this isnt a mod at all, just a list! what for? 
+Well, this handy list will save you the time of finding each single custom weapon available, newbie friendly!
+(melee weapons not included) 
+
+THIS IS A LIST, NO BATCH DOWNLOAD WILL BE DONE
+
+SGO Offers Full support for all custom weapons, you can get it here > http://steamcommunity.com/groups/SGOPD2
+
+HYYYUUUUGE SHOUTOUT TO >:3 , Groceries, Croc , Leon S, Mathelzor, Ellie, Kitsune Jimmy, Nepgearsy, Alcat101, Zdann and Uniforce for those fantastic custom weapons!
+
+You need Beardlib in your /mods folder and the weapons go on assets/mod_overrides
+http://modworkshop.net/mydownloads.php?action=view_down&did=14924
+
+If you are a user of Seamlink's Gameplay Overhaul, weapon stats will vary depending on which Weapons Stats mode you are running on the SGO menu
+======THIS IS THE FULL LIST OF ALL CUSTOM WEAPONS=======
+
+=====24 Sniper Rifles=====
+Winchester Model 1894 > http://modwork.shop/20415
+XM21 > http://modwork.shop/20067
+Arisaka Type 38 > http://modwork.shop/20130
+QBU 88 > http://modwork.shop/19734
+AMP Hecate (with explosive ammo) > http://modwork.shop/19658
+SCAR-20 > http://modwork.shop/19538
+KAC SR47 Hybrid (7.62mm AR) > http://modwork.shop/19526
+Nitro Royal Double Rifle > http://modwork.shop/19443
+Marlin Model 1894 Secondary Sniper Rifle > http://modwork.shop/19086
+SR 25 Sniper Rifle > http://modwork.shop/17979
+VSS > http://modwork.shop/17817 
+M40A5 > http://modwork.shop/17238 
+SV 98 > http://modwork.shop/17621 
+FD338 > http://modwork.shop/17275 
+L115 > http://modwork.shop/17368 
+JNG > http://modwork.shop/17386 
+McMillan TAC-50 > http://modwork.shop/18573
+FY-JS > http://modwork.shop/18589
+Uni Barret > http://modwork.shop/18091 (now functional)
+M200 Intervention NEW by >:3 > http://modwork.shop/19469
+SVU Dragunov > http://modwork.shop/18211
+SVD Dragunov by >:3 (better version) > http://modwork.shop/19401
+AWP > http://modwork.shop/19034
+FR F2 > http://modwork.shop/19133
+NEW
+Kar98k > http://modwork.shop/21092
+300 Knockout > http://modwork.shop/20211
+
+======38 Rifles======
+
+StG 44 > http://modwork.shop/20460
+IWI Tavor X95 > http://modwork.shop/20316
+K2 Korean Rifle > http://modwork.shop/20252
+M4A1-S > http://modwork.shop/19760
+Remington R5 > http://modwork.shop/20064
+L1A1 SLR > http://modwork.shop/20141
+M27 AR > http://modwork.shop/20124
+Mini 14 > http://modwork.shop/20151
+AN92 > http://modwork.shop/20187
+QBZ 95 > http://modwork.shop/19933
+Remington ACR+M203GL > http://modwork.shop/19917
+LaRue OBR 7.62 > http://modwork.shop/19859
+FN SCAR-L > http://modwork.shop/19799
+DDM4 Rifle > http://modwork.shop/19702
+PDTH AK Rifle > http://modwork.shop/19563
+HK416 > http://modwork.shop/19357
+Ohio Ordnance HCAR > http://modwork.shop/19320
+Montana 5.56 (with GL) > http://modwork.shop/19076
+Galil ACE > http://modwork.shop/19075
+SCAR-L+M203GL > http://modwork.shop/18892
+SR-3M Vihkr > http://modwork.shop/17333
+SA vz. 58P > http://modwork.shop/17915
+Valmet Rk.62 > http://modwork.shop/17700
+9A-91 > http://modwork.shop/17841
+F2000 Tactical > http://modwork.shop/17426 
+AKU-94 > http://modwork.shop/17577 
+ACR > http://modwork.shop/17375 
+AK12 > http://modwork.shop/17262 
+ARX 160 > http://modwork.shop/18642
+HK G36K > http://modwork.shop/17378 
+SKS > http://modwork.shop/17243 
+Colt R0991 > http://modwork.shop/17782 
+M1A1 Carbine > http://modwork.shop/18425
+OTs 14-4A Groza > http://modwork.shop/18565
+Howa Type 89 & 64 > http://modwork.shop/19024
+Uni's Laser Rifle > http://modwork.shop/18451
+ZID A 545 > http://modwork.shop/19184
+AEK 971 > http://modwork.shop/19185
+NEW
+LK05 Carbine > http://modwork.shop/21167
+Tokarev SVT 40 > http://modwork.shop/21029
+
+======20 Pistols & Magnums======
+
+K5 Korean Pistol > http://modwork.shop/20249
+AP Pistol > http://modwork.shop/20254
+Mcree's Revolver > http://modwork.shop/19946
+Browning HP > http://modwork.shop/19831
+Five-SeveN Pistol > http://modwork.shop/17508
+QSZ-92 Pistol > http://modwork.shop/17268
+APS + Akimbo > http://modwork.shop/17602
+S&W M&P40 Pro > http://modwork.shop/17644
+Mateba Model 6 Unica > http://modwork.shop/17527 
+Shatters Fury Revolver > http://modwork.shop/15568 
+Blizzard 443 Pistol > http://modwork.shop/17235
+TT-33 Pistol > http://modwork.shop/17597
+S&W Model 642 + Akimbo> http://modwork.shop/17412
+Walther P38 > http://modwork.shop/17771
+Water Pistol > http://modwork.shop/18915 
+Nagant M1895 Revolver > http://modwork.shop/19115
+Kross Kard > http://modwork.shop/19128
+OTs 33 Pernach (full auto 9mm) > http://modwork.shop/19516
+NEW
+HK45C > http://modwork.shop/21211
+Colt M911 > http://modwork.shop/21064
+Beretta 93R > http://modwork.shop/20956
+Handgun 1960 > http://modwork.shop/20909
+Deck ARD > http://modwork.shop/20788
+
+====== 19 SMGs======
+
+Minebea PM9 > http://modwork.shop/20433
+K1 & K7 Korean SMGs (2)> http://modwork.shop/20250
+Spectre M4 + Akimbo > http://modwork.shop/19783
+PP 19 01 Vityaz > http://modwork.shop/19661
+Magpul PDR http://modwork.shop/19233
+Akimbo FMG9 and single > http://modwork.shop/17369 
+PP2000 v3 > http://modwork.shop/17302 
+PPSh-41 > http://modwork.shop/17438 
+Akmbo MPX and single > http://modwork.shop/17347 
+PP-91 Kedr > http://modwork.shop/17698
+Scorpion Evo > http://modwork.shop/17975
+UMP 45 > http://modwork.shop/17330
+CBJ-MS > http://modwork.shop/18797
+Mx4 Storm > http://modwork.shop/20050
+MSMC > http://modwork.shop/19705
+
+======10 Shotguns======
+Trench Gun > http://modwork.shop/19392
+Nova Shotgun > http://modwork.shop/17362
+USAS 12 > http://modwork.shop/18554
+TOZ66 > http://modwork.shop/17439 
+TOZ34 > http://modwork.shop/17297 
+AK12_76 > http://modwork.shop/17628 
+TOZ 194 > http://modwork.shop/19127
+Mosberg 590 Shotgun > http://modwork.shop/19287
+Baikal MP153 Shotgun > http://modwork.shop/19255
+Browning Auto 5 > http://modwork.shop/19643
+NEW
+SPAS Shortened > http://modwork.shop/21196
+Remington 780 Shortened > http://modwork.shop/21119
+QBS-09 > http://modwork.shop/21034
+Fort 500 > http://modwork.shop/20864
+Deadwood 12G > http://modwork.shop/20945
+Super Shotgun > http://modwork.shop/20870
+
+======2 Special====== 
+Pounder Nail Gun > http://modwork.shop/18886
+No weapon > http://modwork.shop/18961
+NEW
+Contender Special > http://modwork.shop/20829
+
+======7 LMGs======
+Nevev NG5 > http://modwork.shop/19949
+STK Ultimax 100 Mark V > http://modwork.shop/19876
+Browning Automatic Rifle > http://modwork.shop/19340
+RPD > http://modwork.shop/17484 
+M60 > http://modwork.shop/18469
+PKP Pecheneg > http://modwork.shop/19368
+K3 Korean LMG > http://modwork.shop/20251
+LSAT > http://modwork.shop/20604
+NEW
+Volmer HK41 > http://modwork.shop/20506
+
+======30 Akimbo Weapons=======
+AKimbo AA12 > http://modwork.shop/19092
+Akimbo Jacket's Piece > http://modwork.shop/19095
+Akimbo AK's RPK, AK74, AKM, Saiga/IZHMA (4)> http://modwork.shop/18868 
+Akimbo M249 > http://modwork.shop/18876 
+Akimbo Revolvers (Mateba, Bronco and Peacemaker( 3 )> http://modwork.shop/18879 
+The Triad (single + akimbo) (2)> http://modwork.shop/18693
+Akimbo UMP > http://modwork.shop/18889
+Akimbo Judge Shotguns > http://modwork.shop/18893
+Goldeneye Akimbo Weapons > http://modwork.shop/18899
+(Akimbo RC-P90s(P90) Akimbo Klobbs Akimbo ZMGs Akimbo AR33s(M16) Akimbo Sniper Rifles(Model 70))(5)
+Akimbo Reaper Shotguns > http://modwork.shop/18925 
+Akimbo Mac 10 > http://modwork.shop/18949
+Akimbo STRYK Pistols > http://modwork.shop/18951
+Gunslinger Akimbo Weapon Pack(6) > http://modwork.shop/18962
+Akimbo Mosconis > http://modwork.shop/18990
+S&W M29 Revolvers (akimbo + single) (2) > http://modwork.shop/19012
+NEW
+Akimbo Luger > http://modwork.shop/21059
+Akimbo Mauser > http://modwork.shop/21043
+Akimbo HK416 > http://modwork.shop/21018
+Akimbo Tommy Guns > http://modwork.shop/20910
+Akimbo Kross Vertex > http://modwork.shop/20757
+Akimbo Paras > http://modwork.shop/20756
+Akimbo Mark10 > http://modwork.shop/20755
+Akimbo Blasters > http://modwork.shop/20754
+Akimbo CMP > http://modwork.shop/20753
+Akimbo Street Sweepers > http://modwork.shop/20725
+Akimbo Micro Uzis > http://modwork.shop/20752
+
+====178 CUSTOM WEAPONS IN TOTAL! ======
+
+Feel free to share this list, even if you dont use my mod.
+
+Enjoy everybody!

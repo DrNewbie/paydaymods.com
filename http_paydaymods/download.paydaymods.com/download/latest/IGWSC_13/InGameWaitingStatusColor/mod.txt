@@ -1,0 +1,22 @@
+{
+	"name": "InGameWaitingStatusColor",
+	"description": "Customize the loadout screen's status texts and colors\n\nLocalization\n- English language by NewPJzuza.\n- Chinese language by FR0Z3.\n- Thai language by NewPJzuza.\n- Russian language by zadirak.\n- German language by Butterbrezel.\n- Spanish language by JerryTheHedgehog.\n\n Thank you everyone to help us improve this mod\nNewPJzuza",
+	"author": "NewPJzuza & Takku & special thank you to dribbleondo",
+	"contact": "http://steamcommunity.com/id/NewPJzuza/ & http://steamcommunity.com/profiles/76561197960497623/",
+	"version": "2.2",
+	"blt_version": 2,
+	"image": "IGWSC.png",
+	"color": "239 170 66",
+	"updates": [{
+		"identifier": "IGWSC"
+	}],
+	"hooks": [{
+			"hook_id": "lib/managers/menumanager",
+			"script_path": "lua/menumanager.lua"
+		},
+		{
+			"hook_id": "lib/managers/hud/hudmissionbriefing",
+			"script_path": "lua/hudmissionbriefing.lua"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+I advise avoiding using this mod any other with mods that modify the files included here. That said, I'm not an expert with lua, so feedback is always appreciated. If you notice any issues/bugs, let me know!
+
+------------------------------------------------------------------------------------
+
+I also recommend using the Full Speed Swarm mod made by TdlQ to have a consistent experience, because of how the AI works in this game. Iter can also be used as well to improve AI pathing significantly.
+
+To make Full Speed Swarm as close to vanilla as possible in terms of mechanics, use the following settings:
+
+TASK LIMIT --------- DEPENDS ON YOUR PC (I use 0, which means no limit)
+CHARACTER POSITION - QUALITY
+WALKING QUALITY ---- DEPENDS ON YOUR PC (read the description)
+NERVOUS GAME ------- DISABLED
+FAST-PACED GAME ---- DISABLED
+ASSAULT BEHAVIOR --- CAUTIOUS

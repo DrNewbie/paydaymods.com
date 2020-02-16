@@ -1,0 +1,238 @@
+{
+	"menu_id" : "WaveSurvived",
+	"parent_menu_id" : "blt_options",
+	"title"	: "WaveSurvived_compatibility_title",
+	"description" : "WaveSurvived_compatibility_desc",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "WaveSurvived_language_choice",
+			"title" : "WaveSurvived_language_title",
+			"description" : "WaveSurvived_language_desc",
+			"callback" : "WaveSurvived_language_callback",
+			"items" : [
+				"WaveSurvived_language_english",
+				"WaveSurvived_language_french",
+				"WaveSurvived_language_russian",
+				"WaveSurvived_language_italian",
+				"WaveSurvived_language_german",
+				"WaveSurvived_language_spanish",
+				"WaveSurvived_language_hungarian",
+				"WaveSurvived_language_korean"
+			],
+			"value" : "WaveSurvived_language",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 20
+		},
+		{
+		    "type" : "toggle",
+		    "id" : "WaveSurvived_enable_checks",
+		    "title" : "WaveSurvived_enable_checks_title",
+		    "description" : "WaveSurvived_enable_checks_desc",
+		    "callback" : "WaveSurvived_enable_checks_callback",
+		    "value" : "WaveSurvived_enable_checks_value",
+		    "default_value" : true
+		},
+		{
+			"type" : "divider",
+			"size" : 20
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "WaveSurvived_compatibility_choice",
+			"title" : "WaveSurvived_item_title",
+			"description" : "WaveSurvived_item_desc",
+			"callback" : "WaveSurvived_compatibility_callback",
+			"items" : [
+				"WaveSurvived_no_hud",
+				"WaveSurvived_nepgearsy_hud",
+				"WaveSurvived_holoui",
+				"WaveSurvived_pdthhud",
+				"WaveSurvived_lddghud",
+				"WaveSurvived_restoration",
+				"WaveSurvived_void"
+			],
+			"value" : "WaveSurvived_compatibility",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 20
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "WaveSurvived_duration_choice",
+			"title" : "WaveSurvived_duration_title",
+			"description" : "WaveSurvived_duration_desc",
+			"callback" : "WaveSurvived_duration_callback",
+			"items" : [
+				"WaveSurvived_duration_original",
+				"WaveSurvived_duration_15sec",
+				"WaveSurvived_duration_20sec",
+				"WaveSurvived_duration_25sec",
+				"WaveSurvived_duration_infinite"
+			],
+			"value" : "WaveSurvived_duration",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "WaveSurvived_customtext_choice",
+			"title" : "WaveSurvived_customtext_title",
+			"description" : "WaveSurvived_customtext_desc",
+			"callback" : "WaveSurvived_customtext_callback",
+			"items" : [
+				"WaveSurvived_customtext_1",
+				"WaveSurvived_customtext_2",
+				"WaveSurvived_customtext_3",
+				"WaveSurvived_customtext_4",
+				"WaveSurvived_customtext_5"
+			],
+			"value" : "WaveSurvived_customtext",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "WaveSurvived_endless_customtext_choice",
+			"title" : "WaveSurvived_endless_customtext_title",
+			"description" : "WaveSurvived_endless_customtext_desc",
+			"callback" : "WaveSurvived_endless_customtext_callback",
+			"items" : [
+				"WaveSurvived_endless_customtext_1",
+				"WaveSurvived_endless_customtext_2",
+				"WaveSurvived_endless_customtext_3",
+				"WaveSurvived_endless_customtext_4"
+			],
+			"value" : "WaveSurvived_endless_customtext",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 20
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "WaveSurvived_custompanelcolor_choice",
+			"title" : "WaveSurvived_custompanelcolor_title",
+			"description" : "WaveSurvived_custompanelcolor_desc",
+			"callback" : "WaveSurvived_custompanelcolor_callback",
+			"items" : [
+				"WaveSurvived_custompanelcolor_1",
+				"WaveSurvived_custompanelcolor_2",
+				"WaveSurvived_custompanelcolor_3",
+				"WaveSurvived_custompanelcolor_4",
+				"WaveSurvived_custompanelcolor_5",
+				"WaveSurvived_custompanelcolor_6"
+			],
+			"value" : "WaveSurvived_custompanelcolor",
+			"default_value" : 1
+		},
+		{
+		    "type" : "slider",
+		    "id" : "WaveSurvived_custompanelcolor_customslider_red_choice",
+		    "title" : "WaveSurvived_custompanelcolor_customslider_red_title",
+		    "description" : "WaveSurvived_custompanelcolor_customslider_red_desc",
+		    "callback" : "WaveSurvived_custompanelcolor_customslider_red_callback",
+		    "value" : "WaveSurvived_custompanelcolor_customslider_red",
+		    "default_value" : 0,
+		    "max" : 255,
+		    "min" : 0,
+		    "step" : 1
+		},
+		{
+		    "type" : "slider",
+		    "id" : "WaveSurvived_custompanelcolor_customslider_green_choice",
+		    "title" : "WaveSurvived_custompanelcolor_customslider_green_title",
+		    "description" : "WaveSurvived_custompanelcolor_customslider_green_desc",
+		    "callback" : "WaveSurvived_custompanelcolor_customslider_green_callback",
+		    "value" : "WaveSurvived_custompanelcolor_customslider_green",
+		    "default_value" : 0,
+		    "max" : 255,
+		    "min" : 0,
+		    "step" : 1
+		},
+		{
+		    "type" : "slider",
+		    "id" : "WaveSurvived_custompanelcolor_customslider_blue_choice",
+		    "title" : "WaveSurvived_custompanelcolor_customslider_blue_title",
+		    "description" : "WaveSurvived_custompanelcolor_customslider_blue_desc",
+		    "callback" : "WaveSurvived_custompanelcolor_customslider_blue_callback",
+		    "value" : "WaveSurvived_custompanelcolor_customslider_blue",
+		    "default_value" : 0,
+		    "max" : 255,
+		    "min" : 0,
+		    "step" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 20
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "WaveSurvived_custompanelcolor_endless_choice",
+			"title" : "WaveSurvived_custompanelcolor_endless_title",
+			"description" : "WaveSurvived_custompanelcolor_endless_desc",
+			"callback" : "WaveSurvived_custompanelcolor_endless_callback",
+			"items" : [
+				"WaveSurvived_custompanelcolor_endless_1",
+				"WaveSurvived_custompanelcolor_endless_2",
+				"WaveSurvived_custompanelcolor_endless_3",
+				"WaveSurvived_custompanelcolor_endless_4",
+				"WaveSurvived_custompanelcolor_endless_5",
+				"WaveSurvived_custompanelcolor_endless_6"
+			],
+			"value" : "WaveSurvived_custompanelcolor_endless",
+			"default_value" : 1
+		},
+		{
+		    "type" : "slider",
+		    "id" : "WaveSurvived_custompanelcolor_endless_customslider_red_choice",
+		    "title" : "WaveSurvived_custompanelcolor_endless_customslider_red_title",
+		    "description" : "WaveSurvived_custompanelcolor_endless_customslider_red_desc",
+		    "callback" : "WaveSurvived_custompanelcolor_endless_customslider_red_callback",
+		    "value" : "WaveSurvived_custompanelcolor_endless_customslider_red",
+		    "default_value" : 0,
+		    "max" : 255,
+		    "min" : 0,
+		    "step" : 1
+		},
+		{
+		    "type" : "slider",
+		    "id" : "WaveSurvived_custompanelcolor_endless_customslider_green_choice",
+		    "title" : "WaveSurvived_custompanelcolor_endless_customslider_green_title",
+		    "description" : "WaveSurvived_custompanelcolor_endless_customslider_green_desc",
+		    "callback" : "WaveSurvived_custompanelcolor_endless_customslider_green_callback",
+		    "value" : "WaveSurvived_custompanelcolor_endless_customslider_green",
+		    "default_value" : 0,
+		    "max" : 255,
+		    "min" : 0,
+		    "step" : 1
+		},
+		{
+		    "type" : "slider",
+		    "id" : "WaveSurvived_custompanelcolor_endless_customslider_blue_choice",
+		    "title" : "WaveSurvived_custompanelcolor_endless_customslider_blue_title",
+		    "description" : "WaveSurvived_custompanelcolor_endless_customslider_blue_desc",
+		    "callback" : "WaveSurvived_custompanelcolor_endless_customslider_blue_callback",
+		    "value" : "WaveSurvived_custompanelcolor_endless_customslider_blue",
+		    "default_value" : 0,
+		    "max" : 255,
+		    "min" : 0,
+		    "step" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 20
+		},
+		{
+			"type" : "button",
+			"id" : "WaveSurvived_custompanelcolor_website",
+			"title" : "WaveSurvived_custompanelcolor_website_title",
+			"description" : "WaveSurvived_custompanelcolor_website_desc",
+			"callback" : "WaveSurvived_custompanelcolor_website_callback"
+		}
+	]
+}

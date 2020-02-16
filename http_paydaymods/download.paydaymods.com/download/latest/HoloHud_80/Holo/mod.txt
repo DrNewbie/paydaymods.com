@@ -1,0 +1,25 @@
+{  
+   "name":"HoloUI",
+   "description":"A highly customizable UI for payday 2",
+   "author":"Luffy",
+   "version":"2.0",
+   "priority":15,
+   "libraries":[  
+      {  
+         "display_name":"BeardLib",
+         "identifier":"beardlib"
+      }
+   ],
+   "hooks":[  
+      {
+          "hook_id":"lib/utils/levelloadingscreenguiscript", 
+          "script_path":"Hooks/Menu/LevelLoadingScreenGUI.lua"
+      }
+   ],
+   "pre_hooks":[  
+      {  
+         "hook_id":"lib/entry",
+         "script_path":"Base.lua"
+      }
+   ]
+}

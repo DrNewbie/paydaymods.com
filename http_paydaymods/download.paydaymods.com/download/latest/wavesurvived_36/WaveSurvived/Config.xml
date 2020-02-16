@@ -1,0 +1,8 @@
+<mod name="wave_survived" global_key="wavesurvived">
+
+    <Hooks directory="lua">
+        <hook file="MenuManager.lua" source_file="lib/managers/menumanagerpd2"/>
+        <hook file="WaveSurvived.lua" source_file="lib/managers/hud/hudassaultcorner"/>
+    </Hooks>
+
+</mod>

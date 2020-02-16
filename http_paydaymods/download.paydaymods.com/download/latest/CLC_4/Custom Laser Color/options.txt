@@ -1,0 +1,130 @@
+{
+	"menu_id" : "custom_laser_menu",
+	"parent_menu_id" : "blt_options",
+	"title" : "custom_laser_menu",
+	"description" : "custom_laser_menu_desc",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "fab_toggle",
+			"title" : "fab_item_toggle",
+			"description" : "fab_toggle_desc",
+			"callback" : "callback_fab_toggle",
+			"value" : "fab_value",
+			"default_value" : false
+		},
+		{
+			"type" : "slider",
+			"id" : "custom_laser_r_menu_slider",
+			"title" : "custom_laser_r_item_slider",
+			"description" : "custom_laser_r_slider_desc",
+			"callback" : "callback_laser_r_slider",
+			"value" : "slider_r_value",
+			"default_value" : 0.2,
+			"max" : 1,
+			"min" : 0,
+			"step" : 0.01
+		},
+		{
+			"type" : "slider",
+			"id" : "custom_laser_g_menu_slider",
+			"title" : "custom_laser_g_item_slider",
+			"description" : "custom_laser_g_slider_desc",
+			"callback" : "callback_laser_g_slider",
+			"value" : "slider_g_value",
+			"default_value" : 1,
+			"max" : 1,
+			"min" : 0,
+			"step" : 0.01
+		},
+		{
+			"type" : "slider",
+			"id" : "custom_laser_b_menu_slider",
+			"title" : "custom_laser_b_item_slider",
+			"description" : "custom_laser_b_slider_desc",
+			"callback" : "callback_laser_b_slider",
+			"value" : "slider_b_value",
+			"default_value" : 0.2,
+			"max" : 1,
+			"min" : 0,
+			"step" : 0.01
+		},
+		{
+			"type" : "slider",
+			"id" : "custom_laser_a_menu_slider",
+			"title" : "custom_laser_a_item_slider",
+			"description" : "custom_laser_a_slider_desc",
+			"callback" : "callback_laser_a_slider",
+			"value" : "slider_a_value",
+			"default_value" : 0.25,
+			"max" : 1,
+			"min" : 0,
+			"step" : 0.01
+		},
+		{
+			"type" : "divider",
+			"size" : 32
+		},
+		{
+			"type" : "slider",
+			"id" : "custom_laser_sniper_r_menu_slider",
+			"title" : "custom_laser_sniper_r_item_slider",
+			"description" : "custom_laser_sniper_r_slider_desc",
+			"callback" : "callback_laser_sniper_r_slider",
+			"value" : "slider_sniper_r_value",
+			"default_value" : 0.7,
+			"max" : 1,
+			"min" : 0,
+			"step" : 0.01
+		},
+		{
+			"type" : "slider",
+			"id" : "custom_laser_sniper_g_menu_slider",
+			"title" : "custom_laser_sniper_g_item_slider",
+			"description" : "custom_laser_sniper_g_slider_desc",
+			"callback" : "callback_laser_sniper_g_slider",
+			"value" : "slider_sniper_g_value",
+			"default_value" : 0,
+			"max" : 1,
+			"min" : 0,
+			"step" : 0.01
+		},
+		{
+			"type" : "slider",
+			"id" : "custom_laser_sniper_b_menu_slider",
+			"title" : "custom_laser_sniper_b_item_slider",
+			"description" : "custom_laser_sniper_b_slider_desc",
+			"callback" : "callback_laser_sniper_b_slider",
+			"value" : "slider_sniper_b_value",
+			"default_value" : 0,
+			"max" : 1,
+			"min" : 0,
+			"step" : 0.01
+		},
+		{
+			"type" : "slider",
+			"id" : "custom_laser_sniper_a_menu_slider",
+			"title" : "custom_laser_sniper_a_item_slider",
+			"description" : "custom_laser_sniper_a_slider_desc",
+			"callback" : "callback_laser_sniper_a_slider",
+			"value" : "slider_sniper_a_value",
+			"default_value" : 0.5,
+			"max" : 1,
+			"min" : 0,
+			"step" : 0.01
+		},
+		{
+			"type" : "divider",
+			"size" : 32
+		},
+		{
+			"type" : "button",
+			"id" : "custom_laser_button_reset",
+			"title" : "custom_laser_options_reset_title",
+			"description" : "custom_laser_options_reset_desc",
+			"callback" : "CustomLaserReset"
+		}
+
+	]
+
+}

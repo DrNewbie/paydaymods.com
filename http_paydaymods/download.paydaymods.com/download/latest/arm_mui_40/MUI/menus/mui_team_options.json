@@ -1,0 +1,109 @@
+{
+	"menu_id" : "mui_team_options",
+	"parent_menu_id" : "mui_options",
+	"position" : "section_2",
+	"subposition" : "before",
+	"focus_changed_callback" : "mui_options_focus",
+	"focus_class" : "MUITeammate",
+	"back_callback" : "mui_save_options",
+	"area_bg" : "half",
+	"items" : [
+		{
+			"type" : "slider",
+			"id" : "mui_team_size",
+			"title" : "mui_size_title",
+			"callback" : "mui_floored_callback",
+			"default_value" : 30,
+			"max" : 120,
+			"min" : 20,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "mui_team_alpha",
+			"title" : "mui_alpha_title",
+			"callback" : "mui_floored_callback",
+			"default_value" : 75,
+			"max" : 100,
+			"min" : 0,
+			"step" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : "10"
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_team_sp_dock",
+			"title" : "mui_equip_dock_title",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_position_top",
+				"mui_position_right",
+				"mui_position_bottom",
+				"mui_position_left"
+			],
+			"default_value" : 3
+		},
+		{
+			"type" : "slider",
+			"id" : "mui_team_sp_row",
+			"title" : "mui_special_row_title",
+			"description" : "mui_special_row_desc",
+			"callback" : "mui_floored_callback",
+			"default_value" : 1,
+			"max" : 4,
+			"min" : 0,
+			"step" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : "10"
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_team_clean",
+			"title"	: "mui_clean_names_title",
+			"description" : "mui_clean_names_desc",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_clean_names_off",
+				"mui_clean_names_partial",
+				"mui_clean_names_on",
+				"mui_clean_names_char",
+				"mui_clean_names_remove"
+			],
+			"default_value" : 2
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_team_revives",
+			"title" : "mui_rev_warn_title",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_team_absorb",
+			"title" : "mui_coco_abs_title",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_team_ai",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "divider",
+			"size" : "10"
+		},
+		{
+			"type" : "button",
+			"id" : "mui_reset",
+			"callback" : "mui_reset_callback"
+		}
+	]
+
+}

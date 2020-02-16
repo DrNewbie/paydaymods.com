@@ -1,0 +1,35 @@
+{
+	"menu_id" : "wac_menu_sh_spas",
+	"parent_menu_id" : "wac_menu_sh",
+	"title" : "wac_menu_sh_spas_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_spasfoldst",
+			"title" : "wac_replace_foldedst_title",
+			"callback" : "callback_toggle_replace_spasfoldst",		
+			"items" : [
+				"wac_default_multi",
+				"unfoldst_multi",
+				"solidst_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_spasfoldst",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_spassolidst",
+			"title" : "wac_replace_solidst_title",
+			"callback" : "callback_toggle_replace_spassolidst",		
+			"items" : [
+				"wac_default_multi",
+				"unfoldst_multi",
+				"foldedst_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_spassolidst",
+			"default_value" : 1
+		}
+	]
+}

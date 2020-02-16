@@ -1,0 +1,77 @@
+{
+	"menu_id" : "wac_menu_ar_sub2000",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_sub2000_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sub2kgen2fg",
+			"title" : "wac_replace_sub2kgen2fg_title",
+			"callback" : "callback_toggle_replace_sub2kgen2fg",		
+			"items" : [
+				"wac_default_multi",
+				"sub2krailfg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_sub2kgen2fg",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sub2kgen2fgrec",
+			"title" : "wac_replace_userecmodel_title",
+			"callback" : "callback_toggle_replace_sub2kgen2fgrec",		
+			"items" : [
+				"wac_default_multi",
+				"sub2krecgen1_multi"
+			],
+			"value" : "replace_sub2kgen2fgrec",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sub2krailfg",
+			"title" : "wac_replace_sub2krailfg_title",
+			"callback" : "callback_toggle_replace_sub2krailfg",		
+			"items" : [
+				"wac_default_multi",
+				"sub2kgen2fg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_sub2krailfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sub2krailfgrec",
+			"title" : "wac_replace_userecmodel_title",
+			"callback" : "callback_toggle_replace_sub2krailfgrec",		
+			"items" : [
+				"wac_default_multi",
+				"sub2krecgen2_multi"
+			],
+			"value" : "replace_sub2krailfgrec",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sub2ksuppfgrec",
+			"title" : "wac_replace_sub2ksupprecmodel_title",
+			"callback" : "callback_toggle_replace_sub2ksuppfgrec",		
+			"items" : [
+				"wac_default_multi",
+				"sub2krecgen1_multi"
+			],
+			"value" : "replace_sub2ksuppfgrec",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_sub2ksupp",
+			"title" : "wac_replace_uniquesupp_title",
+			"callback" : "callback_toggle_replace_sub2ksupp",
+			"value" : "replace_sub2ksupp",
+			"default_value" : false
+		}
+	]
+}

@@ -1,0 +1,162 @@
+{
+	"menu_id" : "mui_general_options",
+	"parent_menu_id" : "mui_options",
+	"position" : "section_2",
+	"subposition" : "before",
+	"focus_changed_callback" : "mui_options_focus",
+	"focus_class" : "MUITeammate",
+	"back_callback" : "mui_save_options",
+	"area_bg" : "half",
+	"items" : [
+		{
+			"type" : "slider",
+			"id" : "mui_gap_size",
+			"callback" : "mui_floored_callback",
+			"default_value" : 4,
+			"max" : 240,
+			"min" : 0,
+			"step" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_hp_color",
+			"callback" : "mui_toggle_callback",
+			"default_func" : "mui_fs_exists_callback"
+		},
+		{
+			"type" : "toggle",
+			"id" : "mui_name_upper",
+			"title" : "mui_upper_text_title",
+			"description" : "mui_upper_text_desc",
+			"callback" : "mui_toggle_callback",
+			"default_value" : true
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_ammo",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_ammo_default",
+				"mui_ammo_exclude",
+				"mui_ammo_clip"
+			],
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_direction",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_direction_hori",
+				"mui_direction_vert"
+			],
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_order",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_order_obv",
+				"mui_order_rev"
+			],
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_gen_jtfy",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_gen_jtfy_defer",
+				"mui_gen_jtfy_top",
+				"mui_position_center",
+				"mui_gen_jtfy_bot"
+			],
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : "10"
+		},
+		{
+			"type" : "slider",
+			"id" : "mui_gen_hp_aspd",
+			"callback" : "mui_floored_callback",
+			"default_value" : 500,
+			"max" : 2000,
+			"min" : 0,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "mui_gen_sh_aspd",
+			"callback" : "mui_floored_callback",
+			"default_value" : 300,
+			"max" : 2000,
+			"min" : 0,
+			"step" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : "10"
+		},
+		{
+			"type" : "slider",
+			"id" : "mui_gen_h_margin",
+			"title" : "mui_margin_h_title",
+			"description" : "mui_margin_h_desc",
+			"callback" : "mui_floored_callback",
+			"default_value" : 0,
+			"max" : 2400,
+			"min" : 0,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "mui_gen_v_margin",
+			"title" : "mui_margin_v_title",
+			"description" : "mui_margin_v_desc",
+			"callback" : "mui_floored_callback",
+			"default_value" : 0,
+			"max" : 2400,
+			"min" : 0,
+			"step" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_gen_h_position",
+			"title" : "mui_position_h_title",
+			"description" : "mui_position_h_desc",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_position_left",
+				"mui_position_center",
+				"mui_position_right"
+			],
+			"default_value" : 3
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mui_gen_v_position",
+			"title" : "mui_position_v_title",
+			"description" : "mui_position_v_desc",
+			"callback" : "mui_floored_callback",
+			"items" : [
+				"mui_position_top",
+				"mui_position_center",
+				"mui_position_bottom"
+			],
+			"default_value" : 3
+		},
+		{
+			"type" : "divider",
+			"size" : "10"
+		},
+		{
+			"type" : "button",
+			"id" : "mui_reset",
+			"callback" : "mui_reset_callback"
+		}
+	]
+
+}

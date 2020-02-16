@@ -1,0 +1,26 @@
+{
+	"name" : "Main Menu Streamliner",
+	"description" : "Utility mod for hiding main menu entries",
+	"author" : "Snh20",
+	"blt_version" : 2,
+	"version" : "0.0.3.2",
+	"priority" : 10,
+	"color" : "0.15 0.15 0.15",
+	"image" : "_icon.png",
+	"updates" : [
+		{
+			"revision" : 5,
+			"identifier" : "mmenustreamline"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/newheistsgui",
+			"script_path" : "newheistsgui.lua"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"MIH_MenuOptions_Title" : "Money in HUD Options",
+	"MIH_MenuOptions_Desc" : "Change the options of MIH.",
+	"MIH_Enable_Cash_Title" : "Enable the cash panel",
+	"MIH_Enable_Cash_Desc" : "When enabled, this will show the spending cash and offshore cash under the main MIH panel.",
+	"MIH_Correction_X_Title" : "Position Correction X",
+	"MIH_Correction_X_Desc" : "Moves the main panel on the X axis.",
+	"MIH_Correction_Y_Title" : "Position Correction Y",
+	"MIH_Correction_Y_Desc" : "Moves the main panel on the Y axis.",
+	"MIH_Correction_Reset_Title" : "Reset the correction",
+	"MIH_Correction_Reset_Desc" : "This will set the correction values to zero."
+}

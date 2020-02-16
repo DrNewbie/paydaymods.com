@@ -1,0 +1,24 @@
+{
+	"twoclicksafehouse_oldsafehouse" : "Old Safe House"
+
+	"twoclicksafehouse_menu_title" : "Two-Click Safe House",
+	"twoclicksafehouse_menu_desc" : "Configure Two-Click Safe House Options",
+
+	"tog_twoclicksafehouse_openu110safehouseguiinstead_title" : "Open Upgradable Safe House GUI instead",
+	"tog_twoclicksafehouse_openu110safehouseguiinstead_desc" : "Determines whether the Upgradable Safe House GUI should be shown instead of loading directly into it",
+
+	"mul_twoclicksafehouse_defaultselection_title" : "Default selection",
+	"mul_twoclicksafehouse_defaultselection_desc" : "Determines the default option for the safe house confirmation prompt, or the action taken if 'No confirmation prompt' is enabled",
+
+	"tog_twoclicksafehouse_noconfirmation_title" : "No confirmation prompt",
+	"tog_twoclicksafehouse_noconfirmation_desc" : "Determines whether a confirmation prompt should be shown. If set, the default selection set above will always be invoked upon clicking the Safe House button on the main menu",
+
+	"btn_twoclicksafehouse_reset_title" : "Reset to defaults",
+	"btn_twoclicksafehouse_reset_desc" : "Resets all options here to their defaults",
+
+	"dlg_twoclicksafehouse_obsoletemoddeletionsuccessful_title" : "Obsolete Mod Deletion Successful",
+	"dlg_twoclicksafehouse_obsoletemoddeletionsuccessful_body" : "[Message issued by the Two-Click Safe House mod]\n\nInfo: Successfully deleted the obsolete mod at $path, no further action is necessary.\n\nYou will not see this dialog again.",
+
+	"dlg_twoclicksafehouse_obsoletemoddeletionfailure_title" : "Obsolete Mod Deletion Failure",
+	"dlg_twoclicksafehouse_obsoletemoddeletionfailure_body" : "[Message issued by the Two-Click Safe House mod]\n\nError: Failed to delete the obsolete mod at $path, please do so manually to avoid mod conflicts.\n\nYou will be nagged until the obsolete mod has been removed."
+}

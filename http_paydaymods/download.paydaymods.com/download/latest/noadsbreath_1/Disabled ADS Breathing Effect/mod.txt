@@ -1,0 +1,23 @@
+{
+	"name" : "Disabled ADS Breathing Effect",
+	"description" : "Disables breathing camera effect when aiming down sights.",
+	"author" : ">:3/Pawcio1337",
+	"contact" : "https://modworkshop.net/user-965.html",
+	"image" : "noadsbreath.png",
+	"color" : "0.01 0.62 0.98",
+	"blt_version" : 2,
+	"undisablable" : false,
+	"disable_safe_mode" : false,
+	"version" : "1.0",
+	"updates" : [
+		{
+			"identifier" : "noadsbreath"
+		}
+	],
+	"hooks" : [
+		{	
+			"hook_id" : "lib/tweak_data/playertweakdata",
+			"script_path" : "playertweakdata.lua"
+		}
+	]
+}

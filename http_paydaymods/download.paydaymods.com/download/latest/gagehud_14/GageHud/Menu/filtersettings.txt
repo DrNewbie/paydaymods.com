@@ -1,0 +1,17 @@
+{
+    "menu_id": "filtersettings_options",
+    "parent_menu_id": "mod_collection_options",
+    "title": "filtersettings_options",
+    "description": "filtersettings_options_desc",
+    "items": [
+		{
+		    "type": "toggle",
+            "id": "enable_filtersettings",
+            "title": "enable_filtersettings",
+            "description": "enable_filtersettings_desc",
+            "callback": "callback_enable_filtersettings",
+            "value": "enable_filtersettings",
+            "default_value": true
+		}
+    ]
+}

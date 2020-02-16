@@ -1,0 +1,1 @@
+{"mm_rotate_value":true,"mm_value":true,"mm_stealth_only_value":false,"mm_zoom_value":55.611732549847}

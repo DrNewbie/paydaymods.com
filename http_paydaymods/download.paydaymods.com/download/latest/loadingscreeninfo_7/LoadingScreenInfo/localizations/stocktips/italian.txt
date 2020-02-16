@@ -1,0 +1,20 @@
+{
+	"tip_tactical_reload" : "Puoi ricaricare l'arma anche se non hai ancora svuotato il caricatore.\n\nIn questo modo avrai sempre il caricatore pieno per ogni evenienza. È quella che viene detta \"ricarica tattica\".",
+	"tip_weapon_effecienty" : "Ogni arma ha un raggio d'azione diverso che ovviamente la rende adatta a situazioni diverse.",
+	"tip_switch_to_sidearm" : "Passare alla propria arma secondaria piuttosto che ricaricare quella principale, è sempre più veloce.\n\nSe sei in difficoltà e dovessi esaurire le munizioni per il tuo fucile mitragliatore, non ricaricare ma passa all'arma secondaria; potrebbe salvarti la vita.",
+	"tip_doctor_bag" : "Il kit medico ti consente di sopravvivere.\n\nSe la tua squadra ha poca salute, posiziona il kit medico in qualche punto e consenti a tutti di curarsi!",
+	"tip_ammo_bag" : "Se resti spesso senza munizioni, potrebbe essere una buona idea portarti una sacca di munizioni extra.\n\nQuando le munizioni scarseggiano, posizionala in qualche punto e usala per fare scorta.",
+	"tip_head_shot" : "Un colpo in testa è più efficace di qualsiasi colpo in altre parti del corpo.",
+	"tip_secret_assignmnet" : "Le quattro unità dei reparti speciali sono molto pericolose, specialmente se le affronti da solo.\n\nCollabora con gli altri per eliminarle!",
+	"tip_help_bleed_out" : "Esaurendo la propria salute, un rapinatore viene \"ferito gravemente\", una condizione in cui non può muoversi ma solo sparare con la sua arma secondaria.\n\nUn rapinatore ferito gravemente può essere aiutato a rialzarsi senza alcun costo.",
+	"tip_dont_shoot_civilians" : "Non sparare ai civili. Per ogni civile ucciso, viene aggiunta una penalità al tuo normale tempo di arresto.\n\nCiò significa che se sei stato arrestato, dovrai aspettare più a lungo prima che la polizia faccia un'offerta per scambiarti con un ostaggio.",
+	"tip_trading_hostage" : "Quando un rapinatore perde completamente la sua salute viene arrestato. In questo stato, puoi tornare operativo solo dopo uno scambio con un ostaggio.\n\nLa polizia contatterà Bain per fare lo scambio.",
+	"tip_shoot_at_civilians" : "Grida ai civili per tenerli sotto controllo.\n\nDa vivi sono sempre una risorsa e facendoli sdraiare hanno più probabilità di restare in vita.",
+	"tip_police_free_hostage" : "Quando non vi è alcun rapinatore nei paraggi, la polizia sfrutterà sempre ogni possibilità di liberare gli ostaggi.\n\nDisponi i membri del gruppo con attenzione e controlla gli ostaggi, sono una risorsa molto preziosa!",
+	"tip_steelsight" : "Usare il mirino ti permette di per sparare con maggiore accuratezza, che non sparare a caso.",
+	"tip_melee_attack" : "Puoi eliminare un avversario anche con un colpo del calcio dell'arma ben assestato.\n\nÈ una mossa particolarmente utile quando le munizioni scarseggiano.",
+	"tip_law_enforcers_as_hostages" : "Se non ci sono civili da usare come ostaggi, puoi sempre prendere in ostaggio i membri delle forze dell'ordine.",
+	"tip_mask_off" : "Se non indossi la maschera, le forze dell'ordine non ti noteranno. Sfrutta questa cosa a tuo vantaggio.\n\nPerlustra il luogo e prendi posizione prima di indossare la maschera. Una volta indossata, non potrai toglierla per il resto del colpo.",
+	"tip_objectives" : "Il tuo obiettivo attuale è indicato nell'angolo in alto a sinistra dello schermo.\n\nUna descrizione più dettagliata dell'obiettivo, oltre a un elenco degli obiettivi completati, può essere consultata nella schermata delle informazioni.",
+	"tip_shoot_in_bleed_out" : "Quando sei ferito gravemente, puoi ancora sparare con l'arma secondaria.\n\nSe un compagno ti sta aiutando ad alzarti, cerca di coprire entrambi, ma se sei da solo non provocare le forze dell'ordine, perchÉ rappresenti un bersaglio facile e indifeso."
+}

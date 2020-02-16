@@ -1,0 +1,111 @@
+Revision 15******************************************************************************
+
+- Updated for update 168
+
+- From revision 14, since I forgot to mention it (oops): fixed Ethan's health being too low when used by the team AI (OVK, when are you going to fucking learn that using deep_clone for something prevents it from scaling?)
+
+- Nerfed Speed Pull Magazines from +100% reload speed to +20% along with -1 concealment (fuck your free-of-skill-and-penalties instant reloads Jules), since it seems they don't plan on nerfing them after all this time
+
+Revision 14******************************************************************************
+
+- Updated for update 167.1
+
+Revision 13******************************************************************************
+
+- Actually made the part about scripted spawns work for the zombie region (forgot two little detailds, oops)
+
+Revision 12******************************************************************************
+
+- Fixed death sounds for Russian enemies and zombies
+
+- Special zombie enemies will use voicelines like other units, embrace the redrum
+
+- Fixed some weird scripted spawns for Cursed Kill Room (there's a few of them, but they shouldn't be there), this will also correct any future incorrect scripted spawns for maps with zombies
+
+- All three types of Bulldozers can spawn on Cursed Kill Room on One Down (OVK stop being lazy)
+
+Revision 11******************************************************************************
+
+- Updated for update 164
+
+- Reduced the spawn limit for One Down because I like when my FPS don't drop because an entire assault wave of 84 enemies is stacked in one spot of the map, besides, enemies can actually move faster than vanilla and they don't have buggy tactics
+
+- Bots have the same grace period that players have, so they'll basically die faster on One Down (this was needed after testing them on different maps)
+
+- Not a change but, next update might include instant fade transitions so players can't cheese them by leaving some enemies alive
+
+Revision 10******************************************************************************
+
+- Added lines suggested by Shiny Hoppip's to prevent the mod from crashing whenever new weapons are added (already tested it, thanks a ton buddy!)
+
+Revision 9*******************************************************************************
+
+- Updated for update 162.1
+
+- The team AI can use the two new Akimbos and the Brothers Grimm have their own new presets
+
+- Made the damage of NPC melee weapons scale with difficulty, I forgot to make this change and OVK reminded me with the changes made on Locke & Load day 1
+
+- Fixed the melee attack animations for normal and headless Bulldozers (no more stabbing with fists or a titan safe staff)
+
+Revision 8*******************************************************************************
+
+- Fixed some enemy tactics (wrong names and other nonsense) and the Cloaker spawn chance on One Down (which for some reason is lower than on previous difficulties, thanks Ellie!)
+
+- Fixed the timeouts for enemy stun/smoke grenades so the one for OVERKILL and below isn't shorter than the one for Mayhem and above
+
+- Reverted the surrender chance change for ZEAL units, they're all just as hard to dominate as heavy SWAT units
+
+Revision 7*******************************************************************************
+
+- The team AI will use the highest currently allowed speed for a certain pose/stance regardless of the direction they're looking. What this basically means is that they'll move at the same speed regardless of where they're looking, not that they'll move faster compared to when they move forward and run in vanilla
+
+- Made DMR rifles for the team AI slightly less accurate so they can actually miss, instead of having perfect accuracy
+
+- Tried to make it so enemy bosses can be marked with sniper scopes and High Value Target ace when aiming down the sights (didn't have the time to test yet)
+
+- Fixed Fully Loaded ace's throwable calculation
+
+- Fixed High Value Target ace mark range when aiming down the sights (so it's equal to the sniper scopes) and removed the mark range increase when pressing the interact button
+
+Revision 6*******************************************************************************
+
+- Made some small tweaks to certain enemy stats for the sake of consistency, nothing worth mentioning
+
+- Winters is immune to ECM Feedback (the rest of his squad is still vulnerable)
+
+- Heisters will use the Shield callout on Winters' Shields regardless of the gamemode
+
+Revision 5*******************************************************************************
+
+- Reverted the magazine size increase of the Saiga to avoid syncing issues, but increased the reload speed to be on par with other weapons
+
+- Enemies with rifles, pistols and SMGs now have fall-off on Death Wish and One Down (although less severe than OVERKILL and below)
+
+- Fixed KSP 58 and Speed Pull Mag rounds not dissappearing (from the magazines) when fired
+
+Revision 4*******************************************************************************
+
+- Fixed a crash when playing on One Down
+
+Revision 3*******************************************************************************
+
+- Tasers won't reload your weapon when you get tased
+
+- One Down: Replaced ZEAL Bulldozer and Bulldozer scripted spawns with Skulldozers (except for Murkywater maps obviously) and Headless ZEAL Bulldozer spawns with Headless Titandozers until OVERKILL fixes their weapons, since they're just reskins
+
+- One Down: Replaced ZEAL Bulldozers assault spawns for their normal variants, for the same reason as the first change
+
+Revision 2*******************************************************************************
+
+- Made Medics immune to any type of hurt animations
+
+- ZEAL SWAT (Marksmen are included) are a lot more resistant to suppression and intimidation
+
+- Yellow SWAT Shields have the same health Yellow SWAT would have on Normal and Hard
+
+- Bulldozers will walk when close to a criminal, as originally intended
+
+Revision 1*******************************************************************************
+
+- First upload

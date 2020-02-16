@@ -1,0 +1,23 @@
+{
+	"name" : "Basic Voices Reborn 1 - Heisters"
+	"description" : "Play lines from Heisters."
+	"author" : "Lanz"
+	"contact" : "francoisbastidas66@gmail.com"
+	"version" : "v1.00"
+	"priority" : 290
+	"updates" :
+	[
+	    {
+		    "revision" : 1,
+			"identifier" : "basicvoicesrebornHSUMVHBMBCCG",
+		}
+	],
+	"hooks" : 
+	[
+		{"hook_id" : "lib/managers/menumanager",
+		"script_path" : "basicvoices1.lua"}
+	]
+}
+	
+	
+	

@@ -1,0 +1,61 @@
+{
+	"name" : "Down Counter",
+	"description" : "Shows players' downs in HUD and/or in chat.",
+	"author" : "Offyerrocker"
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "1.43",
+	"blt_version" : 2,
+	"image" : "dcs.png",
+	"color" : "255 234 99",
+	"hooks" : [   
+		{
+			"hook_id" : "lib/units/beings/player/playerdamage",
+			"script_path" : "playerdamage.lua"
+		},
+		{
+			"hook_id" : "lib/managers/playermanager",
+			"script_path" : "playermanager.lua"
+		},
+		{
+			"hook_id" : "lib/units/equipment/doctor_bag/doctorbagbase",
+			"script_path" : "doctorbagbase.lua"
+		},
+		{
+			"hook_id" : "lib/network/handlers/unitnetworkhandler",
+			"script_path" : "unitnetworkhandler.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/criminalsmanager",
+			"script_path" : "criminalsmanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudteammate",
+			"script_path" : "hudteammate.lua"
+		},
+		{
+			"hook_id" : "lib/network/base/clientnetworksession",
+			"script_path" : "clientnetworksession.lua"
+		},
+		{
+			"hook_id" : "lib/network/base/hostnetworksession",
+			"script_path" : "hostnetworksession.lua"
+		},
+		{
+			"hook_id" : "lib/managers/trademanager",
+			"script_path" : "trademanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/skilltreemanager",
+			"script_path" : "skilltreemanager.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "DCS"
+		}
+	]
+}

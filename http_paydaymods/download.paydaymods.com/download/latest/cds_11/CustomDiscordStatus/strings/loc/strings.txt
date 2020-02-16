@@ -1,0 +1,16 @@
+{
+    "cds_idling_upper": "Playing PAYDAY 2",
+    "cds_idling_under": "with CustomDiscordStatus Mod.",
+    "cds_lobby": "In Lobby",
+    "cds_lobby_details": "$heist; $day; [$difficulty;]",
+    "cds_safehouse": "In the Safe House",
+    "cds_safehouse_details": "$heist;",
+    "cds_sp_heist": "Crime.Net Offline",
+    "cds_sp_heist_details": "$heist; $day; [$difficulty;]",
+    "cds_mp_heist": "Crime.Net Onlin",
+    "cds_mp_heist_details": "$heist; $day; [$difficulty;]",
+    "cds_sp_end": "Heist Summary",
+    "cds_sp_end_details": "$heist; $day;",
+    "cds_mp_end": "Heist Summary",
+    "cds_mp_end_details": "$heist; $day;"
+}

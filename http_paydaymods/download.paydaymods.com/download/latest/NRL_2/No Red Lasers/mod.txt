@@ -1,0 +1,21 @@
+{
+	"name" : "No Red Lasers",
+	"description" : "Filters out player lasers that are too red and replaces their color to not-red.",
+	"author" : "Offyerrocker",
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "1.0",
+	"blt_version" : 2,
+	"color" : "255 128 0",
+	"image" : "nrl.png",
+	"hooks" : [
+		{
+			"hook_id" : "lib/network/handlers/unitnetworkhandler",
+			"script_path" : "unitnetworkhandler.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "NRL"
+		}
+	]
+}

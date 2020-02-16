@@ -1,0 +1,52 @@
+{
+	"inspirepriority_menu_title" : "Inspire-Priority Optionen",
+	"inspirepriority_menu_desc" : "Optionen fuer InspirePriority",
+	"inspirepriority_help_title" : "Hilfe",
+	"inspirepriority_help_desc" : "Zusätzliche Erklärung zu den Funktionen/Optionen",
+    "inspirepriority_shout_priority_title" : "Anfeuern besitzt Priorität",
+	"inspirepriority_shout_priority_desc" : "Der Skill Anfeuern besitzt höhere Priorität, wenn ihr in Richtung eines gefallenen Teamkameraden zielt",
+	"inspirepriority_disable_interaction_title" : "Deaktiviere Interaktion",
+	"inspirepriority_disable_interaction_desc" : "Deaktiviert Interaktion mit Gegenständen (Taschen, Medizintaschen, usw.) während ihr versucht einen Teamkameraden wiederzubeleben",
+	"inspirepriority_fail_message_title" : "Zeige fehlgeschlagenen Versuch",
+	"inspirepriority_fail_message_desc" : "Schreibt eine Nachricht in deinen Chat falls Anfeuern fehlschlägt (dies wird nur lokal angezeigt)",
+	"inspirepriority_fail_message_vulgar_title" : "Alternative Chat-Anzeige (BETA)",
+	"inspirepriority_fail_message_vulgar_desc" : "Zeigt alternative Chat-Nachrichten, welche an den üblichen Payday-Slang angelehnt sind (zurzeit nur auf Englisch verfügbar)"
+    "inspirepriority_steel_sight_reenable_title" : "Aktiviere temporäre Interaktion",
+	"inspirepriority_steel_sight_reenable_desc" : "Reaktiviert die Interaktion während die Zielen-Taste gehalten wird (gewöhnlich rechte Maustaste)",
+	"inspirepriority_reenable_medic_title" : "Reaktiviere Heilung:",
+	"inspirepriority_reenable_medic_desc" : "Reaktiviere das Benutzen von Arzttaschen falls * Mal gefallen (Stelle * am Regler ein)",
+	"inspirepriority_reenable_revive_title" : "Reaktiviere manuelles Wiederbeleben:",
+	"inspirepriority_reenable_revive_desc" : "Reaktiviere manuelles Wiederbeleben (anstatt durch Ass-Anfeuern), falls das Ziel weniger als * Sekunden besitzt, bevor es ins Gefängnis wandert (Stelle * am Regler ein)",
+	"inspirepriority_reenable_medic_downs_title" : "gefallen",
+	"inspirepriority_reenable_medic_downs_desc" : "Bestimme wie oft du fallen musst bevor die Verwendung von Arzttaschen reaktiviert wird",
+
+	"inspirepriority_reenable_medic_downs_option_0" : "0 Mal (immer)",
+	"inspirepriority_reenable_medic_downs_option_1" : "1 Mal",
+	"inspirepriority_reenable_medic_downs_option_2" : "2 Mal",
+	"inspirepriority_reenable_medic_downs_option_3" : "3 Mal",
+	"inspirepriority_reenable_medic_downs_option_4" : "4 Mal (geskillt!)",
+
+	"inspirepriority_reenable_revive_secs_title" : "Sekunden bis zum Gefängnis verbleibend",
+	"inspirepriority_reenable_revive_secs_desc" : "Setze die maximale Anzahl an Sekunden die beim Ziel verbleiben sollen (bevor das Ziel ins Gefängnis wandert), bevor das Ziel manuell wiederbelebt werden kann",
+
+	"inspirepriority_subtitle_inspire_revive" : "[Ass-Anfeuern] Optionen",
+	"inspirepriority_subtitle_disable_interaction" : "[Deaktiviere Interaktion] Optionen",
+	"inspirepriority_subtitle_fail_message" : "[Chat-Benachrichtigung] Optionen"
+
+	"inspirepriority_help_popup_title" : "Inspire-Priority Hilfe",
+	"inspirepriority_help_popup_message" : "Diese Mod besitzt drei Hauptfunktionen: [Anfeuern besitzt Priorität], [Deaktiviere Interaktionen] und [Chat-Nachricht].\n\n------------\n* [Anfeuern besitzt Priorität]:\nBlockt alle anderen Schrei-Interaktionen (Markieren von Spezialeinheiten,usw.), während du versuchst deine Teamkameraden aus der Distanz wiederzubeleben (Ass-Anfeuern erforderlich!).\n => Gegner werden nicht mehr versehentlich markiert/eingeschüchtert, während man versucht einen Teamkameraden wiederzubeleben.\n------------\n \n------------\n* [Deaktiviere Interaktionen]\nDeaktiviert sämtliche Interaktionen (Benutzen von Arzttaschen usw.) außer Schreien/Einschüchtern.\n => Du wirst nicht mehr versehentlich mit Objekten interagieren, während du versuchst einen Teamkameraden wiederzubeleben.\n \n --> Unterfunktionen:\n \n  - Reaktiviere Heilung:\nReaktiviert die Verwendung von Arzttaschen falls man  * Male gefallen ist.\n * kann in den Optionen eingestellt werden\n \n  - Reaktiviere manuelles Wiederbeleben:\nReaktiviert das manuelle Wiederbeleben falls das Ziel weniger als * Sekunden verbleibend hat, bevor es ins Gefängnis wandert.\n * kann in den Optionen eingestellt werden\n \n  - Reaktiviere Interaktionen:\nReaktiviert Interaktionen während die <Zielen>-Taste gehalten wird (gewöhnlich rechte Mausstaste).\n => Du kannst zeitweise mit Objekten interagieren falls es deaktiviert ist.\n------------\n\n------------\n* [Chat-Nachricht]\nZeigt eine Chat-Nachricht falls der Wiederbelebungsversuch fehlschlägt (70% chance).\n => Nur für dich lokal sichtbar.\n \n --> Unterfunktionen:\n - Alternative Chat-Anzeige (BETA):\nWechsle den Nachrichten-Stil zwischen normalen und paydayorientierten Aussagen.\n------------",
+	"inspirepriority_help_popup_back" : "Zurück",
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

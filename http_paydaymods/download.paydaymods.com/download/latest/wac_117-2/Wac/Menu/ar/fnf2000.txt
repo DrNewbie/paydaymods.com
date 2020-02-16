@@ -1,0 +1,89 @@
+{
+	"menu_id" : "wac_menu_ar_fnf2000",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_fnf2000_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_fnf2000longb",
+			"title" : "wac_replace_fnf2000longb_title",
+			"callback" : "callback_toggle_replace_fnf2000longb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_fnf2000longb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_fnf2000stndb",
+			"title" : "wac_replace_fnf2000stndb_title",
+			"callback" : "callback_toggle_replace_fnf2000stndb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_longb_multi"
+			],
+			"value" : "replace_fnf2000stndb",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_fnf2000flashhider",
+			"title" : "wac_replace_useownflashhider_title",
+			"callback" : "callback_toggle_replace_fnf2000flashhider",
+			"value" : "replace_fnf2000flashhider",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_fnf2000stndbody",
+			"title" : "wac_replace_fnf2000stndbody_title",
+			"callback" : "callback_toggle_replace_fnf2000stndbody",		
+			"items" : [
+				"wac_default_multi",
+				"wac_fnf2000tanbody_multi"
+			],
+			"value" : "replace_fnf2000stndbody",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_fnf2000tanbody",
+			"title" : "wac_replace_fnf2000tanbody_title",
+			"callback" : "callback_toggle_replace_fnf2000tanbody",		
+			"items" : [
+				"wac_default_multi",
+				"wac_fnf2000stndbody_multi"
+			],
+			"value" : "replace_fnf2000tanbody",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_cz805vertgrip",
+			"title" : "wac_replace_stndvertgrip_title",
+			"callback" : "callback_toggle_replace_cz805vertgrip",		
+			"items" : [
+				"wac_default_multi",
+				"stubbygrip_multi",
+				"vertgrip_multi",
+				"afg2_multi",
+				"hk416cvert_multi",
+				"vectorvert_multi",
+				"surefirem900_multi",
+				"novertgrip_multi"
+			],
+			"value" : "replace_cz805vertgrip",
+			"default_value" : 1
+		}
+	]
+}

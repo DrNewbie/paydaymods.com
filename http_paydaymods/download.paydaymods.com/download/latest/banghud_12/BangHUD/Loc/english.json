@@ -1,0 +1,69 @@
+{
+	"BangHUD_options": "BangHUD options",
+	"BangHUD_options_desc": "",
+
+	"swap_bars": "Swap bars",
+	"swap_bars_desc": "Swap bars",
+
+	"bars_scale": "Bars scale",
+	"bars_scale_desc": "Scale of the complete bars hud",
+
+	"center_margin": "Center margin",
+	"center_margin_desc": "Center space between the bars",
+
+	"x_offset": "X Offset",
+	"x_offset_desc": "Shift the X positioning (relative to the center)",
+
+	"y_offset": "Y Offset",
+	"y_offset_desc": "Shift the Y positioning (relative to the center)",
+
+	"bars_alpha": "Bars alpha",
+	"bars_alpha_desc": "Transparency of the bars",
+
+	"background_alpha": "Background alpha",
+	"background_alpha_desc": "Transparency of the background line behind the bars",
+
+	"stealth_behaviour": "Stealth behaviour",
+	"stealth_behaviour_desc": "When to hide when heist is stealth",
+
+	"loud_behaviour": "Loud behaviour",
+	"loud_behaviour_desc": "When to hide when heist is loud",
+
+	"frenzy_handling": "Frenzy Handling",
+	"frenzy_handling_desc": "How to handle the frenzy skill",
+
+	"always_show": "Always show",
+	"armor_and_health": "Hide at full armor & health",
+	"armor_only": "Hide at full armor",
+	"always_hide": "Always hide",
+	"vanilla_style": "Vanilla style",
+	"frenzy_relative": "Relative (Show 30% as 100%)",
+	"hide_at_frenzy_cap": "Hide at frenzy cap (30%)",
+
+	"fade_out_time": "Fade out time",
+	"fade_out_time_desc": "Time of the fade out animation when the arcs get hidden due to one of the above settings",
+
+	"show_armor_timer": "Show armor timer (Regular)",
+	"show_armor_timer_desc": "Show regular armor regeneration cool down timer on bottom of the armor arc",
+
+	"show_anarchist_timer": "Show armor timer (Anarchist)",
+	"show_anarchist_timer_desc": "Show anarchist armor regeneration cool down timer on the bottom of the armor arc",
+
+	"show_invincibility_timer": "Show invincibility timer (Anarchist/Armorer)",
+	"show_invincibility_timer_desc": "Show a timer that indicates how long invincibility will persist on the bottom of the health arc when armor breaks",
+
+	"swan_song_intensity": "Swan Song effect intensity",
+	"swan_song_intensity_desc": "Set the intensity of the blue swan song effect",
+
+	"chico_injector_intensity": "Kingpin injector effect intensity",
+	"chico_injector_intensity_desc": "Set the intensity of the orange kingpin injector effect",
+
+	"show_downs_counter": "Show downs counter",
+	"show_downs_counter_desc": "Shows your remaining downs above the health bar arc",
+
+	"show_downs_counter_skull": "Show downs counter skull",
+	"show_downs_counter_skull_desc": "Shows a skull in front of your downs counter (if enabled)",
+
+	"downs_counter_alpha": "Downs counter alpha",
+	"downs_counter_alpha_desc": "Set the transparency of the downs counter (if enabled)"
+}

@@ -1,0 +1,134 @@
+{
+	"menu_id" : "methhelperupdated_options",
+	"parent_menu_id" : "blt_options",
+	"title" : "methhelperupdated_title",
+	"back_callback" : "callback_methhelperupdated_close",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "methhelperupdated_toggle_enabled",
+			"title" : "methhelperupdated_toggle_enabled_title",
+			"description" : "methhelperupdated_toggle_enabled_desc",
+			"callback" : "callback_methhelperupdated_toggle_enabled",
+			"value" : "enabled"
+		},
+		{
+			"type" : "keybind",
+			"id" : "methhelperupdated_keybind_toggle",
+			"title" : "methhelperupdated_keybind_toggle_title",
+			"description" : "methhelperupdated_keybind_toggle_desc",
+			"keybind_id" : "methhelperupdated_keybind_toggle_enabled",
+			"run_in_game" : true,
+			"run_in_menu" : false,
+			"func" : "callback_methhelperupdated_keybind_toggle"
+		},
+		{
+			"type" : "divider",
+			"size" : 24
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "methhelperupdated_ingred_chatmode",
+			"title" : "methhelperupdated_ingred_chatmode_title",
+			"description" : "methhelperupdated_chatmode_desc",
+			"callback" : "callback_methhelperupdated_ingred_chatmode",
+			"items" : [
+				"methhelperupdated_chatmode_a",
+				"methhelperupdated_chatmode_b",
+				"methhelperupdated_chatmode_c"
+			],
+			"value" : "ingred_chatmode"
+		},
+		{
+			"type" : "toggle",
+			"id" : "methhelperupdated_ingred_hintmode",
+			"title" : "methhelperupdated_ingred_hintmode_title",
+			"description" : "methhelperupdated_hintmode_desc",
+			"callback" : "callback_methhelperupdated_ingred_hintmode",
+			"value" : "ingred_hintmode"
+		},
+		{
+			"type" : "toggle",
+			"id" : "methhelperupdated_ingred_repeat",
+			"title" : "methhelperupdated_ingred_repeat_title",
+			"description" : "methhelperupdated_ingred_repeat_desc",
+			"callback" : "callback_methhelperupdated_ingred_repeat",
+			"value" : "ingred_repeat"
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "methhelperupdated_added_chatmode",
+			"title" : "methhelperupdated_added_chatmode_title",
+			"description" : "methhelperupdated_chatmode_desc",
+			"callback" : "callback_methhelperupdated_added_chatmode",
+			"items" : [
+				"methhelperupdated_chatmode_a",
+				"methhelperupdated_chatmode_b",
+				"methhelperupdated_chatmode_c"
+			],
+			"value" : "added_chatmode"
+		},
+		{
+			"type" : "toggle",
+			"id" : "methhelperupdated_added_hintmode",
+			"title" : "methhelperupdated_added_hintmode_title",
+			"description" : "methhelperupdated_hintmode_desc",
+			"callback" : "callback_methhelperupdated_added_hintmode",
+			"value" : "added_hintmode"
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "methhelperupdated_done_chatmode",
+			"title" : "methhelperupdated_done_chatmode_title",
+			"description" : "methhelperupdated_chatmode_desc",
+			"callback" : "callback_methhelperupdated_done_chatmode",
+			"items" : [
+				"methhelperupdated_chatmode_a",
+				"methhelperupdated_chatmode_b",
+				"methhelperupdated_chatmode_c"
+			],
+			"value" : "done_chatmode"
+		},
+		{
+			"type" : "toggle",
+			"id" : "methhelperupdated_done_hintmode",
+			"title" : "methhelperupdated_done_hintmode_title",
+			"description" : "methhelperupdated_hintmode_desc",
+			"callback" : "callback_methhelperupdated_done_hintmode",
+			"value" : "done_hintmode"
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "methhelperupdated_fail_chatmode",
+			"title" : "methhelperupdated_fail_chatmode_title",
+			"description" : "methhelperupdated_chatmode_desc",
+			"callback" : "callback_methhelperupdated_fail_chatmode",
+			"items" : [
+				"methhelperupdated_chatmode_a",
+				"methhelperupdated_chatmode_b",
+				"methhelperupdated_chatmode_c"
+			],
+			"value" : "fail_chatmode"
+		},
+		{
+			"type" : "toggle",
+			"id" : "methhelperupdated_fail_hintmode",
+			"title" : "methhelperupdated_fail_hintmode_title",
+			"description" : "methhelperupdated_hintmode_desc",
+			"callback" : "callback_methhelperupdated_fail_hintmode",
+			"value" : "fail_hintmode"
+		}
+	]
+}

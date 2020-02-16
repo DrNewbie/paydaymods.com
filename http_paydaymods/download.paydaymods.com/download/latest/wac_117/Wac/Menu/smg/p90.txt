@@ -1,0 +1,73 @@
+{
+	"menu_id" : "wac_menu_smg_p90",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_p90_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_p90longb",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_p90longb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_p90longb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_p90civb",
+			"title" : "wac_replace_civb_title",
+			"callback" : "callback_toggle_replace_p90civb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_longb_multi"
+			],
+			"value" : "replace_p90civb",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_p90ninjab",
+			"title" : "wac_replace_p90ninjab_title",
+			"callback" : "callback_toggle_replace_p90ninjab",
+			"value" : "replace_p90ninjab",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_ironsightsp90",
+			"title" : "wac_replace_ironsights_title",
+			"callback" : "callback_toggle_replace_ironsightsp90",		
+			"items" : [
+				"wac_default_multi",
+				"ironsightdd_multi",
+				"ironsightmbus_multi"
+			],
+			"value" : "replace_ironsightsp90",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_p90strap",
+			"title" : "wac_replace_magstrap_title",
+			"callback" : "callback_toggle_replace_p90strap",		
+			"items" : [
+				"wac_default_multi",
+				"stndmag_multi"
+			],
+			"value" : "replace_p90strap",
+			"default_value" : 1
+		}
+	]
+}

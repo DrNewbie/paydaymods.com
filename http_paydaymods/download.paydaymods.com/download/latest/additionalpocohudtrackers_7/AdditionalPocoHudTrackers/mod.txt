@@ -1,0 +1,56 @@
+{
+	"name" : "Additional PocoHud Trackers",
+	"description" : "Extends PocoHud to add tracking support for more skills and perk decks",
+	"author" : "\n    Snh20\n    Zenyr (PocoHud code)\n    TdlQ (localizations loading code)",
+	"blt_version" : 2,
+	"version" : "0.0.4.2",
+	"priority" : 10,
+	"color" : "0.15 0.15 0.15",
+	"image" : "_icon.png",
+	"updates" : [
+		{
+			"revision" : 7,
+			"identifier" : "additionalpocohudtrackers"
+		}
+	],
+	"pre_hooks" : [
+		{
+			"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "init.lua"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/setups/menusetup",
+			"script_path" : "_unseenstrikemenufix.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/playermanager",
+			"script_path" : "playermanager.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/playerdamage",
+			"script_path" : "playerdamage.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "playerstandard.lua"
+		},
+		{
+			"hook_id" : "lib/managers/group_ai_states/groupaistatebase",
+			"script_path" : "groupaistatebase.lua"
+		},
+		{
+			"hook_id" : "lib/units/interactions/interactionext",
+			"script_path" : "interactionext.lua"
+		}
+	],
+	"dependencies" : [
+		"pocohud3",
+		"delayedcallsfix"
+	]
+}

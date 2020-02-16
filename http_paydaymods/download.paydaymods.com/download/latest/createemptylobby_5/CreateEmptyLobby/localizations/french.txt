@@ -1,0 +1,4 @@
+{
+	"create_empty_lobby_title" : "Créer un lobby vide",
+	"create_empty_lobby_desc" : "Créer un lobby multijoueur sans contract.\n(Amis seulement par défault, changeable en publique ou en partie privée)"
+}

@@ -1,0 +1,9 @@
+{
+  "link": "",
+  "list": [
+    {
+      "name": "Real_weapon_name_From_Wolfhud",
+      "tag": "https://raw.githubusercontent.com/Kamikaze94/WolfHUD/master/loc/RealWeaponNames.json"
+    }
+  ]
+}

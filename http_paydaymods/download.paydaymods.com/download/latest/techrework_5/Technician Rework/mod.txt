@@ -1,0 +1,52 @@
+{
+	"name"	:	"Technician Rework",
+	"description"	:	"A relatively simple rework",
+	"author"	:	"Naviaux",
+	"contact"	:	"/u/Naviaux-",
+	"version"	:	"3.1",
+	"priority"	:	"0",
+	"updates"	:	[
+		{
+			"revision"	:	5,
+			"identifier"	:	"techrework"
+		}
+	],
+	"hooks"	:	[
+		{
+			"hook_id"	:	"lib/units/weapons/newraycastweaponbase",
+			"script_path"	:	"lua/raycast.lua"
+		},
+		{
+			"hook_id"	: "lib/managers/playermanager",
+			"script_path"	:	"lua/player.lua"
+		},
+		{
+			"hook_id"	:	"lib/units/beings/player/states/playerstandard",
+			"script_path"	:	"lua/standard.lua"
+		},
+		{
+			"hook_id"	:	"lib/tweak_data/upgradestweakdata",
+			"script_path"	:	"lua/upgrades.lua"
+		},
+		{
+			"hook_id"	:	"lib/tweak_data/skilltreetweakdata",
+			"script_path"	:	"lua/skilltree.lua"
+		},
+		{
+			"hook_id"	:	"lib/tweak_data/infamytweakdata",
+			"script_path"	:	"lua/infamy.lua"
+		},
+		{
+			"hook_id"	:	"lib/managers/localizationmanager",
+			"script_path"	:	"lua/localization.lua"
+		},
+		{
+			"hook_id"	:	"lib/units/interactions/interactionext",
+			"script_path"	:	"lua/interaction.lua"
+		},
+		{
+			"hook_id"	:	"lib/network/handlers/unitnetworkhandler",
+			"script_path"	:	"lua/announce.lua"
+		}
+	]
+}

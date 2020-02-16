@@ -1,0 +1,48 @@
+{
+	"menu_id" : "wac_menu_smg_sr2",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_sr2_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_sr2msupp",
+			"title" : "wac_replace_uniquesupp_title",
+			"callback" : "callback_toggle_replace_sr2msupp",
+			"value" : "replace_sr2msupp",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sr2magpulassist",
+			"title" : "wac_replace_magpulmagassist_title",
+			"callback" : "callback_toggle_replace_sr2magpulassist",		
+			"items" : [
+				"wac_default_multi",
+				"stndmag_multi"
+			],
+			"value" : "replace_sr2magpulassist",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_sr2unfoldst",
+			"title" : "wac_replace_unfoldst_title",
+			"callback" : "callback_toggle_replace_sr2unfoldst",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi",
+				"foldedst_multi"
+			],
+			"value" : "replace_sr2unfoldst",
+			"default_value" : 1
+		}
+	]
+}

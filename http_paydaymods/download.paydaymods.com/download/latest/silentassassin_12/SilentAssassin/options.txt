@@ -1,0 +1,100 @@
+{
+    "menu_id" : "silent_assassin_options",
+    "parent_menu_id" : "blt_options",
+    "title" : "silent_assassin_title",
+    "back_callback" : "SilentAssassin_Close",
+    "items" : [
+        {
+            "type" : "toggle",
+            "id"   : "sa_enabled",
+            "title": "sa_enabled_title",
+            "description" : "sa_enabled_desc",
+            "callback" : "SilentAssassin_enabledToggle",
+            "value" : "enabled",
+            "default_value" : true
+        },
+        {
+            "type" : "divider",
+            "size" : 8
+        },
+        {
+            "type" : "toggle",
+            "id"   : "sa_kill_pager_enabled",
+            "title": "sa_kill_pager_enabled_title",
+            "description" : "sa_kill_pager_enabled_desc",
+            "callback" : "SilentAssassin_killPagerEnabledToggle",
+            "value" : "stealth_kill_enabled",
+            "default_value" : true
+        },
+        {
+            "type" : "slider",
+            "id"   : "sa_pager_detection_threshold",
+            "title": "sa_pager_detection_threshold_title",
+            "description": "sa_pager_detection_threshold_desc",
+            "callback" : "SilentAssassin_setPagerDetectionThreshold",
+            "value" : "pager_detection_threshold",
+            "default_value" : "100",
+            "min" : 0
+            "max" : 100,
+            "step" : 1
+        }
+        {
+            "type" : "divider",
+            "size" : 8
+        },
+        {
+            "type" : "divider",
+            "size" : 8
+        },
+        {
+            "type" : "multiple_choice",
+            "id" : "sa_menu_num_pagers",
+            "title" : "sa_num_pagers",
+            "description" : "sa_num_pagers_desc",
+            "callback" : "SilentAssassin_setNumPagers",
+            "items" : [
+                "sa_pagers_0",
+                "sa_pagers_1",
+                "sa_pagers_2",
+                "sa_pagers_3",
+                "sa_pagers_4"
+            ],
+            "default_value" : "2",
+            "value" : "num_pagers"
+        },
+        {
+            "type" : "multiple_choice",
+            "id" : "sa_menu_num_pagers_per_player",
+            "title" : "sa_num_pagers_per_player",
+            "description" : "sa_num_pagers_per_player_desc",
+            "callback" : "SilentAssassin_setNumPagersPerPlayer",
+            "items" : [
+                "sa_pagers_0",
+                "sa_pagers_1",
+                "sa_pagers_2",
+                "sa_pagers_3",
+                "sa_pagers_4"
+            ],
+            "default_value" : "2",
+            "value" : "num_pagers_per_player"
+        },
+        {
+            "type" : "divider",
+            "size" : 8
+        },
+        {
+            "type" : "multiple_choice",
+            "id" : "sa_menu_matchmaking_filter",
+            "title" : "sa_matchmaking_title",
+            "description" : "sa_matchmaking_filter_desc",
+            "callback" : "SilentAssassin_setMatchmakingFilter",
+            "items" : [
+                "sa_matchmaking_both",
+                "sa_matchmaking_require",
+                "sa_matchmaking_avoid"
+            ],
+            "default_value" : "any",
+            "value" : "matchmaking_filter"
+        }
+    ]
+}

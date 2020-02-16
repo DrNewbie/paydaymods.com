@@ -1,0 +1,73 @@
+{
+    "menu_id": "speed_up_options",
+    "parent_menu_id": "mod_collection_options",
+    "title": "speed_up_options",
+    "description": "speed_up_options_desc",
+    "items": [
+        {
+            "type": "toggle",
+            "id": "enable_speed_up",
+            "title": "enable_speed_up",
+            "description": "enable_speed_up_desc",
+            "callback": "callback_enable_speed_up",
+            "value": "enable_speed_up",
+            "default_value": true
+        },
+        {
+            "type" : "divider",
+            "size" : 32,
+        },
+        {
+            "type": "toggle",
+            "id": "black_screen_skip",
+            "title": "black_screen_skip",
+            "description": "black_screen_skip_desc",
+            "callback": "callback_black_screen_skip",
+            "value": "black_screen_skip",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "loot_screen_skip_enabled",
+            "title": "loot_screen_skip_enabled",
+            "description": "loot_screen_skip_enabled_desc",
+            "callback": "callback_loot_screen_skip_enabled",
+            "value": "loot_screen_skip_enabled_skip",
+            "default_value": true
+        },
+        {
+            "type": "slider",
+            "id": "loot_screen_skip",
+            "title": "loot_screen_skip",
+            "description": "loot_screen_skip_desc",
+            "callback": "callback_loot_screen_skip",
+            "value": "loot_screen_skip",
+            "max": 5,
+            "min": 0,
+            "step": 1,
+            "default_value": 0
+        },
+        {
+            "type": "toggle",
+            "id": "stat_screen_skip_enabled",
+            "title": "stat_screen_skip_enabled",
+            "description": "stat_screen_skip_enabled_desc",
+            "callback": "callback_stat_screen_skip_enabled",
+            "value": "stat_screen_skip_enabled_skip",
+            "default_value": true
+        },
+        {
+            "type": "slider",
+            "id": "stat_screen_skip",
+            "title": "stat_screen_skip",
+            "description": "stat_screen_skip_desc",
+            "callback": "callback_stat_screen_skip",
+            "value": "stat_screen_skip",
+            "max": 60,
+            "min": 0,
+            "step": 1,
+            "default_value": 30
+        }
+		
+    ]
+}

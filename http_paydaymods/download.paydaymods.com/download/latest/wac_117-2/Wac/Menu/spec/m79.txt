@@ -1,0 +1,47 @@
+{
+	"menu_id" : "wac_menu_spec_m79",
+	"parent_menu_id" : "wac_menu_spec",
+	"title" : "wac_menu_spec_m79_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m79sawoffb",
+			"title" : "wac_replace_m79sawoffb_title",
+			"callback" : "callback_toggle_replace_m79sawoffb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_m79sawoffb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m79sawoffst",
+			"title" : "wac_replace_m79sawoffst_title",
+			"callback" : "callback_toggle_replace_m79sawoffst",		
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi"
+			],
+			"value" : "replace_m79sawoffst",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_m79disablesight",
+			"title" : "wac_replace_disableladdersight_title",
+			"callback" : "callback_toggle_replace_m79disablesight",
+			"value" : "replace_m79disablesight",
+			"default_value" : false
+		}
+	]
+}

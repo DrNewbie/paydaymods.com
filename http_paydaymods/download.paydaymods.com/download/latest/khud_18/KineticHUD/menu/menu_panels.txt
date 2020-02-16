@@ -1,0 +1,17 @@
+{
+	"menu_id" : "khud_menu_panels",
+	"parent_menu_id" : "khud_mainmenu",
+	"title" : "khud_menu_panels_title",
+	"description" : "khud_menu_panels_desc",
+	"priority" : 3,
+	"items" : [
+		{
+			"type" : "toggle_DISABLED",
+			"id" : "id_khud_mission_enabled",
+			"title" : "khud_mission_enabled_title",
+			"description" : "khud_mission_enabled_desc",
+			"callback" : "callback_khud_mission_enabled",
+			"value" : "mission_enabled"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"press2text_menu_title" : "Press2Text",
+	"press2text_menu_desc" : "Set keybinds for Press2Text",
+
+	"send_title" : "Send",
+	"send_desc" : "This button will send the message you selected to the chat",
+
+	"group1_title" : "Group 1",
+	"group1_desc" : "Contains (Thanks.)(Help.)(Nope.)",
+
+	"group2_title" : "Group 2",
+	"group2_desc" : "Contains spotter lines",
+
+	"group3_title" : "Group 3",
+	"group3_desc" : "Contains (Need/Placed) (Ammo/Medic Bag/First Aid)",
+
+	"group4_title" : "Group 4",
+	"group4_desc" : "Contains meth cooking ingredients",
+
+	"group5_title" : "Group 5",
+	"group5_desc" : "Contains lines like (Drill is stuck/PC is jammed)",
+
+	"group6_title" : "Group 6",
+	"group6_desc" : "Contains stealth lines (Guard)(Camera)(ECM placed)(Someone kill camera guard)",
+}

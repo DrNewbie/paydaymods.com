@@ -1,0 +1,70 @@
+{
+	"menu_id" : "lfm_options",
+	"parent_menu_id" : "blt_options",
+	"title" : "lfm_options_title",
+	"description" : "lfm_options_desc",
+	"back_callback" : "callback_lfm_close",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "lfm_enabled_toggle",
+			"title" : "lfm_enable_title",
+			"description" : "lfm_enable_desc",
+			"callback" : "callback_lfm_enable",
+			"value" : "enabled"
+		},
+		{
+			"type" : "toggle",
+			"id" : "lfm_requireall_toggle",
+			"title" : "lfm_requireall_title",
+			"description" : "lfm_requireall_desc",
+			"callback" : "callback_lfm_all",
+			"value" : "must_have_all"
+		},
+		{
+			"type" : "toggle",
+			"id" : "lfm_exact_toggle",
+			"title" : "lfm_exact_title",
+			"description" : "lfm_exact_desc",
+			"callback" : "callback_lfm_exact",
+			"value" : "exact_match"
+		},
+		{
+			"type" : "toggle",
+			"id" : "lfm_case_toggle",
+			"title" : "lfm_case_title",
+			"description" : "lfm_case_desc",
+			"callback" : "callback_lfm_case",
+			"value" : "case_sensitive"
+		},
+		{
+			"type" : "toggle",
+			"id" : "lfm_vanilla_toggle",
+			"title" : "lfm_vanilla_title",
+			"description" : "lfm_vanilla_desc",
+			"callback" : "callback_lfm_vanilla",
+			"value" : "allow_nonmodded"
+		},
+		{
+			"type" : "button",
+			"id" : "lfm_togglefilter",
+			"title" : "lfm_togglefilter_title",
+			"description" : "lfm_togglefilter_desc",
+			"callback" : "callback_lfm_filter_toggle"
+		},
+		{
+			"type" : "button",
+			"id" : "lfm_filter_add",
+			"title" : "lfm_filter_add_title",
+			"description" : "lfm_filter_add_desc",
+			"callback" : "callback_lfm_filter_add"
+		},
+		{
+			"type" : "button",
+			"id" : "lfm_filter_remove",
+			"title" : "lfm_filter_remove_title",
+			"description" : "lfm_filter_remove_desc",
+			"callback" : "callback_lfm_filter_remove"
+		}
+	]
+}

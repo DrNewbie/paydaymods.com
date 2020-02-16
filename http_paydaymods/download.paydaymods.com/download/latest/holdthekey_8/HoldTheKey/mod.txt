@@ -1,0 +1,25 @@
+{
+	"name" : "Hold The Key",
+	"description" : "Dependency for mods to make it easier to detect when a keybind is held instead of only pressed.\nAuto-updates are temporarily disabled.",
+	"author" : "Offyerrocker",
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "1.35",
+	"blt_version" : 2,
+	"image" : "htk_icon.png",
+	"color" : "255 255 255",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "lua/menumanager.lua"
+		},
+		{
+			"DISABLED_hook_id" : "lib/managers/menu/menunodegui",
+			"DISABLED_script_path" : "lua/menunodegui.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "holdthekey"
+		}
+	]
+}

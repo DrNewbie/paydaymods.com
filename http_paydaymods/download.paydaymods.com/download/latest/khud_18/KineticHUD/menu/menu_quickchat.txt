@@ -1,0 +1,17 @@
+{
+	"menu_id" : "khud_menu_quickchat",
+	"parent_menu_id" : "khud_mainmenu",
+	"title" : "khud_menu_quickchat_title",
+	"description" : "khud_menu_quickchat_desc",
+	"priority" : 9,
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "khud_quickchat_notext",
+			"title" : "khud_quickchat_notext_title",
+			"description" : "khud_quickchat_notext_desc",
+			"callback" : "callback_khud_quickchat_notext",
+			"value" : "quickchat_notext"
+		}
+	]
+}

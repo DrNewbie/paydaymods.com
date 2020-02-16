@@ -1,0 +1,76 @@
+{
+	"name" : "Inventory Chat & Player States",
+	"description" : "Enables accessing chat and viewing the states of other players in the lobby while in the inventory, blackmarket, preplanning, Crime.net, skills and perk deck selection screens",
+	"author" : "\n    Snh20\n    TdlQ (localizations loading code)\n    Mr.PlayYou [BE] (French translations)",
+	"blt_version" : 2,
+	"version" : "0.0.3.2",
+	"priority" : 10,
+	"color" : "0.15 0.15 0.15",
+	"image" : "_icon.png",
+	"updates" : [
+		{
+			"revision" : 6,
+			"identifier" : "ICAPS"
+		}
+	],
+	"pre_hooks" : [
+		{
+			"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "init.lua"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/network/base/basenetworksession",
+			"script_path" : "basenetworksession.lua"
+		},
+		{
+			"hook_id" : "lib/managers/chatmanager",
+			"script_path" : "chatmanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/menucomponentmanager",
+			"script_path" : "menucomponentmanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudmissionbriefing",
+			"script_path" : "hudmissionbriefing.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/preplanningmapgui",
+			"script_path" : "preplanningmapgui.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/menukitrenderer",
+			"script_path" : "menukitrenderer.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/skilltreegui",
+			"script_path" : "skilltreegui.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/menuinput",
+			"script_path" : "menuinput.lua"
+		},
+		{
+			"hook_id" : "core/lib/managers/menu/coremenulogic",
+			"script_path" : "coremenulogic.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/contractboxgui",
+			"script_path" : "contractboxgui.lua"
+		},
+		{
+			"hook_id" : "lib/network/matchmaking/networkmatchmakingsteam",
+			"script_path" : "networkmatchmakingsteam.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/playerinventorygui",
+			"script_path" : "playerinventorygui.lua"
+		}
+	]
+}

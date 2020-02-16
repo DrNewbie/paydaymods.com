@@ -1,0 +1,52 @@
+{
+	"menu_id" : "twoclicksafehouse_menu_id",
+	"parent_menu_id" : "blt_options",
+	"title" : "twoclicksafehouse_menu_title",
+	"description" : "twoclicksafehouse_menu_desc",
+	"back_callback" : "TwoClickSafeHouse_SaveSettings",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "tog_twoclicksafehouse_openu110safehouseguiinstead",
+			"title" : "tog_twoclicksafehouse_openu110safehouseguiinstead_title",
+			"description" : "tog_twoclicksafehouse_openu110safehouseguiinstead_desc",
+			"callback" : "TwoClickSafeHouse_ToggleOpenU110SafeHouseGUIInstead",
+			"value" : "OpenU110SafeHouseGUIInstead",
+			"default_value" : false
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "mul_twoclicksafehouse_defaultselection",
+			"title" : "mul_twoclicksafehouse_defaultselection_title",
+			"description" : "mul_twoclicksafehouse_defaultselection_desc",
+			"callback" : "TwoClickSafeHouse_DefaultSelection",
+			"items" : [
+				"menu_custom_safehouse",
+				"twoclicksafehouse_oldsafehouse",
+				"dialog_no"
+			],
+			"value" : "DefaultSelection",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_twoclicksafehouse_noconfirmation",
+			"title" : "tog_twoclicksafehouse_noconfirmation_title",
+			"description" : "tog_twoclicksafehouse_noconfirmation_desc",
+			"callback" : "TwoClickSafeHouse_ToggleNoConfirmation",
+			"value" : "NoConfirmation",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : "20"
+		},
+		{
+			"type" : "button",
+			"id" : "btn_twoclicksafehouse_reset",
+			"title" : "btn_twoclicksafehouse_reset_title",
+			"description" : "btn_twoclicksafehouse_reset_desc",
+			"callback" : "TwoClickSafeHouse_Reset"
+		}
+	]
+}

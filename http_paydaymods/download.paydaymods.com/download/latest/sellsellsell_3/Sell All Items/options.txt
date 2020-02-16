@@ -1,0 +1,34 @@
+{
+	"menu_id" : "sellstuff_modoptions",
+	"parent_menu_id" : "blt_options",
+	"title" : "sellstuff_title",
+	"back_callback" : "callback_sellstuff_close",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "id_sellstuff_category",
+			"title" : "sellstuff_category_title",
+			"description" : "sellstuff_category_desc",
+			"callback" : "callback_sellstuff_selectcategory",
+			"items" : [
+				"sellstuff_nothing",
+				"sellstuff_primaries",
+				"sellstuff_secondaries",
+				"sellstuff_masks",
+				"sellstuff_all"
+			],
+			"value" : "category"
+		},
+		{
+			"type" : "divider",
+			"size" : 36
+		},
+		{
+			"type" : "button",
+			"id" : "id_sellstuff_dewit",
+			"title" : "id_sellstuff_dewit_title",
+			"description" : "id_sellstuff_dewit_desc",
+			"callback" : "callback_sellstuff_sellselected"
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"BangHUD_options": "BangHUD设置",
+	"BangHUD_options_desc": "",
+
+	"swap_bars": "交换显示",
+	"swap_bars_desc": "交换护甲值与生命值的显示位置",
+
+	"bars_scale": "界面大小",
+	"bars_scale_desc": "整个界面的大小",
+
+	"center_margin": "中心距离",
+	"center_margin_desc": "界面与中心的距离",
+
+	"x_offset": "X 移动",
+	"x_offset_desc": "移动X的位置(相对于中心)",
+
+	"y_offset": "Y 移动",
+	"y_offset_desc": "移动Y的位置(相对于中心)",
+
+	"bars_alpha": "填充颜色透明度",
+	"bars_alpha_desc": "填充颜色透明度",
+
+	"background_alpha": "边缘颜色透明度",
+	"background_alpha_desc": "边缘颜色透明度",
+
+	"stealth_behaviour": "潜入时隐藏",
+	"stealth_behaviour_desc": "决定在你潜入劫案时是否隐藏界面",
+
+	"loud_behaviour": "强袭时隐藏",
+	"loud_behaviour_desc": "决定在你强袭劫案时是否隐藏界面",
+
+	"frenzy_handling": "狂乱技能处理",
+	"frenzy_handling_desc": "如何处理狂乱技能",
+
+	"always_show": "总是显示",
+	"armor_and_health": "满护甲值和无损失生命值隐藏",
+	"armor_only": "满护甲值隐藏",
+	"always_hide": "总是隐藏",
+	"vanilla_style": "Vanilla风格",
+	"frenzy_relative": "相对(将30%显示为100%)",
+	"hide_at_frenzy_cap": "忽略狂乱效果(显示30%)",
+
+	"fade_out_time": "淡出时间",
+	"fade_out_time_desc": "决定淡出时间",
+
+	"show_armor_timer": "显示护甲恢复计时器(正常)",
+	"show_armor_timer_desc": "显示正常护甲的恢复计时器",
+
+	"show_anarchist_timer": "显示护甲HUD(反动派)",
+	"show_anarchist_timer_desc": "在护甲HUD的底部显示反动派护甲的恢复计时器",
+
+	"show_invincibility_timer": "显示无敌计时器(反动派/军械士)",
+	"show_invincibility_timer_desc": "显示无敌计时器，当护甲耗尽时在底部显示无敌将持续多长时间",
+
+	"swan_song_intensity": "天鹅绝唱触发效果",
+	"swan_song_intensity_desc": "设置天鹅绝唱触发后视觉效果的强度",
+
+	"chico_injector_intensity": "注射器触发效果",
+	"chico_injector_intensity_desc": "设置注射器触发后视觉效果的强度",
+
+	"show_downs_counter": "显示倒地计数器",
+	"show_downs_counter_desc": "在上方显示剩余的倒地次数",
+
+	"show_downs_counter_skull": "显示倒地计数器图标",
+	"show_downs_counter_skull_desc": "在倒地计数器前面显示一个头骨图标(如果启用)",
+
+	"downs_counter_alpha": "倒地计数器透明度",
+	"downs_counter_alpha_desc": "设置倒地计数器的透明度(如果启用)"
+}

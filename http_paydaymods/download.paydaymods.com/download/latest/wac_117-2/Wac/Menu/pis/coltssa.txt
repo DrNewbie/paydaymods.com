@@ -1,0 +1,52 @@
+{
+	"menu_id" : "wac_menu_pis_coltssa",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_coltssa_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_coltbuntlineb",
+			"title" : "wac_replace_precisionb_title",
+			"callback" : "callback_toggle_replace_coltbuntlineb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_coltsaashortb_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_coltbuntlineb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_coltssabling",
+			"title" : "wac_replace_coltssabling_title",
+			"callback" : "callback_toggle_replace_coltssabling",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_coltssabling",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_coltsaastock",
+			"title" : "wac_replace_coltsaast_title",
+			"callback" : "callback_toggle_replace_coltsaastock",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_coltsaastock",
+			"default_value" : 1
+		}
+	]
+}

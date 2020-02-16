@@ -1,0 +1,41 @@
+{
+	"name": "MUI",
+	"description": "Minimalistic, scalable UI mod aimed at experienced players.",
+	"image": "img/mui.png",
+	"color": "0 255 255",
+	"author": "Armithaig",
+	"contact": "mui@amaranth.red",
+	"blt_version": 2,
+	"updates": [
+		{
+			"identifier": "arm_mui",
+			"revision": 40
+		},
+		{
+			"display_name": "Optional Assets"
+			"identifier": "arm_mui_assets",
+			"install_dir" : "assets/mod_overrides/",
+			"install_folder" : "MUIAssets"
+		}
+	],
+	"pre_hooks": [
+		{
+			"hook_id": "lib/setups/gamesetup",
+			"script_path": "lua/static.lua"
+		},
+		{
+			"hook_id": "lib/setups/gamesetup",
+			"script_path": "lua/figure.lua"
+		}
+	],
+	"hooks": [
+		{
+			"hook_id": "lib/managers/hudmanagerpd2",
+			"script_path": "lua/mui_manager.lua"
+		},
+		{
+			"hook_id": "lib/managers/menumanager",
+			"script_path": "lua/mui_menu.lua"
+		}
+	]
+}

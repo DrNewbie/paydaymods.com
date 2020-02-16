@@ -1,0 +1,21 @@
+{
+  "Randomizer_menu_main_name" : "Player Randomizer",
+  "Randomizer_menu_main_desc" : "Lasse deine Ausrüstung zu Beginn des Spiels zufällig gewählt werden",
+  "enabled_name" : "Aktiviert",
+  "enabled_desc" : "Schalte den Randomizer ein oder aus",
+  "hide_selections_name" : "Zufällig gewählte Auswahl verbergen",
+  "hide_selections_desc" : "Verbirgt zufällig gewählte Auswahl im Ausrüstungsbildschirm",
+  "only_owned_weapons_name" : "Nur Waffen aus Inventar",
+  "only_owned_weapons_desc" : "Der Randomizer wird nur Waffen aus deinem Inventar wählen",
+  "character_desc" : "Zufällig gewählter Charakter",
+  "primary_desc" : "Zufällig gewählte Primärwaffe",
+  "secondary_desc" : "Zufällig gewählte Sekundärwaffe",
+  "melee_desc" : "Zufällig gewählte Nahkampfwaffe",
+  "grenade_desc" : "Zufällig gewählte Wurfwaffe",
+  "armor_desc" : "Zufällig gewählte Panzerung",
+  "deployable_desc" : "Zufällig gewählte Ausrüstung",
+  "display_weapon_info_name" : "Waffen Info anzeigen",
+  "display_weapon_info_desc" : "Taste, um Informationen über die momentane Waffe anzuzeigen",
+  "weapon_info_string" : "Benutze $WEAPON mit $MODS",
+  "weapon_info_string_default" : "Benutze $WEAPON mit Standardmods"
+}

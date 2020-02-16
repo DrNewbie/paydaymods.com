@@ -1,0 +1,39 @@
+{
+	"menu_id" : "htk_options",
+	"parent_menu_id" : "blt_options",
+	"title" : "htk_title",
+	"back_callback" : "callback_htk_close",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "id_htk_toggle_allow_doublebinding",
+			"title" : "htk_toggle_allow_doublebinding_title",
+			"description" : "htk_toggle_allow_doublebinding_desc",
+			"callback" : "callback_htk_toggle_doublebinding",
+			"value" : "allow_double_binding"
+		},		
+		{
+			"type" : "divider",
+			"size" : 24
+		},		
+		{
+			"type" : "button",
+			"id" : "id_htk_button_reload",
+			"title" : "htk_button_reload_title",
+			"description" : "htk_button_reload_desc",
+			"callback" : "callback_htk_button_reload"
+		},
+		{
+			"type" : "divider",
+			"size" : 24
+		},		
+		{
+			"type" : "button",
+			"id" : "id_htk_button_reset",
+			"title" : "htk_button_reset_title",
+			"description" : "htk_button_reset_desc",
+			"callback" : "callback_htk_button_reset"
+		}
+	]
+
+}

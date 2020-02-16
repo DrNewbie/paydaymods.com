@@ -1,0 +1,23 @@
+{
+	"name" : "Basic Voices Reborn 2 - Special Units"
+	"description" : "Play lines from Special Units."
+	"author" : "Lanz"
+	"contact" : "francoisbastidas66@gmail.com"
+	"version" : "v1.00"
+	"priority" : 280
+	"updates" : 
+	[
+	    {
+		    "revision" : 1,
+			"identifier" : "basicvoicesrebornHSUMVHBMBCCG",
+		}
+	],
+	"hooks" : 
+	[
+		{"hook_id" : "lib/managers/menumanager",
+		"script_path" : "basicvoices2.lua"}
+	]
+}
+	
+	
+	

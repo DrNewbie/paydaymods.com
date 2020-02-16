@@ -1,0 +1,21 @@
+{
+	"name" : "Various Text Changes: Reloaded",
+	"description" : "Replaces various lines of text throughout the game to increase consistency.",
+	"author" : "Melting Terminal",
+	"contact" : "rj.jayperry@gmail.com",
+	"version" : "5.23",
+	"blt_version" : 2,
+	"color" : "102 204 255",
+	"image" : "vtc.png",
+	"updates" : [
+		{
+			"identifier" : "vtc"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "vtc.lua"
+		}
+	]
+}

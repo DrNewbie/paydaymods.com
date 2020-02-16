@@ -1,0 +1,30 @@
+{
+	"saveequipment_menu_title" : "Save-Equipment Options",
+	"saveequipment_menu_desc" : "Options for SaveEquipment",
+	"saveequipment_help_title" : "Help",
+	"saveequipment_help_desc" : "Help for the different mod features and options.",
+	"saveequipment_enable_medic_downs_title" : "Downed",
+	"saveequipment_enable_medic_downs_desc" : "Set the number of downs when to allow the usage of doctor bags",
+	
+	"saveequipment_enable_medic_downs_option_0" : "0 times (always)",
+	"saveequipment_enable_medic_downs_option_1" : "1 time",
+	"saveequipment_enable_medic_downs_option_2" : "2 times",
+	"saveequipment_enable_medic_downs_option_3" : "3 times",
+	"saveequipment_enable_medic_downs_option_4" : "4 times (skilled)",
+	
+	"saveequipment_subtitle_medic_enable" : "[DoctorBag] allowed when:",
+	
+	"saveequipment_help_popup_title" : "Save-Equipment Help",
+	"saveequipment_help_popup_message" : "This mod will prevent you from using doctor bags too early. If you are the host and your teammates seem to use a doctor bag too early, they will be tased for short time in order to cancel their interaction.",
+	"saveequipment_help_popup_back" : "Back",
+	
+	"saveequipment_try_hint_medic_0" : "tried to use a medic bag before being downed",
+	"saveequipment_try_hint_medic_1" : "times.",
+	"saveequipment_try_message_medic_0" : "You tried to use a medic bag before being downed",
+	"saveequipment_try_message_medic_1" : "times.",
+	
+	"saveequipment_join_message_medic_0" : "In this lobby you will only be able to use DoctorBags if you're downed",
+	"saveequipment_join_message_medic_1" : "times.",
+	
+	"saveequipment_try_message_notallowed" : "This is not allowed in this lobby."
+}

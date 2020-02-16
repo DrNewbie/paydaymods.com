@@ -1,0 +1,23 @@
+{
+	"name" : "Basic Voices Reborn 4 - Various Stuff"
+	"description" : "Play various lines from civilians, Santa, Goats, Bile and SFX sounds."
+	"author" : "Lanz"
+	"contact" : "francoisbastidas66@gmail.com"
+	"version" : "v1.00"
+	"priority" : 260
+	"updates" : 
+	[
+	    {
+		    "revision" : 1,
+			"identifier" : "basicvoicesrebornHSUMVHBMBCCG",
+		}
+	],
+	"hooks" : 
+	[
+		{"hook_id" : "lib/managers/menumanager",
+		"script_path" : "basicvoices4.lua"}
+	]
+}
+	
+	
+	

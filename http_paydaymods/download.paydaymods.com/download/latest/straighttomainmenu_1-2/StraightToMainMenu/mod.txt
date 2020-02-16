@@ -1,0 +1,23 @@
+{
+	"name" : "Straight To Main Menu",
+	"description" : "Bypasses all intro videos and the attract screen (skipping the latter only if the sole connected input device is a keyboard), skipping straight to the game's main menu",
+	"author" : "Snh20",
+	"version" : "0.0.1",
+	"priority" : 10,
+	"updates" : [
+		{
+			"revision" : 1,
+			"identifier" : "straighttomainmenu"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/setups/menusetup",
+			"script_path" : "menusetup.lua"
+		},
+		{
+			"hook_id" : "lib/states/menutitlescreenstate",
+			"script_path" : "menutitlescreenstate.lua"
+		}
+	]
+}

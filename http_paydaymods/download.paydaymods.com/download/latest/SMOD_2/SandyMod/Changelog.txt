@@ -1,0 +1,108 @@
+Weapons:
+-All bows and crossbows can now pierce armor
+
+-Vulcan Minigun has increased accuracy
+
+
+>Rattlesnake
+-Damaged increased to 208, ammo increased to 60
+
+>Thanatos
+-Damage increased to 5800, ammo decreased to 11
+
+>Lebensauger
+-Damage increased to 504, ammo decreased to 30
+
+>R93
+-Damage increased to 787.5, ammo decreased to 23
+
+>Platypus
+-Damage increased to 787.5, ammo decreased to 23
+
+>Nagant
+-Damage increased to 630
+
+>Repeater
+-Damage increased to 504, ammo decreased to 34
+
+>Car-4
+-Rate of fire increased to 800
+
+>AK
+-Rate of fire increased to 875
+
+
+Weapon Mods:
+>Barrels
+-AK Slavic Dragon Barrel now has +12 stability, increased conealment, damage +4
+
+-CAR-4 Short Barrel stability now +4, damage +4
+
+-CAR-4 Long Barrel Stability now -8
+
+-Gewehr 3 assault pack gives ammo pickup bonus appropriate to it's total ammo.
+
+-Gewehr 3 sniper kit no longer cuts ammo pickup
+
+
+>Barrels (NOT extensions)
+-Commando 553 long barrel now gives -12 stability
+
+
+>Barrel Extensions:
+-Stubby Compenastor added +4 accuracy
+
+-Firebreather damage increased +1
+
+-Tank Compensator damage increased +1
+
+-Funnel of Fun damage increased to 10, accuracy now -12
+
+
+>Gadgets
+-Assault Flashlight now has +12 stability, increased threat, decreased concealment
+
+-Tactical Laser Module now has +4 accuracy
+
+
+>Foregrips:
+-Keymod Rail stability now -12
+
+-Crabs Rail accuracy now -8, stability now +12, concealment now -1
+
+-Lightweight Rail stability now -8, concealment now 0
+
+-Battleproven Handguard accuracy now 0, stability +4, damage + 1, concealment -1
+
+-The Tactical Russian Handguard accuracy now +4. stability now -4
+
+-Railed Wooden Handguard stability now +4, concealment now +2
+
+-E.M.O. Forgrip concealment now -1
+
+-Aftermarket Speacial Handguard damage +1, accuracy increased by 4, concealment now -2
+
+-OVAL Forgrip stability reduced to +12 (from +16)
+
+
+>Grips
+-Rubber Grip stability now 0
+
+
+>Lower Reciever
+-THRUST Lower Reciever now has -4 accuracy and -4 stability
+
+>Magazines
+-CAR Quadstacked Mag no longer gives stability bonus
+
+-L5 Magazine stability now 0, accuracy +4
+
+-M4 Quadstacked mag stability now 0
+
+
+>Stocks
+-M4 Tactical Stock now gives +4 accuracy, +1 concealment
+
+-AK Standard stock now gives -4 accuracy, + 4 stability
+
+-Commando 553 enhanced stock now gives +12 accuracy as well

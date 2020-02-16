@@ -1,0 +1,149 @@
+{
+	"menu_id" : "khud_menu_panel_crosshair",
+	"parent_menu_id" : "khud_mainmenu",
+	"title" : "khud_menu_panel_crosshair_title",
+	"description" : "khud_menu_panel_crosshair_desc",
+	"priority" : 11,
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "khud_show_crosshair",
+			"title" : "khud_show_crosshair_title",
+			"description" : "khud_show_crosshair_desc",
+			"callback" : "callback_khud_show_crosshair",
+			"value" : "show_crosshair"
+		},
+		{
+			"type" : "divider",
+			"size" : 24
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_crosshair_scanner",
+			"title" : "khud_crosshair_scanner_title",
+			"description" : "khud_crosshair_scanner_desc",
+			"callback" : "callback_khud_crosshair_scanner",
+			"value" : "crosshair_scanner"
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_crosshair_fade_ads",
+			"title" : "khud_crosshair_fade_ads_title",
+			"description" : "khud_crosshair_fade_ads_desc",
+			"callback" : "callback_khud_crosshair_fade_ads",
+			"value" : "crosshair_fade_ads"
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_crosshair_master_opacity",
+			"title" : "khud_crosshair_master_opacity_title",
+			"description" : "khud_crosshair_master_opacity_desc",
+			"callback" : "callback_khud_crosshair_master_opacity",
+			"value" : "crosshair_master_opacity",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 1,
+			"step" : 0.01
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_crosshair_show_circle",
+			"title" : "khud_crosshair_show_circle_title",
+			"description" : "khud_crosshair_show_circle_desc",
+			"callback" : "callback_khud_crosshair_show_circle",
+			"value" : "crosshair_show_circle"
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_crosshair_circle_scale",
+			"title" : "khud_crosshair_circle_scale_title",
+			"description" : "khud_crosshair_circle_scale_desc",
+			"callback" : "callback_khud_crosshair_circle_scale",
+			"value" : "crosshair_circle_scale",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 100,
+			"step" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_crosshair_show_cross",
+			"title" : "khud_crosshair_show_cross_title",
+			"description" : "khud_crosshair_show_cross_desc",
+			"callback" : "callback_khud_crosshair_show_cross",
+			"value" : "crosshair_show_cross"
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_crosshair_cross_w",
+			"title" : "khud_crosshair_cross_w_title",
+			"description" : "khud_crosshair_cross_w_desc",
+			"callback" : "callback_khud_crosshair_cross_w",
+			"value" : "crosshair_cross_w",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 100,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_crosshair_cross_h",
+			"title" : "khud_crosshair_cross_h_title",
+			"description" : "khud_crosshair_cross_h_desc",
+			"callback" : "callback_khud_crosshair_cross_h",
+			"value" : "crosshair_cross_h",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 100,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_crosshair_cross_offset",
+			"title" : "khud_crosshair_cross_offset_title",
+			"description" : "khud_crosshair_cross_offset_desc",
+			"callback" : "callback_khud_crosshair_cross_offset",
+			"value" : "crosshair_cross_offset",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 100,
+			"step" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_crosshair_show_dot",
+			"title" : "khud_crosshair_show_dot_title",
+			"description" : "khud_crosshair_show_dot_desc",
+			"callback" : "callback_khud_crosshair_show_dot",
+			"value" : "crosshair_show_dot"
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_crosshair_dot_scale",
+			"title" : "khud_crosshair_dot_scale_title",
+			"description" : "khud_crosshair_dot_scale_desc",
+			"callback" : "callback_khud_crosshair_dot_scale",
+			"value" : "crosshair_dot_scale",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 100,
+			"step" : 1
+		}
+	]
+}

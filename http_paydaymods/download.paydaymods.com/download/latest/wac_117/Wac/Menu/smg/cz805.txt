@@ -1,0 +1,108 @@
+{
+	"menu_id" : "wac_menu_smg_cz805",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_cz805_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_cz805stndb",
+			"title" : "wac_replace_stndb_title",
+			"callback" : "callback_toggle_replace_cz805stndb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_medb_multi",
+				"wac_shortb_multi"
+			],
+			"value" : "replace_cz805stndb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_cz805shortb",
+			"title" : "wac_replace_shortb_title",
+			"callback" : "callback_toggle_replace_cz805shortb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_medb_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_cz805shortb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_cz805medb",
+			"title" : "wac_replace_mediumb_title",
+			"callback" : "callback_toggle_replace_cz805medb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_shortb_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_cz805medb",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_cz805flashhider",
+			"title" : "wac_replace_useownflashhider_title",
+			"callback" : "callback_toggle_replace_cz805flashhider",
+			"value" : "replace_cz805flashhider",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_cz805st",
+			"title" : "wac_replace_stndst_title",
+			"callback" : "callback_toggle_replace_cz805st",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi",
+				"m4_s_stnd_multi",
+				"m4_s_crane_multi",
+				"m4_s_ubr_multi",
+				"m4_vltor_multi"
+			],
+			"value" : "replace_cz805st",
+			"default_value" : 1
+		},		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_cz805vertgrip",
+			"title" : "wac_replace_stndvertgrip_title",
+			"callback" : "callback_toggle_replace_cz805vertgrip",		
+			"items" : [
+				"wac_default_multi",
+				"stubbygrip_multi",
+				"vertgrip_multi",
+				"afg2_multi",
+				"hk416cvert_multi",
+				"vectorvert_multi",
+				"surefirem900_multi",
+				"novertgrip_multi"
+			],
+			"value" : "replace_cz805vertgrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_cz805single",
+			"title" : "wac_replace_singlefire_title",
+			"description" : "wac_singlefiremode_desc",
+			"callback" : "callback_toggle_replace_cz805single",
+			"value" : "replace_cz805single",
+			"default_value" : false
+		}
+	]
+}

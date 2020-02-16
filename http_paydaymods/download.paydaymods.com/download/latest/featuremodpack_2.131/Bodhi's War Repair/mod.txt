@@ -1,0 +1,90 @@
+{
+	"name" : "Bodhi's War Repair",
+	"description" : "A pack of mods that add or replicate some popular features so they can be used in the BLT standalone hook.",
+	"author" : "Various",
+	"priority" : 30,
+	"updates" : [
+		{
+			"revision" : 2.131,
+			"identifier" : "featuremodpack"
+		}
+	],
+	"hooks" : [
+		{ 	"hook_id" : "lib/managers/menumanager",
+			"script_path" : "Menu/bodhis_war_repair_menu.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/stageendscreengui",
+			"script_path" : "Lua/Skipping and Picking/screeningcards.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/lootdropscreengui",
+			"script_path" : "Lua/Skipping and Picking/screeningcards.lua"
+		},
+		{
+			"hook_id" : "lib/states/ingamewaitingforplayers",
+			"script_path" : "Lua/Skipping and Picking/screeningcards.lua"
+		},
+		{
+			"hook_id" : "lib/managers/group_ai_states/groupaistatebase",
+			"script_path" : "Lua/Pacified Civilians/pacifiedcivs.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hudmanagerpd2",
+			"script_path" : "Lua/VOIP Bubble/voipbubble.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudteammate",
+			"script_path" : "Lua/VOIP Bubble/voipbubble.lua"
+		},
+		{
+			"hook_id" : "lib/managers/group_ai_states/groupaistatebase",
+			"script_path" : "Lua/Pager Count/pagers.lua"
+		},
+		{
+			"hook_id" : "lib/managers/hud/hudblackscreen",
+			"script_path" : "Lua/Pager Count/pagers.lua"
+		},
+		{
+			"hook_id" : "lib/network/handlers/unitnetworkhandler",
+			"script_path" : "Lua/Pager Count/pagers.lua"
+		},
+		{
+			"hook_id" : "lib/units/interactions/interactionext",
+			"script_path" : "Lua/Pager Count/pagers.lua"
+		},
+		{
+			"hook_id" : "lib/units/enemies/cop/copbrain",
+			"script_path" : "Lua/Pager Count/pagers.lua"
+		}
+	],
+	"keybinds" : [
+		{
+        "keybind_id" : "pagers_keybind",
+        "name" : "BWR: Utilities Count",
+        "description" : "Reports the current pager count, guards remaining, and number of guards intimidated in your chat. All can enabled/disabled as you wish in the options.",
+        "script_path" : "Lua/Utilities/utilitieskeybind.lua",
+        "run_in_menu" : false,
+        "run_in_game" : true,
+        "localized" : false,
+		},
+		{
+        "keybind_id" : "pagers_add",
+        "name" : "BWR: Add Pager Count",
+        "description" : "Adds one to your (clientside) Pager Count.",
+        "script_path" : "Lua/Pager Count/pageradd.lua",
+        "run_in_menu" : false,
+        "run_in_game" : true,
+        "localized" : false,
+		},
+		{
+        "keybind_id" : "pagers_remove",
+        "name" : "BWR: Remove Pager Count",
+        "description" : "Removes one from your (clientside) Pager Count.",
+        "script_path" : "Lua/Pager Count/pagerremove.lua",
+        "run_in_menu" : false,
+        "run_in_game" : true,
+        "localized" : false,
+		}
+	]
+}

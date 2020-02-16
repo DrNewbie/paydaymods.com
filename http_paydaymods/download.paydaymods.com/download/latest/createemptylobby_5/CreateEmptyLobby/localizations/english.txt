@@ -1,0 +1,4 @@
+{
+	"create_empty_lobby_title" : "Create Empty Lobby",
+	"create_empty_lobby_desc" : "Create a contractless multiplayer lobby.\n(defaults to friends-only, changeable to public or private)"
+}

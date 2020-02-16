@@ -1,0 +1,19 @@
+{
+	"name" : "Crime Spree Rank Spread Filter Fix",
+	"description" : "Makes the Crime Spree Rank Spread filter actually function the way you would expect it to",
+	"author" : "Snh20",
+	"version" : "0.0.1",
+	"priority" : 15,
+	"updates" : [
+		{
+			"revision" : 1,
+			"identifier" : "crimespreerankspreadfilterfix"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/network/matchmaking/networkmatchmakingsteam",
+			"script_path" : "networkmatchmakingsteam.lua"
+		}
+	]
+}

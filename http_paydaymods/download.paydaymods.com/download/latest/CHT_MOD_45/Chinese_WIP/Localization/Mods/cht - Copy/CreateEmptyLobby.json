@@ -1,0 +1,4 @@
+{
+	"create_empty_lobby_title" 	: "快建空白大廳",
+	"create_empty_lobby_desc"	: "建立一個尚未選擇合約的房間。\n ( 預設好友房，可改私人或公開 ) "
+}

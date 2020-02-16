@@ -1,0 +1,23 @@
+{
+	"name" : "Basic Voices Reborn 11 - Guards"
+	"description" : "Play lines from guards."
+	"author" : "Lanz"
+	"contact" : "francoisbastidas66@gmail.com"
+	"version" : "v1.00"
+	"priority" : 190
+    "updates" : 
+	[
+	    {
+		    "revision" : 1,
+			"identifier" : "basicvoicesrebornHSUMVHBMBCCG",
+		}
+	],
+	"hooks" : 
+	[
+		{"hook_id" : "lib/managers/menumanager",
+		"script_path" : "basicvoices11.lua"}
+	]
+}
+	
+	
+	

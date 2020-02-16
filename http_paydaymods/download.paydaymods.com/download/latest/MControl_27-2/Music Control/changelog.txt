@@ -1,0 +1,53 @@
+=======
+# R23 #
+=======
+## Major changes in this update ##
+-----------------------------------
+Recommend deleting Music_control.txt from mod/saves folder
+To future-proof this mod the following changes have been made :
+-   Removed version number and using revision number
+-   Removed Alesso playlist
+-   Removed Override Heist option
+-   Renamed menu options to describe their purpose more clearer
+-
+-   Changed how playlists are created to prevent potential crashes when new heists are released
+-   New heists that locks music (i.e. Alesso, Shadow Raid, Murky Station) will automatically be categorized as "music-locked" heists
+-   Music-locked heists have access to all custom menu playlists instead of a single playlist
+-   Stopping music on music-locked heists can resume music or have controls disabled
+-
+-   The update music button can also create the Songs.txt file if it is missing
+-   Added 3 additional playlists (total: 10 customizable playlists)
+-   Added Autoplay[duration] that changes music based on time length in seconds
+-   Autoplay[assault wave] is an old feature that changes music in between assault waves
+-   Added a quick menu for easier access to all music control options
+-   Added a alternative menu by holding shift and the quickmenu button
+=======
+# R24 #
+=======
+-   Added Turkish Localization by Sidknee
+-   Added notification to remind user to change playlist on music-locked heists
+=======
+# R25 #
+=======
+-   Added music shuffling for autoplay as a separate function
+=======
+# R26 #
+=======
+-  Updated German translation by FuRiouS
+-  Updated Turkish translation by Sidknee
+=======
+# R27 #
+=======
+-  Empty playlists are automatically omitted from playlist rotation
+-  Minor code update related to music-locked heists
+===========
+# CREDITS #
+===========
+AUTHOR: Spiltmilk (http://steamcommunity.com/id/cheezitmeister/)
+COAUTHOR: FishTaco (http://steamcommunity.com/id/zo0mer170/)
+FRENCH TRANSLATION: Mr.PlayYou
+GERMAN TRANSLATION: FeelAlive and FuRiouS
+KOREAN TRANSLATION: Payday2kor
+RUSSIAN TRANSLATION: Kowa4ui_korm"
+TURKISH TRANSLATION: Sidknee
+PAYDAY SOURCE: YaPh1l

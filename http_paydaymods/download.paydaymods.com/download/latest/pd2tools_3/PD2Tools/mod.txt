@@ -1,0 +1,22 @@
+{
+	"name" : "PD2Tools",
+	"description" : "Allows players to import loadouts downloaded from http://pd2tools.com",
+	"author" : "Blue Screen of Death",
+	"contact" : "bsod@pd2tools.com",
+	"version" : "2.0",
+	"blt_version" : 2,
+	"color" : "11 11 21",
+	"image" : "pd2tools.png",
+	"updates" : [
+		{
+			"revision" : 3,
+			"identifier" : "pd2tools"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menu/multiprofileitemgui",
+			"script_path" : "lua/MultiProfileItemGui.lua"
+		}
+	]
+}

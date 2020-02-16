@@ -1,0 +1,22 @@
+{
+	"name" : "Basic Voices"
+	"description" : "Allows you to play voices/sounds in PAYDAY 2 using custom keybinds."
+	"author" : "Danze Fantaztic"
+	"contact" : "DanzeFantaztic@gmail.com"
+	"version" : "v1.6.2"
+    "updates" : 
+	[
+	    {
+		    "revision" : 31,
+			"identifier" : "basicvoices",
+		}
+	],
+	"hooks" : 
+	[
+		{"hook_id" : "lib/managers/menumanager",
+		"script_path" : "basicvoices.lua"}
+	]
+}
+	
+	
+	

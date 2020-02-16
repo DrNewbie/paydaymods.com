@@ -1,0 +1,23 @@
+{
+    "name" : "Auto Fire Sound Fix",
+    "description" : "A fix of the duplicated sound when firing one bullet in auto mode.",
+    "author" : "90e (original script), DarKobalt (updates)",
+    "contact" : "",
+    "version" : "2.2.2",
+    "priority" : 10,
+	"hooks" : [
+    {   
+        "hook_id" : "lib/units/weapons/raycastweaponbase",
+        "script_path" : "AutoFireSoundFix.lua"
+    }
+	],
+	"updates" : [
+    {
+        "revision" : 1,
+        "identifier" : "AFSoundFix",
+    }
+	]
+}
+
+
+

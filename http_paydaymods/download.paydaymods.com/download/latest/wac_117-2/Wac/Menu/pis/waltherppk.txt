@@ -1,0 +1,35 @@
+{
+	"menu_id" : "wac_menu_pis_waltherppk",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_waltherppk_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_walterpplasergrip",
+			"title" : "wac_replace_lasergrip_title",
+			"callback" : "callback_toggle_replace_walterpplasergrip",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_walterpplasergrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_walterppslide",
+			"title" : "wac_replace_longsl_title",
+			"callback" : "callback_toggle_replace_walterppslide",		
+			"items" : [
+				"wac_default_multi",
+				"stndslide_multi"
+			],
+			"value" : "replace_walterppslide",
+			"default_value" : 1
+		}
+	]
+}

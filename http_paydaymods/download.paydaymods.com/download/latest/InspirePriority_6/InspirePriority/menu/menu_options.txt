@@ -1,0 +1,137 @@
+{
+	"menu_id" : "inspirepriority_menu_id",
+	"parent_menu_id" : "lua_mod_options_menu",
+	"title" : "inspirepriority_menu_title",
+	"description" : "inspirepriority_menu_desc",
+	"focus_changed_callback" : "InspirePriorityMenuChangeFocus",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "inspirepriority_help",
+			"title" : "inspirepriority_help_title",
+			"description" : "inspirepriority_help_desc",
+			"callback" : "callback_button_inspirepriority_help",
+		},
+		{
+			"type" : "divider",
+			"size" : 60,
+		},
+		{
+			"type" : "toggle",
+			"id" : "inspirepriority_shout_priority",
+			"title" : "inspirepriority_shout_priority_title",
+			"description" : "inspirepriority_shout_priority_desc",
+			"callback" : "callback_toggle_inspirepriority_shout_priority",
+			"value" : "toggle_inspirepriority_shout_priority_value",
+			"default_value" : true
+		},
+		{
+			"type" : "divider",
+			"size" : 60,
+		},
+		
+		{
+			"type" : "toggle",
+			"id" : "inspirepriority_disable_interaction",
+			"title" : "inspirepriority_disable_interaction_title",
+			"description" : "inspirepriority_disable_interaction_desc",
+			"callback" : "callback_toggle_inspirepriority_disable_interaction",
+			"value" : "toggle_inspirepriority_disable_interaction_value",
+			"default_value" : true
+		},
+		{
+			"type" : "divider",
+			"size" : 15,
+		},
+		{
+			"type" : "subtoggle",
+			"id" : "inspirepriority_reenable_medic",
+			"title" : "inspirepriority_reenable_medic_title",
+			"description" : "inspirepriority_reenable_medic_desc",
+			"callback" : "callback_toggle_inspirepriority_reenable_medic",
+			"value" : "toggle_inspirepriority_reenable_medic_value",
+			"default_value" : true
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "inspirepriority_reenable_medic_downs",
+			"title" : "inspirepriority_reenable_medic_downs_title",
+			"description" : "inspirepriority_reenable_medic_downs_desc",
+			"callback" : "callback_multi_inspirepriority_reenable_medic_downs",
+			"items" : [
+				"inspirepriority_reenable_medic_downs_option_0",
+				"inspirepriority_reenable_medic_downs_option_1",
+				"inspirepriority_reenable_medic_downs_option_2",
+				"inspirepriority_reenable_medic_downs_option_3",
+				"inspirepriority_reenable_medic_downs_option_4"
+			],
+			"value" : "multi_inspirepriority_reenable_medic_downs_value",
+			"default_value" : 4,
+		},
+		{
+			"type" : "divider",
+			"size" : 20,
+		},
+		{
+			"type" : "subtoggle",
+			"id" : "inspirepriority_reenable_revive",
+			"title" : "inspirepriority_reenable_revive_title",
+			"description" : "inspirepriority_reenable_revive_desc",
+			"callback" : "callback_toggle_inspirepriority_reenable_revive",
+			"value" : "toggle_inspirepriority_reenable_revive_value",
+			"default_value" : true
+		},
+		{
+			"type" : "slider",
+			"id" : "inspirepriority_reenable_revive_secs",
+			"title" : "inspirepriority_reenable_revive_secs_title",
+			"description" : "inspirepriority_reenable_revive_secs_desc",
+			"callback" : "callback_slider_inspirepriority_reenable_revive_secs",
+			"value" : "slider_inspirepriority_reenable_revive_secs_value",
+			"show_value": true,
+			"min" : 0,
+			"max" : 30,
+			"step" : 0.01,
+		},
+		{
+			"type" : "divider",
+			"size" : 20,
+		},
+		{
+			"type" : "subtoggle",
+			"id" : "inspirepriority_steel_sight_reenable",
+			"title" : "inspirepriority_steel_sight_reenable_title",
+			"description" : "inspirepriority_steel_sight_reenable_desc",
+			"callback" : "callback_toggle_inspirepriority_steel_sight_reenable",
+			"value" : "toggle_inspirepriority_steel_sight_reenable_value",
+			"default_value" : true
+		},
+		{
+			"type" : "divider",
+			"size" : 60,
+		},
+		
+		{
+			"type" : "toggle",
+			"id" : "inspirepriority_fail_message",
+			"title" : "inspirepriority_fail_message_title",
+			"description" : "inspirepriority_fail_message_desc",
+			"callback" : "callback_toggle_inspirepriority_fail_message",
+			"value" : "toggle_inspirepriority_fail_message_value",
+			"default_value" : true
+		},
+		{
+			"type" : "divider",
+			"size" : 15,
+		},
+		{
+			"type" : "subtoggle",
+			"id" : "inspirepriority_fail_message_vulgar",
+			"title" : "inspirepriority_fail_message_vulgar_title",
+			"description" : "inspirepriority_fail_message_vulgar_desc",
+			"callback" : "callback_toggle_inspirepriority_fail_message_vulgar",
+			"value" : "toggle_inspirepriority_fail_message_vulgar_value",
+			"default_value" : true
+		}
+	]
+}

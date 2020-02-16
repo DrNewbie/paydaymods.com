@@ -1,0 +1,1614 @@
+[
+{
+	 "i"		: 1
+	,"ids"		: "Idstring(@IDe711e3ff6c958997@)"
+	,"StringID"	: "dialog_blackmarket_item"
+	,"orig_text": "$item;"
+},{
+	 "i"		: 2
+	,"ids"		: "Idstring(@ID404ca5dfb61a5180@)"
+	,"StringID"	: "dialog_transaction_successful"
+	,"orig_text": "TRANSACTION SUCCESSFUL"
+},{
+	 "i"		: 3
+	,"ids"		: "Idstring(@IDc28d813d365b5f9c@)"
+	,"StringID"	: "dialog_save_settings_failed"
+	,"orig_text": "Saving operation failed"
+},{
+	 "i"		: 4
+	,"ids"		: "Idstring(@ID2b57682b548baed6@)"
+	,"StringID"	: "dialog_unlock_skill_switch_free"
+	,"orig_text": "This one is free of charge."
+},{
+	 "i"		: 5
+	,"ids"		: "Idstring(@IDd66ffb9f745693bd@)"
+	,"StringID"	: "dialog_age_restriction"
+	,"orig_text": "Online service is disabled on your Sony Entertainment Network account due to parental control restrictions."
+},{
+	 "i"		: 6
+	,"ids"		: "Idstring(@IDab8f39737b0bf7f7@)"
+	,"StringID"	: "dialog_require_dlc_gage_pack_jobs"
+	,"orig_text": "Requires Gage Mod Courier DLC!"
+},{
+	 "i"		: 7
+	,"ids"		: "Idstring(@ID598e3b23ed55afc6@)"
+	,"StringID"	: "dialog_no"
+	,"orig_text": "No"
+},{
+	 "i"		: 8
+	,"ids"		: "Idstring(@ID00f04db38f04d2a4@)"
+	,"StringID"	: "dialog_cs_claim_rewards"
+	,"orig_text": "Claim Rewards"
+},{
+	 "i"		: 9
+	,"ids"		: "Idstring(@IDb97af1bfe5ebae14@)"
+	,"StringID"	: "dialog_fail_load_setting_corrupt"
+	,"orig_text": "Settings file corrupt. Data will now be deleted."
+},{
+	 "i"		: 10
+	,"ids"		: "Idstring(@IDc58fca55ca0c08dc@)"
+	,"StringID"	: "dialog_vote_kick_yes"
+	,"orig_text": "Kick"
+},{
+	 "i"		: 11
+	,"ids"		: "Idstring(@ID0f50a84e254ecb32@)"
+	,"StringID"	: "dialog_new_unlock_weapon_mods"
+	,"orig_text": "You just got your first weapon modification. You can access the weapon modification screen by selecting a bought weapon and choosing MODIFY WEAPON from the menu.$NL;Follow the exclamation marks on your bought weapons to find your latest drops."
+},{
+	 "i"		: 12
+	,"ids"		: "Idstring(@ID31550cca23c639e7@)"
+	,"StringID"	: "dialog_err_room_no_longer_exists"
+	,"orig_text": "This room no longer exists, please try another one."
+},{
+	 "i"		: 13
+	,"ids"		: "Idstring(@IDef85ae00fa705012@)"
+	,"StringID"	: "dialog_allocate_skillpoint"
+	,"orig_text": "This will unlock the $skill; skill.$NL;$NL;It will cost $cost; and $points; out of $remaining_points; points."
+},{
+	 "i"		: 14
+	,"ids"		: "Idstring(@ID91fbf22ad1234dd4@)"
+	,"StringID"	: "dialog_inactive_user_accepted_invite"
+	,"orig_text": "An invitation has been accepted by an inactive user. The invitation is successfully completed after pressing START."
+},{
+	 "i"		: 15
+	,"ids"		: "Idstring(@IDd3cc35a78a39cca2@)"
+	,"orig_text": "Visit your safehouse atleast once."
+},{
+	 "i"		: 16
+	,"ids"		: "Idstring(@ID9a6652616b74eba5@)"
+	,"StringID"	: "dialog_err_wrong_version_message"
+	,"orig_text": "The game you are trying to join is running another version of PAYDAY 2. You are unable to join."
+},{
+	 "i"		: 17
+	,"ids"		: "Idstring(@IDbceda1db1fc92ef1@)"
+	,"orig_text": "Complete The Diamond heist on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 18
+	,"ids"		: "Idstring(@IDa05dfd0b2bdbad7f@)"
+	,"StringID"	: "dialog_mp_vote_restart_response_title"
+	,"orig_text": "Vote Restart"
+},{
+	 "i"		: 19
+	,"ids"		: "Idstring(@IDf43c6b077f919e41@)"
+	,"StringID"	: "ps4_presence_SPPlaying"
+	,"orig_text": "Playing single player heist"
+},{
+	 "i"		: 20
+	,"ids"		: "Idstring(@ID1e9e3603caaa01c8@)"
+	,"StringID"	: "dialog_bm_weapon_modify_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 21
+	,"ids"		: "Idstring(@IDb4cc8e5807494fa4@)"
+	,"StringID"	: "screen_autosaving_warning_WIN32"
+	,"orig_text": "This game saves data automatically at certain points.$NL;Please don't turn off the game when it is saving."
+},{
+	 "i"		: 22
+	,"ids"		: "Idstring(@ID0f8f83c8341b25e2@)"
+	,"StringID"	: "dialog_the_host_has_left_the_game"
+	,"orig_text": "The host has left the game"
+},{
+	 "i"		: 23
+	,"ids"		: "Idstring(@IDfb22aec0ea39238b@)"
+	,"orig_text": "Moving up in the World"
+},{
+	 "i"		: 24
+	,"ids"		: "Idstring(@IDd7c97917112c1b1a@)"
+	,"StringID"	: "dialog_fail_load_setting_wrong_version"
+	,"orig_text": "Settings file wrong version. Version $VERSION; or higher is required. Data will now be deleted."
+},{
+	 "i"		: 25
+	,"ids"		: "Idstring(@ID9ba29179715f2a76@)"
+	,"orig_text": "You proved you have what it takes to get in, get loud and get the job done. That brings contacts our way. Here's our first - Vlad Kozak. Vlad's crazy. Even for someone spat from the Russian mobscene, this big guy stands apart, Well, he likes your work. We'll see if that's a good thing. But before he lets you into bed with him, you're going to have to do a little grunt work."
+},{
+	 "i"		: 26
+	,"ids"		: "Idstring(@IDc42e67386ad06a9d@)"
+	,"StringID"	: "dialog_blackmarket_mod_conflict"
+	,"orig_text": "These modifications are not compatible and will be removed:$mods;"
+},{
+	 "i"		: 27
+	,"ids"		: "Idstring(@ID23e40ca7e6e50cc1@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_to_clear_progress"
+	,"orig_text": "Are you sure you want to clear your progress? This will reset your cash, reputation level and your inventory."
+},{
+	 "i"		: 28
+	,"ids"		: "Idstring(@ID88c600d2a1ba26a5@)"
+	,"StringID"	: "dialog_mp_restart_level_message"
+	,"orig_text": "Are you sure you want to create a vote for restarting?"
+},{
+	 "i"		: 29
+	,"ids"		: "Idstring(@ID07cab01153e3852e@)"
+	,"orig_text": "Honest Work"
+},{
+	 "i"		: 30
+	,"ids"		: "Idstring(@ID6406ae1ef7e5a757@)"
+	,"StringID"	: "dialog_safehouse_title"
+	,"orig_text": "Safe house"
+},{
+	 "i"		: 31
+	,"ids"		: "Idstring(@ID3df46d295237a34e@)"
+	,"StringID"	: "dialog_npcommerce_empty_store"
+	,"orig_text": "There is no content available for download at this time. Please try again later."
+},{
+	 "i"		: 32
+	,"ids"		: "Idstring(@ID16c2cc840c574c4e@)"
+	,"StringID"	: "dialog_yes"
+	,"orig_text": "Yes"
+},{
+	 "i"		: 33
+	,"ids"		: "Idstring(@ID995e693c0c9e13e9@)"
+	,"StringID"	: "dialog_repair_weapon_message"
+	,"orig_text": "Do you want to repair weapon \"$WEAPON;\" for $COST;?"
+},{
+	 "i"		: 34
+	,"ids"		: "Idstring(@ID648d25f7453bfb0e@)"
+	,"StringID"	: "dialog_load_wrong_user"
+	,"orig_text": "Save data belongs to a different user. No progress will be saved and trophies cannot be unlocked."
+},{
+	 "i"		: 35
+	,"ids"		: "Idstring(@IDe0d50b776c39edd1@)"
+	,"StringID"	: "dialog_ask_load_progress_backup_corrupt"
+	,"orig_text": "Progress profile corrupt. Load from Backup? Chosing NO will delete your progress."
+},{
+	 "i"		: 36
+	,"ids"		: "Idstring(@IDe9ec18309cbbfd49@)"
+	,"StringID"	: "dialog_can_become_infamous_desc"
+	,"orig_text": "You have fulfilled the conditions for the next level of infamy. To become infamous, press '$become_infamous_menu_item;' in the main menu."
+},{
+	 "i"		: 37
+	,"ids"		: "Idstring(@ID6880220ebcce7007@)"
+	,"StringID"	: "dialog_creating_lobby_title"
+	,"orig_text": "Creating game"
+},{
+	 "i"		: 38
+	,"ids"		: "Idstring(@ID5c93ee8d26ebce67@)"
+	,"StringID"	: "dialog_continue"
+	,"orig_text": "Continue"
+},{
+	 "i"		: 39
+	,"ids"		: "Idstring(@IDa098fbeda9e24957@)"
+	,"StringID"	: "dialog_new_unlock_masks"
+	,"orig_text": "You just got your first mask. All masks dropped will be placed in your stash. They can then be moved to an empty mask slot from where you can wear them and also customize if you got all the components for it."
+},{
+	 "i"		: 40
+	,"ids"		: "Idstring(@ID40a56bdd21fd8c6f@)"
+	,"StringID"	: "dialog_blackmarket_slot_mask_remove_suffix"
+	,"orig_text": "Customizations will be sold for $money;."
+},{
+	 "i"		: 41
+	,"ids"		: "Idstring(@ID4a9f3d3a0d05a60e@)"
+	,"StringID"	: "dialog_authentication_fail"
+	,"orig_text": "Steam could not authenticate your Steam ID."
+},{
+	 "i"		: 42
+	,"ids"		: "Idstring(@IDa0ebf5bb830ca2cc@)"
+	,"StringID"	: "dialog_err_room_is_closed"
+	,"orig_text": "This room is closed, please try another one."
+},{
+	 "i"		: 43
+	,"ids"		: "Idstring(@ID3aeb96ee28cd0347@)"
+	,"StringID"	: "dialog_blackmarket_slot_mask_remove"
+	,"orig_text": "Return this mask back to your stash? $suffix;"
+},{
+	 "i"		: 44
+	,"ids"		: "Idstring(@ID030207f37115bbc2@)"
+	,"StringID"	: "dialog_does_not_own_heist_info"
+	,"orig_text": "Heist \"$HEIST;\" cannot be played with player $PLAYER;."
+},{
+	 "i"		: 45
+	,"ids"		: "Idstring(@ID6770e1ab7097bbab@)"
+	,"orig_text": "Free Bird"
+},{
+	 "i"		: 46
+	,"ids"		: "Idstring(@ID9ad65d86d97c95f5@)"
+	,"StringID"	: "dialog_blackmarket_buy_weapon_slot"
+	,"orig_text": "Buying this will unlock one more weapon slot.$NL;$NL;This will cost you $money;."
+},{
+	 "i"		: 47
+	,"ids"		: "Idstring(@IDdd61eca721045da0@)"
+	,"orig_text": "Outstanding. People are starting to hear about the Payday Gang. I told you notoriety matters. You need it to get the real big scores. And the people who supply those scores are watching. They're waiting to see what you can do. I think I have just the jobs to do that."
+},{
+	 "i"		: 48
+	,"ids"		: "Idstring(@ID37bbdc4b4784cb36@)"
+	,"StringID"	: "dialog_demo_info_title"
+	,"orig_text": "Welcome to the demo of PAYDAY 2!"
+},{
+	 "i"		: 49
+	,"ids"		: "Idstring(@IDcb914488186a8e44@)"
+	,"StringID"	: "dialog_continue_cs_text"
+	,"orig_text": "Do you want to continue your Crime Spree?$NL;This will allow you to continue your Crime Spree from $level;$BTN_SPREE_TICKET; to gain Crime Spree Ranks and accumulate greater rewards.$NL;$NL;This will cost you $cost; Continental Coins."
+},{
+	 "i"		: 50
+	,"ids"		: "Idstring(@IDc249394c3ab57137@)"
+	,"StringID"	: "dialog_blackmarket_mask_sell_mod_readded"
+	,"orig_text": "$mod; will return to your inventory."
+},{
+	 "i"		: 51
+	,"ids"		: "Idstring(@ID8240c97ecc620f51@)"
+	,"StringID"	: "dialog_mp_groupinvite_title"
+	,"orig_text": "Game Request"
+},{
+	 "i"		: 52
+	,"ids"		: "Idstring(@IDd4fa1e45a02a2657@)"
+	,"StringID"	: "dialog_account_picker"
+	,"orig_text": "Switching profiles might cause unsaved progress to be lost. Do you wish to continue?"
+},{
+	 "i"		: 53
+	,"ids"		: "Idstring(@ID2cd503506226303f@)"
+	,"StringID"	: "dialog_cs_ga_in_progress"
+	,"orig_text": "Heist In Progress"
+},{
+	 "i"		: 54
+	,"ids"		: "Idstring(@ID12a75cf10dede0e6@)"
+	,"StringID"	: "dialog_game_started"
+	,"orig_text": "The game is currently not joinable"
+},{
+	 "i"		: 55
+	,"ids"		: "Idstring(@IDbb26e9492a9f12a7@)"
+	,"orig_text": "Highway Incident"
+},{
+	 "i"		: 56
+	,"ids"		: "Idstring(@IDb03531383d9ab27b@)"
+	,"StringID"	: "dialog_default_options_message"
+	,"orig_text": "Do you wish to reset all options to their default state?"
+},{
+	 "i"		: 57
+	,"ids"		: "Idstring(@ID9ea55957cb3c9506@)"
+	,"StringID"	: "dialog_wait"
+	,"orig_text": "Please wait"
+},{
+	 "i"		: 58
+	,"ids"		: "Idstring(@ID0e4213aa1f68d210@)"
+	,"StringID"	: "dialog_mp_invite_message"
+	,"orig_text": "Please Join my PAYDAY 2 Game"
+},{
+	 "i"		: 59
+	,"ids"		: "Idstring(@IDf6e2666ff5b05ab9@)"
+	,"StringID"	: "dialog_err_failed_searching_lobbys"
+	,"orig_text": "Failed retrieving games."
+},{
+	 "i"		: 60
+	,"ids"		: "Idstring(@ID302ff6cafe1f7e60@)"
+	,"orig_text": "Complete the Aftershock heist on hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 61
+	,"ids"		: "Idstring(@ID3d13dd1a54d918fd@)"
+	,"StringID"	: "dialog_too_low_level_ovk145"
+	,"orig_text": "OVERKILL 145+ cannot be played with people below reputation level 145."
+},{
+	 "i"		: 62
+	,"ids"		: "Idstring(@ID38a7aa743c3b9be4@)"
+	,"StringID"	: "dialog_blackmarket_num_in_inventory"
+	,"orig_text": "You own $amount; $item; already."
+},{
+	 "i"		: 63
+	,"ids"		: "Idstring(@IDe6e8e3ae9d1c2589@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_to_quit"
+	,"orig_text": "Are you sure you want to quit?"
+},{
+	 "i"		: 64
+	,"ids"		: "Idstring(@ID63e858a6f9583558@)"
+	,"StringID"	: "dialog_load_wrong_user_WIN32"
+	,"orig_text": "Save data belongs to a different user. No progress will be loaded."
+},{
+	 "i"		: 65
+	,"ids"		: "Idstring(@ID2c1c8b2543d2af39@)"
+	,"StringID"	: "dialog_new_unlock_materials"
+	,"orig_text": "You just got your first material for mask customization.$NL;To customize a mask you will need a material, pattern and a pair of colors."
+},{
+	 "i"		: 66
+	,"ids"		: "Idstring(@ID35099560ae5a1075@)"
+	,"StringID"	: "dialog_fail_load_setting_wrong_version_WIN32"
+	,"orig_text": "Settings file wrong version. Data will now be deleted."
+},{
+	 "i"		: 67
+	,"ids"		: "Idstring(@IDa72472ec93e515de@)"
+	,"orig_text": "All right, we got a new contact. A politician, calling himself The Elephant. Job is a bit of industrial sabotage. Some hot-shot scientist has figured out cold fusion. Sort of technology that will make the oil companies as dead as disco. And the \"Powers That Be\" have a lot of money in those companies, so The Elephant and his friends want to make sure this technology gets buried. Fine by me."
+},{
+	 "i"		: 68
+	,"ids"		: "Idstring(@ID1f851c99db5751a8@)"
+	,"StringID"	: "screen_autosaving_warning_X360"
+	,"orig_text": "This game saves data automatically at certain points.$NL;Please don't turn off your Xbox One when the following icon is displayed:"
+},{
+	 "i"		: 69
+	,"ids"		: "Idstring(@ID25fe517a19df2c4b@)"
+	,"StringID"	: "dialog_fail_load_progress_corrupt_retry"
+	,"orig_text": "Progress could not be loaded. Try loading again?"
+},{
+	 "i"		: 70
+	,"ids"		: "Idstring(@ID7bc0750f13e6b30c@)"
+	,"StringID"	: "dialog_fail_load_dlc_corrupt"
+	,"orig_text": "Corrupted downloadable content detected. Please go to the Memory section of the Dashboard, delete the corrupted content and download it again."
+},{
+	 "i"		: 71
+	,"ids"		: "Idstring(@ID68e0d418c0699888@)"
+	,"StringID"	: "dialog_challenge_warn_choose_reward_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 72
+	,"ids"		: "Idstring(@ID94c23bcc25ae123f@)"
+	,"StringID"	: "dialog_accept_changes"
+	,"orig_text": "Do you wish to keep these display settings? They will be reverted in $TIME;."
+},{
+	 "i"		: 73
+	,"ids"		: "Idstring(@ID00b268a982cb119f@)"
+	,"orig_text": "Complete the Mallcrasher and Four Store heists on hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 74
+	,"ids"		: "Idstring(@ID99e82748cd77fdc2@)"
+	,"StringID"	: "dialog_game_is_installing_menu"
+	,"orig_text": "This portion of the title has not been installed yet. Please try again when installation is complete."
+},{
+	 "i"		: 75
+	,"ids"		: "Idstring(@ID3e60707ea3ea31de@)"
+	,"orig_text": "Let's Make Some Money"
+},{
+	 "i"		: 76
+	,"ids"		: "Idstring(@IDed665b7784357d53@)"
+	,"StringID"	: "dialog_mp_pending_invite_message"
+	,"orig_text": "YOU HAVE A PENDING GAME INVITE. SIGN IN TO \"PlayStation Network\" USING THE 'PLAY ONLINE' OPTION IN THE MAIN MENU TO JOIN THE GAME."
+},{
+	 "i"		: 77
+	,"ids"		: "Idstring(@IDf7abbca640b5805f@)"
+	,"orig_text": "Secure four bags in the Shadow Raid heist. This can be done in multiple playthroughs.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 78
+	,"ids"		: "Idstring(@IDe3fab6edb7907bec@)"
+	,"StringID"	: "dialog_connection_to_host_lost"
+	,"orig_text": "Connection to the host has been lost"
+},{
+	 "i"		: 79
+	,"ids"		: "Idstring(@ID545629eab8214ca5@)"
+	,"StringID"	: "dialog_skip_signin_warning_X360"
+	,"orig_text": "Without signing in your progress will not be saved.$NL;$NL;Continue without saving?"
+},{
+	 "i"		: 80
+	,"ids"		: "Idstring(@IDc7b25e6e5fe83069@)"
+	,"StringID"	: "dialog_fail_load_progress_wrong_version_retry"
+	,"orig_text": "Progress file wrong version. Version $VERSION; or higher is required. Try loading again?"
+},{
+	 "i"		: 81
+	,"ids"		: "Idstring(@ID8735a83b3890bb7f@)"
+	,"StringID"	: "dialog_cs_ga_in_progress_text"
+	,"orig_text": "Gage Boosts can not be purchased after the mission has been started."
+},{
+	 "i"		: 82
+	,"ids"		: "Idstring(@ID4cb33094522609e4@)"
+	,"StringID"	: "dialog_connect_controller_text_WIN32"
+	,"orig_text": "Please insert controller."
+},{
+	 "i"		: 83
+	,"ids"		: "Idstring(@IDf38580d43fb828a1@)"
+	,"StringID"	: "dialog_information_title"
+	,"orig_text": "Information"
+},{
+	 "i"		: 84
+	,"ids"		: "Idstring(@IDbea985edfb6ebfa6@)"
+	,"StringID"	: "dialog_fail_load_progress_wrong_version_WIN32"
+	,"orig_text": "Progress file wrong version. Data will now be deleted."
+},{
+	 "i"		: 85
+	,"ids"		: "Idstring(@ID729821f19f0f2893@)"
+	,"StringID"	: "dialog_buy_weapon_message"
+	,"orig_text": "Do you want to buy weapon \"$WEAPON;\" for $COST;?"
+},{
+	 "i"		: 86
+	,"ids"		: "Idstring(@ID8b19a68c3834b557@)"
+	,"StringID"	: "dialog_cheated_host"
+	,"orig_text": "Couldn't play on an cheated server."
+},{
+	 "i"		: 87
+	,"ids"		: "Idstring(@ID601b3448c41c56b9@)"
+	,"StringID"	: "dialog_dlc_require_restart_desc"
+	,"orig_text": "You need to restart PAYDAY 2 to access your new items."
+},{
+	 "i"		: 88
+	,"ids"		: "Idstring(@ID59d25f6cba127a75@)"
+	,"orig_text": "Okay, Vlad - well, he likes how you do things. Says he's got a job for you. Something special. Something big. He wants you to boost 'something' from that Murkywater warehouse you hit for Gage, you remember that? Vlad is pitching against the Murkies. Something like that can only end in trouble for everyone. So make sure you hit it hard and fast."
+},{
+	 "i"		: 89
+	,"ids"		: "Idstring(@ID4ed68dbb4f27f604@)"
+	,"StringID"	: "dialog_mp_invite_wrong_version_message"
+	,"orig_text": "The game you have been invited to is running another version of PAYDAY 2. You are unable to join."
+},{
+	 "i"		: 90
+	,"ids"		: "Idstring(@ID9b3694a7e6cdfe7e@)"
+	,"StringID"	: "dialog_cs_claim_rewards_text"
+	,"orig_text": "Are you sure you want to claim your Crime Spree rewards?$NL;$NL;This will end your current Crime Spree lobby, and you will have to start a new one to gain rewards again."
+},{
+	 "i"		: 91
+	,"ids"		: "Idstring(@IDa8581fb9c2cafba4@)"
+	,"StringID"	: "dialog_signin_question_X360"
+	,"orig_text": "In order to save, you must be signed into a profile. Do you want to sign in now?"
+},{
+	 "i"		: 92
+	,"ids"		: "Idstring(@ID54106f4da23feb5a@)"
+	,"StringID"	: "dialog_blackmarket_mod_remove"
+	,"orig_text": "You are about to remove modification $mod; from your weapon."
+},{
+	 "i"		: 93
+	,"ids"		: "Idstring(@IDd4c0d8ce0509791d@)"
+	,"StringID"	: "dialog_err_failed_creating_lobby"
+	,"orig_text": "Failed to create game."
+},{
+	 "i"		: 94
+	,"ids"		: "Idstring(@ID43604e2e86c8c821@)"
+	,"StringID"	: "dialog_safehouse_text"
+	,"orig_text": "You haven't visited the safe house yet. Would you like to go there now?"
+},{
+	 "i"		: 95
+	,"ids"		: "Idstring(@ID7a1de103c7360ccf@)"
+	,"StringID"	: "dialog_mp_invite_title"
+	,"orig_text": "PAYDAY 2"
+},{
+	 "i"		: 96
+	,"ids"		: "Idstring(@ID50cc8adc19ed8d39@)"
+	,"orig_text": "Bullets in the Safe House"
+},{
+	 "i"		: 97
+	,"ids"		: "Idstring(@IDace02be1dcf0d587@)"
+	,"StringID"	: "dialog_blackmarket_finalize_item"
+	,"orig_text": "$ITEM;$NL; You are about to finalize your customizations, this process is irreversible and will cost you $money;."
+},{
+	 "i"		: 98
+	,"ids"		: "Idstring(@ID02d46b15aed95364@)"
+	,"StringID"	: "dialog_new_unlock_secondaries"
+	,"orig_text": "$value; has been unlocked and can be purchased into one of your empty secondary weapon slots."
+},{
+	 "i"		: 99
+	,"ids"		: "Idstring(@ID3d828cac0e88b8c7@)"
+	,"StringID"	: "dialog_connect_controller_title_X360"
+	,"orig_text": "Controller Disconnected"
+},{
+	 "i"		: 100
+	,"ids"		: "Idstring(@ID973d927d5de86913@)"
+	,"StringID"	: "sm_first_safehouse_desc"
+	,"orig_text": "Since you'll be out on the streets wreaking havoc, you're gonna need a place to call home- a safe house. I got just the place. It's nothing too fancy but it will have to do for now. Head over there and check it out, then later we can go about making some money."
+},{
+	 "i"		: 101
+	,"ids"		: "Idstring(@IDd99dccb4fc90a26a@)"
+	,"StringID"	: "dialog_blackmarket_mod_add"
+	,"orig_text": "You are about to add modification $mod; to your weapon."
+},{
+	 "i"		: 102
+	,"ids"		: "Idstring(@ID41df93a01d73a63d@)"
+	,"orig_text": "Claim Rewards"
+},{
+	 "i"		: 103
+	,"ids"		: "Idstring(@ID1a6c023a47c61546@)"
+	,"orig_text": "What We Do Best"
+},{
+	 "i"		: 104
+	,"ids"		: "Idstring(@ID458780e7fb35fcb0@)"
+	,"StringID"	: "dialog_mp_kick_player_message"
+	,"orig_text": "Player $PLAYER; will be kicked from this game. Do you wish to continue?"
+},{
+	 "i"		: 105
+	,"ids"		: "Idstring(@IDf873394a296563dc@)"
+	,"StringID"	: "dialog_dropin_title"
+	,"orig_text": "$USER; is joining the game"
+},{
+	 "i"		: 106
+	,"ids"		: "Idstring(@ID07e19c1769f55df2@)"
+	,"StringID"	: "dialog_accept"
+	,"orig_text": "Accept"
+},{
+	 "i"		: 107
+	,"ids"		: "Idstring(@IDa0baec6db16a595b@)"
+	,"StringID"	: "dialog_cs_crash_fail"
+	,"orig_text": "Crime Spree Failed"
+},{
+	 "i"		: 108
+	,"ids"		: "Idstring(@IDbb552b2ca5775aba@)"
+	,"StringID"	: "dialog_ask_save_progress_backup"
+	,"orig_text": "Save progress backup?"
+},{
+	 "i"		: 109
+	,"ids"		: "Idstring(@IDf1f99fe35b050acd@)"
+	,"orig_text": "Vlad has hooked us up with a contact in the cartel - Hector Morales. Not quite ready to let us in with their action, not until we prove ourselves. We need to build our notoriety. So time to get a few jobs under our belts. Enough to get your names on the lips of every cop and politician in DC. That should do it."
+},{
+	 "i"		: 110
+	,"ids"		: "Idstring(@ID4625d31e369353c6@)"
+	,"StringID"	: "dialog_err_not_signed_in_X360"
+	,"orig_text": "You are not signed into Xbox Live, or you do not have the correct permissions to access Xbox Live functionality."
+},{
+	 "i"		: 111
+	,"ids"		: "Idstring(@ID7b94456b1da051cc@)"
+	,"StringID"	: "dialog_parental_control"
+	,"orig_text": "Online service is disabled on your Sony Entertainment Network account due to parental control restrictions."
+},{
+	 "i"		: 112
+	,"ids"		: "Idstring(@ID4f42dfbc45a438b5@)"
+	,"StringID"	: "dialog_new_unlock_title"
+	,"orig_text": "Congratulations!"
+},{
+	 "i"		: 113
+	,"ids"		: "Idstring(@ID2f70362a6d2b3dea@)"
+	,"StringID"	: "dialog_key_binding_forbidden"
+	,"orig_text": "Key \"$KEY;\" is reserved by the game, please try something else."
+},{
+	 "i"		: 114
+	,"ids"		: "Idstring(@IDf9a95f51cad74aa0@)"
+	,"orig_text": "Complete either The Bomb: Dockyard or The Bomb: Forest on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 115
+	,"ids"		: "Idstring(@ID05381aa055d2829d@)"
+	,"StringID"	: "dialog_cs_crash_fail_text"
+	,"orig_text": "Your Crime Spree has failed due to an unexpected closure of the game.$NL;You can still pay the Continental Coin cost to continue."
+},{
+	 "i"		: 116
+	,"ids"		: "Idstring(@ID82f74a6fc464b723@)"
+	,"StringID"	: "dialog_new_unlock_textures"
+	,"orig_text": "You just got your first pattern for mask customization.$NL;To customize a mask you will need a material, pattern and a pair of colors."
+},{
+	 "i"		: 117
+	,"ids"		: "Idstring(@ID9f301fa3d5d9a9ab@)"
+	,"StringID"	: "dialog_unlock_skill_switch_spending"
+	,"orig_text": "It will cost you $spending; spending cash."
+},{
+	 "i"		: 118
+	,"ids"		: "Idstring(@ID6fc833abb8b78895@)"
+	,"StringID"	: "dialog_bm_mask_sell_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 119
+	,"ids"		: "Idstring(@ID9153cb24a0f7b863@)"
+	,"orig_text": "Payment Due"
+},{
+	 "i"		: 120
+	,"ids"		: "Idstring(@ID42124e2d44f483dd@)"
+	,"StringID"	: "dialog_infamous_info_desc"
+	,"orig_text": "You don't have what it takes yet. To become infamous, you will need to get to reputation level $level; and pay a fee of $cash; from your offshore account along with your skill points and the rest of your spending cash."
+},{
+	 "i"		: 121
+	,"ids"		: "Idstring(@IDd6d0a83293f8733b@)"
+	,"StringID"	: "dialog_join_pd2_clan"
+	,"orig_text": "Go to PAYDAY 2 community page"
+},{
+	 "i"		: 122
+	,"ids"		: "Idstring(@ID8fd151d8aa33c0ea@)"
+	,"StringID"	: "dialog_cs_ga_already_purchased_text"
+	,"orig_text": "You can only purchase one Gage Boost per Crime Spree mission."
+},{
+	 "i"		: 123
+	,"ids"		: "Idstring(@ID105ad4284504bc4b@)"
+	,"orig_text": "Vlad's happy, and, trust me, we want to keep that guy smiling. He's so happy, in fact, he's got a couple of jobs for you that're a little bit personal. Do these for him, he says, and we're gonna be his top guys. Can't hurt to do the big guy a couple of little favors, can it?"
+},{
+	 "i"		: 124
+	,"ids"		: "Idstring(@ID67207a8c1d64bba8@)"
+	,"StringID"	: "dialog_key_binding_collision"
+	,"orig_text": "Key \"$KEY;\" is already mapped to \"$MAPPED;\", please remap it first."
+},{
+	 "i"		: 125
+	,"ids"		: "Idstring(@IDb1084c65936ac7c9@)"
+	,"orig_text": "Promotion"
+},{
+	 "i"		: 126
+	,"ids"		: "Idstring(@ID77097a432d86771c@)"
+	,"StringID"	: "dialog_vote_cancel"
+	,"orig_text": "Abstain"
+},{
+	 "i"		: 127
+	,"ids"		: "Idstring(@ID566d2a4acbebb551@)"
+	,"StringID"	: "dialog_signin_change_title_X360"
+	,"orig_text": "Sign-in change"
+},{
+	 "i"		: 128
+	,"ids"		: "Idstring(@ID810cc3e5bad7ebbf@)"
+	,"orig_text": "Big Time"
+},{
+	 "i"		: 129
+	,"ids"		: "Idstring(@ID95a7bdadfccf879b@)"
+	,"StringID"	: "legal_text"
+	,"orig_text": "PAYDAY 2 © 2016 Starbreeze AB. All rights reserved.  PAYDAY 2, PAYDAY, Starbreeze, Starbreeze Studios, and the Starbreeze logo are trademarks or registered trademarks of Starbreeze AB in Sweden and/or other countries. Published by 505 Games. 505 Games and the 505 Games logo are registered trademarks of 505 Games S.r.l. All other trademarks are the property of their respective owners."
+},{
+	 "i"		: 130
+	,"ids"		: "Idstring(@ID52b7308a7b6f7a53@)"
+	,"StringID"	: "sm_moving_up_desc"
+	,"orig_text": "OK, I told you before that people are watching you, One guy in particular has an interest in you. I might have something big coming up with this new contact, but the job he has in mind will be difficult and you have to get ready for it. Come back when you've prepped a bit more and I will set you up."
+},{
+	 "i"		: 131
+	,"ids"		: "Idstring(@ID709a8f34e201d8c9@)"
+	,"StringID"	: "dialog_new_patch"
+	,"orig_text": "An update is needed to access online features."
+},{
+	 "i"		: 132
+	,"ids"		: "Idstring(@ID333fab910445e738@)"
+	,"StringID"	: "dialog_bm_mask_assemble_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 133
+	,"ids"		: "Idstring(@IDebfec02d7825a9b2@)"
+	,"StringID"	: "dialog_dlc_require_restart"
+	,"orig_text": "Attention"
+},{
+	 "i"		: 134
+	,"ids"		: "Idstring(@IDc27303d41a068d01@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_stop_cs_refund"
+	,"orig_text": "Are you sure you want to stop your Crime Spree?$NL;$NL;This will end your current spree, and no rewards will be given to you. Your initial investment of $coins; Continental Coins will be returned to you."
+},{
+	 "i"		: 135
+	,"ids"		: "Idstring(@ID3903e03d879c45b4@)"
+	,"StringID"	: "dialog_error_title"
+	,"orig_text": "Error"
+},{
+	 "i"		: 136
+	,"ids"		: "Idstring(@ID68650bf2f501f8b0@)"
+	,"StringID"	: "dialog_mp_restart_level_title"
+	,"orig_text": "Restart"
+},{
+	 "i"		: 137
+	,"ids"		: "Idstring(@ID54a1db0400d085c4@)"
+	,"StringID"	: "dialog_default_options_title"
+	,"orig_text": "Reset options"
+},{
+	 "i"		: 138
+	,"ids"		: "Idstring(@IDb9c85e18759663df@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_to_leave_game_crime_spree"
+	,"orig_text": "Are you sure you want to leave current game?$NL;$NL;This will cause your current Crime Spree to fail, and you must pay to continue, or claim your rewards from a Crime Spree lobby."
+},{
+	 "i"		: 139
+	,"ids"		: "Idstring(@IDdb4b06e1bdb94365@)"
+	,"StringID"	: "dialog_retrieving_servers_title"
+	,"orig_text": "Retrieving games"
+},{
+	 "i"		: 140
+	,"ids"		: "Idstring(@ID26f6f3d3a3fd501c@)"
+	,"StringID"	: "dialog_new_unlock_primaries"
+	,"orig_text": "$value; has been unlocked and can be purchased into one of your empty primary weapon slots."
+},{
+	 "i"		: 141
+	,"ids"		: "Idstring(@ID25ec7f75e2071ada@)"
+	,"StringID"	: "dialog_continue_cs_title"
+	,"orig_text": "Continue Crime Spree"
+},{
+	 "i"		: 142
+	,"ids"		: "Idstring(@ID7094e0c87b461a07@)"
+	,"StringID"	: "dialog_mp_vote_kick_response_title"
+	,"orig_text": "Vote Kick"
+},{
+	 "i"		: 143
+	,"ids"		: "Idstring(@ID878c7069228911d3@)"
+	,"orig_text": "The Elephant is more of a back-room power broker. Works through pawns he gets into position, and that is what he wants us to do now. He's got a man - Bob McCendrick - in the running to be DC's mayor. The Elephant wants to make sure his man wins that race."
+},{
+	 "i"		: 144
+	,"ids"		: "Idstring(@ID8637a1c6714ac8aa@)"
+	,"StringID"	: "dialog_logging_in"
+	,"orig_text": "Logging in"
+},{
+	 "i"		: 145
+	,"ids"		: "Idstring(@IDf940630ebb842fd9@)"
+	,"StringID"	: "sm_hoxton_revenge_desc"
+	,"orig_text": "Hoxton used his time on the inside well. He wasn't even out of his prison pyjamas before busting in the FBI headquarters and getting everything he could about the rat. No name - the Feds are too canny for that - but the location of the safehouse where the rat is being held. Time to finish this."
+},{
+	 "i"		: 146
+	,"ids"		: "Idstring(@IDfd5e5f82d408bc66@)"
+	,"StringID"	: "dialog_mp_pending_invite_short_message"
+	,"orig_text": "YOU HAVE A PENDING GAME INVITE."
+},{
+	 "i"		: 147
+	,"ids"		: "Idstring(@ID8880ef93bd5dcc45@)"
+	,"StringID"	: "dialog_bm_mask_custom_abort"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 148
+	,"ids"		: "Idstring(@ID6b1aa5125a63b4b8@)"
+	,"StringID"	: "dialog_skilltree_reseted"
+	,"orig_text": "Changes have been made to the skill tree.$NL;$NL;All your skills have been reset and your skill points as well as your cash has been refunded."
+},{
+	 "i"		: 149
+	,"ids"		: "Idstring(@ID0efe6bca213238fc@)"
+	,"StringID"	: "dialog_blackmarket_lost_mods_warning"
+	,"orig_text": "(Your removed modifications will be placed in the inventory)"
+},{
+	 "i"		: 150
+	,"ids"		: "Idstring(@ID1db97e708dbe0376@)"
+	,"orig_text": "Complete the White Xmas and Ukrainian Job heists in hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 151
+	,"ids"		: "Idstring(@ID55251f38048922a5@)"
+	,"StringID"	: "dialog_fail_load_progress_corrupt"
+	,"orig_text": "Progress corrupt. Data will now be deleted."
+},{
+	 "i"		: 152
+	,"ids"		: "Idstring(@IDad98d6faf232b263@)"
+	,"StringID"	: "dialog_bm_crafted_sell_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 153
+	,"ids"		: "Idstring(@ID45eb17091441ceec@)"
+	,"StringID"	: "dialog_challenge_warn_choose_reward"
+	,"orig_text": "Is this the reward you want?$NL;$reward;"
+},{
+	 "i"		: 154
+	,"ids"		: "Idstring(@IDab7053ae94cddf21@)"
+	,"StringID"	: "dialog_mp_invite_wrong_room_message"
+	,"orig_text": "The game you have been invited to no longer exists. You are unable to join."
+},{
+	 "i"		: 155
+	,"ids"		: "Idstring(@ID6953ea4309f82432@)"
+	,"StringID"	: "err_ins"
+	,"orig_text": "An error occurred while loading trophies. Please exit the game and try again."
+},{
+	 "i"		: 156
+	,"ids"		: "Idstring(@ID48c0d7e69ed28708@)"
+	,"StringID"	: "dialog_new_unlock_colors"
+	,"orig_text": "You just got your first pair of colors for mask customization.$NL;To customize a mask you will need a material, pattern and a pair of colors."
+},{
+	 "i"		: 157
+	,"ids"		: "Idstring(@IDdb712023985e817a@)"
+	,"StringID"	: "dialog_internet_connection_required"
+	,"orig_text": "A network connection is needed to access the online portions of this title."
+},{
+	 "i"		: 158
+	,"ids"		: "Idstring(@ID0426ead66deb1eb7@)"
+	,"StringID"	: "dialog_ask_load_progress_backup_wrong_version"
+	,"orig_text": "Progress profile wrong version. Load from Backup? Chosing NO will delete your progress."
+},{
+	 "i"		: 159
+	,"ids"		: "Idstring(@ID6284187c5af3cd84@)"
+	,"StringID"	: "dialog_wait_title"
+	,"orig_text": "Please wait"
+},{
+	 "i"		: 160
+	,"ids"		: "Idstring(@ID082c41a75ed8d97c@)"
+	,"orig_text": "The Crooks And The Crooked"
+},{
+	 "i"		: 161
+	,"ids"		: "Idstring(@ID1207dcecfde34739@)"
+	,"StringID"	: "dialog_infamytree_reseted"
+	,"orig_text": "Changes have been made to the infamy tree.$NL;$NL;All your infamy items have been reset and your infamy points have been refunded."
+},{
+	 "i"		: 162
+	,"ids"		: "Idstring(@ID4ba10cf73f044b64@)"
+	,"StringID"	: "dialog_connect_controller_title_WIN32"
+	,"orig_text": "No controller"
+},{
+	 "i"		: 163
+	,"ids"		: "Idstring(@ID764193484bde57da@)"
+	,"StringID"	: "dialog_blackmarket_mod_cost"
+	,"orig_text": "This will cost you $money;."
+},{
+	 "i"		: 164
+	,"ids"		: "Idstring(@ID92ff7206f7e0126e@)"
+	,"StringID"	: "dialog_unlock_skill_switch"
+	,"orig_text": "You are about to unlock a new skill set.$NL;$NL;$cost_text;"
+},{
+	 "i"		: 165
+	,"ids"		: "Idstring(@ID6651de972f808567@)"
+	,"StringID"	: "dialog_signin_change_X360"
+	,"orig_text": "A sign-in change occurred.$NL;You have been returned to the Title screen."
+},{
+	 "i"		: 166
+	,"ids"		: "Idstring(@ID9f3c1a4b4b2d3b3e@)"
+	,"StringID"	: "dialog_gage_assignment_completed"
+	,"orig_text": "From: Gage [gage@///REDACTED///]$NL;To: $player;$NL;Date: $date; $time;$NL;Subject: GAGE COURIER ASSIGNMENTS$NL;$NL;GOOD JOB!$NL;$NL;Well done, $player;. Thanks for collecting the packages. It's time to get your reward. Go to your inventory and you will find the content of the following packages:$NL;$completed;$NL;$NL;- Gage"
+},{
+	 "i"		: 167
+	,"ids"		: "Idstring(@ID76e15a203eb12454@)"
+	,"StringID"	: "dialog_err_not_signed_in"
+	,"orig_text": "YOU MUST BE ONLINE TO MAKE USE OF NETWORK MODES."
+},{
+	 "i"		: 168
+	,"ids"		: "Idstring(@ID2e07a6e72079e9bd@)"
+	,"StringID"	: "dialog_err_room_allready_joined"
+	,"orig_text": "You have already joined this room."
+},{
+	 "i"		: 169
+	,"ids"		: "Idstring(@ID622c3f8d9cb14f87@)"
+	,"StringID"	: "dialog_gage_assignment_completed_title"
+	,"orig_text": "YOU HAVE A NEW MESSAGE"
+},{
+	 "i"		: 170
+	,"ids"		: "Idstring(@ID1ddbe427a77fb505@)"
+	,"StringID"	: "dialog_blackmarket_mod_replace"
+	,"orig_text": "This will replace your current modification $mod;."
+},{
+	 "i"		: 171
+	,"ids"		: "Idstring(@ID6d5ec0a1a5f77d5f@)"
+	,"StringID"	: "dialog_mp_disconnected_internet_X360"
+	,"orig_text": "You have been disconnected from Xbox Live. You must be connected to access the online portions of this title."
+},{
+	 "i"		: 172
+	,"ids"		: "Idstring(@ID41a6731d678c91a4@)"
+	,"StringID"	: "ps4_presence_Idle"
+	,"orig_text": "In the menus"
+},{
+	 "i"		: 173
+	,"ids"		: "Idstring(@ID3f48e0948744105e@)"
+	,"StringID"	: "dialog_blackmarket_buy_item"
+	,"orig_text": "Do you really want to buy $item;?$NL;$NL;It will cost you $money;.$NL;$NL;$num_in_inventory;"
+},{
+	 "i"		: 174
+	,"ids"		: "Idstring(@IDf3daf9db4056fa2b@)"
+	,"StringID"	: "dialog_abort_mission_text"
+	,"orig_text": "Are you sure you would like to terminate the current contract?$NL;$NL;You and your crew will be returned to the planning phase where a new contract can be selected."
+},{
+	 "i"		: 175
+	,"ids"		: "Idstring(@ID0a2cbbde56a799fc@)"
+	,"StringID"	: "dialog_fetching_status_title"
+	,"orig_text": "Updating online state."
+},{
+	 "i"		: 176
+	,"ids"		: "Idstring(@IDbc5cb30a2572c095@)"
+	,"StringID"	: "dialog_cs_ga_already_purchased"
+	,"orig_text": "Already Purchased"
+},{
+	 "i"		: 177
+	,"ids"		: "Idstring(@ID6421e9e3904d01be@)"
+	,"StringID"	: "dialog_mp_vote_restart_message"
+	,"orig_text": "A vote has been initiated to restart. The vote will end in $time; seconds."
+},{
+	 "i"		: 178
+	,"ids"		: "Idstring(@IDd3c70331323700e7@)"
+	,"StringID"	: "dialog_mp_restart_level_host_message"
+	,"orig_text": "Are you sure you want to restart?"
+},{
+	 "i"		: 179
+	,"ids"		: "Idstring(@ID9bab53b80fed5ca9@)"
+	,"StringID"	: "dialog_too_low_level"
+	,"orig_text": "Your reputation is too low to join this server."
+},{
+	 "i"		: 180
+	,"ids"		: "Idstring(@ID866996b265424cc4@)"
+	,"StringID"	: "dialog_blackmarket_buy_mask_slot"
+	,"orig_text": "Buying this will unlock one more mask slot.$NL;$NL;This will cost you $money;."
+},{
+	 "i"		: 181
+	,"ids"		: "Idstring(@IDe365d37e944ed40b@)"
+	,"StringID"	: "dialog_mp_disconnected_internet"
+	,"orig_text": "YOU HAVE BEEN DISCONNECTED"
+},{
+	 "i"		: 182
+	,"ids"		: "Idstring(@ID11ee08039efe03da@)"
+	,"StringID"	: "ps4_presence_SafeHousePlaying"
+	,"orig_text": "In the safe house"
+},{
+	 "i"		: 183
+	,"ids"		: "Idstring(@ID66aae3c797c430d0@)"
+	,"StringID"	: "dialog_warning_title"
+	,"orig_text": "Warning"
+},{
+	 "i"		: 184
+	,"ids"		: "Idstring(@ID86b59652c69a9a8e@)"
+	,"orig_text": "Hector's got a plan for finishing off the Mendozas, who we reckon are being moved out of the country. Part of that plan is getting info off another gang, the Cobras, but they don't want money - they want meth. Hector won't use his own people for this, so we're going to see the deal goes down. This could be what puts Hector top of the pile, so it's worth our time."
+},{
+	 "i"		: 185
+	,"ids"		: "Idstring(@ID2160735b10543b8c@)"
+	,"StringID"	: "dialog_err_cant_join_from_game"
+	,"orig_text": "You must leave your current game before joining a new one."
+},{
+	 "i"		: 186
+	,"ids"		: "Idstring(@IDabdca155de0fd4f6@)"
+	,"StringID"	: "dialog_remove_dead_peer"
+	,"orig_text": "Connection to one or more players could not be established."
+},{
+	 "i"		: 187
+	,"ids"		: "Idstring(@ID0d74d92dfc93dd2a@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_leave"
+	,"orig_text": "Are you sure you want to leave this lobby?"
+},{
+	 "i"		: 188
+	,"ids"		: "Idstring(@ID801e6463e8685648@)"
+	,"StringID"	: "dialog_connect_controller_text_X360"
+	,"orig_text": "Please reconnect the Xbox One Wireless Controller and press $BTN_A;."
+},{
+	 "i"		: 189
+	,"ids"		: "Idstring(@IDe520ef16710d7e7e@)"
+	,"StringID"	: "dialog_waiting_for_server_response_title"
+	,"orig_text": "Waiting for game to respond"
+},{
+	 "i"		: 190
+	,"ids"		: "Idstring(@ID77c0ca9ab42ebbf6@)"
+	,"StringID"	: "dialog_on_server_left_message_cs"
+	,"orig_text": "$message;$NL;Your Crime Spree is still active, but your rank has not changed.$NL;$NL;You will now be returned to the main menu."
+},{
+	 "i"		: 191
+	,"ids"		: "Idstring(@ID0a22e8f3f83f2ae5@)"
+	,"orig_text": "Complete the Golden Grin Casino heist on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 192
+	,"ids"		: "Idstring(@ID38d8d80223377ac5@)"
+	,"orig_text": "Some Things are Forever"
+},{
+	 "i"		: 193
+	,"ids"		: "Idstring(@IDa0a359d5f84df251@)"
+	,"StringID"	: "dialog_ask_load_progress_backup_low_lvl"
+	,"orig_text": "Your local backup save is more recent than the last Steam save.$NL;$NL;Press YES if you want to load your local backup save."
+},{
+	 "i"		: 194
+	,"ids"		: "Idstring(@ID58f7328866d64213@)"
+	,"orig_text": "The Diamond might be worth a King's ransom, but to The Dentist it's just a tool. Well, part of a tool, to be precise. Seems his real prize is stored in one of the world's toughest vaults - the Golden Grin Casino. We may be able to sneak it out of there, but if things get loud we need a plan B. That's why we're bringing in Sokol. He's designed a drill - the biggest ever, with The Diamond on the tip. Pack your bags - we're going to Vegas."
+},{
+	 "i"		: 195
+	,"ids"		: "Idstring(@IDbc5710c8c8904036@)"
+	,"StringID"	: "dialog_blackmarket_assemble_item"
+	,"orig_text": "Do you really want to put together $item; mask and place it into your inventory?$NL;$NL;$num_in_inventory;"
+},{
+	 "i"		: 196
+	,"ids"		: "Idstring(@IDe32e4135e04bcf68@)"
+	,"StringID"	: "dialog_item_list_macro"
+	,"orig_text": "$num;x $item;"
+},{
+	 "i"		: 197
+	,"ids"		: "Idstring(@IDd0ca882f1edbb251@)"
+	,"StringID"	: "dialog_ok"
+	,"orig_text": "Ok"
+},{
+	 "i"		: 198
+	,"ids"		: "Idstring(@ID585910207f103ab3@)"
+	,"orig_text": "Complete the Go Bank and Diamond Store heists.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 199
+	,"ids"		: "Idstring(@ID7b605d62a9af394c@)"
+	,"StringID"	: "dialog_apply"
+	,"orig_text": "Apply"
+},{
+	 "i"		: 200
+	,"ids"		: "Idstring(@ID7fdc6dd4def4175f@)"
+	,"StringID"	: "dialog_accept_changes_title"
+	,"orig_text": "CONFIRM CHANGE?"
+},{
+	 "i"		: 201
+	,"ids"		: "Idstring(@IDc12837789c810ed6@)"
+	,"StringID"	: "dialog_assets_buy_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 202
+	,"ids"		: "Idstring(@ID9f35e0d9950885e2@)"
+	,"StringID"	: "dialog_getting_world_list"
+	,"orig_text": "Getting world list"
+},{
+	 "i"		: 203
+	,"ids"		: "Idstring(@ID52f6b003c37edb41@)"
+	,"StringID"	: "ps4_presence_SPEnd"
+	,"orig_text": "Singleplayer heist ended"
+},{
+	 "i"		: 204
+	,"ids"		: "Idstring(@IDb705ea9f44b8dc3e@)"
+	,"StringID"	: "dialog_game_permission_changed"
+	,"orig_text": "The game settings has changed, you no longer have permission to join"
+},{
+	 "i"		: 205
+	,"ids"		: "Idstring(@ID5743dd4ed5b78f92@)"
+	,"orig_text": "Complete the Firestarter job on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 206
+	,"ids"		: "Idstring(@ID8b2a99d6b4ee3123@)"
+	,"orig_text": "Complete the Framing Frame job on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 207
+	,"ids"		: "Idstring(@ID0a9f8dd9f2bf0b86@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_to_reset_statistics"
+	,"orig_text": "Are you sure you want to reset your statistics?"
+},{
+	 "i"		: 208
+	,"ids"		: "Idstring(@ID363c86ac6f9282c8@)"
+	,"StringID"	: "dialog_skip_storage_warning_X360"
+	,"orig_text": "No storage device selected.$NL;If you proceed without selecting a storage device, you will not be able to save the game.$NL;$NL;Continue without saving?"
+},{
+	 "i"		: 209
+	,"ids"		: "Idstring(@IDc6fd8d15c08a7558@)"
+	,"StringID"	: "dialog_mp_vote_kick_unknown_message"
+	,"orig_text": "A vote has been initiated to kick someone currently connecting. The vote will end in $time; seconds."
+},{
+	 "i"		: 210
+	,"ids"		: "Idstring(@ID35319ec432846991@)"
+	,"orig_text": "Complete the Big Oil job on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 211
+	,"ids"		: "Idstring(@ID680742c9360f18da@)"
+	,"StringID"	: "dialog_err_failed_joining_lobby"
+	,"orig_text": "Failed joining game."
+},{
+	 "i"		: 212
+	,"ids"		: "Idstring(@ID408f4352cca10d15@)"
+	,"StringID"	: "dialog_does_not_own_heist"
+	,"orig_text": "You do not own this heist and are unable to join this server."
+},{
+	 "i"		: 213
+	,"ids"		: "Idstring(@ID22672a3c6d7df5dc@)"
+	,"StringID"	: "dialog_fail_load_setting_wrong_version_retry"
+	,"orig_text": "Settings file wrong version. Version $VERSION; or higher is required. Try loading again?"
+},{
+	 "i"		: 214
+	,"ids"		: "Idstring(@ID81c5af99868e7667@)"
+	,"StringID"	: "dialog_skills_reseted_title"
+	,"orig_text": "Please note"
+},{
+	 "i"		: 215
+	,"ids"		: "Idstring(@ID1db93cb94b0fccf7@)"
+	,"orig_text": "Killing The Commissar means The Dentist can get to the DA. And that opens things up for us in the field of maximum security prison transfers. Of course, there's only one guy inside that we care about - our old friend Hoxton. He's a high-value, maximum security prisoner for the Feds. Putting pressure on the DA means we can get Hoxton into position for a break-out. So that's exactly what we're going to do."
+},{
+	 "i"		: 216
+	,"ids"		: "Idstring(@IDf5b9d48132a54fc1@)"
+	,"StringID"	: "dialog_fail_load_setting_corrupt_retry"
+	,"orig_text": "Settings file corrupt. Try loading again?"
+},{
+	 "i"		: 217
+	,"ids"		: "Idstring(@ID8568e2c4a9087ad0@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_to_leave_game"
+	,"orig_text": "Are you sure you want to leave current game?"
+},{
+	 "i"		: 218
+	,"ids"		: "Idstring(@IDa790a8d5fb33e26e@)"
+	,"StringID"	: "dialog_joining_lobby_title"
+	,"orig_text": "Joining game"
+},{
+	 "i"		: 219
+	,"ids"		: "Idstring(@ID01e634a0b2a35c33@)"
+	,"StringID"	: "dialog_err_room_is_full"
+	,"orig_text": "This room has been filled, please try another one."
+},{
+	 "i"		: 220
+	,"ids"		: "Idstring(@IDb39b3a21eeb99c63@)"
+	,"StringID"	: "dialog_authentication_host_fail"
+	,"orig_text": "Steam could not authenticate Steam ID for the host."
+},{
+	 "i"		: 221
+	,"ids"		: "Idstring(@ID48ef6439baea211e@)"
+	,"StringID"	: "dialog_mp_invite_join_message"
+	,"orig_text": "Please join this game using the 'View Invites' option in the Crime.net menu."
+},{
+	 "i"		: 222
+	,"ids"		: "Idstring(@ID9656461121971cb3@)"
+	,"StringID"	: "dialog_demo_info_text"
+	,"orig_text": "Thanks for installing our demo!$NL;$NL;In this demo of PAYDAY 2, you can level up with your character to level 10. Please note that your save file for the demo can not be brought over to the full game.$NL;$NL;We in the OVERKILL crew hope you enjoy this demo. If you like what you see, you can buy PAYDAY 2 where you may gain may more levels through our Infamy system. The full game also includes more content like more heists, weapons, weapon modifications, masks and more.$NL;$NL;- The OVERKILL crew"
+},{
+	 "i"		: 223
+	,"ids"		: "Idstring(@ID290a32e622b3cc42@)"
+	,"StringID"	: "dialog_inactive_user_accepted_invite_error"
+	,"orig_text": "An invitation has been accepted by an inactive user. The invitation will be ignored."
+},{
+	 "i"		: 224
+	,"ids"		: "Idstring(@ID768a5fc39f319b9d@)"
+	,"StringID"	: "dialog_blackmarket_abort_mask_warning"
+	,"orig_text": "Your mask has not been finalized. Aborting will leave the mask unchanged."
+},{
+	 "i"		: 225
+	,"ids"		: "Idstring(@ID9178575fd5be4d60@)"
+	,"StringID"	: "dialog_blackmarket_slot_item_sell"
+	,"orig_text": "If you sell this, you will be paid $money;."
+},{
+	 "i"		: 226
+	,"ids"		: "Idstring(@IDb0465048af014c7b@)"
+	,"StringID"	: "dialog_mp_groupinvite_message"
+	,"orig_text": "Do you wish to join $GROUP;?"
+},{
+	 "i"		: 227
+	,"ids"		: "Idstring(@ID8db80ab966e82a32@)"
+	,"StringID"	: "dialog_bm_weapon_buy_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 228
+	,"ids"		: "Idstring(@ID1f3917de8c18907e@)"
+	,"StringID"	: "dialog_buy_weapon_title"
+	,"orig_text": "Buy"
+},{
+	 "i"		: 229
+	,"ids"		: "Idstring(@IDc0f8deea75a5a392@)"
+	,"StringID"	: "dialog_bm_mask_custom_final_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 230
+	,"ids"		: "Idstring(@ID62290d7a58ddc4b8@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_leave_cs"
+	,"orig_text": "Are you sure you want to leave this lobby?$NL;$NL;Your Crime Spree will be suspended until you continue it."
+},{
+	 "i"		: 231
+	,"ids"		: "Idstring(@IDe6a0c4c65fbae9c8@)"
+	,"StringID"	: "dialog_cs_cant_claim_rewards_text"
+	,"orig_text": "You have no rewards to claim."
+},{
+	 "i"		: 232
+	,"ids"		: "Idstring(@ID252b1990f15bc4fc@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_stop_cs"
+	,"orig_text": "Are you sure you want to stop your Crime Spree?$NL;$NL;This will end your current Crime Spree, and no rewards will be given to you."
+},{
+	 "i"		: 233
+	,"ids"		: "Idstring(@IDd722851949536a41@)"
+	,"StringID"	: "dialog_blackmarket_slot_item"
+	,"orig_text": "[SLOT $slot;] $item;"
+},{
+	 "i"		: 234
+	,"ids"		: "Idstring(@IDce3245b6f573bf22@)"
+	,"StringID"	: "dialog_cant_continue_cs_text"
+	,"orig_text": "You can not continue your Crime Spree as you do not have enough Continental Coins. In order to continue from $level;$BTN_SPREE_TICKET; you need $cost; Continental Coins."
+},{
+	 "i"		: 235
+	,"ids"		: "Idstring(@ID71215ba07654eee7@)"
+	,"StringID"	: "dialog_cant_continue_cs_title"
+	,"orig_text": "This can not Continue"
+},{
+	 "i"		: 236
+	,"ids"		: "Idstring(@ID2c74dc1d7390920f@)"
+	,"StringID"	: "dialog_connect_controller_text"
+	,"orig_text": "No Wireless Controller, Please Reconnect Controller"
+},{
+	 "i"		: 237
+	,"ids"		: "Idstring(@ID7f4cc0715a33d5e4@)"
+	,"StringID"	: "dialog_connect_controller_title"
+	,"orig_text": "No Wireless Controller"
+},{
+	 "i"		: 238
+	,"ids"		: "Idstring(@IDbc3248849d0b7b1f@)"
+	,"StringID"	: "dialog_err_not_signed_in_PS3"
+	,"orig_text": "You must sign in to \"PlayStation Network\" to make use of network modes."
+},{
+	 "i"		: 239
+	,"ids"		: "Idstring(@ID4e225f3b20ac3169@)"
+	,"StringID"	: "dialog_err_room_is_full_X360"
+	,"orig_text": "This game has been filled, please try another one."
+},{
+	 "i"		: 240
+	,"ids"		: "Idstring(@IDabccd50995060719@)"
+	,"StringID"	: "dialog_err_room_no_longer_exists_X360"
+	,"orig_text": "This game no longer exists, please try another one."
+},{
+	 "i"		: 241
+	,"ids"		: "Idstring(@IDfe082df2384260c1@)"
+	,"StringID"	: "dialog_fail_load_game_corrupt"
+	,"orig_text": "Save file corrupt. Unable to load game."
+},{
+	 "i"		: 242
+	,"ids"		: "Idstring(@ID79257e8210a471cc@)"
+	,"StringID"	: "dialog_fail_load_progress_wrong_version"
+	,"orig_text": "Progress file wrong version. Version $VERSION; or higher is required. Data will now be deleted."
+},{
+	 "i"		: 243
+	,"ids"		: "Idstring(@IDe9e72ede9ddafca8@)"
+	,"StringID"	: "dialog_game_is_installing"
+	,"orig_text": "Cannot join invite at this time. Try again when the game has completed installing."
+},{
+	 "i"		: 244
+	,"ids"		: "Idstring(@ID0741f92d5cd9d7ca@)"
+	,"StringID"	: "dialog_infamous_info_title"
+	,"orig_text": "Infamy"
+},{
+	 "i"		: 245
+	,"ids"		: "Idstring(@ID11187149e0cd462c@)"
+	,"StringID"	: "dialog_infamy_reseted_title"
+	,"orig_text": "Please note"
+},{
+	 "i"		: 246
+	,"ids"		: "Idstring(@IDd2534368595b2721@)"
+	,"StringID"	: "dialog_leaving_lobby_title"
+	,"orig_text": "Leaving game"
+},{
+	 "i"		: 247
+	,"ids"		: "Idstring(@ID33a1151b167ad3b3@)"
+	,"StringID"	: "dialog_mission_asset_buy"
+	,"orig_text": "$asset_desc;$NL;$NL;Cost: $cost;."
+},{
+	 "i"		: 248
+	,"ids"		: "Idstring(@IDcaa663d92f1f4663@)"
+	,"StringID"	: "dialog_mp_disconnected_internet_PS3"
+	,"orig_text": "You have been disconnected from \"PlayStation Network\". You must be connected to access the online portions of this title."
+},{
+	 "i"		: 249
+	,"ids"		: "Idstring(@ID9b170072962d3a6f@)"
+	,"StringID"	: "dialog_mp_kicked_out_message"
+	,"orig_text": "You've been kicked from the game."
+},{
+	 "i"		: 250
+	,"ids"		: "Idstring(@ID116e79d6a55057d4@)"
+	,"StringID"	: "dialog_mp_kicked_out_title"
+	,"orig_text": "Kicked out"
+},{
+	 "i"		: 251
+	,"ids"		: "Idstring(@IDb29eb67ba3f8a35e@)"
+	,"StringID"	: "dialog_mp_kick_player_title"
+	,"orig_text": "Kick player"
+},{
+	 "i"		: 252
+	,"ids"		: "Idstring(@ID00a77df9b56eda51@)"
+	,"StringID"	: "dialog_mp_no_invites_message"
+	,"orig_text": "You have no game invites."
+},{
+	 "i"		: 253
+	,"ids"		: "Idstring(@ID8a6e64df08a3825b@)"
+	,"StringID"	: "dialog_mp_send_invite_message"
+	,"orig_text": "Do you wish to send a game invite to $FRIEND;?"
+},{
+	 "i"		: 254
+	,"ids"		: "Idstring(@IDb0aaae5a06e27146@)"
+	,"StringID"	: "dialog_mp_send_invite_title"
+	,"orig_text": "Send game invite"
+},{
+	 "i"		: 255
+	,"ids"		: "Idstring(@IDd134732dbac6242e@)"
+	,"StringID"	: "dialog_mp_vote_kick_message"
+	,"orig_text": "A vote has been initiated to kick $name; from the game. The vote will end in $time; seconds."
+},{
+	 "i"		: 256
+	,"ids"		: "Idstring(@IDd926a8f5cc0d1a39@)"
+	,"StringID"	: "dialog_new_unlock_armors"
+	,"orig_text": "Your first armor upgrade has been unlocked. You can change your armor from both Inventory and Job Overview."
+},{
+	 "i"		: 257
+	,"ids"		: "Idstring(@ID52961383d8fddf2b@)"
+	,"StringID"	: "dialog_no_chat_parental_control"
+	,"orig_text": "CHAT IS DISABLED ON YOUR Sony Entertainment Network Account DUE TO PARENTAL CONTROL RESTRICTIONS."
+},{
+	 "i"		: 258
+	,"ids"		: "Idstring(@ID4f2f458020ae11e2@)"
+	,"StringID"	: "dialog_no_connection_to_game_servers"
+	,"orig_text": "Connection to game servers could not be established."
+},{
+	 "i"		: 259
+	,"ids"		: "Idstring(@ID3556ed1a4992ff91@)"
+	,"StringID"	: "dialog_npcommerce_browse_fail"
+	,"orig_text": "COULD NOT OPEN PlayStation®Store"
+},{
+	 "i"		: 260
+	,"ids"		: "Idstring(@IDf3211f3680e66d79@)"
+	,"StringID"	: "dialog_npcommerce_checkout_fail"
+	,"orig_text": "Checkout failed"
+},{
+	 "i"		: 261
+	,"ids"		: "Idstring(@IDa797a9fc24703a9c@)"
+	,"StringID"	: "dialog_npcommerce_fail_open"
+	,"orig_text": "FAILED INITIALIZING PlayStation®Store"
+},{
+	 "i"		: 262
+	,"ids"		: "Idstring(@ID911e239e450481ec@)"
+	,"StringID"	: "dialog_npcommerce_need_install"
+	,"orig_text": "To play the full version, you will need to restart the game after the installation is completed."
+},{
+	 "i"		: 263
+	,"ids"		: "Idstring(@ID778fd651b7fb5546@)"
+	,"StringID"	: "dialog_npcommerce_opening"
+	,"orig_text": "INITIALIZING PlayStation®Store"
+},{
+	 "i"		: 264
+	,"ids"		: "Idstring(@ID3f091d09a1f40520@)"
+	,"StringID"	: "dialog_repair_weapon_title"
+	,"orig_text": "Repair"
+},{
+	 "i"		: 265
+	,"ids"		: "Idstring(@ID8183bdbe66cdf03c@)"
+	,"StringID"	: "dialog_request_timed_out_message"
+	,"orig_text": "Request to join game timed out"
+},{
+	 "i"		: 266
+	,"ids"		: "Idstring(@ID6a60a52f25505ed2@)"
+	,"StringID"	: "dialog_request_timed_out_title"
+	,"orig_text": "Timed out"
+},{
+	 "i"		: 267
+	,"ids"		: "Idstring(@IDe2bef4cae8b1fce5@)"
+	,"StringID"	: "dialog_respec_skilltree"
+	,"orig_text": "You are about to respec this skill tree.$NL;$NL;Doing a respec resets all skill points in the $tree; skill tree."
+},{
+	 "i"		: 268
+	,"ids"		: "Idstring(@ID51a4386ee1439306@)"
+	,"StringID"	: "dialog_return_to_cs_lobby"
+	,"orig_text": "Are you sure you want to return to the Crime Spree lobby?"
+},{
+	 "i"		: 269
+	,"ids"		: "Idstring(@ID7614799b24ec3268@)"
+	,"StringID"	: "dialog_safehouse_goto_text"
+	,"orig_text": "Do you want to go to your safe house?"
+},{
+	 "i"		: 270
+	,"ids"		: "Idstring(@ID3b3371fcd6a8e596@)"
+	,"StringID"	: "dialog_show_restart_game_message"
+	,"orig_text": "Are you sure you want to restart current game?"
+},{
+	 "i"		: 271
+	,"ids"		: "Idstring(@ID7bc890a52aff1877@)"
+	,"StringID"	: "dialog_signin_title_X360"
+	,"orig_text": "Not signed in"
+},{
+	 "i"		: 272
+	,"ids"		: "Idstring(@ID4aface3a6f9b0af4@)"
+	,"StringID"	: "dialog_skills_place_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 273
+	,"ids"		: "Idstring(@IDcd9e4e7bf0e1c16b@)"
+	,"StringID"	: "dialog_skills_respec_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 274
+	,"ids"		: "Idstring(@IDe98e4ebfdd65019c@)"
+	,"StringID"	: "dialog_storage_removed_warning_X360"
+	,"orig_text": "Selected storage device has been removed. Your progress will no longer be saved"
+},{
+	 "i"		: 275
+	,"ids"		: "Idstring(@ID1b6407afe1c21b54@)"
+	,"StringID"	: "dialog_the_host_has_left_the_game_cs"
+	,"orig_text": "The host has left the game. Your Crime Spree is still active, but your level has not changed.$NL;$NL;You will now be returned to the main menu."
+},{
+	 "i"		: 276
+	,"ids"		: "Idstring(@ID7b73bb7ed622ff22@)"
+	,"StringID"	: "dialog_unlock_infamyitem"
+	,"orig_text": "You are about to unlock $item; item.$NL;$NL;It will cost $points; out of $remaining_points; points."
+},{
+	 "i"		: 277
+	,"ids"		: "Idstring(@ID56d3f9dd044b1fe1@)"
+	,"StringID"	: "dialog_unlock_skilltree"
+	,"orig_text": "You are about to start $skill; skill tree.$NL;$NL;It will cost $cost; and $points; out of $remaining_points; points."
+},{
+	 "i"		: 278
+	,"ids"		: "Idstring(@ID9667341b045f2e3d@)"
+	,"StringID"	: "dialog_unlock_skill_switch_offshore"
+	,"orig_text": "It will cost you $offshore; offshore cash."
+},{
+	 "i"		: 279
+	,"ids"		: "Idstring(@IDeec8f9caf6571d9e@)"
+	,"StringID"	: "dialog_unlock_skill_switch_spending_offshore"
+	,"orig_text": "It will cost you $spending; spending cash and $offshore; offshore cash."
+},{
+	 "i"		: 280
+	,"ids"		: "Idstring(@ID43dd8bee71c14496@)"
+	,"StringID"	: "dialog_unlock_skill_switch_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 281
+	,"ids"		: "Idstring(@IDdf81b667505df33f@)"
+	,"StringID"	: "dialog_use_default_keys_message"
+	,"orig_text": "Do you wish to reset all keys to their default state?"
+},{
+	 "i"		: 282
+	,"ids"		: "Idstring(@ID6f8d1e0efaee22b2@)"
+	,"StringID"	: "dialog_vote_kick_no"
+	,"orig_text": "Don't Kick"
+},{
+	 "i"		: 283
+	,"ids"		: "Idstring(@ID2d2cc4fb87070fb7@)"
+	,"StringID"	: "dialog_xp_to_specialization"
+	,"orig_text": "XP to Perk Conversion"
+},{
+	 "i"		: 284
+	,"ids"		: "Idstring(@ID869c0cd8c8eab78b@)"
+	,"StringID"	: "err_disk"
+	,"orig_text": "Not enough available space to load trophies. Please exit the game, ensure there is at least $MB;MB space available and try again."
+},{
+	 "i"		: 285
+	,"ids"		: "Idstring(@IDd8fc2b792adeba2a@)"
+	,"StringID"	: "err_load"
+	,"orig_text": "Loading trophies..."
+},{
+	 "i"		: 286
+	,"ids"		: "Idstring(@ID25c9292ffff9bd7e@)"
+	,"StringID"	: "ps4_presence_MPEnd"
+	,"orig_text": "Multiplayer heist ended"
+},{
+	 "i"		: 287
+	,"ids"		: "Idstring(@IDb3be59310ff333e1@)"
+	,"StringID"	: "ps4_presence_MPLobby"
+	,"orig_text": "Multiplayer lobby"
+},{
+	 "i"		: 288
+	,"ids"		: "Idstring(@IDac18b869dd0f8f85@)"
+	,"StringID"	: "ps4_presence_MPPlaying"
+	,"orig_text": "Playing multiplayer heist"
+},{
+	 "i"		: 289
+	,"ids"		: "Idstring(@IDc5b186b9aaff508e@)"
+	,"StringID"	: "screen_autosaving_warning_PS3"
+	,"orig_text": "This game saves data automatically at certain points.$NL;Please don't turn off your PlayStation®4 system when the following icon is displayed:"
+},{
+	 "i"		: 290
+	,"ids"		: "Idstring(@IDdbf9c8dcc68b7eee@)"
+	,"orig_text": "Nuclear warheads in the hands of a mobster? Don't ask. Vlad's ready to help you step up. Says he can help you get in touch with the cartels, but the Fed's are combing the streets looking for those missing warheads. Well, let them pull DC apart looking for you. Vlad has another job, and this one is urgent. Get to LA - fast."
+},{
+	 "i"		: 291
+	,"ids"		: "Idstring(@IDd3ff0da5939fd92a@)"
+	,"orig_text": "Before Vlad hands over any of that powder, he needs a little insurance. The name of the Payday Gang means something new. Having us flex a little muscle on his behalf shows his rivals how far he's come. He's a pain in the ass, I know, but after this he'll be ready to introduce you to his cartel, so it's worth it."
+},{
+	 "i"		: 292
+	,"ids"		: "Idstring(@IDadf1dac23b488fe2@)"
+	,"orig_text": "Paying Rent"
+},{
+	 "i"		: 293
+	,"ids"		: "Idstring(@ID345df24c3af0c242@)"
+	,"orig_text": "Complete the Nightclub and Stealing Xmas heists on hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 294
+	,"ids"		: "Idstring(@ID48d87e91d9eecb0f@)"
+	,"orig_text": "Reach reputation level 50."
+},{
+	 "i"		: 295
+	,"ids"		: "Idstring(@IDe69763363942385f@)"
+	,"orig_text": "Hector's ready to work with us. He's looking to move a big shipment of coke to the docks. A very big shipment. Wants us riding in the truck with the product. I'm guessing this amount of blow is going to see Hector move up the ranks in the cartel. Good opportunity for us to move with him."
+},{
+	 "i"		: 296
+	,"ids"		: "Idstring(@IDf22642c71ad7ec6a@)"
+	,"orig_text": "Complete the Watchdog job on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 297
+	,"ids"		: "Idstring(@ID8790a34361a6dffe@)"
+	,"orig_text": "The Feds were waiting for us! Someone, inside or outside the crew, but someone close to us, is a rat. We'll figure out who it was, but until then we stay professional. Hector wants us on another job, sticking it to his rivals - the Mendoza cartel. Let's do this. Maybe it will draw the traitor out."
+},{
+	 "i"		: 298
+	,"ids"		: "Idstring(@IDf15d8df6c0fa697d@)"
+	,"orig_text": "The Price You Pay"
+},{
+	 "i"		: 299
+	,"ids"		: "Idstring(@IDd5c873b91376814a@)"
+	,"orig_text": "Complete the Rats job in Very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 300
+	,"ids"		: "Idstring(@IDf1f3df000fa7914c@)"
+	,"orig_text": "Power Play"
+},{
+	 "i"		: 301
+	,"ids"		: "Idstring(@ID58c7fbeea1bd25e3@)"
+	,"orig_text": "Getting that fusion engine off the scene will make The Elephant happy. And a happy Elephant is an Elephant that pays. He's so happy he has something else for us. The Elephant's next play is having us take out one of his opponents. So that's what we do."
+},{
+	 "i"		: 302
+	,"ids"		: "Idstring(@IDbef614eff422e8bb@)"
+	,"orig_text": "Pieces Off The Board"
+},{
+	 "i"		: 303
+	,"ids"		: "Idstring(@IDee13ea478845c7c5@)"
+	,"orig_text": "Complete the Election Day job on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 304
+	,"ids"		: "Idstring(@ID77172d923d401ff0@)"
+	,"orig_text": "Before we begin, we gotta wipe your slate clean. That means erasing whatever dirt the Feds already got on you. You're nothing to them right now, so this shouldn't be too hard. Don't worry, I got your back and will talk you through it. Gives me a chance to make sure you're still up for this life."
+},{
+	 "i"		: 305
+	,"ids"		: "Idstring(@ID0e1ab4e67fa151ca@)"
+	,"orig_text": "The Basics"
+},{
+	 "i"		: 306
+	,"ids"		: "Idstring(@ID1247e2ace5abd14c@)"
+	,"orig_text": "Complete The Basics on stealth and loud or reach reputation level 10."
+},{
+	 "i"		: 307
+	,"ids"		: "Idstring(@ID5b75662e329d60a2@)"
+	,"orig_text": "I don't like it when people are trying to force our hands but this guy, The Dentist, has the means to get our assosiate back. If we want to be able to break Hoxton out of prison we have to play along with The Dentist's little plans. Although \"little\" is truly the wrong word here. The first job he \"so kindly\" asks us to do might be the biggest job we've done yet. He wants us to prove ourselves with the ultimate bank heist - the Benevolent Bank. It's never been successfully hit. If we pull this off, he says he'll help us get a chance to get Hoxton back. But not for free, I guess we'll hear more from him after the job."
+},{
+	 "i"		: 308
+	,"ids"		: "Idstring(@IDa79a4a695c4f4a0d@)"
+	,"orig_text": "Complete the Big Bank heist on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 309
+	,"ids"		: "Idstring(@ID34abbbc8f45bbdc5@)"
+	,"orig_text": "The Dentist has a job for us, something big, but before that we need to get Hoxton back - he's in maximum security. Getting to him means getting to the District Attorney. Problem is he's being protected by a sack of Russian crap, calling himself The Commissar. Solution? Remove The Commissar. Wet work isn't usually our style but...well, exceptions can be made."
+},{
+	 "i"		: 310
+	,"ids"		: "Idstring(@ID90c59bb18b089433@)"
+	,"orig_text": "Takedown Tango"
+},{
+	 "i"		: 311
+	,"ids"		: "Idstring(@ID4331a75d388cfde8@)"
+	,"orig_text": "Complete the Hotline Miami heist on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 312
+	,"ids"		: "Idstring(@ID04985d46b61a1119@)"
+	,"orig_text": "Complete the Hoxton Breakout job in Very Hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 313
+	,"ids"		: "Idstring(@ID59228675f11dd568@)"
+	,"orig_text": "Hector, that rat, is in the ground. Now, The Dentist is setting us after something special. He's not saying what it is just yet. First things first, though. There's a Diamond at the McCendrick Museum - THE Diamond. It's a valuable rock, and we're after it. The Dentist needs this diamond for something big, really big and we want a piece of it, so lets get get over to the Museum and grab that stone."
+},{
+	 "i"		: 314
+	,"ids"		: "Idstring(@ID3d12bf8814d2fa83@)"
+	,"orig_text": "A Gamble"
+},{
+	 "i"		: 315
+	,"ids"		: "Idstring(@ID8c55d2a1ca0ffaa4@)"
+	,"orig_text": "After the Golden Grin, the Payday Gang is known from DC to LA and all points between. But it looks like you're getting an international reputation too. Got a call from The Butcher. A Croatian arms dealer, looking to make it in America. And who are we to stand in the way of someone following the American dream?"
+},{
+	 "i"		: 316
+	,"ids"		: "Idstring(@IDb6afc3fa26077a83@)"
+	,"orig_text": "A new friend"
+},{
+	 "i"		: 317
+	,"ids"		: "Idstring(@ID03bb93d4687ceafd@)"
+	,"orig_text": "Looks like The Butcher's burgeoning international operations hit something of a snag. The Sosa cartel have been interferring with her shipments. We made a little Balkan friend. Let's keep her that way."
+},{
+	 "i"		: 318
+	,"ids"		: "Idstring(@IDd7ac615e517c07f7@)"
+	,"orig_text": "Shipping Fees"
+},{
+	 "i"		: 319
+	,"ids"		: "Idstring(@ID060a89ae41c94ac2@)"
+	,"orig_text": "Complete the Scarface heist on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 320
+	,"ids"		: "Idstring(@ID468ab5ba85d8fd53@)"
+	,"orig_text": "You've come a long way, but don't think for a moment that this is the end. It isn't. You've made the Payday Gang the most wanted gang in the land. Keep it up. Get out there. Rob some banks. Pull off some heists. Do what you do best."
+},{
+	 "i"		: 321
+	,"ids"		: "Idstring(@IDeb4a6c0cfb1c060d@)"
+	,"orig_text": "Gain 20 Crime Spree levels."
+},{
+	 "i"		: 322
+	,"ids"		: "Idstring(@ID44ec799ea9248c82@)"
+	,"StringID"	: "sm_2_desc"
+	,"orig_text": "Okay, so this might just work out. Preparation is important though. You're a professional. You need the right gear for the job. Okay, there may not be much in the cupboard right now, but as you keep pulling off heists, get notorious, we'll get those racks and cabinets filled with all the right gear."
+},{
+	 "i"		: 323
+	,"ids"		: "Idstring(@ID8aa1de3e20fb7ac9@)"
+	,"orig_text": "Getting Ready"
+},{
+	 "i"		: 324
+	,"ids"		: "Idstring(@ID41b9a15ea1387641@)"
+	,"orig_text": "Go to your inventory and equip a deployable, a perk from any perk deck and also spend five skill points."
+},{
+	 "i"		: 325
+	,"ids"		: "Idstring(@ID1d7c207b70bfe23c@)"
+	,"orig_text": "Okay. The Fed's have nothing on you. You've got the mask. You've got the guns. But have you got what it takes to make the Payday Gang the stuff of legends? Well, it's time to find out. DC's got branch banks and jewellery stores all over. Been a long while since any of them were knocked over. Too long. Let's get rich."
+},{
+	 "i"		: 326
+	,"ids"		: "Idstring(@ID9c727d6000432208@)"
+	,"orig_text": "Complete the Jewelry Store heist and any of the Bank Heists.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 327
+	,"ids"		: "Idstring(@IDd47f1321d64863c2@)"
+	,"orig_text": "Well, you've done it now. You're a heister. You're in the club. And one of the perks of said club is connections. Meet Gage. He's going to get us guns and help us move loot, so consider him a valuable ally. He's got a bit of dock-side burglary for you to take care of - keep it real quiet-like."
+},{
+	 "i"		: 328
+	,"ids"		: "Idstring(@ID66559fb94612d2f8@)"
+	,"orig_text": "Midnight Heist"
+},{
+	 "i"		: 329
+	,"ids"		: "Idstring(@IDd89875aec8c4203a@)"
+	,"orig_text": "Great work. Left those Murkywater goons scratching their asses and wondering where their shit went. Gage is happy, and Murkywater isn't. This means you're starting to get notorious. And, at the end of the day, notoriety is your life-blood. Money can be stolen, see. Gold can come and go. But notoriety - that's what you're really worth. So let's get some more."
+},{
+	 "i"		: 330
+	,"ids"		: "Idstring(@ID5edf5fc04b78edfe@)"
+	,"orig_text": "Fortune & Glory"
+},{
+	 "i"		: 331
+	,"ids"		: "Idstring(@ID8bbbc8416ecdc608@)"
+	,"orig_text": "Time to show off"
+},{
+	 "i"		: 332
+	,"ids"		: "Idstring(@ID3dde8eb7c3feaebf@)"
+	,"orig_text": "Complete at least three Transport heists.$NL;Complete the Transport: Train heist and steal the turret prototype.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 333
+	,"ids"		: "Idstring(@ID6dea0a90186403a3@)"
+	,"orig_text": "International Connections"
+},{
+	 "i"		: 334
+	,"ids"		: "Idstring(@ID6e5f9b0e9bc6b4dc@)"
+	,"orig_text": "Personal Favors"
+},{
+	 "i"		: 335
+	,"ids"		: "Idstring(@IDc0bdf4a650aa1964@)"
+	,"orig_text": "Duck & Cover"
+},{
+	 "i"		: 336
+	,"ids"		: "Idstring(@IDe5fb68591b02d9b6@)"
+	,"orig_text": "Complete the Meltdown heist on hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 337
+	,"ids"		: "Idstring(@IDfab8071b251e9de7@)"
+	,"orig_text": "A Safe Haven"
+},{
+	 "i"		: 338
+	,"ids"		: "Idstring(@ID628d5984498de1b7@)"
+	,"orig_text": "Complete the Hoxton Revenge heist on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
+},{
+	 "i"		: 339
+	,"ids"		: "Idstring(@IDc797457e91f657d3@)"
+	,"orig_text": "Reach reputation level 25."
+}
+]

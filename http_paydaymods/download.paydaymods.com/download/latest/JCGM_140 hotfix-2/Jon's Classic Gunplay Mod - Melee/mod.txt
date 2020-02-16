@@ -1,0 +1,21 @@
+{
+    "name" : "Classic Gunplay Mod - Melee",
+    "description" : "Melee rebalance part of the mod.",
+    "author" : "Jon, including code from Milk.",
+    "contact" : "http://steamcommunity.com/id/ACPL_Jon/",
+    "version" : "1.40",
+
+"updates" : [
+    {
+        "revision" : 140,
+        "identifier" : "JCGM_Melee",
+    }
+]
+
+"hooks" : [
+    {
+        "hook_id" : "lib/tweak_data/blackmarket/meleeweaponstweakdata",
+        "script_path" : "Rebalance_Melee.lua"
+    }
+]
+}

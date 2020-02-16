@@ -1,0 +1,63 @@
+{
+	"menu_id" : "wac_menu_spec_xm556",
+	"parent_menu_id" : "wac_menu_spec",
+	"title" : "wac_menu_spec_xm556_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_xm556stndb",
+			"title" : "wac_replace_stndb_title",
+			"callback" : "callback_toggle_replace_xm556stndb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_xm556longheatb_multi",
+				"wac_xm556shortb_multi",
+				"wac_xm556shortheatb_multi"
+			],
+			"value" : "replace_xm556stndb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_xm556longheatb",
+			"title" : "wac_replace_xm556longheatb_title",
+			"callback" : "callback_toggle_replace_xm556longheatb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_xm556shortb_multi",
+				"wac_xm556shortheatb_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_xm556longheatb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_xm556shortheatb",
+			"title" : "wac_replace_xm556shortheatb_title",
+			"callback" : "callback_toggle_replace_xm556shortheatb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_xm556shortb_multi",
+				"wac_xm556longheatb_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_xm556shortheatb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_xm556shortb",
+			"title" : "wac_replace_xm556shortb_title",
+			"callback" : "callback_toggle_replace_xm556shortb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_xm556shortheatb_multi",
+				"wac_xm556longheatb_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_xm556shortb",
+			"default_value" : 1
+		}
+	]
+}

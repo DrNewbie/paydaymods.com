@@ -1,0 +1,13 @@
+{
+	"waypointtweaks_menu_title" : "Waypoint Tweaks",
+	"waypointtweaks_menu_desc" : "Configure Waypoint Tweaks",
+
+	"sld_waypointtweaks_duration_title" : "Duration",
+	"sld_waypointtweaks_duration_desc" : "Determines the time taken for an off-screen waypoint to settle into orbit around the center of the screen or for it to settle back into its normal on-screen position, in seconds",
+
+	"sld_waypointtweaks_radius_title" : "Orbit Radius",
+	"sld_waypointtweaks_radius_desc" : "Determines the radius from the center of the screen around which all off-screen waypoints will orbit",
+
+	"btn_waypointtweaks_reset_title" : "Reset to defaults",
+	"btn_waypointtweaks_reset_desc" : "Resets all options here to their defaults"
+}

@@ -1,0 +1,53 @@
+{
+	"name"			: "Ultimate Localization Manager & 正體中文化",
+	"description"	: "上面寫得很清楚啦OAO",
+	"author"		: "awcjack\n7 A!tMan\nNintendo22\n以及所有有幫忙中文化的人\n",
+	"contact"		: "http://adf.ly/1b4k4s",
+	"version"		: "2.0.7",
+	"blt_version"	: 2,
+	"priority"		: 50,
+	"undisablable"	: true,
+	"disable_safe_mode"	: true,
+	"hooks": 
+	[	
+		 {"hook_id" : "lib/managers/localizationmanager"				,"script_path" : "Loc.lua"	}
+		,{"hook_id" : "lib/network/base/basenetworksession"				,"script_path" : "Net.lua"	}		 
+		,{"hook_id" : "lib/units/props/timergui"						,"script_path" : "load.lua"	}
+		,{"hook_id" : "lib/utils/levelloadingscreenguiscript"			,"script_path" : "load.lua"	}
+		,{"hook_id" : "lib/utils/lightloadingscreenguiscript"			,"script_path" : "load.lua"	}
+		,{"hook_id" : "lib/managers/multiprofilemanager"				,"script_path" : "load.lua" }
+		,{"hook_id" : "core/lib/utils/dev/editor/coreworlddefinition"	,"script_path" : "load.lua" }
+	],
+	"persist_scripts" : 
+	[
+        {"global"  : "version_string replacement"				,"script_path" : "version.lua" }
+    ],
+	"updates" : 
+	[
+		{
+			"identifier" 		: "CHT_MOD",
+			"install_dir" 		: "mods",
+			"install_folder" 	: "Chinese_WIP2",
+			"display_name" 		: "中文翻譯內容"
+		},
+		{
+			"revision" 			: "./assets/mod_overrides/cht_fonts/revision.txt",
+			"identifier"		: "chtfonts_just_fake_identifier_for_loading",
+			"install_dir" 		: "./assets/mod_overrides",
+			"install_folder" 	: "cht_fonts",
+			"display_name"		: "中文字庫"
+		}
+	],
+	"keybinds" : 
+	[
+		{
+            "keybind_id" 	: "Chinese_WIP_Dumper",
+            "name" 			: "抽取合併輸出",
+            "description" 	: "抽取內建文檔、合併舊版資料表並輸出",
+            "script_path" 	: "KeyBind/Dumper.lua",
+            "run_in_menu" 	: true,
+            "run_in_game" 	: true,
+            "localized" 	: false
+		}
+	]
+}

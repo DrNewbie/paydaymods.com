@@ -1,0 +1,31 @@
+{
+    "name" : "Jacket's MiniMap",
+    "description" : "This mod Allow you to use a minimap",
+    "author" : "Vylax",
+    "contact" : "vylaxez@gmail.com",
+	"version" : "4.0",
+    "priority" : 10,
+    "blt_version" : 2,
+	"updates" : [
+		{
+			"identifier" : "jacketminimap"
+		}
+	],
+	"hooks" :
+    [
+		{
+            "hook_id": "lib/managers/menumanager",
+            "script_path": "lua/menu.lua"
+        },
+		{
+            "hook_id": "lib/managers/hudmanagerpd2",
+            "script_path": "lua/minimap.lua"
+        }
+    ],
+    "persist_scripts" : [
+        {
+            "global" : "MiniMap settings",
+            "script_path" : "lua/setMM.lua"
+        }
+    ]
+}

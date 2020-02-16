@@ -1,0 +1,15 @@
+{
+  "JokerNames_menu_main_name" : "ชื่อเฉพาะจากม๊อท'ผู้บังคับการ'",
+  "JokerNames_menu_main_desc" : "Keepers Joker Names: กำหนดชื่อตำรวจที่ถูกกล่อมให้เป็นพวก (โจ๊กเกอร์) ด้วยตนเอง",
+  "JokerNames_menu_use_custom_names" : "ใช้ชื่อที่กำหนดเอง",
+  "JokerNames_menu_use_custom_names_desc" : "Use custom names: ใช้ชื่อที่กำหนดขึ้นเองแทนที่ชื่อที่ถูกตั้งจาก mod 'ผู้บังคับการ'",
+  "JokerNames_menu_information" : "ข้อมูล",
+  "JokerNames_menu_information_text" : "ไฟล์ชื่อ \"custom_joker_names.txt\" ถูกสร้างขึ้นและถูกเก็บไว้ใน \"PAYDAY 2/mods/saves\" เพื่อเป็นตัวอย่างการตั้งชื่อ\nสามารถแก้ไขเพื่อเพิ่มชื่อที่กำหนดขึ้นเอง",
+  "JokerNames_menu_name_style" : "รูปแบบชื่อ",
+  "JokerNames_menu_name_style_desc" : "Name format: รูปแบบของชื่อโจ๊กเกอร์\n%N = ชื่อ, %S = Surname, %K = ชื่อเจ้าของ, %T = ประเภทหน่วยรบ",
+  "JokerNames_menu_force_names" : "แทนที่ชื่อ",
+  "JokerNames_menu_force_names_desc" : "Override names: แทนที่ชื่อโจ๊กเกอร์ขึ้นอยู่กับการตั้งค่า",
+  "JokerNames_menu_force_names_never" : "ไม่แทนที่",
+  "JokerNames_menu_force_names_empty" : "แทนที่หากไม่ได้กำหนด",
+  "JokerNames_menu_force_names_always" : "แทนที่เสมอ"
+}

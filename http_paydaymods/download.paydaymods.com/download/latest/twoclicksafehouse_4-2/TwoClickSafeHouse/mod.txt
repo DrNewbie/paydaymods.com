@@ -1,0 +1,28 @@
+{
+	"name" : "Two-Click Safe House",
+	"description" : "Provides a convenient way to go to the new or old Safe Houses in singleplayer mode, directly from the main menu",
+	"author" : "\n    Snh20\n    TdlQ (localizations loading code)\n    crazy_forcer (Russian translations)",
+	"blt_version" : 2,
+	"version" : "0.0.3.1",
+	"priority" : 10,
+	"color" : "0.15 0.15 0.15",
+	"image" : "_icon.png",
+	"updates" : [
+		{
+			"revision" : 4,
+			"identifier" : "twoclicksafehouse"
+		}
+	],
+	"pre_hooks" : [
+		{
+			"hook_id" : "core/lib/setups/coresetup",
+			"script_path" : "init.lua"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		}
+	]
+}

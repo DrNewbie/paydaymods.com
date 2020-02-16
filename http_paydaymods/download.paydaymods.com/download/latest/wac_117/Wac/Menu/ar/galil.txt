@@ -1,0 +1,175 @@
+{
+	"menu_id" : "wac_menu_ar_galil",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_galil_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_galiltacfg",
+			"title" : "wac_replace_galiltacfg_title",
+			"callback" : "callback_toggle_replace_galiltacfg",		
+			"items" : [
+				"wac_default_multi",
+				"cqbfg_multi",
+				"galilarfg_multi",
+				"galatzfg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_galiltacfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_galilmicro",
+			"title" : "wac_replace_cqbfg_title",
+			"callback" : "callback_toggle_replace_galilmicro",		
+			"items" : [
+				"wac_default_multi",
+				"galilfabfg_multi",
+				"galilarfg_multi",
+				"galatzfg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_galilmicro",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_galilsarfg",
+			"title" : "wac_replace_galilsarfg_title",
+			"callback" : "callback_toggle_replace_galilsarfg",		
+			"items" : [
+				"wac_default_multi",
+				"galilfabfg_multi",
+				"cqbfg_multi",
+				"galatzfg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_galilsarfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_galatzfg",
+			"title" : "wac_replace_galatzfg_title",
+			"callback" : "callback_toggle_replace_galatzfg",		
+			"items" : [
+				"wac_default_multi",
+				"cqbfg_multi",
+				"galilfabfg_multi",
+				"galilarfg_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_galatzfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_galil_snipergrip",
+			"title" : "wac_replace_galil_snipergrip_title",
+			"callback" : "callback_toggle_replace_galil_snipergrip",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_galil_snipergrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_galiloldmicrost",
+			"title" : "wac_replace_galiloldmicrost_title",
+			"callback" : "callback_toggle_replace_galiloldmicrost",		
+			"items" : [
+				"wac_default_multi",
+				"galilarst_multi",
+				"plasticst_multi",
+				"skelst_multi",
+				"sniperst_multi",
+				"woodenstock_multi",
+				"stndst_multi",
+				"nostock_multi",
+				"m4_s_stnd_multi",
+				"m4_s_crane_multi",
+				"m4_s_ubr_multi",
+				"m4_vltor_multi"
+			],
+			"value" : "replace_galiloldmicrost",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_galilplasticst",
+			"title" : "wac_replace_plasticst_title",
+			"callback" : "callback_toggle_replace_galilplasticst",		
+			"items" : [
+				"wac_default_multi",
+				"galilarst_multi",
+				"galilfabst_multi",
+				"skelst_multi",
+				"sniperst_multi",
+				"woodenstock_multi",
+				"stndst_multi",
+				"nostock_multi",
+				"m4_s_stnd_multi",
+				"m4_s_crane_multi",
+				"m4_s_ubr_multi",
+				"m4_vltor_multi"
+			],
+			"value" : "replace_galilplasticst",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_galatzst",
+			"title" : "wac_replace_sniperst_title",
+			"callback" : "callback_toggle_replace_galatzst",		
+			"items" : [
+				"wac_default_multi",
+				"galilarst_multi",
+				"galilfabst_multi",
+				"plasticst_multi",
+				"skelst_multi",
+				"woodenstock_multi",
+				"stndst_multi",
+				"nostock_multi",
+				"m4_s_stnd_multi",
+				"m4_s_crane_multi",
+				"m4_s_ubr_multi",
+				"m4_vltor_multi"
+			],
+			"value" : "replace_galatzst",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_galilwoodenst",
+			"title" : "wac_replace_woodenst_title",
+			"callback" : "callback_toggle_replace_galilwoodenst",		
+			"items" : [
+				"wac_default_multi",
+				"galilarst_multi",
+				"galilfabst_multi",
+				"plasticst_multi",
+				"skelst_multi",
+				"sniperst_multi",
+				"stndst_multi",
+				"nostock_multi",
+				"m4_s_stnd_multi",
+				"m4_s_crane_multi",
+				"m4_s_ubr_multi",
+				"m4_vltor_multi"
+			],
+			"value" : "replace_galilwoodenst",
+			"default_value" : 1
+		}
+	]
+}

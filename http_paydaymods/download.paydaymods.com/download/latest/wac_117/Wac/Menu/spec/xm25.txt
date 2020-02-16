@@ -1,0 +1,31 @@
+{
+	"menu_id" : "wac_menu_spec_xm25",
+	"parent_menu_id" : "wac_menu_spec",
+	"title" : "wac_menu_spec_xm25_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_xm25comp",
+			"title" : "wac_replace_xm25comp_title",
+			"callback" : "callback_toggle_replace_xm25comp",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_xm25comp",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_xm25longb",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_xm25longb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_xm25longb",
+			"default_value" : 1
+		}
+	]
+}

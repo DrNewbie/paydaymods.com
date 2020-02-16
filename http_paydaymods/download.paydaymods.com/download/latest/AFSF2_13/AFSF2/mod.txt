@@ -1,0 +1,25 @@
+{
+	"name" : "Auto-Fire Sound Fix",
+	"description" : "A fix of the duplicated sound when firing one bullet in auto mode",
+	"author" : "90e and DarKobalt, Llamageddon, DMC, and Offyerrocker",
+	"contact" : "/id/offyerrocker",
+	"version" : "1.62",
+	"priority" : 10,
+	"blt_version" : 2,
+	"image" : "afsf.png",
+	"color" : "178 135 42",
+	"hooks" : [
+		{   
+			"hook_id" : "lib/units/weapons/raycastweaponbase",
+			"script_path" : "AutoFireSoundFix.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "AFSF2"
+		}
+	]
+}
+
+
+

@@ -1,0 +1,13 @@
+{
+	"adaptivestreamingchunksize_menu_title" : "Adaptive Streaming Chunk Size",
+	"adaptivestreamingchunksize_menu_desc" : "Configure Adaptive Streaming Chunk Size.",
+
+	"mul_adaptivestreamingchunksize_setminimumstreamingchunksize_title" : "In-level chunk size",
+	"mul_adaptivestreamingchunksize_setminimumstreamingchunksize_desc" : "Determines the minimum streaming chunk size override applied by the mod.\nThis setting only applies when the local player has spawned into the level.",
+
+	"mul_adaptivestreamingchunksize_setmaximumstreamingchunksize_title" : "Menu chunk size",
+	"mul_adaptivestreamingchunksize_setmaximumstreamingchunksize_desc" : "Determines the maximum streaming chunk size override applied by the mod.\nThis is typically set to max to allow game resources to be loaded at full speed.",
+
+	"btn_adaptivestreamingchunksize_reset_title" : "Reset to defaults",
+	"btn_adaptivestreamingchunksize_reset_desc" : "Resets all options here to their defaults."
+}

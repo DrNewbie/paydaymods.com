@@ -1,0 +1,15 @@
+{
+  "JokerNames_menu_main_name" : "Keepers Joker Names",
+  "JokerNames_menu_main_desc" : "Customise les options des noms de Joker",
+  "JokerNames_menu_use_custom_names" : "Utilise des noms customisés",
+  "JokerNames_menu_use_custom_names_desc" : "Utilise des noms customisés à la place de ceux déja utilisés",
+  "JokerNames_menu_information" : "Information",
+  "JokerNames_menu_information_text" : "Un fichier nommé \"custom_joker_names.txt\" avec des exemples d'entrées a été créé dans \"PAYDAY 2/mods/saves\".\nÉditez le pour ajouter des noms customisés.",
+  "JokerNames_menu_name_style" : "Format du nom",
+  "JokerNames_menu_name_style_desc" : "Format des nom de Joker\n%N = Name, %S = Surname, %K = Noms de Keepers, %T = Type d'unité",
+  "JokerNames_menu_force_names" : "Remplace les noms",
+  "JokerNames_menu_force_names_desc" : "Remplace le nom d'autres personnes joker dépendamment des options",
+  "JokerNames_menu_force_names_never" : "JamaisNever",
+  "JokerNames_menu_force_names_empty" : "Si non défini",
+  "JokerNames_menu_force_names_always" : "Toujours"
+}

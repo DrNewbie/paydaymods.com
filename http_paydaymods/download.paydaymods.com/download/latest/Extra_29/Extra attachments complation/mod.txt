@@ -1,0 +1,60 @@
+{  
+  "name":"Extra attachments compilation",
+  "description":"gives new attachments to many weapons and also forces other weapon mods into other weapons.",
+  "author":"Iron Predator",
+  "contact":"",
+  "version":"2.13",
+  "priority":3574,
+  "updates":[  
+    {  
+      "revision":29,
+      "identifier":"Extra"
+    },
+    {  
+      "revision":"9",
+      "identifier":"irons",
+      "install_dir":"assets/mod_overrides/",
+      "install_folder":"Akimbo Ironsights",
+      "display_name":"Akimbo Ironsights"
+    },
+    {  
+      "revision":"10",
+      "identifier":"EAC",
+      "install_dir":"assets/mod_overrides/",
+      "install_folder":"Extra Attachments icons",
+      "display_name":"Extra Attachments icons"
+    }
+  ],
+  "hooks":[  
+    {  
+      "hook_id":"lib/tweak_data/weaponfactorytweakdata",
+      "script_path":"factory.lua"
+    },
+    {  
+      "hook_id":"lib/tweak_data/weapontweakdata",
+      "script_path":"weapontweak.lua"
+    },
+    {  
+      "hook_id":"lib/tweak_data/playertweakdata",
+      "script_path":"lmgsights.lua"
+    },
+    {  
+      "hook_id":"lib/units/beings/player/states/playerbipod",
+      "script_path":"bipod.lua"
+    },
+    {  
+      "hook_id":"lib/managers/localizationmanager",
+      "script_path":"loc.lua"
+    },
+    {  
+      "hook_id":"lib/tweak_data/dlctweakdata",
+      "script_path":"dlctweak.lua"
+    }
+  ],
+    "libraries" : [
+        {
+            "display_name" : "BeardLib",
+            "identifier" : "beardlib"
+        }
+    ]
+}

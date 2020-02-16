@@ -1,0 +1,15 @@
+{
+    "name" : "Assault States",
+    "description" : "Adds the assault states into the banner. Customize it the way you want it to be in the options.",
+    "author" : "Nepgearsy",
+    "contact" : "id/Nepgearsy",
+    "version" : "1.14",
+    "blt_version" : 2,
+    "image" : "assaultstates.png",
+    "color" : "0.7 0 1",
+    "updates" : [ { "identifier" : "assaultstates" } ],
+
+    "pre_hooks" : [
+        { "hook_id" : "lib/entry", "script_path" : "Core.lua" }
+    ]
+}

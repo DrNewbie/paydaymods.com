@@ -1,0 +1,28 @@
+{
+	"name": "Vox",
+	"description": "Allows you to easily add voice ID's and bind them to keys.",
+	"author": "Rokk",
+	"contact": "http://steamcommunity.com/id/Rokk",
+	"version": "2",
+	"blt_version": 2
+	"updates" : [
+		{ "identifier" : "vox" }
+	],
+	"libraries" : [
+        {
+            "display_name" : "BeardLib",
+            "identifier" : "beardlib",
+            "optional" : "false"
+        }
+    ],
+	"hooks": [
+		{
+			"hook_id": "lib/managers/menumanager",
+			"script_path": "menu.lua"
+		},
+		{
+			"hook_id": "lib/managers/localizationmanager",
+			"script_path": "loc/loc.lua"
+		}
+	]
+}

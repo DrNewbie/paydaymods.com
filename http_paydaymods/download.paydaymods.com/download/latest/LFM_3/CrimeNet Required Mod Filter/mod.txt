@@ -1,0 +1,24 @@
+{
+	"name" : "Crime.net Required Mod Filter",
+	"description" : "Show only lobbies which have the mods you specify in crime.net. You can customize this list in the mod's options.",
+	"author" : "Offyerrocker",
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "1.2",
+	"blt_version" : 2,
+	"color" : "255 128 0",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/network/matchmaking/networkmatchmakingsteam",
+			"script_path" : "networkmatchmakingsteam.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "LFM"
+		}
+	]
+}

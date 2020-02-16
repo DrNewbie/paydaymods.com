@@ -1,0 +1,192 @@
+{
+    "name": "GageHud",
+    "description": "Gage got you some modified Google Glasses and you know. Google knows everything",
+    "authors": "Seven, Kail, cjure, undeadsewer, thatguyfrombreakingbad",
+    "contact": "",
+    "version": "1.0",
+    "priority": 200,
+	"updates" : [
+		{
+			"revision" : 14,
+			"identifier" : "gagehud",
+		},
+		{
+			"revision" : 2,
+			"identifier" : "gagehudtextures",
+			"install_dir" : "assets/mod_overrides/",
+			"install_folder" : "Extended Icons",
+			"display_name" : "GageHud Extended Icons"
+		}
+	],
+    "pre_hooks": [
+        {
+            "hook_id": "lib/managers/menumanager",
+            "script_path": "Menu/mod_collection.lua",
+        }
+    ],
+    "hooks": [
+        {
+            "hook_id": "lib/managers/hudmanagerpd2",
+            "script_path": "Lua/HUDManagerPD2_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/props/timergui",
+            "script_path": "Lua/TimerGui_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/props/digitalgui",
+            "script_path": "Lua/DigitalGui_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/interactions/interactionext",
+            "script_path": "Lua/InteractionExt_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/group_ai_states/groupaistatebase",
+            "script_path": "Lua/GroupAIStateBase_ext.lua"
+        },
+        {
+            "hook_id": "lib/network/handlers/unitnetworkhandler",
+            "script_path": "Lua/UnitNetworkHandler_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/enemies/cop/copdamage",
+            "script_path": "Lua/CopDamage_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/enemymanager",
+            "script_path": "Lua/EnemyManager_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/equipment/ammo_bag/ammobagbase",
+            "script_path": "Lua/AmmoBagBase_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/equipment/bodybags_bag/bodybagsbagbase",
+            "script_path": "Lua/BodyBagBase_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/equipment/ecm_jammer/ecmjammerbase",
+            "script_path": "Lua/ECMJammerBase_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/beings/player/playerdamage",
+            "script_path": "Lua/PlayerDamage_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/beings/player/playermovement",
+            "script_path": "Lua/PlayerMovement_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/playermanager",
+            "script_path": "Lua/PlayerManager_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/beings/player/states/playerstandard",
+            "script_path": "Lua/PlayerStandard_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/objectinteractionmanager",
+            "script_path": "Lua/ObjectInteractionManager_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/hud/hudheisttimer",
+            "script_path": "Lua/HUDHeistTimer_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/hud/hudteammate",
+            "script_path": "Lua/HUDTeammate_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/hud/hudtemp",
+            "script_path": "Lua/HUDTemp_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/hud/hudassaultcorner",
+            "script_path": "Lua/HUDAssaultCorner_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/hud/hudobjectives",
+            "script_path": "Lua/HUDObjectives_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/hud/hudchat",
+            "script_path": "Lua/HUDChat_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/equipment/sentry_gun/sentrygunbase",
+            "script_path": "Lua/SentryGunBase_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/weapons/weaponflashlight",
+            "script_path": "Lua/WeaponFlashlight_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/contourext",
+            "script_path": "Lua/ContourExt_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/criminalsmanager",
+            "script_path": "Lua/CriminalsManager_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/menu/stageendscreengui",
+            "script_path": "Lua/StageEndScreenGui_ext.Lua"
+        },
+        {
+            "hook_id": "lib/managers/menu/lootdropscreengui",
+            "script_path": "Lua/LootDropScreenGui_ext.lua"
+        },
+        {
+            "hook_id": "lib/states/ingamewaitingforplayers",
+            "script_path": "Lua/IngameWaitingForPlayersState_ext.lua"
+        },
+        {
+            "hook_id": "lib/network/matchmaking/networkmatchmakingsteam",
+            "script_path": "Lua/NetworkMatchmakingsTeam_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/menu/crimenetfiltersgui",
+            "script_path": "Lua/CrimeNetFiltersGui_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/equipment/doctor_bag/doctorbagbase",
+            "script_path": "Lua/DoctorBagBase_ext.lua"
+        },
+        {
+            "hook_id": "lib/units/beings/player/states/playerbleedout",
+            "script_path": "Lua/PlayerBleedOut_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/hud/hudstatsscreen",
+            "script_path": "Lua/HUDStatsScreen_ext.lua"
+        },
+        {
+            "hook_id": "lib/managers/hud/hudsuspicion",
+            "script_path": "Lua/HUDSuspicion_ext.lua"
+        }
+    ],
+	"persist_scripts" : [
+		{ "global" : "SkipRestart", "script_path" : "Lua/SkipRestart_ext.lua" }
+	],
+    "keybinds": [
+        {
+            "keybind_id": "save_pre",
+            "name": "Save Preplanning",
+            "description": "Saves your Preplanning",
+            "script_path": "Lua/SavePreplanning.lua",
+            "run_in_menu": false,
+            "run_in_game": true,
+            "localized": false
+        },
+        {
+            "keybind_id": "load_pre",
+            "name": "Load Preplanning",
+            "description": "Loads your Preplanning",
+            "script_path": "Lua/LoadPreplanning.lua",
+            "run_in_menu": false,
+            "run_in_game": true,
+            "localized": false
+        }
+    ]
+}

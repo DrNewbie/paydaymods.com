@@ -1,0 +1,11 @@
+{
+	"menu_id" 			: "cWIP_options_ShowTran",
+	"parent_menu_id" 	: "cWIP_options",
+	"title" 			: "cWIP_options_ShowTran_T",
+	"description" 		: "cWIP_options_ShowTran_D",
+	"back_callback" 	: "cWIP_Close_Options",
+	"priority"			: 12,
+	"items" : [
+		{ "type" : "divider", "size" : 20 , "priority" : 50 }
+	]
+}

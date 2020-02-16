@@ -1,0 +1,19 @@
+{
+	"name" : "Spot that special, not dominate FFS!",
+	"description" : "Prioritizes spotting special units higher than domination attempts",
+	"author" : "Snh20",
+	"version" : "0.0.1",
+	"priority" : 10,
+	"updates" : [
+		{
+			"revision" : 1,
+			"identifier" : "spotnotdominate"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "playerstandard.lua"
+		}
+	]
+}

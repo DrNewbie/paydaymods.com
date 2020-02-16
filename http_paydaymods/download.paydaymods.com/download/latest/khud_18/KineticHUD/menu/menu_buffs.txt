@@ -1,0 +1,57 @@
+{
+	"menu_id" : "khud_menu_buffs",
+	"parent_menu_id" : "khud_mainmenu",
+	"title" : "khud_menu_buffs_title",
+	"description" : "khud_menu_buffs_desc",
+	"priority" : 5,
+	"back_callback" : "callback_khud_panel_buffs_close",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "id_khud_show_buffs_master",
+			"title" : "khud_show_buffs_master_title",
+			"description" : "khud_show_buffs_master_desc",
+			"callback" : "callback_khud_show_buffs_master",
+			"value" : "show_buffs_master"
+		},
+		{
+			"type" : "toggle",
+			"id" : "id_khud_panel_buffs_custom_xy",
+			"title" : "khud_panel_buffs_custom_xy_title",
+			"description" : "khud_panel_buffs_custom_xy_desc",
+			"callback" : "callback_khud_panel_buffs_custom_xy",
+			"value" : "panel_buffs_custom_xy"
+		},
+		{
+			"type" : "button",
+			"id" : "id_khud_customize_buffs",
+			"title" : "khud_customize_buffs_title",
+			"description" : "khud_customize_buffs_desc",
+			"callback" : "callback_khud_customize_buffs"
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_panel_buffs_x",
+			"title" : "khud_panel_buffs_x_title",
+			"description" : "khud_panel_buffs_x_desc",
+			"callback" : "callback_khud_panel_buffs_x",
+			"value" : "panel_buffs_x",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 2000,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_panel_buffs_y",
+			"title" : "khud_panel_buffs_y_title",
+			"description" : "khud_panel_buffs_y_desc",
+			"callback" : "callback_khud_panel_buffs_y",
+			"value" : "panel_buffs_y",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 1000,
+			"step" : 1
+		}
+	]
+}

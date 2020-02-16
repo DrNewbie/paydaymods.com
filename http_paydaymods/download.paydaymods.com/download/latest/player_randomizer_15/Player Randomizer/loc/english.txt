@@ -1,0 +1,21 @@
+{
+  "Randomizer_menu_main_name" : "Player Randomizer",
+  "Randomizer_menu_main_desc" : "Randomize your equipment on heist start",
+  "enabled_name" : "Enabled",
+  "enabled_desc" : "Toggle the Randomizer on or off",
+  "hide_selections_name" : "Hide randomized selections",
+  "hide_selections_desc" : "Hides randomized selections in loadout screen",
+  "only_owned_weapons_name" : "Only inventory weapons",
+  "only_owned_weapons_desc" : "Randomizer will only choose weapons from your inventory",
+  "character_desc" : "Randomize your character",
+  "primary_desc" : "Randomize your primary weapon",
+  "secondary_desc" : "Randomize your secondary weapon",
+  "melee_desc" : "Randomize your melee weapon",
+  "grenade_desc" : "Randomize your throwable",
+  "armor_desc" : "Randomize your armor",
+  "deployable_desc" : "Randomize your deployable",
+  "display_weapon_info_name" : "Display weapon info",
+  "display_weapon_info_desc" : "Bind to show the information about the currently equipped weapon",
+  "weapon_info_string" : "Using $WEAPON with $MODS",
+  "weapon_info_string_default" : "Using $WEAPON with default mods"
+}

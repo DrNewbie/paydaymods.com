@@ -1,0 +1,97 @@
+{
+  "link": "https://raw.githubusercontent.com/dream6179/-lua-josn-txt/master/",
+  "list": [
+    {
+      "name": "成就獵人Achievement Hunter",
+      "tag": "AchievementHunter.json"
+    },
+    {
+      "name": "自適應重新同步Adaptive Resync",
+      "tag": "AdaptiveResync.txt"
+    },
+    {
+      "name": "播音管理員 Announcer",
+      "tag": "Announcer.txt"
+    },
+    {
+      "name": "袋輪廓 Bag Contour",
+      "tag": "BagContour.txt"
+    },
+    {
+      "name": "貝恩製毒 BCCFS",
+      "tag": "BCCFS.txt"
+    },
+    {
+      "name": "更好的AI BetterBots",
+      "tag": "BetterBots.txt"
+    },
+    {
+      "name": "自定義航點 Custom Waypoint",
+      "tag": "CustomWaypointGoonmodStandalone2.txt"
+    },
+    {
+      "name": "增強型傷害指示 Enhanced Hitmarkers",
+      "tag": "EnhancedHitmarkers.txt"
+    },
+    {
+      "name": "輪廓消退 Fading Contour",
+      "tag": "FadingContour.txt"
+    },
+    {
+      "name": "全速群 FullSpeed Swarm",
+      "tag": "FullSpeedSwarm.txt"
+    },
+    {
+      "name": "守護者 Keepers",
+      "tag": "Keepers.txt"
+    },
+    {
+      "name": "大堂玩家信息 Lobby Player Info",
+      "tag": "LobbyPlayerInfo.txt"
+    },
+    {
+      "name": "近戰重新改進 Melee Overhaul REvamped",
+      "tag": "MeleeOverhaulREvamped.txt"
+    },
+    {
+      "name": "更多武器資訊 More Weapon Stats",
+      "tag": "MoreWeaponStats.txt"
+    },
+    {
+      "name": "保存設備選項 Save Equipment",
+      "tag": "SaveEquipment.txt"
+    },
+    {
+      "name": "雙擊安全屋 Two Click SafeHouse",
+      "tag": "TwoClickSafeHouse.txt"
+    },
+    {
+      "name": "生存波選項 Wave Survived",
+      "tag": "WaveSurvived.txt"
+    },
+    {
+      "name": "指示航點調整 Waypoint Tweaks",
+      "tag": "WaypointTweaks.txt"
+    },
+    {
+      "name": "遊戲暫停 pause",
+      "tag": "pause.txt"
+    },
+    {
+      "name": "WolfHUD",
+      "tag": "WolfHUD.json"
+    },
+    {
+      "name": "創建空白大廳 Create Empty Lobby",
+      "tag": "CreateEmptyLobby.json"
+    },
+    {
+      "name": "重新購買資產 REBuy Assets",
+      "tag": "REBuyAssets.json"
+    },
+    {
+      "name": "VELOSync",
+      "tag": "VELOSync.txt"
+    }
+  ]
+}

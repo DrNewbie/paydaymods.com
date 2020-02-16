@@ -1,0 +1,19 @@
+{
+  "name" : "Joker Info",
+  "description" : "Displays information about Joker deaths and heist end stats in chat",
+  "author" : "Shiny Hoppip",
+  "blt_version" : 2,
+  "color" : "0.043 0.808 0.6",
+  "image" : "mod.png",
+  "version" : "1.2",
+  "updates" : [
+    {
+      "identifier" : "pd2-joker-info",
+      "host": { "meta": "http://updates.hoppip.at/pd2-joker-info" }
+    }
+  ],
+  "hooks" : [
+    { "hook_id" : "lib/units/enemies/cop/copdamage", "script_path" : "jokerinfo.lua" },
+    { "hook_id" : "lib/states/missionendstate", "script_path" : "jokerinfo.lua" }
+  ]
+}

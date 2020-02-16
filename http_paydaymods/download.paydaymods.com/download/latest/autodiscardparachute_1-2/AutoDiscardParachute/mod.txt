@@ -1,0 +1,19 @@
+{
+	"name" : "Auto-Discard Parachute",
+	"description" : "Automatically triggers a parachute throw upon landing",
+	"author" : "Snh20",
+	"version" : "0.0.1",
+	"priority" : 10,
+	"updates" : [
+		{
+			"revision" : 1,
+			"identifier" : "autodiscardparachute"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/states/ingameparachuting",
+			"script_path" : "ingameparachuting.lua"
+		}
+	]
+}

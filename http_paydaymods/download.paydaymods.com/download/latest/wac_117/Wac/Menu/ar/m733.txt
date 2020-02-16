@@ -1,0 +1,117 @@
+{
+	"menu_id" : "wac_menu_ar_m733",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_m733_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m733fg",
+			"title" : "wac_replace_stndfg_title",
+			"callback" : "callback_toggle_replace_m733fg",		
+			"items" : [
+				"wac_default_multi",
+				"m4fg_multi"
+			],
+			"value" : "replace_m733fg",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m733grip",
+			"title" : "wac_replace_stndgrip_title",
+			"callback" : "callback_toggle_replace_m733grip",		
+			"items" : [
+				"wac_default_multi",
+				"ergogrip_multi",
+				"ar15hgrip_multi",
+				"ar15mgrip_multi",
+				"hk416cgrip_multi"
+			],
+			"value" : "replace_m733grip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m733stock",
+			"title" : "wac_replace_stockuseonly_title",
+			"callback" : "callback_toggle_replace_m733stock",		
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi",
+				"m4_s_crane_multi",
+				"foldst_multi",
+				"m16solidst_multi",
+				"hk416cst_multi",
+				"hk417st_multi",
+				"m4_vltor_multi"
+			],
+			"value" : "replace_m733stock",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m733lower",
+			"title" : "wac_replace_lowerrec_title",
+			"callback" : "callback_toggle_replace_m733lower",		
+			"items" : [
+				"wac_default_multi",
+				"wac_ar15lowercore_multi"
+			],
+			"value" : "replace_m733lower",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m733upper",
+			"title" : "wac_replace_ar15roundupper_title",
+			"callback" : "callback_toggle_replace_m733upper",		
+			"items" : [
+				"wac_default_multi",
+				"wac_ar15vltorupper_multi",
+				"wac_ar15baliosupper_multi",
+				"wac_ar15coreupper_multi"
+			],
+			"value" : "replace_m733upper",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m733bolt",
+			"title" : "wac_replace_ar15roundbolt_title",
+			"callback" : "callback_toggle_replace_m733bolt",		
+			"items" : [
+				"wac_default_multi",
+				"wac_ar15vltorbolt_multi",
+				"wac_ar15baliosbolt_multi",
+				"wac_ar15corebolt_multi"
+			],
+			"value" : "replace_m733bolt",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m733handle",
+			"title" : "wac_replace_ar15roundhandle_title",
+			"callback" : "callback_toggle_replace_m733handle",		
+			"items" : [
+				"wac_default_multi",
+				"wac_ar15balioshandle_multi",
+				"wac_ar15corehandle_multi"
+			],
+			"value" : "replace_m733handle",
+			"default_value" : 1
+		}
+	]
+}

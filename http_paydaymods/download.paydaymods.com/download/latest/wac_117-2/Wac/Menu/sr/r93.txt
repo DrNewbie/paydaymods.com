@@ -1,0 +1,19 @@
+{
+	"menu_id" : "wac_menu_sr_r93",
+	"parent_menu_id" : "wac_menu_sr",
+	"title" : "wac_menu_sr_r93_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_r93woodbody",
+			"title" : "wac_replace_r93woodst_title",
+			"callback" : "callback_toggle_replace_r93woodbody",		
+			"items" : [
+				"wac_default_multi",
+				"stndbody_multi"
+			],
+			"value" : "replace_r93woodbody",
+			"default_value" : 1
+		}
+	]
+}

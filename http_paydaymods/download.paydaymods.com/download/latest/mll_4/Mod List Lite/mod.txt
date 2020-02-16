@@ -1,0 +1,20 @@
+{
+	"name" : "Mod List Lite",
+	"description" : "Stops the mod list from loading images and reduces the box heights.",
+	"author" : "BangL",
+	"version" : "0.5",
+	"blt_version" : 2,
+	"priority" : 1000,
+	"color" : "255 0 255",
+	"updates" : [
+		{
+			"identifier" : "mll"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menu/menucomponentmanager",
+			"script_path" : "menucomponentmanager.lua"
+		}
+	]
+}

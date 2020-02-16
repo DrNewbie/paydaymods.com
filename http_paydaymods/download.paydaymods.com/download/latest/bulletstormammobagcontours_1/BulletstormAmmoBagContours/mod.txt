@@ -1,0 +1,19 @@
+{
+	"name" : "Bulletstorm-enabled Ammo Bag Contours",
+	"description" : "Replaces the contours around Bulletstorm-enabled ammo bags to allow them to be distinguished from basic ones",
+	"author" : "Snh20",
+	"version" : "0.0.1",
+	"priority" : "10",
+	"updates" : [
+		{
+			"revision" : 1,
+			"identifier" : "bulletstormammobagcontours"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/units/equipment/ammo_bag/ammobagbase",
+			"script_path" : "ammobagbase.lua"
+		}
+	]
+}

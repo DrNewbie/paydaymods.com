@@ -1,0 +1,20 @@
+{
+	"name" : "Disabled skin included modifications",
+	"description" : "Disables attachments included in higher tier skins.",
+	"author" : ">:3/Pawcio1337",
+	"contact" : "https://modworkshop.net/user-965.html",
+	"image" : "dsim.png",
+	"color" : "0.01 0.62 0.98",
+	"blt_version" : 2,
+	"undisablable" : false,
+	"disable_safe_mode" : false,
+	"version" : "1.1",
+	"updates" : [
+		{
+			"identifier" : "dsim"
+		}
+	],
+	"hooks" : [
+		{ "hook_id" : "lib/tweak_data/blackmarket/weaponskinstweakdata", "script_path" : "Lua/dsim.lua" }
+	]
+}

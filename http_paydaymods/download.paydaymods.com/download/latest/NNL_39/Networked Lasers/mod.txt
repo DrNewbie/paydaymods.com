@@ -1,0 +1,65 @@
+{
+	"name" : "Lasers Plus",
+	"description" : "Many, many gadget-related features.",
+	"author" : "Offyerrocker",
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "2.86",
+	"blt_version" : 2,
+	"color" : "255 128 0",
+	"image" : "lp.png",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/mission/elementlasertrigger",
+			"script_path" : "worldlasers.lua"
+		},
+		{
+			"hook_id" : "lib/units/weapons/weaponlaser",
+			"script_path" : "lasers.lua"
+		},
+		{
+			"hook_id" : "lib/units/weapons/weaponlaser",
+			"script_path" : "WeaponLaser.lua"
+		},
+		{
+			"hook_id" : "lib/units/weapons/raycastweaponbase",
+			"script_path" : "lasers.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/units/weapons/weaponflashlight",
+			"script_path" : "flashlights.lua"
+		},
+		{
+			"hook_id" : "lib/managers/blackmarketmanager",
+			"script_path" : "blackmarketmanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/blackmarketgui",
+			"script_path" : "blackmarketgui.lua"
+		},
+		{
+			"hook_id" : "lib/units/weapons/newraycastweaponbase",
+			"script_path" : "newraycastweaponbase.lua"
+		},
+		{
+			"hook_id" : "lib/network/handlers/unitnetworkhandler",
+			"script_path" : "unitnetworkhandler.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/states/vr/playermenu",
+			"script_path" : "vrlaser.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "playerstandard.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "NNL"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name" : "InspirePriority",
+	"description" : "Gives the skill [revive teammates from distance] more priority. Kindly supported by F1rekin.",
+	"author" : "SerMi",
+	"contact" : "sermi@gpplanet.de",
+	"version" : "1.24",
+	"updates" : 
+	[
+		{
+			"revision" : 6,
+			"identifier" : "InspirePriority"
+		}
+	],
+	"hooks" : [
+		{"hook_id" : "lib/managers/menumanager",   "script_path" : "menu/menu.lua"},
+		{ "hook_id" : "lib/units/beings/player/states/playerstandard", "script_path" : "lua/InspirePriority.lua" },
+		{ "hook_id" : "lib/managers/objectinteractionmanager", "script_path" : "lua/InspirePriority.lua" },
+		{"hook_id" : "lib/units/equipment/doctor_bag/doctorbagbase", "script_path" : "lua/InspirePriority.lua"},
+		{"hook_id" : "lib/units/beings/player/states/playerbleedout", "script_path" : "lua/InspirePriority.lua"},
+		{"hook_id" : "lib/managers/trademanager", "script_path" : "lua/InspirePriority.lua"}
+	],
+}

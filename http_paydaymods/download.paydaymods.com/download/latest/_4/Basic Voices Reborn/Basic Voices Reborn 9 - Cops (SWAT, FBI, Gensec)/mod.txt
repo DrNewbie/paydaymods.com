@@ -1,0 +1,23 @@
+{
+	"name" : "Basic Voices Reborn 9 - Cops (SWAT, FBI, Gensec)"
+	"description" : "Play lines from FBI, Swat and Gensec units."
+	"author" : "Lanz"
+	"contact" : "francoisbastidas66@gmail.com"
+	"version" : "v1.01"
+	"priority" : 210
+    "updates" : 
+	[
+	    {
+		    "revision" : 2,
+			"identifier" : "basicvoicesrebornHSUMVHBMBCCG",
+		}
+	],
+	"hooks" : 
+	[
+		{"hook_id" : "lib/managers/menumanager",
+		"script_path" : "basicvoices9.lua"}
+	]
+}
+	
+	
+	

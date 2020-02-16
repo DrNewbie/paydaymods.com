@@ -1,0 +1,68 @@
+{
+	"menu_id" : "khud_menu_downcounter",
+	"parent_menu_id" : "khud_mainmenu",
+	"title" : "khud_menu_downcounter_title",
+	"description" : "khud_menu_downcounter_desc",
+	"priority" : 7,
+	"items" : [	
+		{
+			"type" : "multiple_choice",
+			"id" : "khud_downcounter_chat_mode",
+			"title" : "khud_downcounter_chatmode_title",
+			"description" : "khud_downcounter_chatmode_desc",
+			"callback" : "callback_khud_downcounter_chatmode",
+			"items" : [
+				"khud_downcounter_chatmode_a",
+				"khud_downcounter_chatmode_b",
+				"khud_downcounter_chatmode_c"
+			],
+			"value" : "downcounter_announce_chat_mode"
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "khud_downcounter_alert_mode",
+			"title" : "khud_downcounter_alertmode_title",
+			"description" : "khud_downcounter_alertmode_desc",
+			"callback" : "callback_khud_downcounter_alertmode",
+			"items" : [
+				"khud_downcounter_alertmode_a",
+				"khud_downcounter_alertmode_b",
+				"khud_downcounter_alertmode_c"
+			],
+			"value" : "downcounter_announce_alert_mode"
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_downcounter_downs_low",
+			"title" : "khud_downcounter_downs_low_title",
+			"description" : "khud_downcounter_downs_low_desc",
+			"callback" : "callback_khud_downcounter_downs_low",
+			"value" : "downcounter_announce_lowdowns_only_mode"
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_downcounter_custody",
+			"title" : "khud_downcounter_custody_title",
+			"description" : "khud_downcounter_custody_desc",
+			"callback" : "callback_khud_downcounter_custody",
+			"value" : "downcounter_announce_custody"
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_downcounter_docbags",
+			"title" : "khud_downcounter_docbags_title",
+			"description" : "khud_downcounter_docbags_desc",
+			"callback" : "callback_khud_downcounter_docbags",
+			"value" : "downcounter_announce_docbags"
+		},
+		{
+			"type" : "toggle",
+			"id" : "khud_downcounter_extras",
+			"title" : "khud_downcounter_extras_title",
+			"description" : "khud_downcounter_extras_desc",
+			"callback" : "callback_khud_downcounter_extras",
+			"value" : "downcounter_announce_extras"
+		}
+		
+	]
+}

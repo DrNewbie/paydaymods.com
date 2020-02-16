@@ -1,0 +1,21 @@
+{
+	"name" : "Heist Name Changes",
+	"description" : "Renames a lot of heists. Originally part of Various Text Changes, it has been turned into its own standalone mod.",
+	"author" : "Melting Terminal",
+	"contact" : "rj.jayperry@gmail.com",
+	"version" : "VTC-5.22",
+	"blt_version" : 2,
+	"color" : "102 204 255",
+	"image" : "",
+	"updates" : [
+		{
+			"identifier" : "hnc"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "vtc_heists.lua"
+		}
+	]
+}

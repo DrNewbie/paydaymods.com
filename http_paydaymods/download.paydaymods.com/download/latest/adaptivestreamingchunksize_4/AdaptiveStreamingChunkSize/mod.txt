@@ -1,0 +1,52 @@
+{
+	"name" : "Adaptive Streaming Chunk Size",
+	"description" : "Adjusts the Streaming Chunk KB setting based upon whether the game state is currently in the menu or in-game. This is done to work around a severe framerate drop when leaving steel sights mode. https://www.reddit.com/r/paydaytheheistmods/comments/55g76b/5_simple_small_mod_requests/d8b3dq2",
+	"author" : "\n    Snh20\n    TdlQ (localizations loading code)\n    slidedrum (mod concept & feedback)\n    McKillem (feedback)\n    Sounds_of_the_Future",
+	"blt_version" : 2,
+	"version" : "0.0.2",
+	"priority" : 10,
+	"color" : "0.15 0.15 0.15",
+	"image" : "_icon.png",
+	"updates" : [
+		{
+			"revision" : 4,
+			"identifier" : "adaptivestreamingchunksize"
+		}
+	],
+	"pre_hooks" : [
+		{
+			"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "init.lua"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/setups/setup",
+			"script_path" : "setup.lua"
+		},
+		{
+			"hook_id" : "lib/managers/playermanager",
+			"script_path" : "playermanager.lua"
+		},
+		{
+			"hook_id" : "lib/states/menumainstate",
+			"script_path" : "menumainstate.lua"
+		},
+		{
+			"hook_id" : "lib/managers/gameplaycentralmanager",
+			"script_path" : "gameplaycentralmanager.lua"
+		},
+		{
+			"hook_id" : "lib/states/ingamelobbymenu",
+			"script_path" : "ingamelobbymenu.lua"
+		},
+		{
+			"hook_id" : "lib/states/missionendstate",
+			"script_path" : "missionendstate.lua"
+		}
+	]
+}

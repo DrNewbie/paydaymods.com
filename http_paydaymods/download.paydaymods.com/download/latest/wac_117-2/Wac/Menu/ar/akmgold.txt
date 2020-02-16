@@ -1,0 +1,157 @@
+{
+	"menu_id" : "wac_menu_ar_akmgold",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_akmgold_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmgolddracob",
+			"title" : "wac_replace_akdracob_title",
+			"callback" : "callback_toggle_replace_akmgolddracob",		
+			"items" : [
+				"wac_default_multi",
+				"wac_akmgoldb_multi",
+				"wac_akmb_multi",
+				"wac_ak74b_multi"
+			],
+			"value" : "replace_akmgolddracob",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmgoldmodernb",
+			"title" : "wac_replace_akmodernb_title",
+			"callback" : "callback_toggle_replace_akmgoldmodernb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_akmgoldb_multi",
+				"wac_akmb_multi",
+				"wac_ak74b_multi"
+			],
+			"value" : "replace_akmgoldmodernb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmgoldquad",
+			"title" : "wac_replace_akquad_title",
+			"callback" : "callback_toggle_replace_akmgoldquad",		
+			"items" : [
+				"wac_default_multi",
+				"rpkmag_multi",
+				"rpkdrummag_multi",
+				"akmgoldmag_multi",
+				"akmmag_multi",
+				"ak74mag_multi",
+				"uspalm_ak30_multi"
+			],
+			"value" : "replace_akmgoldquad",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmgolduspalm",
+			"title" : "wac_replace_akuspalm_title",
+			"callback" : "callback_toggle_replace_akmgolduspalm",		
+			"items" : [
+				"wac_default_multi",
+				"akmgoldmag_multi",
+				"akmmag_multi",
+				"ak74mag_multi"
+			],
+			"value" : "replace_akmgolduspalm",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmgoldmagpulassist",
+			"title" : "wac_replace_magpulmagassist_title",
+			"callback" : "callback_toggle_replace_akmgoldmagpulassist",		
+			"items" : [
+				"wac_default_multi",
+				"akmgoldmag_multi",
+				"akmmag_multi",
+				"ak74mag_multi"
+			],
+			"value" : "replace_akmgoldmagpulassist",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmgoldstock1",
+			"title" : "wac_replace_skelst_title",
+			"callback" : "callback_toggle_replace_akmgoldstock1",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi",
+				"akmgoldfoldst_multi",
+				"akpslst_multi",
+				"akclassst_multi"
+			],
+			"value" : "replace_akmgoldstock1",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmgoldstock2",
+			"title" : "wac_replace_ar15_m4mk46_title",
+			"callback" : "callback_toggle_replace_akmgoldstock2",		
+			"items" : [
+				"wac_default_multi",
+				"akmgoldfoldst_multi",
+				"skelst_multi",
+				"akpslst_multi",
+				"akclassst_multi",
+				"rpkst_multi",
+				"rpkwoodst_multi"
+			],
+			"value" : "replace_akmgoldstock2",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_akmgoldstock3",
+			"title" : "wac_replace_akclassicst_title",
+			"callback" : "callback_toggle_replace_akmgoldstock3",		
+			"items" : [
+				"wac_default_multi",
+				"akmgoldfoldst_multi",
+				"skelst_multi",
+				"akpslst_multi",
+				"rpkst_multi",
+				"rpkwoodst_multi"
+			],
+			"value" : "replace_akmgoldstock3",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_akmgoldfg",
+			"title" : "wac_replace_usestndfg_title",
+			"callback" : "callback_toggle_replace_akmgoldfg",
+			"value" : "replace_akmgoldfg",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_akmsingle",
+			"title" : "wac_replace_singlefire_title",
+			"description" : "wac_singlefiremode_desc",
+			"callback" : "callback_toggle_replace_akmsingle",
+			"value" : "replace_akmsingle",
+			"default_value" : false
+		}
+	]
+}

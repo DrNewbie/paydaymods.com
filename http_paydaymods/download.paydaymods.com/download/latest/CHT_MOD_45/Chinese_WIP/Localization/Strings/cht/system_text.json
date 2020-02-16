@@ -1,0 +1,153 @@
+[
+{
+	 "i"		: 1
+	,"ids"		: "Idstring(@IDd794d5df94d10b75@)"
+	,"StringID"	: "wp_xsub_watervalve"
+	,"orig_text": "Open the Valve"
+	,"tran_text": "打開閥門"
+},{
+	 "i"		: 2
+	,"ids"		: "Idstring(@IDfc75d4d84e102e0d@)"
+	,"StringID"	: "wp_uc_computer"
+	,"orig_text": "Continue Hack"
+	,"tran_text": "繼續駭入"
+},{
+	 "i"		: 3
+	,"ids"		: "Idstring(@ID8a223512ed30939a@)"
+	,"StringID"	: "wp_xsub_waterhose"
+	,"orig_text": "Pull the Hose"
+	,"tran_text": "拉下軟管"
+},{
+	 "i"		: 4
+	,"ids"		: "Idstring(@ID1e05746e43042748@)"
+	,"StringID"	: "wp_xsub_safe"
+	,"orig_text": "Investigate the Safe"
+	,"tran_text": "調查保險箱"
+},{
+	 "i"		: 5
+	,"ids"		: "Idstring(@ID50f7792ad0b50d37@)"
+	,"StringID"	: "wp_xsub_door"
+	,"orig_text": "Open the Door"
+	,"tran_text": "打開門"
+},{
+	 "i"		: 6
+	,"ids"		: "Idstring(@IDf6e165e2313a7405@)"
+	,"StringID"	: "wp_ap_escape"
+	,"orig_text": "Escape!"
+	,"tran_text": "撤離！"
+},{
+	 "i"		: 7
+	,"ids"		: "Idstring(@ID9169eae84a2da68e@)"
+	,"StringID"	: "wp_xsub_hack"
+	,"orig_text": "Override the System"
+	,"tran_text": "過載系統"
+},{
+	 "i"		: 8
+	,"ids"		: "Idstring(@IDf5e43d57e0a76ee6@)"
+	,"StringID"	: "wp_xsub_shelter"
+	,"orig_text": "Get to the Shelter"
+	,"tran_text": "得到庇護"
+},{
+	 "i"		: 9
+	,"ids"		: "Idstring(@ID56d2092fdee2b1dc@)"
+	,"StringID"	: "wp_xsub_sewer"
+	,"orig_text": "Sewer"
+	,"tran_text": "下水道"
+},{
+	 "i"		: 10
+	,"ids"		: "Idstring(@ID3668ea3b0fdc0411@)"
+	,"StringID"	: "wp_uc_saw"
+	,"orig_text": "Saw the Limo"
+	,"tran_text": "鋸開加長車"
+},{
+	 "i"		: 11
+	,"ids"		: "Idstring(@IDac14986b5efea37d@)"
+	,"StringID"	: "wp_xsub_tnt"
+	,"orig_text": "Place the Charge"
+	,"tran_text": "放置爆炸物"
+},{
+	 "i"		: 12
+	,"ids"		: "Idstring(@ID92febda4d6f437aa@)"
+	,"StringID"	: "wp_xsub_watertap"
+	,"orig_text": "Open the Tap"
+	,"tran_text": "開啟水源"
+},{
+	 "i"		: 13
+	,"ids"		: "Idstring(@IDf7c20a8265dab1bc@)"
+	,"StringID"	: "wp_xsub_outlet"
+	,"orig_text": "Plug into Power Outlet"
+	,"tran_text": "插入電源插座"
+},{
+	 "i"		: 14
+	,"ids"		: "Idstring(@IDd004ce5059dd9b09@)"
+	,"StringID"	: "wp_xsub_bbq"
+	,"orig_text": "Talk to Mitchell"
+	,"tran_text": "跟 Mitchell 對話"
+},{
+	 "i"		: 15
+	,"ids"		: "Idstring(@ID82cb4f21f4f61698@)"
+	,"StringID"	: "wp_bridge_escape"
+	,"orig_text": "Escape!"
+	,"tran_text": "撤離！"
+},{
+	 "i"		: 16
+	,"ids"		: "Idstring(@IDea20a79a381cee56@)"
+	,"StringID"	: "wp_xsub_escape"
+	,"orig_text": "Escape!"
+	,"tran_text": "撤離！"
+},{
+	 "i"		: 17
+	,"ids"		: "Idstring(@ID2dbdbd62c6b56b68@)"
+	,"StringID"	: "wp_bank_escape"
+	,"orig_text": "Escape!"
+	,"tran_text": "撤離！"
+},{
+	 "i"		: 18
+	,"ids"		: "Idstring(@ID933aeaa0cafa9da1@)"
+	,"StringID"	: "wp_xsub_power"
+	,"orig_text": "Turn on the Power"
+	,"tran_text": "開啟電源"
+},{
+	 "i"		: 19
+	,"ids"		: "Idstring(@ID5e967cbc3f85b23b@)"
+	,"StringID"	: "wp_uc_check_limo"
+	,"orig_text": "Check the Limo"
+	,"tran_text": "檢查加長車"
+},{
+	 "i"		: 20
+	,"ids"		: "Idstring(@ID4e9b7a90eec3c75b@)"
+	,"StringID"	: "wp_uc_escape"
+	,"orig_text": "Escape!"
+	,"tran_text": "撤離！"
+},{
+	 "i"		: 21
+	,"ids"		: "Idstring(@ID31bfea2b8dbaaf77@)"
+	,"StringID"	: "wp_uc_power"
+	,"orig_text": "Get the Power Back On"
+	,"tran_text": "開回電源"
+},{
+	 "i"		: 22
+	,"ids"		: "Idstring(@ID06fbed41c39c7470@)"
+	,"StringID"	: "wp_uc_interogate"
+	,"orig_text": "Get the Code Words"
+	,"tran_text": "拿到密碼"
+},{
+	 "i"		: 23
+	,"ids"		: "Idstring(@ID6606b791dcc19230@)"
+	,"StringID"	: "wp_uc_keyboard"
+	,"orig_text": "Use the Keyboard"
+	,"tran_text": "使用鑰匙卡"
+},{
+	 "i"		: 24
+	,"ids"		: "Idstring(@IDcde533815060897b@)"
+	,"StringID"	: "wp_str_esc"
+	,"orig_text": "Escape!"
+	,"tran_text": "撤離！"
+},{
+	 "i"		: 25
+	,"ids"		: "Idstring(@ID164a55d4d67c7f81@)"
+	,"StringID"	: "wp_slaughterhouse_escape"
+	,"orig_text": "Escape!"
+	,"tran_text": "撤離！"
+}
+]

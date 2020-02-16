@@ -1,0 +1,78 @@
+{
+	"menu_id" : "wac_menu_pis_p226r",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_p226r_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_p226rcomp2",
+			"title" : "wac_replace_velocitycomp_title",
+			"callback" : "callback_toggle_replace_p226rcomp2",		
+			"items" : [
+				"wac_default_multi",
+				"pisflashhider_multi",
+				"pistenderizer_multi"
+			],
+			"value" : "replace_p226rcomp2",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_p226rergogrip",
+			"title" : "wac_replace_ergogrip_title",
+			"callback" : "callback_toggle_replace_p226rergogrip",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_p226rergogrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_p226extmag",
+			"title" : "wac_replace_hideextmag_title",
+			"callback" : "callback_toggle_replace_p226extmag",
+			"value" : "replace_p226extmag",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_p226requinox",
+			"title" : "wac_replace_twotonesl_title",
+			"callback" : "callback_toggle_replace_p226requinox",		
+			"items" : [
+				"wac_default_multi",
+				"longsl_multi",
+				"stndslide_multi"
+			],
+			"value" : "replace_p226requinox",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_p226rlong",
+			"title" : "wac_replace_longsl_title",
+			"callback" : "callback_toggle_replace_p226rlong",		
+			"items" : [
+				"wac_default_multi",
+				"twotonetsl_multi",
+				"stndslide_multi"
+			],
+			"value" : "replace_p226rlong",
+			"default_value" : 1
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"htk_title" : "Hold The Key mod options",
+	"htk_toggle_allow_doublebinding_title" : "Allow Double-Binding Keys",
+	"htk_toggle_allow_doublebinding_desc" : "Lets you bind one key to multiple game actions. Does not impair held-key checking.",
+	"htk_button_reload_title" : "Reload keybinds",
+	"htk_button_reload_desc" : "Load all keybinds from saved data again",
+	"htk_button_reset_title" : "Wipe all keybinds",
+	"htk_button_reset_desc" : "Deletes all keybinds from this mod's saved memory. Does not impair normal BLT binds."
+}

@@ -1,0 +1,10 @@
+{
+	"menu_id" : "wac_menu_attch",
+	"parent_menu_id" : "wac_menu",
+	"title" : "wac_menu_attch_title",
+	"description" : "wac_menu_attch_desc",
+	"items" : [
+		{
+		}
+	]
+}

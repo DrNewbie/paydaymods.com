@@ -1,0 +1,21 @@
+{
+	"menu_id" : "mui_options",
+	"parent_menu_id" : "blt_options",
+	"items" : [
+		{
+			"id" : "section_1",
+			"type" : "divider",
+			"size" : "20"
+		},
+		{
+			"id" : "section_2",
+			"type" : "divider",
+			"size" : "20"
+		},
+		{
+			"id" : "section_3",
+			"type" : "divider",
+			"size" : "20"
+		}
+	]
+}

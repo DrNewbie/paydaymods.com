@@ -1,0 +1,44 @@
+{
+	"name" : "Tactical Lean",
+	"description" : "'50,000 people use to heist here, now it's a ghost town.'\nAdds the ability to look and shoot around corners, using two keybinds. Requires HoldsTheKey mod.",
+	"author" : "Offyerrocker",
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "2.02",
+	"blt_version" : 2,
+	"image" : "taclean_icon.png"
+	"color" : "255 64 0",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/playermanager",
+			"script_path" : "playermanager.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/playercamera",
+			"script_path" : "playercamera.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "playerstandard.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/playerinventory",
+			"script_path" : "playerinventory.lua"
+		},
+		{
+			"hook_id" : "lib/units/cameras/fpcameraplayerbase",
+			"script_path" : "fpcameraplayerbase.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "tacticool_lean"
+		}
+	],
+	"dependencies" : [
+		"holdthekey"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"name" : "Music Control",
+	"description" : "Adds music player controls and additional playlists.",
+	"author" : "Spiltmilk and FishTaco\n    French Translation: Mr.PlayYou\n    German Translation: FuRiouS\n    Korean Translation: payday2kor\n    Russian Translation: Kowa4ui_korm\n    Turkish Translation: Sidknee",
+	"contact" : "http://steamcommunity.com/id/cheezitmeister",
+	"version" : "R27",
+	"updates" : [ { "revision" : 27, "identifier" : "MControl" } ],
+	"hooks" :
+	[{"hook_id" : "lib/managers/menumanager", "script_path" : "lua/music.lua"}, {"hook_id" : "lib/managers/musicmanager", "script_path" : "lua/music.lua"}, {"hook_id" : "lib/tweak_data/levelstweakdata", "script_path" : "lua/music.lua"}]
+}

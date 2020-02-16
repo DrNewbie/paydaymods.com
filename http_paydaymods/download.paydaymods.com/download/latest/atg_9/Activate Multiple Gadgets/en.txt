@@ -1,0 +1,9 @@
+{
+	"atg_title" : "Separate Sight + Activate Multiple Gadgets",
+	"atg_enabled_title" : "Enable Activating Multiple Gadgets",
+	"atg_enabled_desc" : "Allows turning on more than one laser/flashlight at a time.",
+	"atg_disable_cycle_title" : "Disable normal cycle to gadgets",
+	"atg_disable_cycle_desc" : "Prevents activating sight gadgets with the normal gadget key [$BTN_GADGET].",
+	"atg_sight_keybind_title" : "Toggle sight gadget",
+	"atg_sight_keybind_desc" : "Affects 45-degree Sights, the Angled Sight, the Scope Magnifier, and the Flip-Up Sights for Grenade Launchers"
+}

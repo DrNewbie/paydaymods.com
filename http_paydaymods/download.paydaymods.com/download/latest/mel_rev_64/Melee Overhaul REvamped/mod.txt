@@ -1,0 +1,22 @@
+{
+	       "name" : "Melee Overhaul REvamped",
+	"description" : "A new, rewritten mod which makes meleeing much more viable and reliable!",
+	     "author" : "Undeadsewer",
+	    "contact" : "undeadsewer@gmail.com",
+	    "version" : "6.57",
+	      "hooks" : [
+						{ "hook_id" : "lib/managers/dynamicresourcemanager" 				, "script_path" : "lua/base.lua" },
+						{ "hook_id" : "lib/managers/menumanager" 							, "script_path" : "lua/base.lua" },
+						{ "hook_id" : "lib/managers/menu/blackmarketgui" 					, "script_path" : "lua/base.lua" },
+						{ "hook_id" : "lib/managers/statisticsmanager" 						, "script_path" : "lua/base.lua" },
+						{ "hook_id" : "lib/network/matchmaking/networkaccountsteam" 		, "script_path" : "lua/base.lua" },
+						{ "hook_id" : "lib/tweak_data/blackmarket/meleeweaponstweakdata" 	, "script_path" : "lua/base.lua" },
+						{ "hook_id" : "lib/units/beings/player/states/playerstandard" 		, "script_path" : "lua/base.lua" },
+						{ "hook_id" : "lib/units/cameras/fpcameraplayerbase" 				, "script_path" : "lua/base.lua" },
+						{ "hook_id" : "lib/units/enemies/cop/copdamage" 					, "script_path" : "lua/base.lua" },
+						{ "hook_id" : "lib/units/enemies/cop/copmovement" 					, "script_path" : "lua/base.lua" }
+	                ],
+	    "updates" : [
+						{ "revision" : 10 , "identifier" : "MeleeOverhaul" }
+	                ]
+}

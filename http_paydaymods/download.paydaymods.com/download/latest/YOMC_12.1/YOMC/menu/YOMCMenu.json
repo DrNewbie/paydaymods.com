@@ -1,0 +1,82 @@
+{
+	"menu_id" : "YOMCMenu_menu_id",
+	"parent_menu_id" : "lua_mod_options_menu",
+	"title" : "YOMC_options_menu_title",
+	"description" : "YOMC_options_menu_desc",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_ChatAnnounce",
+			"title" : "toggle_ChatAnnounce_title",
+			"description" : "toggle_ChatAnnounce_desc",
+			"callback" : "callback_toggle_ChatAnnounce",
+			"value" : "ChatAnnounce",
+			"default_value" : true,
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_CompCheck",
+			"title" : "toggle_CompCheck_title",
+			"description" : "toggle_CompCheck_desc",
+			"callback" : "callback_toggle_CompCheck",
+			"value" : "CompCheck",
+			"default_value" : true,
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_BurstFire",
+			"title" : "toggle_BurstFire_title",
+			"description" : "toggle_BurstFire_desc",
+			"callback" : "callback_toggle_BurstFire",
+			"items" : [
+				"BurstFire_toggle_disabled",
+				"BurstFire_toggle_akimbo_enabled",
+				"BurstFire_toggle_both_enabled"
+				],
+			"value" : "BurstFire",
+			"default_value" : 3,
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_TactReload",
+			"title" : "toggle_TactReload_title",
+			"description" : "toggle_TactReload_desc",
+			"callback" : "callback_toggle_TactReload",
+			"value" : "TactReload",
+			"default_value" : true,
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_DmgFalloff",
+			"title" : "toggle_DmgFalloff_title",
+			"description" : "toggle_DmgFalloff_desc",
+			"callback" : "callback_toggle_DmgFalloff",
+			"value" : "DmgFalloff",
+			"default_value" : true,
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_Pen",
+			"title" : "toggle_Pen_title",
+			"description" : "toggle_Pen_desc",
+			"callback" : "callback_toggle_Pen",
+			"value" : "Pen",
+			"default_value" : true,
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_BUIS",
+			"title" : "toggle_BUIS_title",
+			"description" : "toggle_BUIS_desc",
+			"callback" : "callback_toggle_BUIS",
+			"items" : [
+				"BUIS_toggle_disabled",
+				"BUIS_toggle_o_cs_enabled",
+				"BUIS_toggle_o_specter_enabled",
+				"BUIS_toggle_both_enabled"
+				],
+			"value" : "BUIS",
+			"default_value" : 1
+		}
+	]
+}

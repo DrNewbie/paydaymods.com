@@ -1,0 +1,23 @@
+{
+	"name" : "Basic Voices Reborn 9 - Cops 1 (No Helmet Static)"
+	"description" : "Play lines from cops without helmet static variations."
+	"author" : "Lanz"
+	"contact" : "francoisbastidas66@gmail.com"
+	"version" : "v1.00"
+	"priority" : 210
+    "updates" : 
+	[
+	    {
+		    "revision" : 1,
+			"identifier" : "basicvoices9",
+		}
+	],
+	"hooks" : 
+	[
+		{"hook_id" : "lib/managers/menumanager",
+		"script_path" : "basicvoices9.lua"}
+	]
+}
+	
+	
+	

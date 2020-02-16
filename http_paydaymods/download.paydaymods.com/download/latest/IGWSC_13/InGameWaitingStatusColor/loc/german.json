@@ -1,0 +1,36 @@
+{
+	"igwsc_menu_title": "InGame Waiting Status Color",
+	"igwsc_menu_desc": "Passt die Statustextfarbe und den Statustext im Ausrüstungsbildschirm an",
+	
+	"igwsc_options_help_title": "Hilfe",
+	"igwsc_option_help_desc": "Willst du ein bestimmten Farbcode? Klicke diesen Hilfeknopf",
+	"igwsc_options_info_popup_message_help": "Dieser Mod benutzt HTML Hex Farbcode um die Textfarbe zu ändern.\n Hier ist eine Liste von Farben und ihre HTML Hexcodes, die du vielleicht ausprobieren möchtest.\n   Liste der Hex Farben\n       Schwarz      000000    Weiß       FFFFFF\n        Rot        FF0000    Neongrün       00FF00\n         Blau      0000FF    Gelb     FFFF00\n        Türkis      00FFFF    Magenta  FF00FF\n        Silber     C0C0C0    Grau       808080\n        Kastanienbraun   800000    Olivgrün      808000\n        Grün     008000    Violett    800080\n        Entenbraun        008080    Marineblau       000080\n- Du kannst weitere Hexfarbcodes auf vielen Webseiten finden.\n- Wenn du die Farbe wechseln willst dann kannst du das im Farbfeld machen. Trag einen HTML Hexfarbcode ein und drücke die Eingabetaste.\n- Falls du das Menü nicht gut erkennen kannst dann kannst du die Farbe auch direkt in dieser Datei verändern IGWSC.txt (Sie befindet sich in \PAYDAY 2\\mods\\saves)\n",
+	"igwsc_options_info_popup_close": "Schließen",
+	
+	"igwsc_options_reset_title": "Zurücksetzen",
+	"igwsc_options_reset_desc": "Setzt zur Standardfarbe und Text zurück (Blau-Beitreten, Gelb-Laden, Grün-Bereit und Rot-Nicht Bereit)",
+	
+	"dropin_text_title": "Ladetext ändern",
+	"dropin_text_desc": "Hier den text für den Ladestatus eintragen",
+	
+	"dropin_color_title": "Farbe des Ladetextes",
+	"dropin_color_desc": "Hier den Hexfarbcode eintragen für den Ladestatus",
+	
+	"join_text_title": "Beitritstext ändern",
+	"join_text_desc": "Hier den text für den Beitritsstatus eintragen",
+	
+	"join_color_title": "Farbe des Beitritstextes",
+	"join_color_desc": "Hier den Hexfarbcode eintragen für den Beitritsstatus",
+	
+	"ready_text_title": "Bereit-Text ändern",
+	"ready_text_desc": "Hier den text für den Bereitstatus eintragen",
+	
+	"ready_color_title": "Farbe des Bereit-textes",
+	"ready_color_desc": "Hier den Hexfarbcode eintragen für den Bereitstatus",
+	
+	"unready_color_title": "Farbe des Nicht-Bereit-textes",
+	"unready_color_desc": "Hier den Hexfarbcode eintragen für den Nicht-Bereitstatus",
+	
+	"unready_text_title": "Nicht-Bereit-text ändern",
+	"unready_text_desc": "Hier den text für den Nicht-Bereitstatus eintragen"
+}

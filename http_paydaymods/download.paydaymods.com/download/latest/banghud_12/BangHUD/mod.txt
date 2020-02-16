@@ -1,0 +1,29 @@
+{
+	"name": "BangHUD",
+	"description": "Shows player health and armor as arcs in the middle of the screen",
+	"author": "BangL\n  Arc textures by Takku\n  Swan song & kingpin injector effect by GREAT BIG BUSHY BEARD a.k.a. Simon\n  Chinese translation by CoolLKK",
+	"contact" : "id/bangl",
+	"version": "0.9",
+	"priority": 0,
+	"image" : "bh.png",
+	"color" : "0.25 0.88 0.82",
+	"blt_version" : 2,
+	"updates" : [
+		{
+			"identifier" : "banghud"
+		},
+		{
+			"identifier" : "banghud_assets",
+			"install_dir" : "assets/mod_overrides/",
+			"install_folder" : "BangHUD-Assets",
+			"display_name" : "BangHUD-Assets"
+		}
+	],
+	"hooks": [
+		{"script_path": "BangHUD.lua", "hook_id": "lib/managers/group_ai_states/groupaistatebase"},
+		{"script_path": "BangHUD.lua", "hook_id": "lib/managers/hudmanagerpd2"},
+		{"script_path": "BangHUD.lua", "hook_id": "lib/managers/localizationmanager"},
+		{"script_path": "BangHUD.lua", "hook_id": "lib/managers/menumanager"},
+		{"script_path": "BangHUD.lua", "hook_id": "lib/units/beings/player/playerdamage"}
+	]
+}

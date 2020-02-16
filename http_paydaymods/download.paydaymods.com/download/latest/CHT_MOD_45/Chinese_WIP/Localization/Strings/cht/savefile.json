@@ -1,0 +1,69 @@
+[
+{
+	 "i"		: 1
+	,"ids"		: "Idstring(@IDdb49da1e86ec8fa8@)"
+	,"StringID"	: "savefile_progress_description"
+	,"orig_text": "Player statistics and game progression."
+	,"tran_text": "玩家統計及遊戲進度。"
+},{
+	 "i"		: 2
+	,"ids"		: "Idstring(@ID51ec0770b1374600@)"
+	,"StringID"	: "savefile_game_title"
+	,"orig_text": "PAYDAY 2"
+	,"tran_text": "PAYDAY 2"
+},{
+	 "i"		: 3
+	,"ids"		: "Idstring(@IDdfee8b2c9cfcdc24@)"
+	,"StringID"	: "savefile_autosave"
+	,"orig_text": "$TEXT_WITH_DATE; - AUTO SAVE"
+	,"tran_text": "$TEXT_WITH_DATE; - 自動儲存"
+},{
+	 "i"		: 4
+	,"ids"		: "Idstring(@ID28908e0ab5750b8e@)"
+	,"StringID"	: "savefile_removing"
+	,"orig_text": "Removing..."
+	,"tran_text": "移除中..."
+},{
+	 "i"		: 5
+	,"ids"		: "Idstring(@IDe540c812193bb658@)"
+	,"StringID"	: "savefile_loading"
+	,"orig_text": "Loading..."
+	,"tran_text": "讀取中..."
+},{
+	 "i"		: 6
+	,"ids"		: "Idstring(@ID3918ab6fa89b8686@)"
+	,"StringID"	: "savefile"
+	,"orig_text": "$TEXT; - $DATE;"
+	,"tran_text": "$TEXT; - $DATE;"
+},{
+	 "i"		: 7
+	,"ids"		: "Idstring(@IDa04ddb6b4f4171ee@)"
+	,"StringID"	: "savefile_empty"
+	,"orig_text": "[New Save File]"
+	,"tran_text": "[新的存檔]"
+},{
+	 "i"		: 8
+	,"ids"		: "Idstring(@IDfc405be2421d5455@)"
+	,"StringID"	: "savefile_setting_description"
+	,"orig_text": "User specific game settings."
+	,"tran_text": "使用者設定"
+},{
+	 "i"		: 9
+	,"ids"		: "Idstring(@IDb797ee121650985f@)"
+	,"StringID"	: "savefile_progress"
+	,"orig_text": "Player progression: Version $VERSION; or higher is required."
+	,"tran_text": "玩家進度：需要 $VERSION; 版本或者更新的版本。"
+},{
+	 "i"		: 10
+	,"ids"		: "Idstring(@ID29e2256ad0d3883c@)"
+	,"StringID"	: "savefile_setting"
+	,"orig_text": "Game settings: Version $VERSION; or higher is required."
+	,"tran_text": "遊戲設定： 需要 $VERSION; 版本或者更新的版本。"
+},{
+	 "i"		: 11
+	,"ids"		: "Idstring(@ID04ccb95b8627fab9@)"
+	,"StringID"	: "savefile_saving"
+	,"orig_text": "Saving..."
+	,"tran_text": "儲存中..."
+}
+]

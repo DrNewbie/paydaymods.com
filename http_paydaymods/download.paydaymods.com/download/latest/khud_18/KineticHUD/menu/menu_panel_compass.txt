@@ -1,0 +1,78 @@
+{
+	"menu_id" : "khud_menu_panel_compass",
+	"parent_menu_id" : "khud_menu_panel_player",
+	"title" : "khud_menu_panel_compass_title",
+	"description" : "khud_menu_panel_compass_desc",
+	"back_callback" : "callback_khud_close",
+	"priority" : 5,
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "id_khud_use_compass",
+			"title" : "khud_use_compass_title",
+			"description" : "khud_use_compass_desc",
+			"callback" : "callback_khud_use_compass",
+			"value" : "use_compass"
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_menu_panel_compass_alpha",
+			"title" : "khud_menu_panel_compass_alpha_title",
+			"description" : "khud_menu_panel_compass_alpha_desc",
+			"callback" : "callback_khud_menu_panel_compass_alpha",
+			"value" : "panel_compass_alpha",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 1,
+			"step" : 0.01
+		},
+		{
+			"type" : "slider_DISABLED",
+			"id" : "khud_menu_panel_compass_w",
+			"title" : "khud_menu_panel_compass_w_title",
+			"description" : "khud_menu_panel_compass_w_desc",
+			"callback" : "callback_khud_menu_panel_compass_w",
+			"value" : "panel_compass_w",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 2000,
+			"step" : 1
+		},
+		{
+			"type" : "slider_DISABLED",
+			"id" : "khud_menu_panel_compass_h",
+			"title" : "khud_menu_panel_compass_h_title",
+			"description" : "khud_menu_panel_compass_h_desc",
+			"callback" : "callback_khud_menu_panel_compass_h",
+			"value" : "panel_compass_h",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 1000,
+			"step" : 1
+		},
+		{
+			"type" : "slider_DISABLED",
+			"id" : "khud_menu_panel_compass_x",
+			"title" : "khud_menu_panel_compass_x_title",
+			"description" : "khud_menu_panel_compass_x_desc",
+			"callback" : "callback_khud_menu_panel_compass_x",
+			"value" : "panel_compass_x",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 3000,
+			"step" : 1
+		},
+		{
+			"type" : "slider",
+			"id" : "khud_menu_panel_compass_y",
+			"title" : "khud_menu_panel_compass_y_title",
+			"description" : "khud_menu_panel_compass_y_desc",
+			"callback" : "callback_khud_menu_panel_compass_y",
+			"value" : "panel_compass_y",
+			"default_value" : 1,
+			"min" : 0,
+			"max" : 1000,
+			"step" : 1
+		}
+	]
+}

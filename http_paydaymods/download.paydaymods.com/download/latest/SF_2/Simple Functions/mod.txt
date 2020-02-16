@@ -1,0 +1,21 @@
+{
+	"name" : "Simple Functions",
+	"description" : "Adds 3 basic quality of life (QOL) features : Press2Hold interactions, Voice chat icon, and Prevent accidental grenade throws during steath.",
+	"author" : "Seven",
+	"contact" : "Spiltmilk @ http://steamcommunity.com/id/cheezitmeister",
+	"version" : "1.0"
+	"updates" : [
+    {
+        "revision" : 2,
+        "identifier" : "SF",
+    }
+]
+	"hooks" : [  
+		{ "hook_id" : "lib/managers/hudmanagerpd2", "script_path" : "simple.lua" },
+		{ "hook_id" : "lib/managers/hud/hudteammate", "script_path" : "simple.lua" },
+		{ "hook_id" : "lib/units/beings/player/states/PlayerMaskOff", "script_path" : "simple.lua" },
+		{ "hook_id" : "lib/units/beings/player/states/PlayerCivilian", "script_path" : "simple.lua" },
+		{ "hook_id" : "lib/units/beings/player/states/PlayerStandard", "script_path" : "simple.lua" }
+	]
+
+}

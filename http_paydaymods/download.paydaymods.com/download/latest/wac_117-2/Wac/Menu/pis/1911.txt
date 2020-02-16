@@ -1,0 +1,173 @@
+{
+	"menu_id" : "wac_menu_pis_1911",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_1911_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_1911aggressorcomp",
+			"title" : "wac_replace_1911aggressorcomp_title",
+			"callback" : "callback_toggle_replace_1911aggressorcomp",		
+			"items" : [
+				"wac_default_multi",
+				"m1911_co1_multi",
+				"pisflashhider_multi",
+				"pistenderizer_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_1911aggressorcomp",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_1911_ipsccomp",
+			"title" : "wac_replace_ipsccomp_title",
+			"callback" : "callback_toggle_replace_1911_ipsccomp",		
+			"items" : [
+				"wac_default_multi",
+				"m1911_co1_multi",
+				"m1911_co2_multi",
+				"pistenderizer_multi",
+				"pisflashhider_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_1911_ipsccomp",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_1911_meatgrinder",
+			"title" : "wac_replace_pistenderizer_title",
+			"callback" : "callback_toggle_replace_1911_meatgrinder",		
+			"items" : [
+				"wac_default_multi",
+				"m1911_co1_multi",
+				"m1911_co2_multi",
+				"ipsccomp_multi",
+				"pisflashhider_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_1911_meatgrinder",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_1911_pisflash",
+			"title" : "wac_replace_pisflashhider_title",
+			"callback" : "callback_toggle_replace_1911_pisflash",		
+			"items" : [
+				"wac_default_multi",
+				"m1911_co1_multi",
+				"m1911_co2_multi",
+				"ipsccomp_multi",
+				"pistenderizer_multi",
+				"wac_nomodel_multi"
+			],
+			"value" : "replace_1911_pisflash",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_1911ergogrip",
+			"title" : "wac_replace_ergogrip_title",
+			"callback" : "callback_toggle_replace_1911ergogrip",		
+			"items" : [
+				"wac_default_multi",
+				"blinggrip_multi",
+				"engravedgrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_1911ergogrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_1911woodgrip",
+			"title" : "wac_replace_blinggrip_title",
+			"callback" : "callback_toggle_replace_1911woodgrip",		
+			"items" : [
+				"wac_default_multi",
+				"engravedgrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_1911woodgrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_1911engravedgrip",
+			"title" : "wac_replace_engravedgrip_title",
+			"callback" : "callback_toggle_replace_1911engravedgrip",		
+			"items" : [
+				"wac_default_multi",
+				"blinggrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_1911engravedgrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_1911extmag",
+			"title" : "wac_replace_extmag_title",
+			"callback" : "callback_toggle_replace_1911extmag",		
+			"items" : [
+				"wac_default_multi",
+				"stndmag_multi",
+				"wac_1911bigmag_multi"
+			],
+			"value" : "replace_1911extmag",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_1911bigmag",
+			"title" : "wac_replace_1911bigmag_title",
+			"callback" : "callback_toggle_replace_1911bigmag",		
+			"items" : [
+				"wac_default_multi",
+				"stndmag_multi",
+				"extmag_multi"
+			],
+			"value" : "replace_1911bigmag",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_1911vent",
+			"title" : "wac_replace_1911vent_title",
+			"callback" : "callback_toggle_replace_1911vent",		
+			"items" : [
+				"wac_default_multi",
+				"stndslide_multi"
+			],
+			"value" : "replace_1911vent",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_1911ventlong",
+			"title" : "wac_replace_1911longventsl_title",
+			"callback" : "callback_toggle_replace_1911ventlong",		
+			"items" : [
+				"wac_default_multi",
+				"ventslide_multi",
+				"stndslide_multi"
+			],
+			"value" : "replace_1911ventlong",
+			"default_value" : 1
+		}
+	]
+}

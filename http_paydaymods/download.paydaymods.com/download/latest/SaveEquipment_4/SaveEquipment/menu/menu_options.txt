@@ -1,0 +1,36 @@
+{
+	"menu_id" : "saveequipment_menu_id",
+	"parent_menu_id" : "lua_mod_options_menu",
+	"title" : "saveequipment_menu_title",
+	"description" : "saveequipment_menu_desc",
+	"focus_changed_callback" : "SaveEquipmentMenuChangeFocus",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "saveequipment_help",
+			"title" : "saveequipment_help_title",
+			"description" : "saveequipment_help_desc",
+			"callback" : "callback_button_saveequipment_help",
+		},
+		{
+			"type" : "divider",
+			"size" : 60,
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "saveequipment_enable_medic_downs",
+			"title" : "saveequipment_enable_medic_downs_title",
+			"description" : "saveequipment_enable_medic_downs_desc",
+			"callback" : "callback_saveequipment_enable_medic_downs",
+			"items" : [
+				"saveequipment_enable_medic_downs_option_0",
+				"saveequipment_enable_medic_downs_option_1",
+				"saveequipment_enable_medic_downs_option_2",
+				"saveequipment_enable_medic_downs_option_3",
+				"saveequipment_enable_medic_downs_option_4"
+			],
+			"value" : "multi_saveequipment_enable_medic_downs_value",
+			"default_value" : 4,
+		}
+	]
+}

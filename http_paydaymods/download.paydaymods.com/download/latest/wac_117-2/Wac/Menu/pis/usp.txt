@@ -1,0 +1,62 @@
+{
+	"menu_id" : "wac_menu_pis_usp",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_usp_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_uspcomp2",
+			"title" : "wac_replace_velocitycomp_title",
+			"callback" : "callback_toggle_replace_uspcomp2",		
+			"items" : [
+				"wac_default_multi",
+				"pisflashhider_multi",
+				"pistenderizer_multi"
+			],
+			"value" : "replace_uspcomp2",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_uspextmag",
+			"title" : "wac_replace_hideextmag_title",
+			"callback" : "callback_toggle_replace_uspextmag",
+			"value" : "replace_uspextmag",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_uspexpert",
+			"title" : "wac_replace_uspexpert_title",
+			"callback" : "callback_toggle_replace_uspexpert",		
+			"items" : [
+				"wac_default_multi",
+				"uspmatchsl_multi",
+				"stndslide_multi"
+			],
+			"value" : "replace_uspexpert",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_uspmatch",
+			"title" : "wac_replace_uspmatch_title",
+			"callback" : "callback_toggle_replace_uspmatch",		
+			"items" : [
+				"wac_default_multi",
+				"uspexpertsl_multi",
+				"stndslide_multi"
+			],
+			"value" : "replace_uspmatch",
+			"default_value" : 1
+		}
+	]
+}

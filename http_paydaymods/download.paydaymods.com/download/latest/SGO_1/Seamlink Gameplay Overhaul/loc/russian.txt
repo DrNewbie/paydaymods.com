@@ -1,0 +1,181 @@
+{
+	"sgo_options_menu_title" : "Seamlink's Gameplay Overhaul",
+	"sgo_options_menu_desc"  : "Войдите сюда для управления функциями SGO, спасибо Subsimple за помощь мне с этим меню, Sigma,Polkka,Bonny,Smile,Nolegs и друзьям, помогавшим тестировать с самого начала",
+	
+	"sgo_options_menuw_title" : "<-Модификации оружия->                   ",
+	"sgo_options_menuw_desc"  : "Содержит моды, которые настраивают оружие и его поведение",
+	
+	"sgo_options_menup_title" : "<-Модификации игрока->                   ",
+	"sgo_options_menup_desc"  : "Содержит настройки, повышающие возможности игрока",
+	
+	"sgo_options_menuh_title" : "<-HUD Модификации + Настройки->             ",
+	"sgo_options_menuh_desc"  : "Содержит связанные с HUD функции + некоторые настройки",
+	
+	"sgo_options_menui_title" : "<-Модификации инвентаря->                ",
+	"sgo_options_menui_desc"  : "Содержит моды, которые настраивают инвентарь",
+	
+	"sgo_options_menua_title" : "<-Анимация + Настройки звука->               ",
+	"sgo_options_menua_desc"  : "Содержит моды, которые настраивают либо анимацию, либо звуки",
+	
+	"sgo_options_menue_title" : "<-Экспериментальные функции->                   ",
+	"sgo_options_menue_desc"  : "Содержит экспериментальные функции, которые отлично работают на средних и мощных компьютерах",
+	
+	"sgo_options_menus_title" : "<-Настройки сложности->                       ",
+	"sgo_options_menus_desc"  : "В этом разделе вы можете настроить сколько врагов появится во время игры. Кол-во может изменяться если вы убиваете гражданских. Для этого можно использовать горячую клавишу, чтобы уменьшать жесткость полиции.",
+	
+	"sgo_options_menul_title" : "<-Настройки замедления->                           ",
+	"sgo_options_menul_desc"  : "Содержит ползунки для настройки замедления",
+	
+	"sgo_options_menud_title" : "<-Настройки скольжения->                           ",
+	"sgo_options_menud_desc"  : "Содержит ползунки для настройки скольжения",
+	
+	"sgo_options_menums_title" : "<-Прочие настройки->                ",
+	"sgo_options_menums_desc"  : "Содержит другие функции",
+	
+	"sgo_options_menusc_title" : "v-v-Прокрутите вниз для доп. параметров-v-v       ",
+	"sgo_options_menusc_desc"  : "Есть еще больше вариантов ниже, прочтите описания, чтобы понимать, что они делают",
+	
+	"sgo_options_enable_limit" : "Ограничитель спауна спецназа",
+	"sgo_options_enable_limit_desc"  : "Настраивает сколько противников может присутствовать на карте. Может быть изменено в игре - чем меньше кол-во, тем быстрее и агрессивнее становятся враги. Используйте 30 для слабых компьютеров, для 70+ требуется мощный ПК",
+	
+	"sgo_options_enable_limit2" : "Кол-во убийств для завершения штурма",
+	"sgo_options_enable_limit2_desc"  : "Настраивает планку кол-ва игроков, которых необходимо убить, чтобы завершить штурм. Чем больше кол-во, тем дольше длится штурм. Нельзя изменить в игре. Для слабых ПК выберите 300, чтобы не перегружать видеопамять",
+	
+	"sgo_options_enable_slow" : "Интесивность триггера замедления",
+	"sgo_options_enable_slow_desc"  : "Настраивает то, насколько сильно/слабо срабатывает триггер замедления. 0.35 - по умолчанию. Чем ниже значение, тем сильнее будет замедление. Не забудьте проверить горчие клавиши!",
+	
+	"sgo_options_enable_slow2" : "Продолжительность замедления",
+	"sgo_options_enable_slow2_desc"  : "Настраивает то, сколько секунд длится эффект замедления. Чем дольше эффект, тем дольше перезарядка. Связано с горячей клавишей на замедление!",
+	
+	"sgo_options_enable_zawarudo" : "Продолжительность эффекта Za Warudo!",
+	"sgo_options_enable_zawarudo_desc"  : "Настраивает то, сколько секунд длится эффект Za Warudo! Чем дольше эффект, тем дольше перезарядка. Связано с горячей клавишей на Za Warudo!",
+	
+	"sgo_options_enable_slidy1" : "Длительность скольжения в секундах",
+	"sgo_options_enable_slidy1_desc"  : "Настраивает то, сколько секунд вы будете скользить. 0.00 = Выключено 0.25 = недалеко 1.00=Грабители на льду! Требуется включить настройку скольжения. Требуется сменить карту.",
+	
+	"sgo_options_enable_slidy2" : "Множитель скорости скольжения",
+	"sgo_options_enable_slidy2_desc"  : "Настраивает то, насколько быстро вы будете скользить. 1=Норма 0.90=Медленнее, чем обычно 1.10=Быстрее, чем обычно (разница не большая). Требуется сменить карту.",
+	
+	"sgo_options_enable_screw" : "Оптимизатор графики",
+	"sgo_options_enable_screw_desc"  : "Модуль отключает ненужные эффекты такие как фильтр синего экрана, также влият на настройки ч/б экрана, когда вы при смерти. Требуется сменить карту.",
+	"sgo_options_enable_screw_choice1"  : "Без оптимизации",
+	"sgo_options_enable_screw_choice2"  : "С контурами",
+	"sgo_options_enable_screw_choice3"  : "Без контуров",
+	
+	"sgo_options_enable_tweako" : "Режим хар-к оружия",
+	"sgo_options_enable_tweako_desc"  : "Выберите режим характеристик оружия. Vanilla = Без изменений, Ребаланс = Слегка измененный урон, на основе Vanilla, Полная переработка = Полная переработка урона. Требуется сменить карту.",
+	"sgo_options_enable_tweako_choice1"  : "Vanilla / ВЫКЛ режим",
+	"sgo_options_enable_tweako_choice2"  : "Режим ребаланса",
+	"sgo_options_enable_tweako_choice3"  : "Полная переработка",
+	"sgo_options_enable_tweako_choice4"  : "Blaze ребаланс",
+	
+	"sgo_options_enable_tweak" : "Seamlink's Weapons Overhaul",
+	"sgo_options_enable_tweak_desc"  : "Включает/отключает Weapons Overhaul, который включает в себя повреждения, стабильность, кол-во боеприпасов. Отключите его, чтобы всегда играть с обычными характеристиками Payday 2 Vanilla.",
+	
+	"sgo_options_enable_melee" : "Melee Overhaul",
+	"sgo_options_enable_melee_desc"  : "Enables/Disables the Melee Overhaul, disable it to play with Vanilla Payday 2 Stats.",
+	
+	"sgo_options_enable_perkb" : "Баффы перков",
+	"sgo_options_enable_perkb_desc"  : "Включает/отключает баффы перков, такие как старый Нападающий или Маньяк баффы",
+	
+	"sgo_options_enable_perka" : "Встроенные навыки",
+	"sgo_options_enable_perka_desc"  : "Усовершенствования навыков и брони здесь",
+	
+	"sgo_options_enable_jumpy2" : "Мультипрыжок",
+	"sgo_options_enable_jumpy2_desc"  : "Позволяет вам отредактировать кол-во прыжков",
+	
+	"sgo_options_enable_chat" : "Уведомление SGO в чате",
+	"sgo_options_enable_chat_desc"  : "Включает/отключает сообщение приветствия/объявления, которое видят игроки когда присоединяются к вам. Требуется сменить карту",
+	
+	"sgo_options_enable_sprinty" : "Бег со всеми сумками",
+	"sgo_options_enable_sprinty_desc"  : "Включает/отключает бег со всеми сумками сразу. Не дает вам 100% скорости бега, только лишь анимацию бега с 10% скорости",
+	
+	"sgo_options_enable_run" : "Беск. выносливость / Спринт",
+	"sgo_options_enable_run_desc"  : "Включает/отключает возможность иметь бесконечную выносливость. Как вы думаете, сможете ли вы опередить ИИ на сложности Одно Падение?",
+	
+	"sgo_options_enable_boom" : "Переработка метательного и гранат",
+	"sgo_options_enable_boom_desc"  : "Включает/отключает изменения с гранатами и метательным оружием, чем больше взрыв, тем больше урон. Отключите, если вы сильно страдаете от таких взрывов.",
+
+	"sgo_options_enable_insp" : "Успешное вдохновление",
+	"sgo_options_enable_insp_desc"  : "Включает/отключает супервдохновление у которого нет кулдауна и 100% вероятность сработать. Также увеличивает скорость напарников.",
+	
+	"sgo_options_enable_hefty" : "Hefty by Fooksie",
+	"sgo_options_enable_hefty_desc"  : "Включает/отключает Hefty, котоырй позволяет вам брать больше ключ-карт, ингредиентов мета и бензина",
+	
+	"sgo_options_enable_baws" : "Bows Overhaul by MXSWAT",
+	"sgo_options_enable_baws_desc"  : "Включает/отключает Bows Overhaul, который ускоряет загрузку анимации луков от MXSWAT",
+	
+	"sgo_options_enable_sounds" : "Auto-Fire-Fix + Sound Replacements",
+	"sgo_options_enable_sounds_desc"  : "Включает/отключает замену звуков оружия и исправляет Автоогонь, связанный со звуками при переключении вовремя замедления для всего оружия, кроме Saiga, AK12/74, Akimbo Heather and FMG9",
+	
+	"sgo_options_enable_anims" : "Pistol & Mangums Animation Tweaks",
+	"sgo_options_enable_anims_desc"  : "Включает/отключает анимацию Peacemaker для всех револьверов, а также, бег с Deagle для всех пистолетов.",
+	
+	"sgo_options_enable_hold" : "Press 2 Hold + Hold 2 Pick",
+	"sgo_options_enable_hold_desc"  : "Позволяет вам взаимодействовать со всем, нажав один раз. Быстро подбирается мелкая добыча от Malo и TdlQ, обновлено Seven. Требуется перезапуск карты.",
+	
+	"sgo_options_enable_kill" : "Kill Counter (WIP) by Seven",
+	"sgo_options_enable_kill_desc"  : "Показывает счетчик убийств над вашим здоровьем. Требует перезапуска карты.",
+	
+	"sgo_options_enable_invt" : "Inventory Gadget Icons+Names",
+	"sgo_options_enable_invt_desc"  : "Показывает гаджеты инвентаря и значки с названиями в инвентаре оружия от Slippy и SNH20. Требует перезапуска карты.",
+	
+	"sgo_options_enable_stci" : "Stamina Indicator by Seven",
+	"sgo_options_enable_stci_desc"  : "Показывает индикатор выносливости внутри вашего здоровья от Seven. Требует перезапуска карты.",
+	
+	"sgo_options_enable_ramm" : "Real Ammo by Fishtaco",
+	"sgo_options_enable_ramm_desc"  : "Показывает реальный боезапас в вашем HUD. Требует перезапуска карты.",
+	
+	"sgo_options_enable_burst" : "Burst Fire by Seven",
+	"sgo_options_enable_burst_desc"  : "Включает третий селектор Burst Fire, позволяющий стрелять 3 патронами. Требует перезапуска карты.",
+	
+	"sgo_options_enable_dcot" : "Down Counter by Seven",
+	"sgo_options_enable_dcot_desc"  : "Показывает счетчик падений ваших напарников и сколько у вас осталось падений. Требует перезапуска карты.",
+	
+	"sgo_options_enable_drive" : "Driver Neck Brace Removal by Enraic",
+	"sgo_options_enable_drive_desc"  : "от Enraic, позволяет поворачиваться на 360 градусов во время движения. Полезно видеть сколько пассажиров внутри транспорта. Требует перезапуска карты.",
+	
+	"sgo_options_enable_skip" : "Auto Skip Endscreen + Autopick by Seven",
+	"sgo_options_enable_skip_desc"  : "Пропускает экран в конце, как только закончится подсчёт опыта и наличных. Удерживает пробел для ускорения процесса. Также автоматом выбирается призовая карта. Требует перезапуска карты.",
+	
+	"sgo_options_enable_slot" : "6x6 Inventory Slots",
+	"sgo_options_enable_slot_desc"  : "Позволяет вам иметь больше места в инвентаре. Отлично выглядит на экранах 1080p. Требует перезапуска игры.",
+	
+	"sgo_options_enable_asset" : "Buy All Assets v3 by Steamed Revenge",
+	"sgo_options_enable_asset_desc"  : "от SteamedRevenge и =TBM= BangL Позволяет купить все активы одним нажатием. Требует перезапуска карты.",
+	
+	"sgo_options_enable_decap" : "Bullet Decapitations by Undeadsewer",
+	"sgo_options_enable_decap_desc"  : "от Undeadsewer, Выстрелы в голову обезвреживают врагов. Вызывает падение fps на слабых компьютерах. Требует перезапуска карты.",
+	
+	"sgo_options_enable_inva" : "Invisible Armor by Zdann",
+	"sgo_options_enable_inva_desc"  : "Визуально скрывает вашу броню. Полезно если вам не нравится как выглядит броня в PD2. Требует перезапуска карты.",
+	
+	"sgo_options_enable_mobj" : "Mute Objective Sound by 9600bauds",
+	"sgo_options_enable_mobj_desc"  : "Отключения звука цели, SHHHWOMWOM, после закидывания сумок в фургон или завершения задачи. Требует перезапуска карты.",
+	
+	"sgo_options_enable_skco" : "Skip Confirm Dialogs by Notwa & ReaperTeh",
+	"sgo_options_enable_skco_desc"  : "Пропускает диалоги подтверждения действий в меню от Notwa и ReaperTeh",
+	
+	"sgo_options_enable_nofa" : "No Fade to Black on Inventory by Luffy",
+	"sgo_options_enable_nofa_desc"  : "This eliminates the fade to black transition, by Luffy",
+	
+	"sgo_options_enable_incap" : "Swan Song While Downed",
+	"sgo_options_enable_incap_desc"  : "Активирует лебединую песню, когда вы готовы к падению.",
+	
+	"sgo_options_enable_cook" : "Rats Blur Removal",
+	"sgo_options_enable_cook_desc"  : "Если включено - удаляет дым на Крысах/Варке мета",
+	
+	"sgo_options_enable_bolt" : "Slides & Bolt Lock Back by Noep",
+	"sgo_options_enable_bolt_desc"  : "от Noep/DMCWO, Makes your weapon slide/bolt stay locked back when its empty provided the empty reload animation starts with the slide/bolt locked back",
+	
+	"sgo_options_enable_indo" : "Inspire while Downed by Dr.Newbie",
+	"sgo_options_enable_indo_desc"  : "by Dr.Newbie, Позволяет вдохновлять/оживлять других игроков, когда их сбивают с ног!",
+	
+	"sgo_options_enable_prom" : "Режим ПРО [В РАЗРАБОТКЕ]",
+	"sgo_options_enable_prom_desc"  : "Когда выбрано НЕДОСТУПНО, режим ПРО устанавливает ваше здоровье на 1! У вас есть варианты, но отключить НЕВОЗМОЖНО. АХАХАХАХАХА",
+	"sgo_options_enable_prom_choice1"  : "Только с БЕЗУМИЕМ",
+	"sgo_options_enable_prom_choice2"  : "НЕДОСТУПНО",
+	
+	"sgo_options_enable_lmgs2" : "LMG Sights by Iron Predator + Overhaul",
+	"sgo_options_enable_lmgs2_desc"  : "This gives you the ability to add sights to LMGs, deploy Bipod anywhere and turn 360 with it",
+}

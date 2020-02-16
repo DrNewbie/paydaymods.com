@@ -1,0 +1,21 @@
+{
+	"swap_bars": false,
+	"bars_scale": 1,
+	"center_margin": 100,
+	"x_offset": 0,
+	"y_offset": 0,
+	"bars_alpha": 0.35,
+	"background_alpha": 0.3,
+	"stealth_behaviour": 2,
+	"loud_behaviour": 2,
+	"frenzy_handling": 2,
+	"fade_out_time": 0.5,
+	"show_armor_timer": true,
+	"show_anarchist_timer": true,
+	"show_invincibility_timer": true,
+	"swan_song_intensity": 1,
+	"chico_injector_intensity": 1,
+	"show_downs_counter": true,
+	"show_downs_counter_skull": true,
+	"downs_counter_alpha": 0.8
+}

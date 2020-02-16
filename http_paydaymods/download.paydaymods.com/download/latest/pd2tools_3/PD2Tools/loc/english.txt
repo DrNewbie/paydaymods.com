@@ -1,0 +1,9 @@
+{
+	"pd2tools_dialog_title"       	    	: "PD2Tools: Import Loadout",
+	"pd2tools_error_title"     	    	: "PD2Tools: Error",
+	"pd2tools_error_message_directory"	: "Database directory does not exist.",
+	"pd2tools_error_message_errors"     	: "There were errors while importing this loadout. Check the BLT logs file for more information."
+	"pd2tools_error_message_file"       	: "File class not available. Please wait a few seconds before attempting to import a loadout."
+	"pd2tools_error_message_unknown"    	: "Loadout not found.",
+	"pd2tools_error_close"		        : "Close"
+}

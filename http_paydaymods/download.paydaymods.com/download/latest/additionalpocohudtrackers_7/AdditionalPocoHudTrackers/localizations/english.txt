@@ -1,0 +1,215 @@
+{
+	"additionalpocohudtrackers_menu_title" : "Additional PocoHud Trackers",
+	"additionalpocohudtrackers_menu_desc" : "Configure Additional PocoHud Trackers options",
+
+	"btn_additionalpocohudtrackers_buffsheader_title" : "Buffs",
+	"btn_additionalpocohudtrackers_buffsheader_desc" : "The options in this section control extended PocoHud buff functionality",
+
+	"tog_additionalpocohudtrackers_showbullseyecooldown_title" : "Bullseye cooldown",
+	"tog_additionalpocohudtrackers_showbullseyecooldown_desc" : "Determines whether the cooldown for the Bullseye skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showarmorerinvuln_title" : "Armorer / Anarchist invulnerability duration",
+	"tog_additionalpocohudtrackers_showarmorerinvuln_desc" : "Determines whether the damage immunity duration for the Armorer / Anarchist perk decks should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showarmorerinvulncooldown_title" : "Armorer / Anarchist invulnerability cooldown",
+	"tog_additionalpocohudtrackers_showarmorerinvulncooldown_desc" : "Determines whether the damage immunity cooldown for the Armorer / Anarchist perk decks should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showmaniacstackticks_title" : "Maniac stack refreshes",
+	"tog_additionalpocohudtrackers_showmaniacstackticks_desc" : "Determines whether a self-renewing timer for every subsequent Maniac stack refresh should be shown",
+
+	"tog_additionalpocohudtrackers_showmaniacdecayticks_title" : "Maniac stack decays",
+	"tog_additionalpocohudtrackers_showmaniacdecayticks_desc" : "Determines whether a self-renewing timer for every subsequent Maniac stack decay should be shown",
+
+	"tog_additionalpocohudtrackers_showmaniacaccumulatedstacks_title" : "Accumulated Maniac stack",
+	"tog_additionalpocohudtrackers_showmaniacaccumulatedstacks_desc" : "Determines whether a gauge showing the current accumulated Maniac stack should be shown",
+
+	"tog_additionalpocohudtrackers_showhostakermuscleregen_title" : "Hostage Taker / Muscle health regen",
+	"tog_additionalpocohudtrackers_showhostakermuscleregen_desc" : "Determines whether a self-renewing timer for the Hostage Taker skill / Muscle perk deck should be shown\n(will be stopped when the game's regen timer halts)",
+
+	"tog_additionalpocohudtrackers_showgrinderstackcooldown_title" : "Grinder stacking cooldown",
+	"tog_additionalpocohudtrackers_showgrinderstackcooldown_desc" : "Determines whether the stacking cooldown for the Grinder perk deck should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showgrinderregenperiod_title" : "Grinder regen duration",
+	"tog_additionalpocohudtrackers_showgrinderregenperiod_desc" : "Determines whether the longest stacked regen duration for the Grinder perk deck should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showaggressivereloadduration_title" : "Aggressive Reload duration",
+	"tog_additionalpocohudtrackers_showaggressivereloadduration_desc" : "Determines whether the reload boost duration for the Aggressive Reload skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showinspirerevivecooldown_title" : "Inspire revive cooldown",
+	"tog_additionalpocohudtrackers_showinspirerevivecooldown_desc" : "Determines whether the cooldown for the Inspire revive skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showforcedfriendshipstack_title" : "Forced Friendship absorption stack",
+	"tog_additionalpocohudtrackers_showforcedfriendshipstack_desc" : "Determines whether a gauge showing the current Forced Friendship damage absorption stack should be shown (will also appear if a teammate has the skill aced and active)",
+
+	"tog_additionalpocohudtrackers_showforcedfriendshippercentage_title" : "Show Forced Friendship stack as a percentage",
+	"tog_additionalpocohudtrackers_showforcedfriendshippercentage_desc" : "Determines whether the Forced Friendship damage absorption stack should be displayed as a percentage or as an actual damage value",
+
+	"tog_additionalpocohudtrackers_showdireneedduration_title" : "Dire Need duration",
+	"tog_additionalpocohudtrackers_showdireneedduration_desc" : "Determines whether the enemy staggering duration for the Dire Need skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showammoefficiencyduration_title" : "Ammo Efficiency duration",
+	"tog_additionalpocohudtrackers_showammoefficiencyduration_desc" : "Determines whether the headshot accumulation duration for the Ammo Efficiency skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showammoefficiencystack_title" : "Ammo Efficiency headshot count",
+	"tog_additionalpocohudtrackers_showammoefficiencystack_desc" : "Determines whether a gauge showing the current headshot count for the Ammo Efficiency skill should be shown",
+
+	"tog_additionalpocohudtrackers_showunseenstrikedamageavoidanceduration_title" : "Unseen Strike damage avoidance duration",
+	"tog_additionalpocohudtrackers_showunseenstrikedamageavoidanceduration_desc" : "Determines whether the damage avoidance duration for the Unseen Strike skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showunseenstrikecriticalboostduration_title" : "Unseen Strike critical hit boost duration",
+	"tog_additionalpocohudtrackers_showunseenstrikecriticalboostduration_desc" : "Determines whether the critical hit chance boost duration for the Unseen Strike skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showcriticalchancegauge_title" : "Critical hit chance gauge",
+	"tog_additionalpocohudtrackers_showcriticalchancegauge_desc" : "Determines whether a gauge showing the current cumulative critical hit chance should be shown\n(uses the Low Blow skill's icon)",
+
+	"tog_additionalpocohudtrackers_showsecondwindduration_title" : "Second Wind duration",
+	"tog_additionalpocohudtrackers_showsecondwindduration_desc" : "Determines whether the movement speed boost duration for the Second Wind skill should be tracked and displayed (will also appear if a teammate has the skill aced and active)",
+
+	"tog_additionalpocohudtrackers_showupyougoduration_title" : "Up You Go duration",
+	"tog_additionalpocohudtrackers_showupyougoduration_desc" : "Determines whether the damage reduction duration for the Up You Go skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showrunningfromdeathweaponduration_title" : "Running From Death wpn swap / reload boost",
+	"tog_additionalpocohudtrackers_showrunningfromdeathweaponduration_desc" : "Determines whether the weapon swap and reload speed boost duration for the Running From Death skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showrunningfromdeathmovementduration_title" : "Running From Death move speed boost duration",
+	"tog_additionalpocohudtrackers_showrunningfromdeathmovementduration_desc" : "Determines whether the move speed boost duration for the Running From Death skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showbloodthirstmeleeboostgauge_title" : "Bloodthirst melee damage boost gauge",
+	"tog_additionalpocohudtrackers_showbloodthirstmeleeboostgauge_desc" : "Determines whether a gauge showing the current melee damage boost for the Bloodthirst skill should be shown",
+
+	"tog_additionalpocohudtrackers_showbloodthirstreloadboostduration_title" : "Bloodthirst weapon reload boost duration",
+	"tog_additionalpocohudtrackers_showbloodthirstreloadboostduration_desc" : "Determines whether the weapon reload speed boost duration for the Bloodthirst skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showdodgechancegauge_title" : "Dodge chance gauge",
+	"tog_additionalpocohudtrackers_showdodgechancegauge_desc" : "Determines whether a gauge showing the current cumulative (i.e. after armor penalty) dodge chance should be shown (uses the Sneaky Bastard skill's icon)",
+
+	"tog_additionalpocohudtrackers_showpersistentdodgechancegauge_title" : "Persistent Dodge chance gauge",
+	"tog_additionalpocohudtrackers_showpersistentdodgechancegauge_desc" : "Determines whether the dodge chance gauge should be displayed persistently, even when the dodge chance is zero or negative",
+
+	"tog_additionalpocohudtrackers_showsixthsenseinitial_title" : "Sixth Sense initial delay",
+	"tog_additionalpocohudtrackers_showsixthsenseinitial_desc" : "Determines whether the initial delay for the Sixth Sense skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showsixthsensesubsequent_title" : "Sixth Sense sensing cooldown",
+	"tog_additionalpocohudtrackers_showsixthsensesubsequent_desc" : "Determines whether the cooldown for the Sixth Sense skill should be tracked and displayed\nNote that this is only an approximation since each detected unit has their own separate cooldown",
+
+	"tog_additionalpocohudtrackers_showsixthsensehighlighted_title" : "Sixth Sense detected units counter",
+	"tog_additionalpocohudtrackers_showsixthsensehighlighted_desc" : "Determines whether a counter showing the number of units detected by the Sixth Sense skill should be shown\nNote that only highlighted units will be counted. This is by design",
+
+	"tog_additionalpocohudtrackers_showanarchistregentick_title" : "Anarchist passive armor regen",
+	"tog_additionalpocohudtrackers_showanarchistregentick_desc" : "Determines whether a self-renewing timer for the Anarchist perk deck's passive armor regeneration should be shown (will only be triggered upon taking damage for the first time after spawning / being revived)",
+
+	"tog_additionalpocohudtrackers_showpersistentanarchistregentick_title" : "Persistent Anarchist passive regen timer",
+	"tog_additionalpocohudtrackers_showpersistentanarchistregentick_desc" : "Determines whether the timer for the Anarchist perk deck's passive armor regeneration should be displayed persistently, even when your armor is full",
+
+	"tog_additionalpocohudtrackers_showanarchistdmgcooldown_title" : "Anarchist Lust for Life perk cooldown",
+	"tog_additionalpocohudtrackers_showanarchistdmgcooldown_desc" : "Determines whether the cooldown for the Lust for Life perk should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showbikerkillsgauge_title" : "Biker kill count",
+	"tog_additionalpocohudtrackers_showbikerkillsgauge_desc" : "Determines whether a gauge showing the current kill count for the Biker perk deck should be shown\nThe gauge will turn red upon the kill count limit being hit",
+
+	"tog_additionalpocohudtrackers_showbikercooldown_title" : "Biker cooldown",
+	"tog_additionalpocohudtrackers_showbikercooldown_desc" : "Determines whether the longest cooldown for the Biker perk deck should be tracked and displayed\nThis momentarily changes to show the shortest cooldown instead upon the kill count limit being hit",
+
+	"tog_additionalpocohudtrackers_showuppersrangegauge_title" : "Uppers range gauge",
+	"tog_additionalpocohudtrackers_showuppersrangegauge_desc" : "Determines whether a gauge showing the distance to the nearest Uppers-enabled First Aid Kit should be shown",
+
+	"tog_additionalpocohudtrackers_showupperscooldown_title" : "Uppers auto-heal cooldown",
+	"tog_additionalpocohudtrackers_showupperscooldown_desc" : "Determines whether the auto-heal cooldown for the Uppers skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showlockandloadreloadboost_title" : "Lock 'n Load reload boost",
+	"tog_additionalpocohudtrackers_showlockandloadreloadboost_desc" : "Determines whether a gauge showing the current reload boost multiplier for the Lock 'n Load skill should be shown",
+
+	"tog_additionalpocohudtrackers_showsociopathcooldowns_title" : "Sociopath perk cooldowns",
+	"tog_additionalpocohudtrackers_showsociopathcooldowns_desc" : "Determines whether the shared cooldown for the Sociopath perks should be tracked and displayed\nSince all four kill perks share the exact same cooldown, only the most relevant one will be shown",
+
+	"tog_additionalpocohudtrackers_showbulletstormduration_title" : "Bulletstorm duration",
+	"tog_additionalpocohudtrackers_showbulletstormduration_desc" : "Determines whether the infinite ammo duration for the Bulletstorm skill should be tracked and displayed",
+
+	"tog_additionalpocohudtrackers_showbulletstormpotential_title" : "Potential Bulletstorm duration gauge",
+	"tog_additionalpocohudtrackers_showbulletstormpotential_desc" : "Determines whether a gauge showing the potential Bulletstorm duration should be shown while a Bulletstorm-enabled ammo bag is being targeted",
+
+	"btn_additionalpocohudtrackers_extrasheader_title" : "Extras",
+	"btn_additionalpocohudtrackers_extrasheader_desc" : "The options in this section control extended PocoHud non-buff functionality",
+
+	"tog_additionalpocohudtrackers_showanarchistregengain_title" : "Anarchist passive regen gain indicator",
+	"tog_additionalpocohudtrackers_showanarchistregengain_desc" : "Determines whether an armor gain indicator for the Anarchist perk deck's passive armor regeneration should be shown",
+
+	"btn_additionalpocohudtrackers_performanceheader_title" : "Performance",
+	"btn_additionalpocohudtrackers_performanceheader_desc" : "The options in this section adjust parameters that determine how efficiently the mod tracks certain information",
+
+	"sld_additionalpocohudtrackers_maniacaccumulatedstacksresolution_title" : "Maniac stack polling resolution",
+	"sld_additionalpocohudtrackers_maniacaccumulatedstacksresolution_desc" : "Determines the frequency at which the Maniac stack gauge polls the accumulated stack (do not raise this too high). Defaults to 2 times per second",
+
+	"sld_additionalpocohudtrackers_direneedresolution_title" : "Dire Need polling resolution",
+	"sld_additionalpocohudtrackers_direneedresolution_desc" : "Determines the frequency at which the Dire Need tracker polls for the armor regeneration event (do not raise this too high). Defaults to 4 times per second",
+
+	"sld_additionalpocohudtrackers_bikerkillsgaugeresolution_title" : "Biker kills polling resolution",
+	"sld_additionalpocohudtrackers_bikerkillsgaugeresolution_desc" : "Determines the frequency at which the Biker kills gauge polls (do not raise this too high)\nDefaults to 2 times per second",
+
+	"sld_additionalpocohudtrackers_uppersrangeresolution_title" : "Uppers range polling resolution",
+	"sld_additionalpocohudtrackers_uppersrangeresolution_desc" : "Determines the frequency at which the Uppers range gauge polls for nearby Uppers-enabled FAKs (do not raise this too high). Defaults to 4 times per second",
+
+	"sld_additionalpocohudtrackers_lockandloadresolution_title" : "Lock 'n Load polling resolution",
+	"sld_additionalpocohudtrackers_lockandloadresolution_desc" : "Determines the frequency at which the Lock 'n Load reload boost multiplier gauge polls (do not raise this too high). Defaults to 4 times per second",
+
+	"sld_additionalpocohudtrackers_bulletstormpotentialresolution_title" : "Bulletstorm polling resolution",
+	"sld_additionalpocohudtrackers_bulletstormpotentialresolution_desc" : "Determines the frequency at which the potential Bulletstorm duration gauge polls (do not raise this too high). Defaults to 4 times per second",
+
+	"btn_additionalpocohudtrackers_reset_title" : "Reset to defaults",
+	"btn_additionalpocohudtrackers_reset_desc" : "Resets all options here to their defaults",
+
+	"btn_additionalpocohudtrackers_experimentalheader_title" : "Experimental",
+	"btn_additionalpocohudtrackers_experimentalheader_desc" : "The options in this section are experimental and may cause crashes. Consider yourself warned",
+
+	"tog_additionalpocohudtrackers_togglehookpocohudreload_title" : "Hook PocoHud Reload Event",
+	"tog_additionalpocohudtrackers_togglehookpocohudreload_desc" : "Determines whether a hook should be installed on PocoHud that allows this mod to detect when PocoHud is about to be reloaded. Requires a restart / level change to take effect",
+
+	"tog_additionalpocohudtrackers_disablepocohudinterpolation_title" : "Disable PocoHud Interpolation",
+	"tog_additionalpocohudtrackers_disablepocohudinterpolation_desc" : "Determines whether PocoHud's interpolation (for buff transition animations) should be disabled\nRequires 'Hook PocoHud Reload Event' to be enabled",
+
+	"tog_additionalpocohudtrackers_disablepocohudhitflashes_title" : "Disable PocoHud Hit Flashes",
+	"tog_additionalpocohudtrackers_disablepocohudhitflashes_desc" : "Determines whether PocoHud's fullscreen yellow dodge / damage flashes should be disabled\nRequires 'Hook PocoHud Reload Event' to be enabled, as well as a PocoHud reload to take effect",
+
+	"additionalpocohudtrackers_ArmorerInvuln" : "Immunity",
+	"additionalpocohudtrackers_ArmorerInvulnCooldown" : "Cooldown",
+	"additionalpocohudtrackers_ManiacStackTicks" : "Refresh",
+	"additionalpocohudtrackers_ManiacDecayTicks" : "Decay",
+	"additionalpocohudtrackers_ManiacAccumulatedStacks" : "Stack",
+	"additionalpocohudtrackers_HosTakerMuscleRegen" : "Regen",
+	"additionalpocohudtrackers_GrinderStackCooldown" : "Cooldown",
+	"additionalpocohudtrackers_GrinderRegenPeriod" : "Regen",
+	"additionalpocohudtrackers_AggressiveReloadDuration" : "Aggr. Reload",
+	"additionalpocohudtrackers_InspireReviveCooldown" : "Revive",
+	"additionalpocohudtrackers_ForcedFriendshipStack" : "Dmg. Abs.",
+	"additionalpocohudtrackers_DireNeedDuration" : "Dire Need",
+	"additionalpocohudtrackers_AmmoEfficiencyDuration" : "Ammo Effcy.",
+	"additionalpocohudtrackers_AmmoEfficiencyStack" : "Headshots",
+	"additionalpocohudtrackers_UnseenStrikeDamageAvoidanceDuration" : "Dmg Avoid",
+	"additionalpocohudtrackers_UnseenStrikeCriticalBoostDuration" : "Crit. Bst.",
+	"additionalpocohudtrackers_CriticalChanceGauge" : "Crit. Chan.",
+	"additionalpocohudtrackers_SecondWindDuration" : "Spd. Bst.",
+	"additionalpocohudtrackers_UpYouGoDuration" : "Dmg. Red.",
+	"additionalpocohudtrackers_RunningFromDeathWeaponDuration" : "Wpn. Spd.",
+	"additionalpocohudtrackers_RunningFromDeathMovementDuration" : "Mov. Spd.",
+	"additionalpocohudtrackers_BloodthirstMeleeBoostGauge" : "Mle. Bst.",
+	"additionalpocohudtrackers_BloodthirstReloadBoostDuration" : "Rld. Spd.",
+	"additionalpocohudtrackers_DodgeChanceGauge" : "Dodg. Chan.",
+	"additionalpocohudtrackers_SixthSenseInitial" : "Delay",
+	"additionalpocohudtrackers_SixthSenseSubsequent" : "Re-sense",
+	"additionalpocohudtrackers_SixthSenseHighlighted" : "Detected",
+	"additionalpocohudtrackers_AnarchistRegenTick" : "Regen",
+	"additionalpocohudtrackers_AnarchistDmgCooldown" : "Cooldown",
+	"additionalpocohudtrackers_BikerKillsGauge" : "Kills",
+	"additionalpocohudtrackers_BikerCooldown" : "Cooldown",
+	"additionalpocohudtrackers_UppersRangeGauge" : "Upp. Dst.",
+	"additionalpocohudtrackers_UppersCooldown" : "Cooldown",
+	"additionalpocohudtrackers_LockAndLoadKills" : "Kills",
+	"additionalpocohudtrackers_LockAndLoadReloadBoost" : "Rld. Bst.",
+	"additionalpocohudtrackers_SociopathCleanHit" : "Health",
+	"additionalpocohudtrackers_SociopathOverdose" : "2x Armor",
+	"additionalpocohudtrackers_SociopathTension" : "Armor",
+	"additionalpocohudtrackers_SociopathShowdown" : "Panic",
+	"additionalpocohudtrackers_BulletstormDuration" : "Bulletstorm",
+	"additionalpocohudtrackers_BulletstormPotential" : "Potential",
+	"additionalpocohudtrackers_Active" : "Active"
+}

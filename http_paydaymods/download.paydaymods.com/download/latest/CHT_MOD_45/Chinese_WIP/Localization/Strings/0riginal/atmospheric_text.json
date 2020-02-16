@@ -1,0 +1,3338 @@
+[
+{
+	 "i"		: 1
+	,"ids"		: "Idstring(@ID4ffa8025c70adb8d@)"
+	,"StringID"	: "intro_hospital40"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 2
+	,"ids"		: "Idstring(@IDe87ea0eb3856a54f@)"
+	,"StringID"	: "mission_suburbia_mission2_hack1"
+	,"orig_text": "Override Mitchell's code lock."
+},{
+	 "i"		: 3
+	,"ids"		: "Idstring(@IDe2cb8760c250770a@)"
+	,"StringID"	: "mission_slaughterhouse_locate_van_hl"
+	,"orig_text": "Get to the armored truck!"
+},{
+	 "i"		: 4
+	,"ids"		: "Idstring(@ID1963eea86e4269a6@)"
+	,"StringID"	: "intro_hospital95"
+	,"orig_text": "What the hell - you ain't doctors, are ya?"
+},{
+	 "i"		: 5
+	,"ids"		: "Idstring(@ID3999db2e795773c6@)"
+	,"StringID"	: "mission_apartment_panic_hl"
+	,"orig_text": "Get into the Panic Room (Floor 3.)"
+},{
+	 "i"		: 6
+	,"ids"		: "Idstring(@ID93a0b37d7f7b583c@)"
+	,"StringID"	: "mission_suburbia_mission9_hl"
+	,"orig_text": "GET INSIDE THE SHELTER."
+},{
+	 "i"		: 7
+	,"ids"		: "Idstring(@IDdd72bd0bd26e9f57@)"
+	,"StringID"	: "tip_head_shot"
+	,"orig_text": "Shots to the head are more effective than shots to any other body part."
+},{
+	 "i"		: 8
+	,"ids"		: "Idstring(@ID1cc5b70a1cdb4e70@)"
+	,"StringID"	: "location_hospital_outsideICU"
+	,"orig_text": "Outside ICU"
+},{
+	 "i"		: 9
+	,"ids"		: "Idstring(@ID2cb31ff0d6773e3a@)"
+	,"StringID"	: "location_vault"
+	,"orig_text": "In Vault."
+},{
+	 "i"		: 10
+	,"ids"		: "Idstring(@IDb26895936feebb26@)"
+	,"StringID"	: "recoil_multiplier"
+	,"orig_text": "This upgrade will lower the amount of firing recoil.$NL;This makes it easier to land a series of aimed shots."
+},{
+	 "i"		: 11
+	,"ids"		: "Idstring(@IDf3880e4f1740b9cf@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_3"
+	,"orig_text": "Charge defused."
+},{
+	 "i"		: 12
+	,"ids"		: "Idstring(@IDdcdc0a209c299a62@)"
+	,"StringID"	: "mission_empty_vault"
+	,"orig_text": "Empty the Vault (Vault)"
+},{
+	 "i"		: 13
+	,"ids"		: "Idstring(@ID60f53b940274630f@)"
+	,"StringID"	: "mission_apartment_snipes_hl"
+	,"orig_text": "Take out the snipers (Roof.)"
+},{
+	 "i"		: 14
+	,"ids"		: "Idstring(@ID6d87bbf94d35dc3a@)"
+	,"StringID"	: "location_suburbia_str3"
+	,"orig_text": "On Marine Str."
+},{
+	 "i"		: 15
+	,"ids"		: "Idstring(@IDfbf9c45d152c9c26@)"
+	,"StringID"	: "location_hospital_westCorridor"
+	,"orig_text": "West Corridor"
+},{
+	 "i"		: 16
+	,"ids"		: "Idstring(@IDdd444f569ad310ef@)"
+	,"StringID"	: "mission_suburbia_mission12"
+	,"orig_text": "Let Bain tell you how to enter this safe."
+},{
+	 "i"		: 17
+	,"ids"		: "Idstring(@ID1b3542098a2907e2@)"
+	,"StringID"	: "mission_suburbia_mission4_hl"
+	,"orig_text": "DRILL A HOLE AND CONNECT THE HOSE TO THE SAFE."
+},{
+	 "i"		: 18
+	,"ids"		: "Idstring(@ID30fea5bf40ca0741@)"
+	,"StringID"	: "intro_hospital34"
+	,"orig_text": "STRANGER: Hold the door! Hold the door!! WOLF: Good day, sir."
+},{
+	 "i"		: 19
+	,"ids"		: "Idstring(@ID0bef5757f28a95c2@)"
+	,"StringID"	: "mission_boat_saw"
+	,"orig_text": "Saw down the obelisk to break the glass-cage."
+},{
+	 "i"		: 20
+	,"ids"		: "Idstring(@IDa6d7aa191255b942@)"
+	,"StringID"	: "location_suburbia_m_cellar"
+	,"orig_text": "In Mitchell's Cellar"
+},{
+	 "i"		: 21
+	,"ids"		: "Idstring(@ID2ee65c54c454b9dd@)"
+	,"StringID"	: "enter_steelsight_speed_multiplier"
+	,"orig_text": "This upgrade decreases the time needed to bring up weapon sights.$NL;Good when you need to quickly switch to precision aiming."
+},{
+	 "i"		: 22
+	,"ids"		: "Idstring(@ID95aa2436ab115845@)"
+	,"StringID"	: "location_hospital_Morgue"
+	,"orig_text": "Morgue"
+},{
+	 "i"		: 23
+	,"ids"		: "Idstring(@ID504b472530505d3b@)"
+	,"StringID"	: "mission_boat_escape_hl"
+	,"orig_text": "Escape."
+},{
+	 "i"		: 24
+	,"ids"		: "Idstring(@ID781e5708d2014090@)"
+	,"StringID"	: "intro_hospital117"
+	,"orig_text": "WOLF: Bain, grampa over here was talking - so we didn't hear shit."
+},{
+	 "i"		: 25
+	,"ids"		: "Idstring(@ID2111318a8734f1b4@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_1"
+	,"orig_text": "Charge defused."
+},{
+	 "i"		: 26
+	,"ids"		: "Idstring(@IDcb02e3d4bea9f878@)"
+	,"StringID"	: "location_dh_elevators22"
+	,"orig_text": "By Elevators Floor 22."
+},{
+	 "i"		: 27
+	,"ids"		: "Idstring(@ID5f5a5ba596697f78@)"
+	,"StringID"	: "mission_undercover_escape2"
+	,"orig_text": "Make the escape, a helicopter will pick you up on the neighbouring rooftop."
+},{
+	 "i"		: 28
+	,"ids"		: "Idstring(@IDddc9ffc9c16965ef@)"
+	,"StringID"	: "location_bridge_construction"
+	,"orig_text": "At Construction."
+},{
+	 "i"		: 29
+	,"ids"		: "Idstring(@ID9fb9b422f6c13ec3@)"
+	,"StringID"	: "intro_hospital142"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 30
+	,"ids"		: "Idstring(@ID3911a207022cafa3@)"
+	,"StringID"	: "mission_hospital_escape"
+	,"orig_text": "Make the escape."
+},{
+	 "i"		: 31
+	,"ids"		: "Idstring(@ID95797ab12ddc9214@)"
+	,"StringID"	: "intro_hospital132"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 32
+	,"ids"		: "Idstring(@ID53cc5d4731bf41ed@)"
+	,"StringID"	: "mission_apartment_snipes"
+	,"orig_text": "Take out all snipers on the rooftops around the building so that the helicopter can drop off the C4."
+},{
+	 "i"		: 33
+	,"ids"		: "Idstring(@ID0f7a9a9f97c1694e@)"
+	,"StringID"	: "intro_apartment03"
+	,"orig_text": "That panic room they got in there is gonna be full of cash..."
+},{
+	 "i"		: 34
+	,"ids"		: "Idstring(@IDa2459fcca577821b@)"
+	,"StringID"	: "location_server"
+	,"orig_text": "In Server Room."
+},{
+	 "i"		: 35
+	,"ids"		: "Idstring(@IDa02d6836979e78b2@)"
+	,"StringID"	: "des_more_blood_to_bleed"
+	,"orig_text": "All your teammates bleedout time increases. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+},{
+	 "i"		: 36
+	,"ids"		: "Idstring(@ID2cfa464c78bc9067@)"
+	,"StringID"	: "intro_hospital48"
+	,"orig_text": "WOLF: Bain, I didn't hear squat cause Old McDonald over here was talking all the time..."
+},{
+	 "i"		: 37
+	,"ids"		: "Idstring(@ID996bd57f8e0721a3@)"
+	,"StringID"	: "tip_xp"
+	,"orig_text": "You get cash by completing objectives, challenges and stealing loot. $NL; $NL; Collecting cash rewards increases your reputation, which in turn gives you access new weapons, equipment and abilities."
+},{
+	 "i"		: 38
+	,"ids"		: "Idstring(@ID1e732004b860d5eb@)"
+	,"StringID"	: "intro_hospital71"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 39
+	,"ids"		: "Idstring(@ID9a3272db430c60d1@)"
+	,"StringID"	: "tip_law_enforcers_as_hostages"
+	,"orig_text": "If there are no civilians to take as hostages, you can always take law enforcers as hostages."
+},{
+	 "i"		: 40
+	,"ids"		: "Idstring(@IDcda9d3c5d69c8e78@)"
+	,"StringID"	: "mission_diamond_wait_hl"
+	,"orig_text": "Wait for Bain."
+},{
+	 "i"		: 41
+	,"ids"		: "Idstring(@ID856e6ed751519783@)"
+	,"StringID"	: "mission_boat_restart_engine_hl"
+	,"orig_text": "Restart the engine."
+},{
+	 "i"		: 42
+	,"ids"		: "Idstring(@IDbb93c59c0f517906@)"
+	,"StringID"	: "extra_ammo_multiplier"
+	,"orig_text": "This upgrade increases the maximum amount of ammo.$NL;If you are trigger happy, then This could be it."
+},{
+	 "i"		: 43
+	,"ids"		: "Idstring(@ID8774913897a7864b@)"
+	,"StringID"	: "intro_hospital120"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 44
+	,"ids"		: "Idstring(@IDee40bc977083774d@)"
+	,"StringID"	: "location_str_2ave"
+	,"orig_text": "On Major Ave."
+},{
+	 "i"		: 45
+	,"ids"		: "Idstring(@IDb1b584b4556da64a@)"
+	,"StringID"	: "intro_street04_2"
+	,"orig_text": "Hah, fooled ya guys!"
+},{
+	 "i"		: 46
+	,"ids"		: "Idstring(@ID0e52e47731ead780@)"
+	,"StringID"	: "intro_hospital82"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 47
+	,"ids"		: "Idstring(@ID299f14745334f86d@)"
+	,"StringID"	: "mission_security_footage_text"
+	,"orig_text": "Locate the hacked computer and use it to erase the Security Footage!"
+},{
+	 "i"		: 48
+	,"ids"		: "Idstring(@IDcbbdadd5acbb6f5e@)"
+	,"StringID"	: "mission_apply_drill_text"
+	,"orig_text": "Mount the drill on the gate outside the vault area."
+},{
+	 "i"		: 49
+	,"ids"		: "Idstring(@IDb514a2e7d73927b7@)"
+	,"StringID"	: "des_extra_cable_tie"
+	,"orig_text": "Extra cable ties gives more cable ties to start with. How much more depends on the upgrade level."
+},{
+	 "i"		: 50
+	,"ids"		: "Idstring(@ID659c2e4e6c35943e@)"
+	,"StringID"	: "location_floor3"
+	,"orig_text": "On Floor 3."
+},{
+	 "i"		: 51
+	,"ids"		: "Idstring(@ID5be3a122349dcb28@)"
+	,"StringID"	: "mission_thermite_wait"
+	,"orig_text": "Melt the floor (above the Vault)"
+},{
+	 "i"		: 52
+	,"ids"		: "Idstring(@ID1e4db2bb8afba823@)"
+	,"StringID"	: "mission_diamond_codes_hl"
+	,"orig_text": "Enter the codes."
+},{
+	 "i"		: 53
+	,"ids"		: "Idstring(@IDf161fc4f43e1e180@)"
+	,"StringID"	: "location_str_1st"
+	,"orig_text": "On Scarlet St."
+},{
+	 "i"		: 54
+	,"ids"		: "Idstring(@IDbb0a2ece486c4aaf@)"
+	,"StringID"	: "location_slaughterhouse_sewer_entry"
+	,"orig_text": "in the Sewer Entry."
+},{
+	 "i"		: 55
+	,"ids"		: "Idstring(@IDbb0c023866d5f353@)"
+	,"StringID"	: "mission_diamond_timelock_hl"
+	,"orig_text": "Wait for the time lock."
+},{
+	 "i"		: 56
+	,"ids"		: "Idstring(@IDd3746ac2b13c763f@)"
+	,"StringID"	: "mission_slaughterhouse_prepare_ambush"
+	,"orig_text": "Get in position!"
+},{
+	 "i"		: 57
+	,"ids"		: "Idstring(@ID24f51736e2d1c2af@)"
+	,"StringID"	: "mission_hospital_cameras"
+	,"orig_text": "Take out all the cameras in and around the reception area."
+},{
+	 "i"		: 58
+	,"ids"		: "Idstring(@ID14ceaf0f0c9ac0f9@)"
+	,"StringID"	: "intro_hospital122"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 59
+	,"ids"		: "Idstring(@ID2abbc4abfc9c1486@)"
+	,"StringID"	: "mission_undercover_interogation_hl"
+	,"orig_text": "CODES NOW!"
+},{
+	 "i"		: 60
+	,"ids"		: "Idstring(@ID295a878dcf15e018@)"
+	,"StringID"	: "intro_hospital134"
+	,"orig_text": "STRANGER: Hooold the door!"
+},{
+	 "i"		: 61
+	,"ids"		: "Idstring(@ID7a00014d530477f3@)"
+	,"StringID"	: "mission_boat_drill_bridge"
+	,"orig_text": "Gain access to the bridge by blowing the bridge door open."
+},{
+	 "i"		: 62
+	,"ids"		: "Idstring(@ID7ea8111b37ec529d@)"
+	,"StringID"	: "location_upper"
+	,"orig_text": "In Upper Hallways."
+},{
+	 "i"		: 63
+	,"ids"		: "Idstring(@IDeb6b60cc78e09d0b@)"
+	,"StringID"	: "mission_suburbia_mission3_hl"
+	,"orig_text": "IT'S A TRAP!"
+},{
+	 "i"		: 64
+	,"ids"		: "Idstring(@ID87394e397bd7645e@)"
+	,"StringID"	: "intro_bridge"
+	,"orig_text": "10:45 pm, Green Bridge - southbound"
+},{
+	 "i"		: 65
+	,"ids"		: "Idstring(@ID7adf95e2e3a87f02@)"
+	,"StringID"	: "intro_hospital137"
+	,"orig_text": "Finally - two gentlemen in a building filled with clowns..."
+},{
+	 "i"		: 66
+	,"ids"		: "Idstring(@ID14ba1982b34aef08@)"
+	,"StringID"	: "mission_bridge_locate_convoy"
+	,"orig_text": "Make your way further along the bridge and locate the prison convoy."
+},{
+	 "i"		: 67
+	,"ids"		: "Idstring(@IDfa538ba7cd655fd9@)"
+	,"StringID"	: "intro_hospital03"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 68
+	,"ids"		: "Idstring(@ID57124d5d2307af35@)"
+	,"StringID"	: "location_dh_server"
+	,"orig_text": "In Server Room."
+},{
+	 "i"		: 69
+	,"ids"		: "Idstring(@ID1361af2ab012987c@)"
+	,"StringID"	: "mission_undercover_escape2_hl"
+	,"orig_text": "ESCAPE!"
+},{
+	 "i"		: 70
+	,"ids"		: "Idstring(@ID827da9b940ef757e@)"
+	,"StringID"	: "tip_select_reward"
+	,"orig_text": "On the info screen you can choose amongst several skill-trees which lets you specialize in different areas. $NL; $NL; The trees give different perks and weapons, and you can have them all if your reputation is high enough."
+},{
+	 "i"		: 71
+	,"ids"		: "Idstring(@IDd596fb8eeda9b7fe@)"
+	,"StringID"	: "location_dh_sales"
+	,"orig_text": "In Sales Department."
+},{
+	 "i"		: 72
+	,"ids"		: "Idstring(@ID5a812dc58b2d8e96@)"
+	,"StringID"	: "intro_bank02"
+	,"orig_text": "We got a go from our insider... "
+},{
+	 "i"		: 73
+	,"ids"		: "Idstring(@ID5e69461aa733ce4c@)"
+	,"StringID"	: "location_str_1ave"
+	,"orig_text": "On Foreign Ave."
+},{
+	 "i"		: 74
+	,"ids"		: "Idstring(@ID1e4dc9f07310cbae@)"
+	,"StringID"	: "mission_hospital_cooler"
+	,"orig_text": "Put two validated samples into the cooler."
+},{
+	 "i"		: 75
+	,"ids"		: "Idstring(@IDbec0caf80d731716@)"
+	,"StringID"	: "location_dh_floor23"
+	,"orig_text": "On Floor 23."
+},{
+	 "i"		: 76
+	,"ids"		: "Idstring(@ID8f59b612cf21fb05@)"
+	,"StringID"	: "tip_trading_hostage"
+	,"orig_text": "A robber who loses all his health is put in custody. When in custody, you can only be brought back through a hostage trade. $NL; $NL; The police will contact Bain to set up the trade."
+},{
+	 "i"		: 77
+	,"ids"		: "Idstring(@ID928f2d2c4edc3372@)"
+	,"StringID"	: "intro_secret_stash03"
+	,"orig_text": "He's selling them a server with vital data. We screw 'em over, and snatch both Taxman and the server."
+},{
+	 "i"		: 78
+	,"ids"		: "Idstring(@ID4953c315d6e7857f@)"
+	,"StringID"	: "location_hospital_ExamG64"
+	,"orig_text": "Examination G27"
+},{
+	 "i"		: 79
+	,"ids"		: "Idstring(@ID444fd98634e3801a@)"
+	,"StringID"	: "location_slaughterhouse_mainroom"
+	,"orig_text": "In the Main Room."
+},{
+	 "i"		: 80
+	,"ids"		: "Idstring(@ID0a540fe68d91fc94@)"
+	,"StringID"	: "location_basement"
+	,"orig_text": "In Basement."
+},{
+	 "i"		: 81
+	,"ids"		: "Idstring(@ID3d8081891e840417@)"
+	,"StringID"	: "mission_undercover_saw_limo_hl"
+	,"orig_text": "SAW OPEN THE LIMO."
+},{
+	 "i"		: 82
+	,"ids"		: "Idstring(@IDbb700f6fe5c8e831@)"
+	,"StringID"	: "mission_apartment_detach2"
+	,"orig_text": "Hold the fort and keep an eye on the saws."
+},{
+	 "i"		: 83
+	,"ids"		: "Idstring(@ID2fcf3d0377521997@)"
+	,"StringID"	: "location_ap_secretroom"
+	,"orig_text": "Room 145."
+},{
+	 "i"		: 84
+	,"ids"		: "Idstring(@IDec4019fce3d15d25@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_2"
+	,"orig_text": "Charge defused."
+},{
+	 "i"		: 85
+	,"ids"		: "Idstring(@IDfd51a7f57daccca7@)"
+	,"StringID"	: "mission_slaughterhouse_load_gold"
+	,"orig_text": "Use the crane to lift the container containing the gold onto the truck."
+},{
+	 "i"		: 86
+	,"ids"		: "Idstring(@ID8d725589b14f47d8@)"
+	,"StringID"	: "intro_hospital147"
+	,"orig_text": "WOLF: Man, this guy just can't stop talking!"
+},{
+	 "i"		: 87
+	,"ids"		: "Idstring(@IDf313b85dd13cced1@)"
+	,"StringID"	: "intro_apartment04"
+	,"orig_text": "and we're gonna take it all!"
+},{
+	 "i"		: 88
+	,"ids"		: "Idstring(@ID6b6e2e93ed4a0865@)"
+	,"StringID"	: "extra_cable_tie"
+	,"orig_text": "This upgrade adds extra cable ties.$NL;Need a lot of hostages to trade? This is it."
+},{
+	 "i"		: 89
+	,"ids"		: "Idstring(@ID5ffd1663191dc8cb@)"
+	,"StringID"	: "location_dh_bigred"
+	,"orig_text": "At Big Red."
+},{
+	 "i"		: 90
+	,"ids"		: "Idstring(@IDaa947e9791a0da27@)"
+	,"StringID"	: "intro_hospital01"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 91
+	,"ids"		: "Idstring(@ID7f6364bace0bce65@)"
+	,"StringID"	: "location_embassy"
+	,"orig_text": "At the Embassy."
+},{
+	 "i"		: 92
+	,"ids"		: "Idstring(@ID59e88e3f5fe60621@)"
+	,"StringID"	: "mission_hospital_waitElevator"
+	,"orig_text": "Wait for the elevator to arrive while making sure to keep the power running."
+},{
+	 "i"		: 93
+	,"ids"		: "Idstring(@ID0cc87d65205d5be0@)"
+	,"StringID"	: "intro_hospital20"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 94
+	,"ids"		: "Idstring(@ID5eaf9662fa093e02@)"
+	,"StringID"	: "mission_hospital_getToPatient"
+	,"orig_text": "Using the saw, open up the security door that holds the contaminated patient."
+},{
+	 "i"		: 95
+	,"ids"		: "Idstring(@ID2b3c16612be89f7b@)"
+	,"StringID"	: "intro_hospital85"
+	,"orig_text": "STRANGER: Why in the hell are you all dressed up?"
+},{
+	 "i"		: 96
+	,"ids"		: "Idstring(@ID9708f66a9b6625db@)"
+	,"StringID"	: "mission_undercover_fasten_hl"
+	,"orig_text": "GET THE SERVER, PLUG IT IN."
+},{
+	 "i"		: 97
+	,"ids"		: "Idstring(@ID1a10167bebf1830e@)"
+	,"StringID"	: "des_hk21"
+	,"orig_text": "STATS : 7.62mm : High capacity magazine$NL;Even though it was originally designed as a mounted machinegun, the Brenner 21 is a mobile powerhouse. With its huge capacity magazine, this is a given choice for the assault specialist."
+},{
+	 "i"		: 98
+	,"ids"		: "Idstring(@IDcf5d9d7c9459d744@)"
+	,"StringID"	: "des_trip_mine"
+	,"orig_text": "The trip mine consists of a beam projector affixed to a shaped explosive casing. The laser activates once the trip mine is placed, acting as a tripwire to detonate the mine. If the beam is broken or the charge fired upon, the mine will detonate."
+},{
+	 "i"		: 99
+	,"ids"		: "Idstring(@ID3e05a4e450b20e71@)"
+	,"StringID"	: "intro_secret_stash07"
+	,"orig_text": "Ready now!"
+},{
+	 "i"		: 100
+	,"ids"		: "Idstring(@ID6130cfcc94cc4c57@)"
+	,"StringID"	: "des_beretta92"
+	,"orig_text": "STATS : 9mm : Semiautomatic : Low recoil$NL;The B9-S is one of the most used law-enforcement pistols today.$NL;The relatively light damage is compensated by its big clips.$NL;A sidearm for the professional."
+},{
+	 "i"		: 101
+	,"ids"		: "Idstring(@ID3a7fc7acd6f02147@)"
+	,"StringID"	: "intro_hospital124"
+	,"orig_text": "STRANGER: Hooold the door!"
+},{
+	 "i"		: 102
+	,"ids"		: "Idstring(@ID0d46f7aad39e4796@)"
+	,"StringID"	: "mission_undercover_check_hl"
+	,"orig_text": "CHECK THE LIMO."
+},{
+	 "i"		: 103
+	,"ids"		: "Idstring(@IDe7b239ac1a7ff7c4@)"
+	,"StringID"	: "intro_hospital127"
+	,"orig_text": "...and may I say you two are the finest dressed nurses in the whole hospital!"
+},{
+	 "i"		: 104
+	,"ids"		: "Idstring(@IDb3bddbd35cec829e@)"
+	,"StringID"	: "intro_hospital92"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 105
+	,"ids"		: "Idstring(@ID09d71b6d48a213ef@)"
+	,"StringID"	: "intro_hospital70"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 106
+	,"ids"		: "Idstring(@IDc71c6d733befe15d@)"
+	,"StringID"	: "mission_apartment_winch"
+	,"orig_text": "Attach the magnet hanging from the helicopter to the top of the panic room."
+},{
+	 "i"		: 107
+	,"ids"		: "Idstring(@IDd3022d30976f4e26@)"
+	,"StringID"	: "intro_secret_stash01"
+	,"orig_text": "The limo has arrived - Taxman is here."
+},{
+	 "i"		: 108
+	,"ids"		: "Idstring(@IDb84143f343dba046@)"
+	,"StringID"	: "mission_suburbia_mission5_hl"
+	,"orig_text": "GET THE WATER RUNNING."
+},{
+	 "i"		: 109
+	,"ids"		: "Idstring(@ID09fd0bd3908fd49e@)"
+	,"StringID"	: "location_str_x2st2ave"
+	,"orig_text": "By Major and Easy."
+},{
+	 "i"		: 110
+	,"ids"		: "Idstring(@ID3e4bca886ea8cfef@)"
+	,"StringID"	: "intro_hospital36"
+	,"orig_text": "Should we... Can I take him out?"
+},{
+	 "i"		: 111
+	,"ids"		: "Idstring(@IDd3348d0d73b90149@)"
+	,"StringID"	: "location_slaughterhouse_staffkitchen"
+	,"orig_text": "In the Staff Kitchen."
+},{
+	 "i"		: 112
+	,"ids"		: "Idstring(@IDbbd2a9085ec47454@)"
+	,"StringID"	: "location_drill_office"
+	,"orig_text": "In Drill Area."
+},{
+	 "i"		: 113
+	,"ids"		: "Idstring(@ID45829c96a00560e2@)"
+	,"StringID"	: "tip_tips"
+	,"orig_text": "TIPS:"
+},{
+	 "i"		: 114
+	,"ids"		: "Idstring(@IDcae7a692c0edd746@)"
+	,"StringID"	: "location_dh_roofacces"
+	,"orig_text": "At Roof Access."
+},{
+	 "i"		: 115
+	,"ids"		: "Idstring(@ID59ba1869df8fec7b@)"
+	,"StringID"	: "intro_street"
+	,"orig_text": "11:00 am, uptown - Double crossed"
+},{
+	 "i"		: 116
+	,"ids"		: "Idstring(@IDdfe8811b1536b044@)"
+	,"StringID"	: "intro_hospital77"
+	,"orig_text": "Is it Halloween!?"
+},{
+	 "i"		: 117
+	,"ids"		: "Idstring(@IDf602770c217c4d82@)"
+	,"StringID"	: "mission_undercover_crane_hl"
+	,"orig_text": "LIMO LIFT."
+},{
+	 "i"		: 118
+	,"ids"		: "Idstring(@ID1dd85b9bdb6b28b6@)"
+	,"StringID"	: "mission_boat_escape"
+	,"orig_text": "Escape!."
+},{
+	 "i"		: 119
+	,"ids"		: "Idstring(@ID3daf07cb4df84be6@)"
+	,"StringID"	: "mission_slaughterhouse_load_gas"
+	,"orig_text": "Use the crane to lift the container with the trap in place."
+},{
+	 "i"		: 120
+	,"ids"		: "Idstring(@ID5b56320533be55be@)"
+	,"StringID"	: "location_suburbia_w_by"
+	,"orig_text": "At Wilson's Back"
+},{
+	 "i"		: 121
+	,"ids"		: "Idstring(@ID0db163e65d317ef3@)"
+	,"StringID"	: "intro_hospital62"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 122
+	,"ids"		: "Idstring(@ID0a3240c0a3441b61@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_6"
+	,"orig_text": "Charge defused."
+},{
+	 "i"		: 123
+	,"ids"		: "Idstring(@IDd194cba168d5fdb6@)"
+	,"StringID"	: "intro_apartment01"
+	,"orig_text": "Let's slip into our roles in this little drug deal charade..."
+},{
+	 "i"		: 124
+	,"ids"		: "Idstring(@IDab7a0fabcc015a4b@)"
+	,"StringID"	: "location_uc_stair1"
+	,"orig_text": "At Left Staircase"
+},{
+	 "i"		: 125
+	,"ids"		: "Idstring(@ID9dea6f3829ff4501@)"
+	,"StringID"	: "intro_hospital113"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 126
+	,"ids"		: "Idstring(@IDd9a55f961c0032fc@)"
+	,"StringID"	: "intro_street02_2"
+	,"orig_text": "There, Slick - now I call the shots!"
+},{
+	 "i"		: 127
+	,"ids"		: "Idstring(@IDcdefec28b19cb7a2@)"
+	,"StringID"	: "mission_apartment_wait2"
+	,"orig_text": "Hold the fort until the helicopter returns to lift the panic room."
+},{
+	 "i"		: 128
+	,"ids"		: "Idstring(@IDf7bc51e4d9a258a3@)"
+	,"StringID"	: "mission_slaughterhouse_escape"
+	,"orig_text": "Make the escape through the container tunnel and spring the trap."
+},{
+	 "i"		: 129
+	,"ids"		: "Idstring(@ID098ab86f4807d11c@)"
+	,"StringID"	: "mission_bridge_identify"
+	,"orig_text": "Send up the Balloon so George can fly in and pick up the Ejection Seat."
+},{
+	 "i"		: 130
+	,"ids"		: "Idstring(@ID56c60159d85aea32@)"
+	,"StringID"	: "location_dh_terrace"
+	,"orig_text": "On Terrace."
+},{
+	 "i"		: 131
+	,"ids"		: "Idstring(@IDd8a16e22bea27e5d@)"
+	,"StringID"	: "mission_hospital_callelevator_hl"
+	,"orig_text": "CALL THE ELEVATOR."
+},{
+	 "i"		: 132
+	,"ids"		: "Idstring(@ID5a3230203eece0b0@)"
+	,"StringID"	: "intro_hospital35"
+	,"orig_text": "WOLF: Bain, we got a civilian too close..."
+},{
+	 "i"		: 133
+	,"ids"		: "Idstring(@ID20c6a3e6102a2146@)"
+	,"StringID"	: "mission_hospital_atrapp_hl"
+	,"orig_text": "SET UP FAKE SENTRY GUNS."
+},{
+	 "i"		: 134
+	,"ids"		: "Idstring(@IDf8dad5c1637cee2d@)"
+	,"StringID"	: "location_overpass"
+	,"orig_text": "On Overpass."
+},{
+	 "i"		: 135
+	,"ids"		: "Idstring(@IDfcb60037278f6dc4@)"
+	,"StringID"	: "location_slaughterhouse_alley"
+	,"orig_text": "In the Alley."
+},{
+	 "i"		: 136
+	,"ids"		: "Idstring(@ID7f57df9f59b7a7ec@)"
+	,"StringID"	: "location_slaughterhouse_loadingroom"
+	,"orig_text": "In the Loading Room."
+},{
+	 "i"		: 137
+	,"ids"		: "Idstring(@ID8d0fa7c3500d4ce1@)"
+	,"StringID"	: "intro_street01"
+	,"orig_text": "OK, I'll take the plates - you erase the security footage."
+},{
+	 "i"		: 138
+	,"ids"		: "Idstring(@IDb300feb142af527b@)"
+	,"StringID"	: "intro_hospital42"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 139
+	,"ids"		: "Idstring(@ID12501bcfd7ff3e4f@)"
+	,"StringID"	: "intro_hospital37"
+	,"orig_text": "STRANGER: Aw Christ, look at ya."
+},{
+	 "i"		: 140
+	,"ids"		: "Idstring(@IDa7a19e896b856b80@)"
+	,"StringID"	: "location_dh_fitness"
+	,"orig_text": "In Fitness Center."
+},{
+	 "i"		: 141
+	,"ids"		: "Idstring(@ID74b1d5b932682402@)"
+	,"StringID"	: "location_unknown"
+	,"orig_text": ""
+},{
+	 "i"		: 142
+	,"ids"		: "Idstring(@ID79318a9736bac7f4@)"
+	,"StringID"	: "location_slaughterhouse_rooftop_stairs"
+	,"orig_text": "On the Rooftop Stairs."
+},{
+	 "i"		: 143
+	,"ids"		: "Idstring(@IDbe81dd69681b1428@)"
+	,"StringID"	: "mission_suburbia_mission10"
+	,"orig_text": "See to it that the drill finishes it's job. The cops might try to turn the power off."
+},{
+	 "i"		: 144
+	,"ids"		: "Idstring(@ID6a71af31f4834949@)"
+	,"StringID"	: "intro_suburbia"
+	,"orig_text": "12:00 pm, Suburbs - Bodhi's Pool Repair"
+},{
+	 "i"		: 145
+	,"ids"		: "Idstring(@IDfe5d6c06cb3e8400@)"
+	,"StringID"	: "mission_apartment_c42"
+	,"orig_text": "Move downstairs, away from the C4!"
+},{
+	 "i"		: 146
+	,"ids"		: "Idstring(@ID21d58e46200d6c97@)"
+	,"StringID"	: "location_cafeteria"
+	,"orig_text": "In Cafeteria."
+},{
+	 "i"		: 147
+	,"ids"		: "Idstring(@ID13c78e6092c84709@)"
+	,"StringID"	: "mission_slaughterhouse_take"
+	,"orig_text": "Take the gold from the safe and load it into bags."
+},{
+	 "i"		: 148
+	,"ids"		: "Idstring(@IDe4d46dec127f7108@)"
+	,"StringID"	: "location_conferance"
+	,"orig_text": "In Conference Room."
+},{
+	 "i"		: 149
+	,"ids"		: "Idstring(@ID3a924f358387e81a@)"
+	,"StringID"	: "location_suburbia_w_grage"
+	,"orig_text": "In Wilson's Garage"
+},{
+	 "i"		: 150
+	,"ids"		: "Idstring(@ID970e307eca628099@)"
+	,"StringID"	: "location_hospital_ReceptionCorridor"
+	,"orig_text": "Reception Corridor"
+},{
+	 "i"		: 151
+	,"ids"		: "Idstring(@ID8112afd3dfad3652@)"
+	,"StringID"	: "mission_suburbia_mission1_hl"
+	,"orig_text": "TALK TO THE OWNER."
+},{
+	 "i"		: 152
+	,"ids"		: "Idstring(@ID32e020ef5f904a65@)"
+	,"StringID"	: "mission_get_drill"
+	,"orig_text": "Get the drill & thermite (Server Room.)"
+},{
+	 "i"		: 153
+	,"ids"		: "Idstring(@IDfcb4eb9f2242961b@)"
+	,"StringID"	: "mission_bridge_jump_hl"
+	,"orig_text": "Make the escape (Bridge pillar.)"
+},{
+	 "i"		: 154
+	,"ids"		: "Idstring(@IDc8b2b902cce98eaa@)"
+	,"StringID"	: "location_suburbia_m_by"
+	,"orig_text": "At Mitchell's Back"
+},{
+	 "i"		: 155
+	,"ids"		: "Idstring(@ID3114d59b74c23215@)"
+	,"StringID"	: "intro_hospital99"
+	,"orig_text": "Problem is, Mr Alzheimers over here kept talking all the fucking time!"
+},{
+	 "i"		: 156
+	,"ids"		: "Idstring(@IDaad7a1ecd6cf5828@)"
+	,"StringID"	: "mission_apartment_panic"
+	,"orig_text": "Use the key to open the red door."
+},{
+	 "i"		: 157
+	,"ids"		: "Idstring(@IDae14b1afa659fd0b@)"
+	,"StringID"	: "mission_suburbia_mission5"
+	,"orig_text": "Go up to the tap and make sure the water is flowing."
+},{
+	 "i"		: 158
+	,"ids"		: "Idstring(@ID5ecd39704127523a@)"
+	,"StringID"	: "des_mossberg"
+	,"orig_text": "STATS : 12 Gauge : Quick action$NL;The Locomotive is a compact, extremely fast 12-gauge shotgun.$NL;Clearing an entire room in a few seconds is what this was made for."
+},{
+	 "i"		: 159
+	,"ids"		: "Idstring(@IDf4e1e8f9f59f371b@)"
+	,"StringID"	: "intro_hospital12"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 160
+	,"ids"		: "Idstring(@ID948ed74005c59eed@)"
+	,"StringID"	: "location_hospital_ExamA13"
+	,"orig_text": "Examination A13"
+},{
+	 "i"		: 161
+	,"ids"		: "Idstring(@ID5b11ee524eec12c1@)"
+	,"StringID"	: "mission_trough_lobby_text"
+	,"orig_text": "Get through the Lobby and make your way to the hallway outside the server room."
+},{
+	 "i"		: 162
+	,"ids"		: "Idstring(@ID9c33e592a6364046@)"
+	,"StringID"	: "location_outside"
+	,"orig_text": "Outside."
+},{
+	 "i"		: 163
+	,"ids"		: "Idstring(@ID87a704cf9cd3ae90@)"
+	,"StringID"	: "reload_speed_multiplier"
+	,"orig_text": "This upgrade decreases the reload times of the weapon.$NL;Good for those intense moments."
+},{
+	 "i"		: 164
+	,"ids"		: "Idstring(@ID3f70a1e3af5f19c2@)"
+	,"StringID"	: "location_uc_stairacces1"
+	,"orig_text": "At Roof access left"
+},{
+	 "i"		: 165
+	,"ids"		: "Idstring(@ID78b703d63ec7b74a@)"
+	,"StringID"	: "location_dh_elevators23"
+	,"orig_text": "By Elevators Floor 23."
+},{
+	 "i"		: 166
+	,"ids"		: "Idstring(@ID5cd26e336bf30241@)"
+	,"StringID"	: "intro_hospital75"
+	,"orig_text": "WOLF (in Swedish): Finns det hjärterum, finns det stjärterum..."
+},{
+	 "i"		: 167
+	,"ids"		: "Idstring(@ID61003e03ecffa781@)"
+	,"StringID"	: "location_floor5"
+	,"orig_text": "On Floor 5."
+},{
+	 "i"		: 168
+	,"ids"		: "Idstring(@ID94c2a419a0f6ad23@)"
+	,"StringID"	: "mission_suburbia_mission6_hl"
+	,"orig_text": "TAKE THE PLATES AND GET OUT!"
+},{
+	 "i"		: 169
+	,"ids"		: "Idstring(@ID0d776194fdb3ccf4@)"
+	,"StringID"	: "mission_undercover_transaction"
+	,"orig_text": "Using BAIN's brain, Taxman's insider knowledge and the team's charms - get the IRS data base hacked for a huge tax cut."
+},{
+	 "i"		: 170
+	,"ids"		: "Idstring(@ID387af37119ddb155@)"
+	,"StringID"	: "mission_suburbia_mission11"
+	,"orig_text": "Connect the rest of the hose to the hole in the safe."
+},{
+	 "i"		: 171
+	,"ids"		: "Idstring(@ID7272126307b60861@)"
+	,"StringID"	: "mission_suburbia_mission2_hl"
+	,"orig_text": "HACK THE CODE LOCKS."
+},{
+	 "i"		: 172
+	,"ids"		: "Idstring(@IDd99edc1819e96bb9@)"
+	,"StringID"	: "mission_apartment_key"
+	,"orig_text": "Locate Chavez - he is on one of the upper floors in the building, wearing a red beanie hat. Take the key from him."
+},{
+	 "i"		: 173
+	,"ids"		: "Idstring(@IDe79be11833985dd7@)"
+	,"StringID"	: "intro_secret_stash06"
+	,"orig_text": "Ok guys, at the right moment disrupt the deal, then Alex lifts the limo out of there."
+},{
+	 "i"		: 174
+	,"ids"		: "Idstring(@IDfd0787b9b61878c8@)"
+	,"StringID"	: "des_mac11"
+	,"orig_text": "STATS : .45 Caliber : Very high fire rate$NL;Against its original purpose, black market upgrades have converted the MARK11 into a fully automatic monster of a weapon.$NL;When in need of a close range bullet hose, look no further."
+},{
+	 "i"		: 175
+	,"ids"		: "Idstring(@ID5b99d91285355af7@)"
+	,"StringID"	: "mission_thermite"
+	,"orig_text": "Pour out the thermite to melt the floor (above the vault)."
+},{
+	 "i"		: 176
+	,"ids"		: "Idstring(@IDe67d6c4153a2a525@)"
+	,"StringID"	: "intro_diamondheist02"
+	,"orig_text": "Check!"
+},{
+	 "i"		: 177
+	,"ids"		: "Idstring(@IDbc010cc497dd3594@)"
+	,"StringID"	: "mission_boat_aquire_drill"
+	,"orig_text": "Get the key from a staff-member and aquire the drill hidden in the bottom-deck cargo room."
+},{
+	 "i"		: 178
+	,"ids"		: "Idstring(@IDa169574692d3e3d4@)"
+	,"StringID"	: "location_suburbia_sewer"
+	,"orig_text": "In Sewers"
+},{
+	 "i"		: 179
+	,"ids"		: "Idstring(@ID6078136fa88546c9@)"
+	,"StringID"	: "location_str_x1st1ave"
+	,"orig_text": "By Foreign and Scarlet."
+},{
+	 "i"		: 180
+	,"ids"		: "Idstring(@ID79545827f4f786bb@)"
+	,"StringID"	: "intro_hospital114"
+	,"orig_text": "STRANGER: Hey! Hey - hold the goddamn door!"
+},{
+	 "i"		: 181
+	,"ids"		: "Idstring(@ID7a3d601b87908118@)"
+	,"StringID"	: "intro_hospital33"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 182
+	,"ids"		: "Idstring(@IDf61b849cf3f90177@)"
+	,"StringID"	: "tip_steelsight"
+	,"orig_text": "Aiming down your sights allows you to shoot more accurately than you do when you shoot from your hip."
+},{
+	 "i"		: 183
+	,"ids"		: "Idstring(@ID7e99e5f48b237a7d@)"
+	,"StringID"	: "des_m14"
+	,"orig_text": "STATS : 7.62mm : Semiautomatic : Medium recoil$NL;Chambered for the 7.62 mm round, the M308 has made its way out on the black market after years of military service.$NL;When one well placed shot is all you need, this is it."
+},{
+	 "i"		: 184
+	,"ids"		: "Idstring(@IDac1919e4e97b5ecd@)"
+	,"StringID"	: "location_hospital_ExamH88"
+	,"orig_text": "Examination H88"
+},{
+	 "i"		: 185
+	,"ids"		: "Idstring(@IDe3d96b18d52d28f4@)"
+	,"StringID"	: "location_bridge_end"
+	,"orig_text": "At Bridge Pillar."
+},{
+	 "i"		: 186
+	,"ids"		: "Idstring(@IDfd3f823c52e9d6c9@)"
+	,"StringID"	: "mission_boat_money_hl"
+	,"orig_text": "Collect the money."
+},{
+	 "i"		: 187
+	,"ids"		: "Idstring(@ID4521cc4250784bd0@)"
+	,"StringID"	: "des_ammo_bag"
+	,"orig_text": "The ammo bag is deployable equipment. Once placed it can be interacted with by any player to fully restore all ammo until depleted."
+},{
+	 "i"		: 188
+	,"ids"		: "Idstring(@ID0102800d6dbf9ae1@)"
+	,"StringID"	: "tip_melee_attack"
+	,"orig_text": "A hit with the butt of your weapon can be a good way to finish off an opponent. $NL; $NL; This is especially useful if you are low on ammo."
+},{
+	 "i"		: 189
+	,"ids"		: "Idstring(@IDa5967cea223e9983@)"
+	,"StringID"	: "mission_suburbia_mission13"
+	,"orig_text": "DEFUSE OR DIE!"
+},{
+	 "i"		: 190
+	,"ids"		: "Idstring(@ID3309ffc555c99c4c@)"
+	,"StringID"	: "mission_boat_saw_hl"
+	,"orig_text": "Saw down the obelisk."
+},{
+	 "i"		: 191
+	,"ids"		: "Idstring(@IDf9f1e585b542d6f8@)"
+	,"StringID"	: "mission_bridge_get_hostage_hl"
+	,"orig_text": "Find the Chinese prisoner (Convoy.)"
+},{
+	 "i"		: 192
+	,"ids"		: "Idstring(@ID7a25675d04b4c5c9@)"
+	,"StringID"	: "mission_undercover_transaction_hl"
+	,"orig_text": "IRS HACK."
+},{
+	 "i"		: 193
+	,"ids"		: "Idstring(@ID23f01665f98af252@)"
+	,"StringID"	: "tip_mask_off"
+	,"orig_text": "Law enforcers won't take notice of you if your mask is off - use that to your advantage. $NL; $NL; Scout the place and take positions before you put your masks on. Once you have put your mask on, it can't be taken off for the remainder of the heist."
+},{
+	 "i"		: 194
+	,"ids"		: "Idstring(@ID1b75edb37fce46bc@)"
+	,"StringID"	: "mission_suburbia_mission3"
+	,"orig_text": "Defuse or DIE!"
+},{
+	 "i"		: 195
+	,"ids"		: "Idstring(@ID2f2703acce7d81f1@)"
+	,"StringID"	: "mission_get_into_vault_text"
+	,"orig_text": "Keep an eye on the drill - it jams."
+},{
+	 "i"		: 196
+	,"ids"		: "Idstring(@IDaec6f9f3c865ebd1@)"
+	,"StringID"	: "des_thick_skin"
+	,"orig_text": "Thick Skin allows the wearer to receive more damage before going into bleed out. How much more depends on the upgrade level."
+},{
+	 "i"		: 197
+	,"ids"		: "Idstring(@IDbdc5b4fff2509190@)"
+	,"StringID"	: "intro_hospital91"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 198
+	,"ids"		: "Idstring(@ID0a4fc5c60654bcc2@)"
+	,"StringID"	: "mission_undercover_saw_limo"
+	,"orig_text": "Get Taxman out of the Limo! Saw open the roof and get him out!"
+},{
+	 "i"		: 199
+	,"ids"		: "Idstring(@IDb7ae26896aaa1dbe@)"
+	,"StringID"	: "mission_slaughterhouse_hide_hl"
+	,"orig_text": "Hide the Gold."
+},{
+	 "i"		: 200
+	,"ids"		: "Idstring(@ID04877751fb063610@)"
+	,"StringID"	: "mission_callelevator_pickup"
+	,"orig_text": "Call the elevator and wait for it to arrive, then use it to make the escape from the roof."
+},{
+	 "i"		: 201
+	,"ids"		: "Idstring(@IDfed4a3ec500ee88e@)"
+	,"StringID"	: "mission_suburbia_mission4_hose"
+	,"orig_text": "Drag the water hose."
+},{
+	 "i"		: 202
+	,"ids"		: "Idstring(@ID96caffc34270522b@)"
+	,"StringID"	: "mission_apartment_key_hl"
+	,"orig_text": "Find Chavez and get his key."
+},{
+	 "i"		: 203
+	,"ids"		: "Idstring(@ID1ab40f697dcc6c40@)"
+	,"StringID"	: "mission_apartment_winch_hl"
+	,"orig_text": "Attach the magnet (Floor 4.)"
+},{
+	 "i"		: 204
+	,"ids"		: "Idstring(@ID285151ff06f00cb4@)"
+	,"StringID"	: "mission_boat_stir_hl"
+	,"orig_text": "Stir the boat away from land."
+},{
+	 "i"		: 205
+	,"ids"		: "Idstring(@ID8b6087178964f78d@)"
+	,"StringID"	: "location_hospital_ISOa"
+	,"orig_text": "Isolation A"
+},{
+	 "i"		: 206
+	,"ids"		: "Idstring(@ID1b69be48c519d434@)"
+	,"StringID"	: "mission_security_footage"
+	,"orig_text": "Erase the Security Footage (Management.)"
+},{
+	 "i"		: 207
+	,"ids"		: "Idstring(@ID6b9ebb341d07e72e@)"
+	,"StringID"	: "location_slaughterhouse_sewer_exit"
+	,"orig_text": "In Sewer Exit."
+},{
+	 "i"		: 208
+	,"ids"		: "Idstring(@ID8856737a2b136818@)"
+	,"StringID"	: "location_office"
+	,"orig_text": "In Second Office Building."
+},{
+	 "i"		: 209
+	,"ids"		: "Idstring(@ID5b1197098bf6a7e2@)"
+	,"StringID"	: "intro_slaughterhouse01"
+	,"orig_text": "...and also on the 45 goin' south, there's been a major accident that's clogging the entire freeway..."
+},{
+	 "i"		: 210
+	,"ids"		: "Idstring(@ID2d77b11e8f6abf5c@)"
+	,"StringID"	: "mission_diamond_escape"
+	,"orig_text": "Make your way to the helicopter. It can't stay in the same place for too long!"
+},{
+	 "i"		: 211
+	,"ids"		: "Idstring(@ID69036db96237ef29@)"
+	,"StringID"	: "mission_apartment_roof_hl"
+	,"orig_text": "Secure the roof (Roof.)"
+},{
+	 "i"		: 212
+	,"ids"		: "Idstring(@ID4aaed02c614602a2@)"
+	,"StringID"	: "mission_slaughterhouse_take_hl"
+	,"orig_text": "Take the gold!"
+},{
+	 "i"		: 213
+	,"ids"		: "Idstring(@ID80fdbdf365970fd4@)"
+	,"StringID"	: "mission_apartment_escape_hl"
+	,"orig_text": "Escape (Basement.)"
+},{
+	 "i"		: 214
+	,"ids"		: "Idstring(@ID7d48ab7018c60cc0@)"
+	,"StringID"	: "intro_hospital04"
+	,"orig_text": "Go to the fourth floor - the infection clinic."
+},{
+	 "i"		: 215
+	,"ids"		: "Idstring(@ID22917d7c2098826c@)"
+	,"StringID"	: "location_dh_construction"
+	,"orig_text": "At Construction."
+},{
+	 "i"		: 216
+	,"ids"		: "Idstring(@ID861363a0164647e3@)"
+	,"StringID"	: "intro_hospital47"
+	,"orig_text": "Aw, hell..."
+},{
+	 "i"		: 217
+	,"ids"		: "Idstring(@ID0605b1d7346e82be@)"
+	,"StringID"	: "intro_hospital46"
+	,"orig_text": "*cough* *cough* *cough* *cough*"
+},{
+	 "i"		: 218
+	,"ids"		: "Idstring(@IDcaff67ef5460aff1@)"
+	,"StringID"	: "damage_multiplier"
+	,"orig_text": "This upgrade increases the damage of the weapon.$NL;Nice when taking down heavier enemies."
+},{
+	 "i"		: 219
+	,"ids"		: "Idstring(@ID7eeca028a69957dc@)"
+	,"StringID"	: "intro_hospital148"
+	,"orig_text": "I'll kill him first!"
+},{
+	 "i"		: 220
+	,"ids"		: "Idstring(@ID186968b5cce6914d@)"
+	,"StringID"	: "mission_hospital_ICU_hl"
+	,"orig_text": "SAW OPEN THE DOORS INTO THE ICU."
+},{
+	 "i"		: 221
+	,"ids"		: "Idstring(@IDb8579ec6529e1798@)"
+	,"StringID"	: "mission_slaughterhouse_prepare_gas_hl"
+	,"orig_text": "Prepare a trap!"
+},{
+	 "i"		: 222
+	,"ids"		: "Idstring(@ID7b1cbfd405bc024e@)"
+	,"StringID"	: "location_hospital_ExamD45"
+	,"orig_text": "Examination D45"
+},{
+	 "i"		: 223
+	,"ids"		: "Idstring(@ID76f9f1d41db4e425@)"
+	,"StringID"	: "mission_undercover_fasten"
+	,"orig_text": "Get the server from the Limo and make your way to the transfer room to plug it in."
+},{
+	 "i"		: 224
+	,"ids"		: "Idstring(@IDd8ef467399f9d7e0@)"
+	,"StringID"	: "mission_suburbia_mission10_hl"
+	,"orig_text": "LET THE DRILL FINISH."
+},{
+	 "i"		: 225
+	,"ids"		: "Idstring(@IDcc11602cad0f719d@)"
+	,"StringID"	: "location_slaughterhouse_safehouse"
+	,"orig_text": "In the Safe House."
+},{
+	 "i"		: 226
+	,"ids"		: "Idstring(@ID9025952ffbf69ff7@)"
+	,"StringID"	: "mission_boat_get_key"
+	,"orig_text": "Get the key from a securityguard and gain access to the securityroom."
+},{
+	 "i"		: 227
+	,"ids"		: "Idstring(@ID595d777c2903bce7@)"
+	,"StringID"	: "mission_slaughterhouse_drill"
+	,"orig_text": "Drill open the safe."
+},{
+	 "i"		: 228
+	,"ids"		: "Idstring(@ID3581c00a342b3667@)"
+	,"StringID"	: "mission_sec_doors_hl"
+	,"orig_text": "Plant tablets on the remaining alarm boxes."
+},{
+	 "i"		: 229
+	,"ids"		: "Idstring(@IDc2c98f865744d06e@)"
+	,"StringID"	: "intro_bank03"
+	,"orig_text": "he hid the thermite and a drill in the server room - but he bailed."
+},{
+	 "i"		: 230
+	,"ids"		: "Idstring(@ID89e8c72b4c49b1c8@)"
+	,"StringID"	: "location_str_2st"
+	,"orig_text": "On Easy St."
+},{
+	 "i"		: 231
+	,"ids"		: "Idstring(@ID6fb45a5e3cf25d41@)"
+	,"StringID"	: "location_dh_pr"
+	,"orig_text": "In PR Department."
+},{
+	 "i"		: 232
+	,"ids"		: "Idstring(@ID5be9c49f0628ed59@)"
+	,"StringID"	: "mission_undercover_check"
+	,"orig_text": "Check the Limo and see if you can get the Taxman out of it."
+},{
+	 "i"		: 233
+	,"ids"		: "Idstring(@IDb8e6a4760ee7b5a3@)"
+	,"StringID"	: "location_slaughterhouse_mainroom_walkway"
+	,"orig_text": "On the Main Room Walkway."
+},{
+	 "i"		: 234
+	,"ids"		: "Idstring(@IDa9d74262a249eade@)"
+	,"StringID"	: "mission_boat_money"
+	,"orig_text": "Collect the money into bags."
+},{
+	 "i"		: 235
+	,"ids"		: "Idstring(@IDdff3142470ddb883@)"
+	,"StringID"	: "location_hospital_ICUArea"
+	,"orig_text": "ICU Area"
+},{
+	 "i"		: 236
+	,"ids"		: "Idstring(@IDf98043acb2b711c0@)"
+	,"StringID"	: "thick_skin"
+	,"orig_text": "This upgrade gives extra health.$NL;Being a criminal toughens your skin."
+},{
+	 "i"		: 237
+	,"ids"		: "Idstring(@ID07f76a6226befdd3@)"
+	,"StringID"	: "trip_mine_damage"
+	,"orig_text": "This upgrade increases the explosive power and blast radius of your trip mines."
+},{
+	 "i"		: 238
+	,"ids"		: "Idstring(@ID27f8074fa436492b@)"
+	,"StringID"	: "mission_get_drill_text"
+	,"orig_text": "Get the drill and the thermite."
+},{
+	 "i"		: 239
+	,"ids"		: "Idstring(@IDb95b9a486faaf37f@)"
+	,"StringID"	: "location_dh_security"
+	,"orig_text": "In Security Room."
+},{
+	 "i"		: 240
+	,"ids"		: "Idstring(@ID1df13866b47b48e0@)"
+	,"StringID"	: "location_vault_above"
+	,"orig_text": "Above Vault."
+},{
+	 "i"		: 241
+	,"ids"		: "Idstring(@ID1e94d2c17cb55857@)"
+	,"StringID"	: "intro_suburbia01"
+	,"orig_text": "Bodhi's Pool Repair."
+},{
+	 "i"		: 242
+	,"ids"		: "Idstring(@ID62d29fd1e7ce4dd2@)"
+	,"StringID"	: "tip_dont_shoot_civilians"
+	,"orig_text": "Don't shoot civilians. For each civilian you kill, penalty time is added to your regular custody time. $NL; $NL; This means that if you are put in custody, you will have to wait longer before the police make an offer to trade you for a hostage."
+},{
+	 "i"		: 243
+	,"ids"		: "Idstring(@ID35994e027458e077@)"
+	,"StringID"	: "location_hospital_BreakRoom"
+	,"orig_text": "Break Room"
+},{
+	 "i"		: 244
+	,"ids"		: "Idstring(@IDde3a71fe399f368a@)"
+	,"StringID"	: "location_hospital_Office"
+	,"orig_text": "Office"
+},{
+	 "i"		: 245
+	,"ids"		: "Idstring(@ID3b9df78d7f01487c@)"
+	,"StringID"	: "mission_diamond_loot_hl"
+	,"orig_text": "Steal the diamonds."
+},{
+	 "i"		: 246
+	,"ids"		: "Idstring(@ID3c1b02744a70c0fe@)"
+	,"StringID"	: "mission_apartment_wait_hl"
+	,"orig_text": "Wait for the explosives (Roof.)"
+},{
+	 "i"		: 247
+	,"ids"		: "Idstring(@ID02d376bc6280f537@)"
+	,"StringID"	: "location_dh_roof"
+	,"orig_text": "On Roof."
+},{
+	 "i"		: 248
+	,"ids"		: "Idstring(@IDcdc006f8ae27ca06@)"
+	,"StringID"	: "mission_get_into_vault"
+	,"orig_text": "Drill the gates (Drill Area.)"
+},{
+	 "i"		: 249
+	,"ids"		: "Idstring(@ID8d7caaa2d9a05277@)"
+	,"StringID"	: "tip_secret_assignmnet"
+	,"orig_text": "The four types of special units are very dangerous, especially if you face them alone. $NL; $NL; Team up to take them down!"
+},{
+	 "i"		: 250
+	,"ids"		: "Idstring(@IDc9e669fe9bb5ec81@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_5"
+	,"orig_text": "Charge defused."
+},{
+	 "i"		: 251
+	,"ids"		: "Idstring(@IDdd01a3b1c77acc75@)"
+	,"StringID"	: "mission_hospital_cameras_hl"
+	,"orig_text": "TAKE OUT THE CAMERAS."
+},{
+	 "i"		: 252
+	,"ids"		: "Idstring(@IDd1de46af598f2b43@)"
+	,"StringID"	: "location_bridge_convoy"
+	,"orig_text": "At Convoy."
+},{
+	 "i"		: 253
+	,"ids"		: "Idstring(@ID4947e5314866afca@)"
+	,"StringID"	: "mission_diamond_escort2_hl"
+	,"orig_text": "Get Mr. Garnet's son Ralph."
+},{
+	 "i"		: 254
+	,"ids"		: "Idstring(@ID44bfa7bda3e1d99c@)"
+	,"StringID"	: "des_toolset"
+	,"orig_text": "The toolkit allows the owner to organize, carry and protect the tools, making them more effective. How much more depends on the upgrade level."
+},{
+	 "i"		: 255
+	,"ids"		: "Idstring(@ID26dbaae74939c5c0@)"
+	,"StringID"	: "tip_shoot_in_bleed_out"
+	,"orig_text": "While in bleed-out, you can still fire your sidearm. $NL; $NL; When a partner is helping you up you can protect the both of you, but provoking law enforcers while on your own makes you an easy and helpless target."
+},{
+	 "i"		: 256
+	,"ids"		: "Idstring(@ID53680a24c6e478f0@)"
+	,"StringID"	: "mission_hospital_disguise_hl"
+	,"orig_text": "PLAY DOCTOR."
+},{
+	 "i"		: 257
+	,"ids"		: "Idstring(@ID87730583847c8f7d@)"
+	,"StringID"	: "des_m79"
+	,"orig_text": "STATS : 40mm rounds : Single-shot : Break Action$NL;\"The Thump-Gun\", \"The Skill Cannon\", \"The Pro Pipe\", \"The Noob Tube\", and \"The Ex-Wife\" - things we love have many names. The GL40 is a single-shot, shoulder-fired break action grenade launcher that aims to please."
+},{
+	 "i"		: 258
+	,"ids"		: "Idstring(@ID890ea8967f04e71d@)"
+	,"StringID"	: "mission_hospital_drawblood"
+	,"orig_text": "Draw blood from the patient, and use the validation machines around the hospital to validate the blood sample. Don´t spill it!"
+},{
+	 "i"		: 259
+	,"ids"		: "Idstring(@IDb79d16fe855ce796@)"
+	,"StringID"	: "location_suburbia_str24"
+	,"orig_text": "At Keel and Spinnaker"
+},{
+	 "i"		: 260
+	,"ids"		: "Idstring(@IDb08b894016b2381a@)"
+	,"StringID"	: "location_hospital_northCorridor"
+	,"orig_text": "North Corridor"
+},{
+	 "i"		: 261
+	,"ids"		: "Idstring(@IDe1b2cb19be705ebe@)"
+	,"StringID"	: "mission_diamond_loot"
+	,"orig_text": "Enter the vault and steal the diamonds."
+},{
+	 "i"		: 262
+	,"ids"		: "Idstring(@ID563e23401ebfb85c@)"
+	,"StringID"	: "intro_hospital56"
+	,"orig_text": "Let's get going, OK? *cough* *cough*"
+},{
+	 "i"		: 263
+	,"ids"		: "Idstring(@IDc47b766693105b22@)"
+	,"StringID"	: "intro_bank"
+	,"orig_text": "2:15 pm, downtown - First World Bank"
+},{
+	 "i"		: 264
+	,"ids"		: "Idstring(@IDab78e1401c1e6094@)"
+	,"StringID"	: "intro_hospital39"
+	,"orig_text": "WOLF: I didn't quite catch that... But let's go."
+},{
+	 "i"		: 265
+	,"ids"		: "Idstring(@IDb19a152bad0653df@)"
+	,"StringID"	: "mission_slaughterhouse_drill_hl"
+	,"orig_text": "Drill the safe"
+},{
+	 "i"		: 266
+	,"ids"		: "Idstring(@ID2350a65763abacab@)"
+	,"StringID"	: "intro_street01_2"
+	,"orig_text": "Come on we got it, let's get out of here!"
+},{
+	 "i"		: 267
+	,"ids"		: "Idstring(@ID69942452300b1077@)"
+	,"StringID"	: "mission_diamond_wait"
+	,"orig_text": "Wait while Bain is negotiating for the codes."
+},{
+	 "i"		: 268
+	,"ids"		: "Idstring(@IDfc2e045ca486b89c@)"
+	,"StringID"	: "intro_hospital115"
+	,"orig_text": "You think just because you're wearing $5.000 suits you don't need to hold the door?!"
+},{
+	 "i"		: 269
+	,"ids"		: "Idstring(@IDc2db29e525215b63@)"
+	,"StringID"	: "mission_get_key_text"
+	,"orig_text": "Find the bank manager - Look for a yellow outline once he's identified."
+},{
+	 "i"		: 270
+	,"ids"		: "Idstring(@IDf7bc75d1eefd0639@)"
+	,"StringID"	: "mission_diamond_timelock"
+	,"orig_text": "Wait for the time lock to expire."
+},{
+	 "i"		: 271
+	,"ids"		: "Idstring(@ID45449a8918010303@)"
+	,"StringID"	: "location_str_drakes"
+	,"orig_text": "At Drake's Loading."
+},{
+	 "i"		: 272
+	,"ids"		: "Idstring(@ID1460138d877d0e9e@)"
+	,"StringID"	: "mission_blow_wall"
+	,"orig_text": "Blow a hole in the wall (Management.)"
+},{
+	 "i"		: 273
+	,"ids"		: "Idstring(@ID35f784a6a46b227d@)"
+	,"StringID"	: "trip_mine_quantity"
+	,"orig_text": "This upgrade adds extra trip mines to the inventory.$NL;A couple of extra mines will increase your chances."
+},{
+	 "i"		: 274
+	,"ids"		: "Idstring(@IDde78a0c309ffbb57@)"
+	,"StringID"	: "fire_rate_multiplier"
+	,"orig_text": "This upgrade increases the rate of fire.$NL;Eats through enemies like it eats through ammunition."
+},{
+	 "i"		: 275
+	,"ids"		: "Idstring(@ID5f7dae9ef42daa8f@)"
+	,"StringID"	: "location_hospital_ElevatorShaft"
+	,"orig_text": "Elevator Shaft"
+},{
+	 "i"		: 276
+	,"ids"		: "Idstring(@ID46253e94c9ce743e@)"
+	,"StringID"	: "location_roof"
+	,"orig_text": "On Roof."
+},{
+	 "i"		: 277
+	,"ids"		: "Idstring(@IDa80f7a14df40230b@)"
+	,"StringID"	: "intro_hospital107"
+	,"orig_text": "That's just bad for business!"
+},{
+	 "i"		: 278
+	,"ids"		: "Idstring(@ID79590f24fd7e978f@)"
+	,"StringID"	: "mission_apartment_c42_hl"
+	,"orig_text": "Move away from the C4 (Floor 2.)"
+},{
+	 "i"		: 279
+	,"ids"		: "Idstring(@ID0dd4a0c2fb024aa1@)"
+	,"StringID"	: "mission_boat_aquire_drill_hl"
+	,"orig_text": "Get the Drill"
+},{
+	 "i"		: 280
+	,"ids"		: "Idstring(@ID4fd7c9ac62023c24@)"
+	,"StringID"	: "mission_thermite_wait_text"
+	,"orig_text": "Hold the fort and let the thermite burn through the floor. There are two cans of thermite hidden in the copy machine, if both are carried to the vault it will speed up the melting process."
+},{
+	 "i"		: 281
+	,"ids"		: "Idstring(@ID4be87ee06ec1f55e@)"
+	,"StringID"	: "mission_suburbia_mission8_hl"
+	,"orig_text": "MAKE SURE THE WATER'S FLOWING."
+},{
+	 "i"		: 282
+	,"ids"		: "Idstring(@IDd46edecdf2a9693d@)"
+	,"StringID"	: "mission_suburbia_mission4_drill"
+	,"orig_text": "Apply the drill to the safe."
+},{
+	 "i"		: 283
+	,"ids"		: "Idstring(@IDe8221cc5869ffa7f@)"
+	,"StringID"	: "explosion_range_multiplier"
+	,"orig_text": "This upgrades the explosion range for the GL40 Grenade Launcher.$NL;The only thing better than an explosion - is a bigger explosion."
+},{
+	 "i"		: 284
+	,"ids"		: "Idstring(@IDd24eb2ad4a56e973@)"
+	,"StringID"	: "mission_suburbia_mission4_info"
+	,"orig_text": "Hose stretch completed"
+},{
+	 "i"		: 285
+	,"ids"		: "Idstring(@ID63c26b21d42b387c@)"
+	,"StringID"	: "des_r870_shotgun"
+	,"orig_text": "STATS : 12 Gauge : Very high damage$NL;There is no more powerful firearm than the pump-action, 12 gauge bore Reinbeck shotgun.$NL;What it lacks in speed, it makes up for in raw, indisputable power."
+},{
+	 "i"		: 286
+	,"ids"		: "Idstring(@IDae9497a30f3c884d@)"
+	,"StringID"	: "location_slaughterhouse_alley_stairs"
+	,"orig_text": "On the Alley Stairs."
+},{
+	 "i"		: 287
+	,"ids"		: "Idstring(@ID32edc1222301e407@)"
+	,"StringID"	: "mission_apartment_bag"
+	,"orig_text": "Alex dropped off the C4 bag, find it."
+},{
+	 "i"		: 288
+	,"ids"		: "Idstring(@ID9dc5c20670c93b72@)"
+	,"StringID"	: "location_hospital_ExamA12"
+	,"orig_text": "Examination A12"
+},{
+	 "i"		: 289
+	,"ids"		: "Idstring(@ID385a97f8d94e9d64@)"
+	,"StringID"	: "intro_hospital50"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 290
+	,"ids"		: "Idstring(@IDd7b3104ee0b56747@)"
+	,"StringID"	: "mission_hospital_hostage"
+	,"orig_text": "Keep the civilians from activating the alarm until Bain is finished scanning the database."
+},{
+	 "i"		: 291
+	,"ids"		: "Idstring(@IDf35b58b5aa0c48a2@)"
+	,"StringID"	: "location_hospital_Exam22"
+	,"orig_text": "Examination B22"
+},{
+	 "i"		: 292
+	,"ids"		: "Idstring(@ID30722f7807860377@)"
+	,"StringID"	: "intro_hospital27"
+	,"orig_text": "What are you monkies dressed up for - a wedding or a f..."
+},{
+	 "i"		: 293
+	,"ids"		: "Idstring(@IDa63c4b0ce01ec405@)"
+	,"StringID"	: "intro_hospital143"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 294
+	,"ids"		: "Idstring(@ID8d94d051f0a05ab6@)"
+	,"StringID"	: "toolset"
+	,"orig_text": "This upgrade makes you interact faster.$NL; When you need to get in and out fast as hell, the Toolkit might be something for you."
+},{
+	 "i"		: 295
+	,"ids"		: "Idstring(@ID1024b33e869db6d5@)"
+	,"StringID"	: "ammo_bag"
+	,"orig_text": "The ammo bag can be deployed on the ground, so that you and your crew can use it.$NL;Ammo for everyone."
+},{
+	 "i"		: 296
+	,"ids"		: "Idstring(@ID482be9515f887e52@)"
+	,"StringID"	: "location_dh_heliroof"
+	,"orig_text": "On Roof Helipad."
+},{
+	 "i"		: 297
+	,"ids"		: "Idstring(@ID87554198f9dfc81d@)"
+	,"StringID"	: "location_slaughterhouse_walkway"
+	,"orig_text": "On the Walkway."
+},{
+	 "i"		: 298
+	,"ids"		: "Idstring(@IDd14ab1e198d208a7@)"
+	,"StringID"	: "mission_undercover_interogation"
+	,"orig_text": "Get the codes from Taxman! Screams, threats and a good old beating - anything goes - we are in a hurry!"
+},{
+	 "i"		: 299
+	,"ids"		: "Idstring(@IDf072b1b1ff4ac7e6@)"
+	,"StringID"	: "location_hospital_construction"
+	,"orig_text": "Construction"
+},{
+	 "i"		: 300
+	,"ids"		: "Idstring(@IDc792ae67d172d78e@)"
+	,"StringID"	: "mission_boat_destroy_security_equipment_hl"
+	,"orig_text": "Destroy equipment."
+},{
+	 "i"		: 301
+	,"ids"		: "Idstring(@ID9a3c6bbd600dec23@)"
+	,"StringID"	: "location_str_parking"
+	,"orig_text": "At Jake's Parking."
+},{
+	 "i"		: 302
+	,"ids"		: "Idstring(@IDbb28b50b1c5e5e1d@)"
+	,"StringID"	: "mission_slaughterhouse_smoke"
+	,"orig_text": "Block the helicopters view with smoke from a burning tire pile!"
+},{
+	 "i"		: 303
+	,"ids"		: "Idstring(@ID3652320672c14b9c@)"
+	,"StringID"	: "intro_hospital55"
+	,"orig_text": "Come on! Unless you two plan on operating on me here, you better make room!"
+},{
+	 "i"		: 304
+	,"ids"		: "Idstring(@IDbc2ac7341314949e@)"
+	,"StringID"	: "mission_apartment_wait2_hl"
+	,"orig_text": "Wait for the helicopter to return to the roof (Roof.)"
+},{
+	 "i"		: 305
+	,"ids"		: "Idstring(@ID4ab69764494f8b94@)"
+	,"StringID"	: "mission_apartment_door_hl"
+	,"orig_text": "Locate the Panic Room (Floor 3.)"
+},{
+	 "i"		: 306
+	,"ids"		: "Idstring(@ID835dabfc5883254e@)"
+	,"StringID"	: "mission_undercover_power_hl"
+	,"orig_text": "KEEP THE POWER."
+},{
+	 "i"		: 307
+	,"ids"		: "Idstring(@ID24d7b16206f4bf13@)"
+	,"StringID"	: "mission_slaughterhouse_load_gold_hl"
+	,"orig_text": "Lift the gold out of here!"
+},{
+	 "i"		: 308
+	,"ids"		: "Idstring(@ID2d8818d769e99dd3@)"
+	,"StringID"	: "intro_hospital73"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 309
+	,"ids"		: "Idstring(@ID8bf37663225a8c7f@)"
+	,"StringID"	: "mission_apartment_wait"
+	,"orig_text": "Wait for the helicopter to drop the C4 on the roof."
+},{
+	 "i"		: 310
+	,"ids"		: "Idstring(@ID46faa9b3addc4705@)"
+	,"StringID"	: "mission_diamond_escort2"
+	,"orig_text": "Find Mr. Garnet's son Ralph and take him to our chopper on the roof."
+},{
+	 "i"		: 311
+	,"ids"		: "Idstring(@IDc7f5b701ede231c4@)"
+	,"StringID"	: "intro_secret_stash04"
+	,"orig_text": "With those, we'll make a $25,000,000 hack. Alex, crane ready?"
+},{
+	 "i"		: 312
+	,"ids"		: "Idstring(@ID5dec5345ec567315@)"
+	,"StringID"	: "location_slaughterhouse_sewer"
+	,"orig_text": "In the Sewer."
+},{
+	 "i"		: 313
+	,"ids"		: "Idstring(@ID7719899b9adbd499@)"
+	,"StringID"	: "intro_hospital109"
+	,"orig_text": "WOLF: Bain, grampa over here kept talking so we didn't hear you. Fuck it, let's just improvise."
+},{
+	 "i"		: 314
+	,"ids"		: "Idstring(@ID113d7ccf7d5a544f@)"
+	,"StringID"	: "intro_street03_2"
+	,"orig_text": "What the..! What are you doin' Matt!?"
+},{
+	 "i"		: 315
+	,"ids"		: "Idstring(@ID07dc6611249a1c5b@)"
+	,"StringID"	: "intro_diamondheist"
+	,"orig_text": "1:30 am, 22nd floor - Garnet Group Skyscraper"
+},{
+	 "i"		: 316
+	,"ids"		: "Idstring(@ID74142f1a22c4ccd2@)"
+	,"StringID"	: "location_hospital_laundry"
+	,"orig_text": "Laundry room"
+},{
+	 "i"		: 317
+	,"ids"		: "Idstring(@ID7444cadfef75d4e5@)"
+	,"StringID"	: "intro_hospital21"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 318
+	,"ids"		: "Idstring(@IDda5b711737f13cb2@)"
+	,"StringID"	: "mission_boat_restart_engine"
+	,"orig_text": "Get down to the enginge room and get the enginge running again."
+},{
+	 "i"		: 319
+	,"ids"		: "Idstring(@IDbfaadba6765372b6@)"
+	,"StringID"	: "location_suburbia_str1"
+	,"orig_text": "On Pacific Drv."
+},{
+	 "i"		: 320
+	,"ids"		: "Idstring(@ID3875f6d7cc7e2210@)"
+	,"StringID"	: "intro_hospital63"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 321
+	,"ids"		: "Idstring(@ID0642d8db45c40367@)"
+	,"StringID"	: "mission_boat_stir"
+	,"orig_text": "Stir the boat away from land into international water."
+},{
+	 "i"		: 322
+	,"ids"		: "Idstring(@ID7cd841ca04f9f6d1@)"
+	,"StringID"	: "location_suburbia_shelter"
+	,"orig_text": "In Shelter"
+},{
+	 "i"		: 323
+	,"ids"		: "Idstring(@ID2cc849ee03fac90d@)"
+	,"StringID"	: "intro_hospital97"
+	,"orig_text": "*chuckle* What a racket..."
+},{
+	 "i"		: 324
+	,"ids"		: "Idstring(@IDfc5e78b414c041cd@)"
+	,"StringID"	: "intro_bridge04"
+	,"orig_text": "Let's go, guys!"
+},{
+	 "i"		: 325
+	,"ids"		: "Idstring(@ID6cda92d6c7656ecf@)"
+	,"StringID"	: "mission_apartment_bag_hl"
+	,"orig_text": "Locate the C4 Bag."
+},{
+	 "i"		: 326
+	,"ids"		: "Idstring(@IDe6c3de5f0b22da38@)"
+	,"StringID"	: "location_backalley"
+	,"orig_text": "In Back Alley."
+},{
+	 "i"		: 327
+	,"ids"		: "Idstring(@ID803671d2ce54539f@)"
+	,"StringID"	: "location_cokeoverkill"
+	,"orig_text": "By the OVERKILL Cola sign."
+},{
+	 "i"		: 328
+	,"ids"		: "Idstring(@ID96c2b6dbcdf4b534@)"
+	,"StringID"	: "intro_hospital52"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 329
+	,"ids"		: "Idstring(@ID636c56a6bb764626@)"
+	,"StringID"	: "intro_slaughterhouse03"
+	,"orig_text": "Looks like the diversion worked - they've changed their course. Convoy should be here in moments!"
+},{
+	 "i"		: 330
+	,"ids"		: "Idstring(@IDe209aa1dcc1a44dc@)"
+	,"StringID"	: "intro_hospital100"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 331
+	,"ids"		: "Idstring(@ID131053db83e4bafb@)"
+	,"StringID"	: "intro_bank01"
+	,"orig_text": "Alright guys, listen up - good news and bad news:"
+},{
+	 "i"		: 332
+	,"ids"		: "Idstring(@ID46733009c763f507@)"
+	,"StringID"	: "location_uc_floor1"
+	,"orig_text": "On Floor 1"
+},{
+	 "i"		: 333
+	,"ids"		: "Idstring(@ID2ff6060a81cada08@)"
+	,"StringID"	: "mission_diamond_sneak_hl"
+	,"orig_text": "Sneak and access the alarm boxes."
+},{
+	 "i"		: 334
+	,"ids"		: "Idstring(@IDa30bf57bdb770fbb@)"
+	,"StringID"	: "mission_suburbia_mission4"
+	,"orig_text": "Apply the drill to the safe and plug the power cord into an outlet. As soon as the drill is done, drag the water hose down to the basement and connect it."
+},{
+	 "i"		: 335
+	,"ids"		: "Idstring(@IDfee1483fc7777350@)"
+	,"StringID"	: "location_slaughterhouse_main_corridor"
+	,"orig_text": "In the Main Corridor."
+},{
+	 "i"		: 336
+	,"ids"		: "Idstring(@IDbb5e5bf4ae2f7e03@)"
+	,"StringID"	: "des_m4"
+	,"orig_text": "STATS : 5.56mm : Semiautomatic : Medium recoil$NL;The AMCAR-4 is one of the most versatile assault rifles there is.$NL;The good accuracy coupled with the high rate of fire prepares its owner for any situation."
+},{
+	 "i"		: 337
+	,"ids"		: "Idstring(@IDc4aaf7e3b6ed62c0@)"
+	,"StringID"	: "tip_weapon_effecienty"
+	,"orig_text": "Different weapons are more effective at different ranges, and are therefore suited for different situations."
+},{
+	 "i"		: 338
+	,"ids"		: "Idstring(@ID708dd85f699b3ff7@)"
+	,"StringID"	: "location_hospital_Elevator"
+	,"orig_text": "Elevator"
+},{
+	 "i"		: 339
+	,"ids"		: "Idstring(@ID64a0d9b2e16efc25@)"
+	,"StringID"	: "intro_hospital31"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 340
+	,"ids"		: "Idstring(@IDd763a7e37b717096@)"
+	,"StringID"	: "mission_diamond_sneak"
+	,"orig_text": "Sneak around and gain access to the consoles controlling the vault doors. If the alarm goes off, Bain will have to hack the remaining consoles."
+},{
+	 "i"		: 341
+	,"ids"		: "Idstring(@IDfaf948e7ae14b255@)"
+	,"StringID"	: "location_hospital_ExamF64"
+	,"orig_text": "Examination F64"
+},{
+	 "i"		: 342
+	,"ids"		: "Idstring(@IDc17cfa1170ee1f02@)"
+	,"StringID"	: "intro_hospital61"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 343
+	,"ids"		: "Idstring(@IDa315a408303eb9de@)"
+	,"StringID"	: "location_dh_managment"
+	,"orig_text": "In Management."
+},{
+	 "i"		: 344
+	,"ids"		: "Idstring(@ID9b448141728d80ec@)"
+	,"StringID"	: "location_bridge_boat"
+	,"orig_text": "On A Boat."
+},{
+	 "i"		: 345
+	,"ids"		: "Idstring(@ID88a9327c689f1280@)"
+	,"StringID"	: "intro_hospital103"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 346
+	,"ids"		: "Idstring(@IDa9d32e4a42d333eb@)"
+	,"StringID"	: "intro_hospital138"
+	,"orig_text": "I can tell you're good people."
+},{
+	 "i"		: 347
+	,"ids"		: "Idstring(@ID6f7f7b4ecab93553@)"
+	,"StringID"	: "intro_hospital81"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 348
+	,"ids"		: "Idstring(@ID8c3104b41fce2be2@)"
+	,"StringID"	: "mission_slaughterhouse_gasoline_hl"
+	,"orig_text": "Get the Gasoline!"
+},{
+	 "i"		: 349
+	,"ids"		: "Idstring(@ID109c7144e36afce9@)"
+	,"StringID"	: "intro_hospital83"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 350
+	,"ids"		: "Idstring(@ID5098c0debdd66e53@)"
+	,"StringID"	: "tip_shoot_at_civilians"
+	,"orig_text": "Shout at civilians to keep them in check. $NL; $NL; A living civilian is always an asset, and lying down he/she is more likely to stay alive."
+},{
+	 "i"		: 351
+	,"ids"		: "Idstring(@ID22fd27ff019f37e4@)"
+	,"StringID"	: "intro_hospital88"
+	,"orig_text": "\"blah blah blah pick you up from the roof when we're done.\""
+},{
+	 "i"		: 352
+	,"ids"		: "Idstring(@IDc10067494fe1224a@)"
+	,"StringID"	: "intro_hospital145"
+	,"orig_text": "Aw, Christ in a handbag - are you two cops?"
+},{
+	 "i"		: 353
+	,"ids"		: "Idstring(@ID82093089162218d5@)"
+	,"StringID"	: "mission_slaughterhouse_attack_convoy_hl"
+	,"orig_text": "Hit the convoy!"
+},{
+	 "i"		: 354
+	,"ids"		: "Idstring(@ID8365cd46cd82465b@)"
+	,"StringID"	: "intro_diamondheist03"
+	,"orig_text": "Remember: Stay low, stay dark, avoid guards and gunfire. Here we go..."
+},{
+	 "i"		: 355
+	,"ids"		: "Idstring(@ID914fc969f41fbe37@)"
+	,"StringID"	: "mission_bridge_get_hostage"
+	,"orig_text": "Locate the prisoner! He's in one of the trucks. Saw the doors open."
+},{
+	 "i"		: 356
+	,"ids"		: "Idstring(@ID05af281896caeaf7@)"
+	,"StringID"	: "mission_suburbia_mission4_power"
+	,"orig_text": "Hook up the drill to an outlet."
+},{
+	 "i"		: 357
+	,"ids"		: "Idstring(@IDf1165d52c23e1a91@)"
+	,"StringID"	: "location_vault_hallway"
+	,"orig_text": "In Vault Hallway."
+},{
+	 "i"		: 358
+	,"ids"		: "Idstring(@ID3aaa49b351d16d5f@)"
+	,"StringID"	: "mission_diamond_escape_hl"
+	,"orig_text": "Escape!"
+},{
+	 "i"		: 359
+	,"ids"		: "Idstring(@ID0520983980a909dc@)"
+	,"StringID"	: "location_suburbia_m_garage"
+	,"orig_text": "In Mitchell's Garage"
+},{
+	 "i"		: 360
+	,"ids"		: "Idstring(@ID2f508c04ac25f243@)"
+	,"StringID"	: "intro_bridge01"
+	,"orig_text": "OK, stay low everybody. I'm detonating in four, three, two, cover, ignition!"
+},{
+	 "i"		: 361
+	,"ids"		: "Idstring(@IDbc8e006e57aec40e@)"
+	,"StringID"	: "mission_diamond_escort1_hl"
+	,"orig_text": "Change of plan, get the CFO."
+},{
+	 "i"		: 362
+	,"ids"		: "Idstring(@ID8250e792c7bdd845@)"
+	,"StringID"	: "location_slaughterhouse_lockerroom"
+	,"orig_text": "In the Locker Room."
+},{
+	 "i"		: 363
+	,"ids"		: "Idstring(@IDee2091554e69f104@)"
+	,"StringID"	: "location_suburbia_str4"
+	,"orig_text": "On Spinnaker Str."
+},{
+	 "i"		: 364
+	,"ids"		: "Idstring(@IDd4b0b46e3bc55da8@)"
+	,"StringID"	: "tip_tactical_reload"
+	,"orig_text": "You can reload your weapon even if you haven't completely emptied your current ammo clip. $NL; $NL;This way you make sure that you have a full clip the next time you run into trouble. This is called a \"tactical reload\"."
+},{
+	 "i"		: 365
+	,"ids"		: "Idstring(@ID2bf8092e9605e1da@)"
+	,"StringID"	: "mission_bridge_escort_hl"
+	,"orig_text": "Escort the prisoner (Scaffolding.)"
+},{
+	 "i"		: 366
+	,"ids"		: "Idstring(@ID589cc42d4c965e47@)"
+	,"StringID"	: "des_c45"
+	,"orig_text": "STATS : .45 Caliber : Semiautomatic : Medium recoil$NL;The C45 is a very reliable weapon that has proven its worth over years of use. It does enough damage and carries enough rounds to handle most targets. A good all rounder."
+},{
+	 "i"		: 367
+	,"ids"		: "Idstring(@IDc8bad8e6ce60184c@)"
+	,"StringID"	: "mission_slaughterhouse_escape_hl"
+	,"orig_text": "Make the escape!"
+},{
+	 "i"		: 368
+	,"ids"		: "Idstring(@ID46fec365b6cab10d@)"
+	,"StringID"	: "mission_slaughterhouse_load_gas_hl"
+	,"orig_text": "Set the trap in place!"
+},{
+	 "i"		: 369
+	,"ids"		: "Idstring(@ID0469574353113c29@)"
+	,"StringID"	: "intro_hospital53"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 370
+	,"ids"		: "Idstring(@ID5a6c0091e449fb12@)"
+	,"StringID"	: "location_uc_floor2"
+	,"orig_text": "On Floor 2"
+},{
+	 "i"		: 371
+	,"ids"		: "Idstring(@IDc37e3cc85ed433fc@)"
+	,"StringID"	: "mission_hospital_atrapp"
+	,"orig_text": "Set up the fake sentry guns so that the civilians will stay down."
+},{
+	 "i"		: 372
+	,"ids"		: "Idstring(@ID8c0f628034a3654e@)"
+	,"StringID"	: "tip_switch_to_sidearm"
+	,"orig_text": "It is always quicker to switch to your sidearm than reloading your primary weapon. $NL; $NL; So if you run out of ammo for your SMG and you're in a tight spot, switching to your sidearm instead of reloading could save your life."
+},{
+	 "i"		: 373
+	,"ids"		: "Idstring(@ID3a3d264df16d0258@)"
+	,"StringID"	: "mission_suburbia_mission6"
+	,"orig_text": "Take the printing plates from within the safe."
+},{
+	 "i"		: 374
+	,"ids"		: "Idstring(@ID01e6f797ad15eab1@)"
+	,"StringID"	: "doctor_bag_increase"
+	,"orig_text": "This upgrades the amount of health that can be acquired from the bag.$NL;It will help you help your friends even more."
+},{
+	 "i"		: 375
+	,"ids"		: "Idstring(@ID18b801906a7a8667@)"
+	,"StringID"	: "mission_hospital_rounds_hl"
+	,"orig_text": "FIND OUT WHERE THE CONTAMINATED PATIENT IS."
+},{
+	 "i"		: 376
+	,"ids"		: "Idstring(@IDb6aae072e38ca353@)"
+	,"StringID"	: "mission_get_into_bank_hl"
+	,"orig_text": "Enter the bank (Lobby.)"
+},{
+	 "i"		: 377
+	,"ids"		: "Idstring(@ID7e0efea5147ae98f@)"
+	,"StringID"	: "intro_hospital64"
+	,"orig_text": "STRANGER: Let's go, let's go! We can all fit in the elevator!"
+},{
+	 "i"		: 378
+	,"ids"		: "Idstring(@IDc8bf15950bb05473@)"
+	,"StringID"	: "intro_bank04"
+	,"orig_text": "The bank manager's got the key card to get in there - let's get it on."
+},{
+	 "i"		: 379
+	,"ids"		: "Idstring(@ID40b073fa66565dcd@)"
+	,"StringID"	: "intro_slaughterhouse"
+	,"orig_text": "8:01 am, Slaughterhouse district - AMBUSH!"
+},{
+	 "i"		: 380
+	,"ids"		: "Idstring(@IDa08717309624737c@)"
+	,"StringID"	: "intro_slaughterhouse02"
+	,"orig_text": "...it's like a war zone out there so this morning you better take scenic route!"
+},{
+	 "i"		: 381
+	,"ids"		: "Idstring(@IDd21afd948a251aae@)"
+	,"StringID"	: "ammo_bag_increase"
+	,"orig_text": "This upgrades the amount of ammo that can be acquired from the bag.$NL;Even more ammo for everyone."
+},{
+	 "i"		: 382
+	,"ids"		: "Idstring(@IDff4d747cf6402c7c@)"
+	,"StringID"	: "mission_hospital_cooler_amount_text"
+	,"orig_text": "BLOOD SAMPLES IN COOLER."
+},{
+	 "i"		: 383
+	,"ids"		: "Idstring(@ID0bf9c85b00451c26@)"
+	,"StringID"	: "intro_suburbia04"
+	,"orig_text": "Yeah, you hurry!"
+},{
+	 "i"		: 384
+	,"ids"		: "Idstring(@IDc890e5cbc411e1f7@)"
+	,"StringID"	: "mission_suburbia_escape"
+	,"orig_text": "Open the grate and enter the storm drains. Escape the storm drains and say hi to the pacific!"
+},{
+	 "i"		: 385
+	,"ids"		: "Idstring(@ID8d5268335b637789@)"
+	,"StringID"	: "des_mp5"
+	,"orig_text": "STATS : 9mm : High rate of fire and low recoil$NL;COMPACT-5 is hands down the most frequently used weapon of special operation units.$NL;With its low recoil and compact size it is ideal for urban combat."
+},{
+	 "i"		: 386
+	,"ids"		: "Idstring(@IDa37bfc3e41c1fc7f@)"
+	,"StringID"	: "location_hospital_ExamE52"
+	,"orig_text": "Examination E52"
+},{
+	 "i"		: 387
+	,"ids"		: "Idstring(@IDee7c06ff44699abb@)"
+	,"StringID"	: "mission_suburbia_mission2"
+	,"orig_text": "Get access to the secret criminal enterprise under Mitchell's pool."
+},{
+	 "i"		: 388
+	,"ids"		: "Idstring(@IDc595300f2557c1fb@)"
+	,"StringID"	: "location_slaughterhouse_toilet"
+	,"orig_text": "In the Toilet."
+},{
+	 "i"		: 389
+	,"ids"		: "Idstring(@ID8c553447b9bcedb6@)"
+	,"StringID"	: "tip_help_bleed_out"
+	,"orig_text": "If a robber is shot down he goes into \"bleed-out\", where he can't move and can only shoot with his sidearm. $NL; $NL; A robber in bleed-out can be helped back up at no cost."
+},{
+	 "i"		: 390
+	,"ids"		: "Idstring(@ID4d55d69284a72c3b@)"
+	,"StringID"	: "intro_hospital11"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 391
+	,"ids"		: "Idstring(@ID30c37a875762ba6d@)"
+	,"StringID"	: "location_suburbia_str2"
+	,"orig_text": "On Keel Str."
+},{
+	 "i"		: 392
+	,"ids"		: "Idstring(@ID1f1393bdbd217bbd@)"
+	,"StringID"	: "mission_ap_c4_sub_top"
+	,"orig_text": "Place the charges on the roof."
+},{
+	 "i"		: 393
+	,"ids"		: "Idstring(@IDdc759b05faeafb58@)"
+	,"StringID"	: "location_slaughterhouse_yard"
+	,"orig_text": "On the Yard."
+},{
+	 "i"		: 394
+	,"ids"		: "Idstring(@ID75413e8b21d38926@)"
+	,"StringID"	: "location_str_x1st2ave"
+	,"orig_text": "By Scarlet and Major."
+},{
+	 "i"		: 395
+	,"ids"		: "Idstring(@ID9cefa94c3ed0fd06@)"
+	,"StringID"	: "location_str_3ave"
+	,"orig_text": "On Armitage Ave."
+},{
+	 "i"		: 396
+	,"ids"		: "Idstring(@ID9780de14c618fd4d@)"
+	,"StringID"	: "location_dh_party"
+	,"orig_text": "At Party."
+},{
+	 "i"		: 397
+	,"ids"		: "Idstring(@IDfa95ba3429267994@)"
+	,"StringID"	: "mission_bridge_heli_clear"
+	,"orig_text": "Hold the tower, wait for the airplane and make sure George snatches up the chair!"
+},{
+	 "i"		: 398
+	,"ids"		: "Idstring(@IDc1d608f1e53024eb@)"
+	,"StringID"	: "mission_hospital_ICU"
+	,"orig_text": "Use the hidden saw that looks like a teddybear, and start sawing your way through the ICU doors."
+},{
+	 "i"		: 399
+	,"ids"		: "Idstring(@ID3ef75e2f1d0811de@)"
+	,"StringID"	: "intro_hospital90"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 400
+	,"ids"		: "Idstring(@IDe15fa1f98b38f8e1@)"
+	,"StringID"	: "mission_undercover_crane"
+	,"orig_text": "While Alex is lifting the limo to the roof, make sure to Keep the FBI at bay."
+},{
+	 "i"		: 401
+	,"ids"		: "Idstring(@IDed64130874ea8c54@)"
+	,"StringID"	: "intro_apartment"
+	,"orig_text": "4:02 pm, projects - Chavez's crib"
+},{
+	 "i"		: 402
+	,"ids"		: "Idstring(@ID44b1a1e80938e59f@)"
+	,"StringID"	: "mission_apartment_start_hl"
+	,"orig_text": "Drug deal (Lobby.)"
+},{
+	 "i"		: 403
+	,"ids"		: "Idstring(@IDcb356fdba02cdd89@)"
+	,"StringID"	: "mission_slaughterhouse_gasoline"
+	,"orig_text": "Find the cans of gasoline."
+},{
+	 "i"		: 404
+	,"ids"		: "Idstring(@ID71138d4f8aad2627@)"
+	,"StringID"	: "intro_hospital118"
+	,"orig_text": "Fuck it, let's just improvise."
+},{
+	 "i"		: 405
+	,"ids"		: "Idstring(@ID3bc8e523d31c1243@)"
+	,"StringID"	: "intro_hospital72"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 406
+	,"ids"		: "Idstring(@ID4fbc50ce15f2177d@)"
+	,"StringID"	: "location_uc_stairacces2"
+	,"orig_text": "At Roof access right"
+},{
+	 "i"		: 407
+	,"ids"		: "Idstring(@ID01779dadb1f177a1@)"
+	,"StringID"	: "intro_street04"
+	,"orig_text": "What the..! What are you doing, Matt!?"
+},{
+	 "i"		: 408
+	,"ids"		: "Idstring(@IDb378c4019f88879c@)"
+	,"StringID"	: "intro_suburbia02"
+	,"orig_text": "Bonjour, it's Mitchell over on Keel Street. The pipes, you know the ones you've supposedly fixed, they're leaking again."
+},{
+	 "i"		: 409
+	,"ids"		: "Idstring(@IDdc33cb107be7e960@)"
+	,"StringID"	: "intro_hospital89"
+	,"orig_text": "Sounds like a plan."
+},{
+	 "i"		: 410
+	,"ids"		: "Idstring(@ID07de15918b2aa2f6@)"
+	,"StringID"	: "location_floor2"
+	,"orig_text": "On Floor 2."
+},{
+	 "i"		: 411
+	,"ids"		: "Idstring(@IDbb404a64f51fdc5c@)"
+	,"StringID"	: "mission_diamond_escort1"
+	,"orig_text": "We need to pressure Mr. Garnet into giving us the access codes to the vault. Bain is trying to locate the CFO using security footage, but try to find him sooner than that."
+},{
+	 "i"		: 412
+	,"ids"		: "Idstring(@IDee59e7ea3a640938@)"
+	,"StringID"	: "mission_hospital_cooler_hl"
+	,"orig_text": "PUT TWO VALIDATED SAMPLES INTO THE COOLER."
+},{
+	 "i"		: 413
+	,"ids"		: "Idstring(@ID24e682aff9357bee@)"
+	,"StringID"	: "mission_bridge_jump"
+	,"orig_text": "Make it to the Bridge Pillar and take the stairs to the waiting scuba gear."
+},{
+	 "i"		: 414
+	,"ids"		: "Idstring(@IDcc65b44d694be60e@)"
+	,"StringID"	: "intro_hospital129"
+	,"orig_text": "I'll kill him first."
+},{
+	 "i"		: 415
+	,"ids"		: "Idstring(@IDe4e834e21e89ac35@)"
+	,"StringID"	: "tip_xp_bar"
+	,"orig_text": "The cash gauge is in the lower left corner of the screen. $NL; $NL; It shows how much more cash you need to collect to reach your next level of reputation, and what weapon, equipment or ability you will be rewarded with."
+},{
+	 "i"		: 416
+	,"ids"		: "Idstring(@ID5278b6b0ad49be54@)"
+	,"StringID"	: "des_more_ammo"
+	,"orig_text": "All your teammates get to carry more ammo. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+},{
+	 "i"		: 417
+	,"ids"		: "Idstring(@IDf6215acbb8a62ae0@)"
+	,"StringID"	: "mission_suburbia_escape_hl"
+	,"orig_text": "ESCAPE!"
+},{
+	 "i"		: 418
+	,"ids"		: "Idstring(@ID500a33edee7f315b@)"
+	,"StringID"	: "des_glock"
+	,"orig_text": "STATS : 9mm : Full Auto : Low recoil$NL;The military has it, the police have it, and now you have it. The Stryk is an easy to use fully automatic pistol, specifically designed to fight crime. Wait a minute..."
+},{
+	 "i"		: 419
+	,"ids"		: "Idstring(@IDad78fcc64c7d0a64@)"
+	,"StringID"	: "location_druglab"
+	,"orig_text": "In Drug Lab."
+},{
+	 "i"		: 420
+	,"ids"		: "Idstring(@ID3208f994ed7fb6da@)"
+	,"StringID"	: "mission_hospital_rapport"
+	,"orig_text": "Look through the files and find the correct patient file."
+},{
+	 "i"		: 421
+	,"ids"		: "Idstring(@IDb54974496b36500c@)"
+	,"StringID"	: "mission_bridge_locate_convoy_hl"
+	,"orig_text": "Locate the prison convoy (Convoy.)"
+},{
+	 "i"		: 422
+	,"ids"		: "Idstring(@IDfe328fcb8a9f5e2c@)"
+	,"StringID"	: "location_management"
+	,"orig_text": "In Management."
+},{
+	 "i"		: 423
+	,"ids"		: "Idstring(@ID21e4d2335f02a1b0@)"
+	,"StringID"	: "intro_hospital54"
+	,"orig_text": "STRANGER: Back up, let me in! WOLF: Good day, sir..."
+},{
+	 "i"		: 424
+	,"ids"		: "Idstring(@ID25806a36026b2ab0@)"
+	,"StringID"	: "location_suburbia_str23"
+	,"orig_text": "At Keel and Marine"
+},{
+	 "i"		: 425
+	,"ids"		: "Idstring(@ID8e7b65b0c62cf28f@)"
+	,"StringID"	: "des_gang_of_ninjas"
+	,"orig_text": "All your teammates melee attack range increases. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+},{
+	 "i"		: 426
+	,"ids"		: "Idstring(@IDe32550b872bff007@)"
+	,"StringID"	: "location_front"
+	,"orig_text": "In Front."
+},{
+	 "i"		: 427
+	,"ids"		: "Idstring(@IDfb3232e9b6d127bb@)"
+	,"StringID"	: "intro_hospital43"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 428
+	,"ids"		: "Idstring(@IDa7f1648eef69a748@)"
+	,"StringID"	: "intro_hospital105"
+	,"orig_text": "Do either of you have a smoke?"
+},{
+	 "i"		: 429
+	,"ids"		: "Idstring(@IDcc770bc4f63a7574@)"
+	,"StringID"	: "intro_street03"
+	,"orig_text": "There, Slick! Now I call the shots!"
+},{
+	 "i"		: 430
+	,"ids"		: "Idstring(@ID41758a6039c8e7f7@)"
+	,"StringID"	: "intro_hospital76"
+	,"orig_text": "What in the hell are you two dressed up for..."
+},{
+	 "i"		: 431
+	,"ids"		: "Idstring(@IDd224721ccba53b3b@)"
+	,"StringID"	: "intro_hospital26"
+	,"orig_text": "STRANGER: Yeah... thanks, I guess."
+},{
+	 "i"		: 432
+	,"ids"		: "Idstring(@IDf03936c6c0c6ac55@)"
+	,"StringID"	: "intro_apartment02"
+	,"orig_text": "those junkies won't know what hit 'em before it's too late."
+},{
+	 "i"		: 433
+	,"ids"		: "Idstring(@ID5e3f1f6c3739da1a@)"
+	,"StringID"	: "intro_hospital128"
+	,"orig_text": "WOLF: Aaargh, you old fart!"
+},{
+	 "i"		: 434
+	,"ids"		: "Idstring(@ID700bd8f8db8bf342@)"
+	,"StringID"	: "intro_hospital146"
+	,"orig_text": "I was gonna light up... You ain't gonna arrest me, are ya?"
+},{
+	 "i"		: 435
+	,"ids"		: "Idstring(@IDca4e978fe2a16ed9@)"
+	,"StringID"	: "clip_ammo_increase"
+	,"orig_text": "This upgrade adds more bullets to every clip.$NL;Some extra bullets can make all the difference in the world."
+},{
+	 "i"		: 436
+	,"ids"		: "Idstring(@IDf597ec52f8df874b@)"
+	,"StringID"	: "mission_undercover_deal"
+	,"orig_text": "Wait until the SERVER is exposed before you hit them! That server is the only way to make our transaction!"
+},{
+	 "i"		: 437
+	,"ids"		: "Idstring(@ID98bea8a700dba2f6@)"
+	,"StringID"	: "tip_doctor_bag"
+	,"orig_text": "The doctor's bag is a real life saver. $NL; $NL; If your team runs low on health, place your doctor's bag on the ground and let everyone patch themselves up!"
+},{
+	 "i"		: 438
+	,"ids"		: "Idstring(@ID25751a530b0fa3dd@)"
+	,"StringID"	: "des_extra_start_out_ammo"
+	,"orig_text": "Extra start out ammo allows the owner to carry more ammo. How much more depends on the upgrade level."
+},{
+	 "i"		: 439
+	,"ids"		: "Idstring(@ID176c64ac2d1c1960@)"
+	,"StringID"	: "mission_apartment_intro"
+	,"orig_text": "Let Chavez buzz you in, and then enter the building through the back door."
+},{
+	 "i"		: 440
+	,"ids"		: "Idstring(@IDfe2d86d2a8e386db@)"
+	,"StringID"	: "mission_apartment_roof"
+	,"orig_text": "Rid the roof of all the law enforcers."
+},{
+	 "i"		: 441
+	,"ids"		: "Idstring(@ID4c7fecb0ee43e34e@)"
+	,"StringID"	: "tip_police_free_hostage"
+	,"orig_text": "The police will always take the opportunity to free hostages when no robber is nearby. $NL; $NL; Spread your crew out and keep an eye on all the hostages - they are your life lines!"
+},{
+	 "i"		: 442
+	,"ids"		: "Idstring(@ID0d3182283943a284@)"
+	,"StringID"	: "location_plaza"
+	,"orig_text": "On Plaza."
+},{
+	 "i"		: 443
+	,"ids"		: "Idstring(@ID6b7a0734bc3f64a9@)"
+	,"StringID"	: "mission_bridge_identify_hl"
+	,"orig_text": "Send up the Balloon (Scaffolding.)"
+},{
+	 "i"		: 444
+	,"ids"		: "Idstring(@ID3e37f96aa4f0fdb1@)"
+	,"StringID"	: "intro_hospital102"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 445
+	,"ids"		: "Idstring(@IDe6e99a5cf4a9eed7@)"
+	,"StringID"	: "mission_boat_destroy_security_equipment"
+	,"orig_text": "Destroy all security equipment in the securityroom."
+},{
+	 "i"		: 446
+	,"ids"		: "Idstring(@ID834a352c2dde3d94@)"
+	,"StringID"	: "location_floor4"
+	,"orig_text": "On Floor 4."
+},{
+	 "i"		: 447
+	,"ids"		: "Idstring(@ID1879694c9ce59e3a@)"
+	,"StringID"	: "mission_hospital_enterelevator_hl"
+	,"orig_text": "TAKE THE ELEVATOR TO THE ROOF."
+},{
+	 "i"		: 448
+	,"ids"		: "Idstring(@IDbf295194c322ce96@)"
+	,"StringID"	: "mission_undercover_power"
+	,"orig_text": "See to it that the cops do not cut the power, if they do you have to turn it back on fast to keep the computers running."
+},{
+	 "i"		: 449
+	,"ids"		: "Idstring(@IDf15e42c88f273caf@)"
+	,"StringID"	: "mission_enterelevator_pickup"
+	,"orig_text": "Take the elevator to get to the exit on the roof."
+},{
+	 "i"		: 450
+	,"ids"		: "Idstring(@ID36265b839c43b33a@)"
+	,"StringID"	: "des_aggressor"
+	,"orig_text": "All your teammates get a damage multiplier. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+},{
+	 "i"		: 451
+	,"ids"		: "Idstring(@ID98c1fd9c3aa2f44b@)"
+	,"StringID"	: "mission_apartment_intro_hl"
+	,"orig_text": "Entrance (Back alley.)"
+},{
+	 "i"		: 452
+	,"ids"		: "Idstring(@ID4a3630358db26f2f@)"
+	,"StringID"	: "location_str_crash"
+	,"orig_text": "At Inkwell Industrial."
+},{
+	 "i"		: 453
+	,"ids"		: "Idstring(@ID23d63012ff36f8c0@)"
+	,"StringID"	: "intro_hospital17"
+	,"orig_text": "I remember when you could smoke in the operating room! *chuckle*"
+},{
+	 "i"		: 454
+	,"ids"		: "Idstring(@IDca616f7c74a04bdf@)"
+	,"StringID"	: "location_firescape"
+	,"orig_text": "On Fire Escape."
+},{
+	 "i"		: 455
+	,"ids"		: "Idstring(@ID183be3333ec5ff60@)"
+	,"StringID"	: "spread_multiplier"
+	,"orig_text": "This upgrade increases the precision of the weapon.$NL;Good for long range shots."
+},{
+	 "i"		: 456
+	,"ids"		: "Idstring(@ID2828c959019c909f@)"
+	,"StringID"	: "mission_apartment_detach2_hl"
+	,"orig_text": "Keep the saws going (Floor 2 and 3.)"
+},{
+	 "i"		: 457
+	,"ids"		: "Idstring(@ID67fc10b187a5d32c@)"
+	,"StringID"	: "location_slaughterhouse_bosshouse"
+	,"orig_text": "In the Office."
+},{
+	 "i"		: 458
+	,"ids"		: "Idstring(@IDbed7cd784eb95182@)"
+	,"StringID"	: "mission_hospital_getToPatient_hl"
+	,"orig_text": "PICK THE RIGHT DOOR TO OPEN."
+},{
+	 "i"		: 459
+	,"ids"		: "Idstring(@IDaaa8f9b010520516@)"
+	,"StringID"	: "mission_hospital_hostage_hl"
+	,"orig_text": "KEEP THE HOSTAGES DOWN."
+},{
+	 "i"		: 460
+	,"ids"		: "Idstring(@ID1d8bb61ea797c727@)"
+	,"StringID"	: "mission_apartment_roof2"
+	,"orig_text": "Alex needs to wait for the smoke to clear, you need to keep the police off the roof until then."
+},{
+	 "i"		: 461
+	,"ids"		: "Idstring(@ID0e690f30b9513eab@)"
+	,"StringID"	: "des_sharpshooters"
+	,"orig_text": "All your teammates get improved accuracy. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+},{
+	 "i"		: 462
+	,"ids"		: "Idstring(@IDff7e99719452f84e@)"
+	,"StringID"	: "tip_help_arrested"
+	,"orig_text": "Try to complete challenges - these award cash and are a good way to progress fast. $NL; $NL; All the challenges and their objectives are listed in the main menu."
+},{
+	 "i"		: 463
+	,"ids"		: "Idstring(@IDf06203d95bd025b5@)"
+	,"StringID"	: "mission_apartment_detach"
+	,"orig_text": "Saw off the beams above and below the panic room to detach it from the floor."
+},{
+	 "i"		: 464
+	,"ids"		: "Idstring(@ID9c6e884162f6aaa6@)"
+	,"StringID"	: "intro_hospital86"
+	,"orig_text": "You two in some... goddamn... boy band!?"
+},{
+	 "i"		: 465
+	,"ids"		: "Idstring(@IDfc23268ce478534d@)"
+	,"StringID"	: "mission_apply_drill"
+	,"orig_text": "Start the drill (Drill Area.)"
+},{
+	 "i"		: 466
+	,"ids"		: "Idstring(@IDbdad73a1c2c87650@)"
+	,"StringID"	: "intro_street05"
+	,"orig_text": "Haha! Fooled ya guys!"
+},{
+	 "i"		: 467
+	,"ids"		: "Idstring(@ID0b1aa8597e2fde24@)"
+	,"StringID"	: "sentry_gun_armor_increase"
+	,"orig_text": "This upgrades the amount of heat your sentry gun can take before going out.$NL;When you are in a tight spot, this might save your life."
+},{
+	 "i"		: 468
+	,"ids"		: "Idstring(@IDf02d905b43082a29@)"
+	,"StringID"	: "trip_mine"
+	,"orig_text": "Trip mines can be placed anywhere and are triggered by a laser \"trip line\".$NL;Having issues watching your back or taking out special units? This could be it."
+},{
+	 "i"		: 469
+	,"ids"		: "Idstring(@ID5f35cc5d5c5e0536@)"
+	,"StringID"	: "location_slaughterhouse_rooftop"
+	,"orig_text": "On the Rooftop."
+},{
+	 "i"		: 470
+	,"ids"		: "Idstring(@IDd24d629447d75dba@)"
+	,"StringID"	: "intro_hospital144"
+	,"orig_text": "STRANGER: Hold that door!"
+},{
+	 "i"		: 471
+	,"ids"		: "Idstring(@IDd6fcc5a270c66c99@)"
+	,"StringID"	: "mission_hospital_cooler_sub1"
+	,"orig_text": "First blood sample."
+},{
+	 "i"		: 472
+	,"ids"		: "Idstring(@ID5bc7b044bf838dae@)"
+	,"StringID"	: "intro_hospital05"
+	,"orig_text": "We're here to draw some blood from a guy that they have in quarantine."
+},{
+	 "i"		: 473
+	,"ids"		: "Idstring(@ID7f2f7f44b88b9298@)"
+	,"StringID"	: "mission_hospital_rounds"
+	,"orig_text": "Figure out a way to get to the contaminated patient. Prove your Harvard degree paid off."
+},{
+	 "i"		: 474
+	,"ids"		: "Idstring(@IDb07212dd0fd06c5e@)"
+	,"StringID"	: "location_bridge_scaffhold"
+	,"orig_text": "On Scaffolding."
+},{
+	 "i"		: 475
+	,"ids"		: "Idstring(@IDcb6f78ee07a495a5@)"
+	,"StringID"	: "intro_slaughterhouse04"
+	,"orig_text": "OK, ready for action. These are Murky Water mercenaries, remember; use cover and shoot in short controlled bursts."
+},{
+	 "i"		: 476
+	,"ids"		: "Idstring(@IDa8f2088b0a693b30@)"
+	,"StringID"	: "mission_bridge_gear_hl"
+	,"orig_text": "Get the gear!"
+},{
+	 "i"		: 477
+	,"ids"		: "Idstring(@ID24592b60e76ecc3f@)"
+	,"StringID"	: "tip_objectives"
+	,"orig_text": "Your current objective is shown in the upper left corner of the screen. $NL; $NL; A more detailed description of the objective, as well as a list of completed objectives, can be seen in the info screen."
+},{
+	 "i"		: 478
+	,"ids"		: "Idstring(@ID27520aa981687467@)"
+	,"StringID"	: "mission_boat_get_key_hl"
+	,"orig_text": "Get the key."
+},{
+	 "i"		: 479
+	,"ids"		: "Idstring(@ID9afd3635a64fbf03@)"
+	,"StringID"	: "mission_undercover_escort"
+	,"orig_text": "We need to get the Taxman to the transfer room we started out in. Use all necessary force to make him cooperate."
+},{
+	 "i"		: 480
+	,"ids"		: "Idstring(@ID01e2f44f0113f69e@)"
+	,"StringID"	: "location_uc_floor3"
+	,"orig_text": "On Floor 3"
+},{
+	 "i"		: 481
+	,"ids"		: "Idstring(@ID55ae77eb31f34471@)"
+	,"StringID"	: "mission_suburbia_mission2_hack2"
+	,"orig_text": "Override Wilson's code lock."
+},{
+	 "i"		: 482
+	,"ids"		: "Idstring(@ID2626115f5caad462@)"
+	,"StringID"	: "intro_suburbia03"
+	,"orig_text": "Sorry to hear that, sir. We'll send our guys over right away."
+},{
+	 "i"		: 483
+	,"ids"		: "Idstring(@ID74cee5a27c7bc964@)"
+	,"StringID"	: "mission_hospital_rapport_hl"
+	,"orig_text": "FIND THE CORRECT PATIENT FILE."
+},{
+	 "i"		: 484
+	,"ids"		: "Idstring(@ID3e54b7f973d8d709@)"
+	,"StringID"	: "location_hospital_mainCorridor"
+	,"orig_text": "Main Corridor"
+},{
+	 "i"		: 485
+	,"ids"		: "Idstring(@IDb22da8b86ec8791d@)"
+	,"StringID"	: "intro_hospital13"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 486
+	,"ids"		: "Idstring(@ID3e9875ee96b2c3a9@)"
+	,"StringID"	: "location_uc_roof"
+	,"orig_text": "On Roof"
+},{
+	 "i"		: 487
+	,"ids"		: "Idstring(@ID4e1bebcad43a7381@)"
+	,"StringID"	: "des_welcome_to_the_gang"
+	,"orig_text": "All your teammates get a cash multiplier. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team has to equip a Crew Bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+},{
+	 "i"		: 488
+	,"ids"		: "Idstring(@ID0797f57a035f1b1d@)"
+	,"StringID"	: "mission_get_key"
+	,"orig_text": "Find the bank manager."
+},{
+	 "i"		: 489
+	,"ids"		: "Idstring(@ID981f0ef696df5770@)"
+	,"StringID"	: "intro_hospital24"
+	,"orig_text": "STRANGER: Back up! *cough* *cough*"
+},{
+	 "i"		: 490
+	,"ids"		: "Idstring(@ID57c270d9c70621a5@)"
+	,"StringID"	: "intro_hospital60"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 491
+	,"ids"		: "Idstring(@ID7ded159e472689fe@)"
+	,"StringID"	: "location_suburbia_str14"
+	,"orig_text": "At Pacific and Spinnaker"
+},{
+	 "i"		: 492
+	,"ids"		: "Idstring(@IDa1ec376777f1a009@)"
+	,"StringID"	: "location_suburbia_w_fy"
+	,"orig_text": "At Wilson's Front"
+},{
+	 "i"		: 493
+	,"ids"		: "Idstring(@ID8d754a3bf60d1366@)"
+	,"StringID"	: "mission_thermite_text"
+	,"orig_text": "Pour out the thermite in the office above the vault - it will burn a hole through the steel floor. There are two cans of thermite hidden in the copy machine, if both are carried to the vault it will speed up the melting process."
+},{
+	 "i"		: 494
+	,"ids"		: "Idstring(@ID318c7b5823e7a8d3@)"
+	,"StringID"	: "location_uc_ground"
+	,"orig_text": "On Ground floor"
+},{
+	 "i"		: 495
+	,"ids"		: "Idstring(@IDb5c41ddfac93cfe6@)"
+	,"StringID"	: "mission_ap_c4_sub_mid"
+	,"orig_text": "Place the charges on floor 5."
+},{
+	 "i"		: 496
+	,"ids"		: "Idstring(@ID1bc703b0410b12da@)"
+	,"StringID"	: "location_floor1"
+	,"orig_text": "On Floor 1."
+},{
+	 "i"		: 497
+	,"ids"		: "Idstring(@ID0ad0bc56f504c446@)"
+	,"StringID"	: "mission_suburbia_mission13_hl"
+	,"orig_text": "IT'S A TRAP!"
+},{
+	 "i"		: 498
+	,"ids"		: "Idstring(@ID509db19a866285dd@)"
+	,"StringID"	: "location_slaughterhouse_outside_entrance"
+	,"orig_text": "At the Slaughterhouse Entrance."
+},{
+	 "i"		: 499
+	,"ids"		: "Idstring(@ID7738267f1a02f07e@)"
+	,"StringID"	: "intro_hospital25"
+	,"orig_text": "WOLF: Come on in."
+},{
+	 "i"		: 500
+	,"ids"		: "Idstring(@ID9a7367150d7c2c5a@)"
+	,"StringID"	: "mission_blow_wall_text"
+	,"orig_text": "Apply C4 to the wall next to the server room and blow a hole into the neighboring building."
+},{
+	 "i"		: 501
+	,"ids"		: "Idstring(@IDbc5e3973c3769cb0@)"
+	,"StringID"	: "location_dh_admin"
+	,"orig_text": "In Administration."
+},{
+	 "i"		: 502
+	,"ids"		: "Idstring(@IDde9f8036b992ff2d@)"
+	,"StringID"	: "sentry_gun"
+	,"orig_text": "Based on internet blueprints, the Sentry Gun is a criminal's best friend. Two guns connected to a computer automatically aim and fire at any target detected by its sensors. Being the bad guy has never felt more alien."
+},{
+	 "i"		: 503
+	,"ids"		: "Idstring(@ID0828ddad9361775c@)"
+	,"StringID"	: "des_speed_reloaders"
+	,"orig_text": "All your teammates reload faster. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+},{
+	 "i"		: 504
+	,"ids"		: "Idstring(@ID1967ac8342e162e3@)"
+	,"StringID"	: "location_dh_floor22"
+	,"orig_text": "On Floor 22."
+},{
+	 "i"		: 505
+	,"ids"		: "Idstring(@ID45e30ebc72f87578@)"
+	,"StringID"	: "location_slaughterhouse_container_area"
+	,"orig_text": "In the Container Area."
+},{
+	 "i"		: 506
+	,"ids"		: "Idstring(@ID7d9477e5776f47e1@)"
+	,"StringID"	: "mission_sec_doors"
+	,"orig_text": "Some consoles are still online. Plant the tablets on and let Bain hack the alarm system."
+},{
+	 "i"		: 507
+	,"ids"		: "Idstring(@ID3f8dd87c489396d4@)"
+	,"StringID"	: "intro_hospital106"
+	,"orig_text": "Goddamn hospital removed their cigarette machines!"
+},{
+	 "i"		: 508
+	,"ids"		: "Idstring(@ID7909561cf924b53b@)"
+	,"StringID"	: "location_bridge_bridge"
+	,"orig_text": "On Bridge."
+},{
+	 "i"		: 509
+	,"ids"		: "Idstring(@IDd042cc5563a0cebc@)"
+	,"StringID"	: "mission_suburbia_mission11_hl"
+	,"orig_text": "CONNECT THE HOSE TO THE SAFE."
+},{
+	 "i"		: 510
+	,"ids"		: "Idstring(@ID970021252c1aaef8@)"
+	,"StringID"	: "mission_boat_drill_bridge_hl"
+	,"orig_text": "Blow the bridge door open"
+},{
+	 "i"		: 511
+	,"ids"		: "Idstring(@ID69f2e1bb907b897b@)"
+	,"StringID"	: "location_suburbia_str13"
+	,"orig_text": "At Pacific and Marine"
+},{
+	 "i"		: 512
+	,"ids"		: "Idstring(@ID9d0778ef890b94d5@)"
+	,"StringID"	: "mission_undercover_shoot_limo_hl"
+	,"orig_text": "FREE THE LIMO."
+},{
+	 "i"		: 513
+	,"ids"		: "Idstring(@IDd7e091a4aa8df79d@)"
+	,"StringID"	: "location_balcony"
+	,"orig_text": "On Balcony."
+},{
+	 "i"		: 514
+	,"ids"		: "Idstring(@ID52415a1bc223f870@)"
+	,"StringID"	: "intro_hospital38"
+	,"orig_text": "How many insurance claims did you deny to get those suits?"
+},{
+	 "i"		: 515
+	,"ids"		: "Idstring(@ID16ef9d010b5f7050@)"
+	,"StringID"	: "mission_slaughterhouse_attack_convoy"
+	,"orig_text": "Attack and halt the convoy!"
+},{
+	 "i"		: 516
+	,"ids"		: "Idstring(@IDa6b541e63f15cc31@)"
+	,"StringID"	: "intro_hospital98"
+	,"orig_text": "WOLF: Hey Bain, great briefing... ah..."
+},{
+	 "i"		: 517
+	,"ids"		: "Idstring(@IDebb9536ab8b5f82c@)"
+	,"StringID"	: "intro_hospital32"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 518
+	,"ids"		: "Idstring(@IDf4b9a80a4dc0b54a@)"
+	,"StringID"	: "mission_empty_vault_text"
+	,"orig_text": "Empty the Vault! Get the Cash!"
+},{
+	 "i"		: 519
+	,"ids"		: "Idstring(@ID3a56139afce275e2@)"
+	,"StringID"	: "mission_diamond_codes"
+	,"orig_text": "Get to the vault doors and enter the codes to gain access to the vault."
+},{
+	 "i"		: 520
+	,"ids"		: "Idstring(@IDa5f0b47519c0468a@)"
+	,"StringID"	: "location_hospital_roofelevator"
+	,"orig_text": "Roof Elevator"
+},{
+	 "i"		: 521
+	,"ids"		: "Idstring(@ID997e9907f90dab9d@)"
+	,"StringID"	: "intro_slaughterhouse05"
+	,"orig_text": "Let's get to work."
+},{
+	 "i"		: 522
+	,"ids"		: "Idstring(@ID2b0ce0f96f9daf80@)"
+	,"StringID"	: "mission_trough_lobby"
+	,"orig_text": "Get through the Lobby."
+},{
+	 "i"		: 523
+	,"ids"		: "Idstring(@ID99787e619458469c@)"
+	,"StringID"	: "intro_hospital28"
+	,"orig_text": "Yeah, alright - I forgot where I was."
+},{
+	 "i"		: 524
+	,"ids"		: "Idstring(@ID2b6588d2edf90ce6@)"
+	,"StringID"	: "mission_bridge_heli_clear_hl"
+	,"orig_text": "Defend (Scaffolding.)"
+},{
+	 "i"		: 525
+	,"ids"		: "Idstring(@ID64026af7dd63ea49@)"
+	,"StringID"	: "des_sentry_gun"
+	,"orig_text": "Based on internet blueprints, the Sentry Gun is a criminal's best friend. Two guns connected to a computer automatically aim and fire at any target detected by its sensors. Being the bad guy has never felt more alien."
+},{
+	 "i"		: 526
+	,"ids"		: "Idstring(@ID35a0a2b46680cd80@)"
+	,"StringID"	: "mission_undercover_escort_hl"
+	,"orig_text": "TAKE TAXMAN TO TRANSFER ROOM."
+},{
+	 "i"		: 527
+	,"ids"		: "Idstring(@IDacb01b111a357f35@)"
+	,"StringID"	: "des_mr_nice_guy"
+	,"orig_text": "All your teammates get a cash multiplier. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+},{
+	 "i"		: 528
+	,"ids"		: "Idstring(@ID4201a46d8dd6c9ca@)"
+	,"StringID"	: "location_hospital_serviceArea"
+	,"orig_text": "Service area"
+},{
+	 "i"		: 529
+	,"ids"		: "Idstring(@ID17784a74f8412bbd@)"
+	,"StringID"	: "location_dh_atrium"
+	,"orig_text": "In Atrium."
+},{
+	 "i"		: 530
+	,"ids"		: "Idstring(@ID7a1cec2574903d05@)"
+	,"StringID"	: "mission_undercover_roof"
+	,"orig_text": "Wait for Taxman to show the server we are after. Scare him into his limo when you see it - we need both the server and the Taxman. Alex will lift him up to us from the open street. Also, keep an eye out for what you can use to better your chances."
+},{
+	 "i"		: 531
+	,"ids"		: "Idstring(@ID4043bfa6fd7d52d3@)"
+	,"StringID"	: "des_raging_bull"
+	,"orig_text": "STATS : .44 Caliber : Six-shooter : High recoil$NL;Primarily developed for hunting big animals, the Bronco has found its use against heavily armored targets.$NL;With its .44 round, it packs a mean punch."
+},{
+	 "i"		: 532
+	,"ids"		: "Idstring(@IDda328f7a371467fb@)"
+	,"StringID"	: "mission_slaughterhouse_prepare_ambush_hl"
+	,"orig_text": "Prepare for the ambush."
+},{
+	 "i"		: 533
+	,"ids"		: "Idstring(@IDf35d6a2ed7634ba4@)"
+	,"StringID"	: "clip_amount_increase"
+	,"orig_text": "This upgrades the ammo clip amount for the GL40 Grenade Launcher.$NL;Why carry few ammo clips, when you can carry many?"
+},{
+	 "i"		: 534
+	,"ids"		: "Idstring(@ID8970027fc92d755b@)"
+	,"StringID"	: "mission_apartment_escape"
+	,"orig_text": "Get downstairs to the basement and escape through the sewers."
+},{
+	 "i"		: 535
+	,"ids"		: "Idstring(@ID8ca7a762cedaa5bd@)"
+	,"StringID"	: "intro_hospital22"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 536
+	,"ids"		: "Idstring(@IDe993453c7fa72b84@)"
+	,"StringID"	: "mission_slaughterhouse_locate_van"
+	,"orig_text": "Get to the armored truck and blow it open."
+},{
+	 "i"		: 537
+	,"ids"		: "Idstring(@ID30881dff67d8ef8b@)"
+	,"StringID"	: "location_str_end"
+	,"orig_text": "By the OVERKILL Cola sign."
+},{
+	 "i"		: 538
+	,"ids"		: "Idstring(@ID0bf8bc131c50ca30@)"
+	,"StringID"	: "location_hospital_ISOb"
+	,"orig_text": "Isolation B"
+},{
+	 "i"		: 539
+	,"ids"		: "Idstring(@ID950f27659252ccad@)"
+	,"StringID"	: "mission_apartment_start"
+	,"orig_text": "Go through with the drug deal. This is the front that allows us to enter the building."
+},{
+	 "i"		: 540
+	,"ids"		: "Idstring(@IDed2352ae20a2b428@)"
+	,"StringID"	: "intro_hospital00"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 541
+	,"ids"		: "Idstring(@ID743d2ac7bd4b35c0@)"
+	,"StringID"	: "body_armor"
+	,"orig_text": "Body armor removes some of the damage received in combat.$NL;Good when moving between cover or in close combat."
+},{
+	 "i"		: 542
+	,"ids"		: "Idstring(@IDe148d25268b5b14f@)"
+	,"StringID"	: "intro_hospital18"
+	,"orig_text": "Once I put on that damn dress, I tell ya; I'm smoking anywhere I want!"
+},{
+	 "i"		: 543
+	,"ids"		: "Idstring(@ID4dffb5ccb5f213be@)"
+	,"StringID"	: "intro_hospital14"
+	,"orig_text": "STRANGER: Hey, hold the door!"
+},{
+	 "i"		: 544
+	,"ids"		: "Idstring(@ID59ef478485379982@)"
+	,"StringID"	: "intro_street05_2"
+	,"orig_text": "Open the god damn door Matt!"
+},{
+	 "i"		: 545
+	,"ids"		: "Idstring(@ID3c16d2c18aa646e8@)"
+	,"StringID"	: "mission_suburbia_mission3_amount_text"
+	,"orig_text": "OF THE C4 CHARGES DEFUSED."
+},{
+	 "i"		: 546
+	,"ids"		: "Idstring(@ID25f1d117d441862b@)"
+	,"StringID"	: "intro_hospital51"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 547
+	,"ids"		: "Idstring(@ID3ad4dad522116a55@)"
+	,"StringID"	: "intro_diamondheist01"
+	,"orig_text": "Alright, entry point. Synchronize on my mark... Mark."
+},{
+	 "i"		: 548
+	,"ids"		: "Idstring(@IDfb122fa8b07a9a9f@)"
+	,"StringID"	: "mission_slaughterhouse_prepare_gas"
+	,"orig_text": "Prepare one container with a can of gasoline."
+},{
+	 "i"		: 549
+	,"ids"		: "Idstring(@IDafbfec406e98ba80@)"
+	,"StringID"	: "mission_hospital_cooler_sub2"
+	,"orig_text": "Second blood sample."
+},{
+	 "i"		: 550
+	,"ids"		: "Idstring(@IDf5fa2b273d5362da@)"
+	,"StringID"	: "des_doctor_bag"
+	,"orig_text": "The doctor bag is deployable equipment. Once placed it can be interacted with by any player to fully restore health until depleted."
+},{
+	 "i"		: 551
+	,"ids"		: "Idstring(@IDb63908ccfc22fcdf@)"
+	,"StringID"	: "mission_apartment_door"
+	,"orig_text": "The panic room should be in a flat on the third floor."
+},{
+	 "i"		: 552
+	,"ids"		: "Idstring(@ID99a02198d0599c46@)"
+	,"StringID"	: "intro_street02"
+	,"orig_text": "No, that wasn't the plan. Don't change things up, man!"
+},{
+	 "i"		: 553
+	,"ids"		: "Idstring(@ID056b4a13ef481319@)"
+	,"StringID"	: "intro_hospital09"
+	,"orig_text": "I'll pick you up from the roof when we're done."
+},{
+	 "i"		: 554
+	,"ids"		: "Idstring(@ID781f223b0085036c@)"
+	,"StringID"	: "mission_suburbia_mission9"
+	,"orig_text": "Get down under the pool and into the printing shelter."
+},{
+	 "i"		: 555
+	,"ids"		: "Idstring(@ID2c7303ca7af5703d@)"
+	,"StringID"	: "location_suburbia_m_house"
+	,"orig_text": "In Mitchell's House"
+},{
+	 "i"		: 556
+	,"ids"		: "Idstring(@ID8ed56f5aada5766f@)"
+	,"StringID"	: "mission_bridge_gear"
+	,"orig_text": "Get the scuba gear!"
+},{
+	 "i"		: 557
+	,"ids"		: "Idstring(@ID0ba80b58da2e65ae@)"
+	,"StringID"	: "intro_hospital23"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 558
+	,"ids"		: "Idstring(@IDc3ea0a6057b06cbc@)"
+	,"StringID"	: "mission_suburbia_mission1"
+	,"orig_text": "Talk to Mitchell. See if you can get down to the basement without any necessary hustle."
+},{
+	 "i"		: 559
+	,"ids"		: "Idstring(@ID3996af783d26fd33@)"
+	,"StringID"	: "location_panicroom"
+	,"orig_text": "In Panic Room."
+},{
+	 "i"		: 560
+	,"ids"		: "Idstring(@IDbb886b0dafd0eb5c@)"
+	,"StringID"	: "mission_apartment_detach_hl"
+	,"orig_text": "Detach the panic room (Floor 2 and 3.)"
+},{
+	 "i"		: 561
+	,"ids"		: "Idstring(@ID5a7f1ae8cbdb56bb@)"
+	,"StringID"	: "des_body_armor"
+	,"orig_text": "Body armor absorbs more damage before the wearer get hurt. How much more depends on the upgrade level."
+},{
+	 "i"		: 562
+	,"ids"		: "Idstring(@IDa4e981e2f4134f73@)"
+	,"StringID"	: "des_locked"
+	,"orig_text": "Gain cash and level up your reputation to unlock more weapons, equipment and crew bonuses."
+},{
+	 "i"		: 563
+	,"ids"		: "Idstring(@IDfd8279032870375a@)"
+	,"StringID"	: "tip_ammo_bag"
+	,"orig_text": "If you often run out of ammo, it might be a good idea to bring a bag of extra ammo. $NL; $NL; When ammo is running low, place the ammo bag on the ground and use it to refill your stash."
+},{
+	 "i"		: 564
+	,"ids"		: "Idstring(@ID81240dbfd2078d60@)"
+	,"StringID"	: "intro_secret_stash02"
+	,"orig_text": "Alright, to repeat: Taxman is IRS, making a shady deal with some big corporation."
+},{
+	 "i"		: 565
+	,"ids"		: "Idstring(@IDaf1478b489f6beb0@)"
+	,"StringID"	: "mission_escape_text"
+	,"orig_text": "Get down to the underground garage and make your escape."
+},{
+	 "i"		: 566
+	,"ids"		: "Idstring(@IDf25a9adf51f8cc26@)"
+	,"StringID"	: "mission_ap_c4_sub_btm"
+	,"orig_text": "Place the charges on floor 4."
+},{
+	 "i"		: 567
+	,"ids"		: "Idstring(@ID18f62ce35486e578@)"
+	,"StringID"	: "intro_bridge02"
+	,"orig_text": "Well, that oughta stop the prison transport, right? Let's get moving!"
+},{
+	 "i"		: 568
+	,"ids"		: "Idstring(@IDf718be184be94c61@)"
+	,"StringID"	: "mission_get_into_bank_text"
+	,"orig_text": "Get inside and don't draw attention to yourselves!"
+},{
+	 "i"		: 569
+	,"ids"		: "Idstring(@IDc04e3ed3ddb12d25@)"
+	,"StringID"	: "mission_apartment_roof2_hl"
+	,"orig_text": "Defend Helicopter (Roof.)"
+},{
+	 "i"		: 570
+	,"ids"		: "Idstring(@IDe8fe0e508b4d2e06@)"
+	,"StringID"	: "intro_bridge03"
+	,"orig_text": "Nice firework!"
+},{
+	 "i"		: 571
+	,"ids"		: "Idstring(@ID3f7ae2228053f1e6@)"
+	,"StringID"	: "mission_escape"
+	,"orig_text": "Escape (Basement.)"
+},{
+	 "i"		: 572
+	,"ids"		: "Idstring(@ID089a9d416f984a26@)"
+	,"StringID"	: "mission_bridge_escort"
+	,"orig_text": "Escort the prisoner to the top of the right tower. When he's at the top, strap him down in the chair and send him skyward with the balloon."
+},{
+	 "i"		: 573
+	,"ids"		: "Idstring(@ID28957b96636104dc@)"
+	,"StringID"	: "mission_slaughterhouse_hide"
+	,"orig_text": "Hide the gold in the marked container."
+},{
+	 "i"		: 574
+	,"ids"		: "Idstring(@ID4e2d83e72c5a5471@)"
+	,"StringID"	: "mission_slaughterhouse_smoke_hl"
+	,"orig_text": "Start the smokescreen!"
+},{
+	 "i"		: 575
+	,"ids"		: "Idstring(@ID0c6998f2469138ba@)"
+	,"StringID"	: "des_protector"
+	,"orig_text": "All your teammates get a health multiplier. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+},{
+	 "i"		: 576
+	,"ids"		: "Idstring(@ID00b120f3e1fc05b5@)"
+	,"StringID"	: "des_three_angry_men"
+	,"orig_text": "Crowd control is more effective for all your teammates. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+},{
+	 "i"		: 577
+	,"ids"		: "Idstring(@ID5f855ab79a876cf7@)"
+	,"StringID"	: "des_ak47"
+	,"orig_text": "STATS : 7.62mm : Automatic : Medium recoil$NL;Stick it to the man with the premiere choice amongst entrepeneurs and thugs alike. Simple Design, high reliability, low cost and so popular it is a part of a national flag - the AK was built to heist."
+},{
+	 "i"		: 578
+	,"ids"		: "Idstring(@ID987d04bc2f16e458@)"
+	,"StringID"	: "des_intimidation"
+	,"orig_text": "Supposed to give the owner an increased intimidation factor."
+},{
+	 "i"		: 579
+	,"ids"		: "Idstring(@ID989581504bf0cb2a@)"
+	,"StringID"	: "location_lobby"
+	,"orig_text": "In Lobby."
+},{
+	 "i"		: 580
+	,"ids"		: "Idstring(@ID64e59478489299cf@)"
+	,"StringID"	: "location_dh_canteen"
+	,"orig_text": "In Canteen."
+},{
+	 "i"		: 581
+	,"ids"		: "Idstring(@ID3d557a78743e37b3@)"
+	,"StringID"	: "location_dh_loot"
+	,"orig_text": "In Vault."
+},{
+	 "i"		: 582
+	,"ids"		: "Idstring(@ID9d9eb773fb3a37cb@)"
+	,"StringID"	: "location_bridge_scaffhold_roof"
+	,"orig_text": "Top of the Tower."
+},{
+	 "i"		: 583
+	,"ids"		: "Idstring(@IDcca64455e69dba42@)"
+	,"StringID"	: "location_slaughterhouse_fridgeroom"
+	,"orig_text": "In the Fridge Room."
+},{
+	 "i"		: 584
+	,"ids"		: "Idstring(@ID7afc4f4a9f3a4eb5@)"
+	,"StringID"	: "location_suburbia_w_cellar"
+	,"orig_text": "In Wilson's Cellar"
+},{
+	 "i"		: 585
+	,"ids"		: "Idstring(@ID4c005e468253eb93@)"
+	,"StringID"	: "location_suburbia_w_house"
+	,"orig_text": "In Wilson's House"
+},{
+	 "i"		: 586
+	,"ids"		: "Idstring(@ID2cb84f2d9e5ca779@)"
+	,"StringID"	: "location_suburbia_m_fy"
+	,"orig_text": "At Mitchell's Front"
+},{
+	 "i"		: 587
+	,"ids"		: "Idstring(@ID0a73847573a977b9@)"
+	,"StringID"	: "doctor_bag"
+	,"orig_text": "The doctor bag can be deployed on the ground, so that you and your teamates can use it.$NL;It will help you help your friends."
+},{
+	 "i"		: 588
+	,"ids"		: "Idstring(@ID4f582e7a9ce326b7@)"
+	,"StringID"	: "sentry_gun_ammo_increase"
+	,"orig_text": "This upgrades the amount of ammo your sentry gun has, making it last longer.$NL;Outstanding. Now all we need is a deck of cards."
+},{
+	 "i"		: 589
+	,"ids"		: "Idstring(@IDa621fdacc9e54ca2@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_4"
+	,"orig_text": "Charge defused."
+},{
+	 "i"		: 590
+	,"ids"		: "Idstring(@ID30b215ae10816e19@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_7"
+	,"orig_text": "Charge defused."
+},{
+	 "i"		: 591
+	,"ids"		: "Idstring(@IDff9cfecb628cbd4c@)"
+	,"StringID"	: "mission_suburbia_mission7_hl"
+	,"orig_text": "ATTACH THE C4 TO THE SAFE."
+},{
+	 "i"		: 592
+	,"ids"		: "Idstring(@IDd1c688977d513795@)"
+	,"StringID"	: "mission_suburbia_mission7"
+	,"orig_text": "Attach the C4 to the safe using the hole you just drilled. Let the water and explosion force the safe open from within!"
+},{
+	 "i"		: 593
+	,"ids"		: "Idstring(@ID5d086656af43ec4b@)"
+	,"StringID"	: "mission_suburbia_mission8"
+	,"orig_text": "Cops might try to cut the water supply. Make sure the water is flowing!"
+},{
+	 "i"		: 594
+	,"ids"		: "Idstring(@ID60bcb2e1f3538c74@)"
+	,"StringID"	: "mission_suburbia_mission12_hl"
+	,"orig_text": "INVESTIGATE THE SAFE."
+},{
+	 "i"		: 595
+	,"ids"		: "Idstring(@ID952a421a778a155d@)"
+	,"StringID"	: "mission_undercover_roof_hl"
+	,"orig_text": "PREPARATIONS."
+},{
+	 "i"		: 596
+	,"ids"		: "Idstring(@IDf9345924426d9c2c@)"
+	,"StringID"	: "mission_undercover_deal_hl"
+	,"orig_text": "DEAL GOING DOWN."
+},{
+	 "i"		: 597
+	,"ids"		: "Idstring(@ID84e5eaa58eb8b480@)"
+	,"StringID"	: "mission_undercover_shoot_limo"
+	,"orig_text": "Shoot at the cables snagging the limo to make it fall!"
+},{
+	 "i"		: 598
+	,"ids"		: "Idstring(@ID8abd989eb18daab3@)"
+	,"StringID"	: "location_uc_stair2"
+	,"orig_text": "At Right Staircase"
+},{
+	 "i"		: 599
+	,"ids"		: "Idstring(@IDb43c7163275934de@)"
+	,"StringID"	: "mission_hospital_disguise"
+	,"orig_text": "Put on the doctors' outfits."
+},{
+	 "i"		: 600
+	,"ids"		: "Idstring(@IDd17fa4c7a8f5fab1@)"
+	,"StringID"	: "mission_hospital_drawblood_hl"
+	,"orig_text": "DRAW BLOOD FROM PATIENT."
+},{
+	 "i"		: 601
+	,"ids"		: "Idstring(@ID61586f2c93f65a84@)"
+	,"StringID"	: "mission_hospital_escape_hl"
+	,"orig_text": "ESCAPE!"
+},{
+	 "i"		: 602
+	,"ids"		: "Idstring(@IDf5fe2f65ec881de9@)"
+	,"StringID"	: "mission_hospital_hatch_hl"
+	,"orig_text": "OPEN THE HATCH."
+},{
+	 "i"		: 603
+	,"ids"		: "Idstring(@ID762543ef658c73cb@)"
+	,"StringID"	: "mission_hospital_hatch"
+	,"orig_text": "Open the hatch to get out of the elevator."
+},{
+	 "i"		: 604
+	,"ids"		: "Idstring(@ID09ab4d5c74239de4@)"
+	,"StringID"	: "mission_hospital_waitElevator_hl"
+	,"orig_text": "WAIT FOR THE ELEVATOR."
+},{
+	 "i"		: 605
+	,"ids"		: "Idstring(@ID4307704c526bfe18@)"
+	,"StringID"	: "location_hospital_reception"
+	,"orig_text": "Reception"
+},{
+	 "i"		: 606
+	,"ids"		: "Idstring(@ID860772d04a2fccc8@)"
+	,"StringID"	: "location_hospital_Exam25"
+	,"orig_text": "Examination C25"
+},{
+	 "i"		: 607
+	,"ids"		: "Idstring(@ID712588c1e6baca45@)"
+	,"StringID"	: "location_hospital_ExamE53"
+	,"orig_text": "Examination E53"
+},{
+	 "i"		: 608
+	,"ids"		: "Idstring(@IDf1b5ae8f9d5d3bf5@)"
+	,"StringID"	: "location_hospital_locker"
+	,"orig_text": "Locker room"
+},{
+	 "i"		: 609
+	,"ids"		: "Idstring(@IDa63e0918cab655ef@)"
+	,"StringID"	: "location_hospital_staircase"
+	,"orig_text": "Staircase"
+},{
+	 "i"		: 610
+	,"ids"		: "Idstring(@ID2cfb2f18657dbb35@)"
+	,"StringID"	: "location_hospital_ISOc"
+	,"orig_text": "Isolation C"
+},{
+	 "i"		: 611
+	,"ids"		: "Idstring(@ID974baf9768667373@)"
+	,"StringID"	: "location_hospital_Cafeteria"
+	,"orig_text": "Cafeteria"
+},{
+	 "i"		: 612
+	,"ids"		: "Idstring(@ID5eafd9bd931f56e6@)"
+	,"StringID"	: "location_hospital_Entrance"
+	,"orig_text": "Elevators"
+},{
+	 "i"		: 613
+	,"ids"		: "Idstring(@ID0d1e347a5d5d4a75@)"
+	,"StringID"	: "location_hospital_Roof"
+	,"orig_text": "Roof"
+},{
+	 "i"		: 614
+	,"ids"		: "Idstring(@IDffb18b93e1789002@)"
+	,"StringID"	: "sa_title"
+	,"orig_text": "Do not translate."
+},{
+	 "i"		: 615
+	,"ids"		: "Idstring(@ID3e9cb8caaf40fc17@)"
+	,"StringID"	: "intro_suburbia05"
+	,"orig_text": "They bought it - let's drain the place!"
+},{
+	 "i"		: 616
+	,"ids"		: "Idstring(@ID9ee1107b34c48f82@)"
+	,"StringID"	: "intro_suburbia06"
+	,"orig_text": "Suit up, load 'em, get to work!"
+},{
+	 "i"		: 617
+	,"ids"		: "Idstring(@IDaef8f432fe1e18dd@)"
+	,"StringID"	: "intro_secret_stash"
+	,"orig_text": "6:00 pm, the District - Abandoned building"
+},{
+	 "i"		: 618
+	,"ids"		: "Idstring(@ID84b37ab35d56ea7c@)"
+	,"StringID"	: "intro_secret_stash05"
+	,"orig_text": "Crane ready."
+},{
+	 "i"		: 619
+	,"ids"		: "Idstring(@ID3dee9051797f2657@)"
+	,"StringID"	: "intro_hospital"
+	,"orig_text": "8:24 pm, Mercy Hospital - Isolation ward"
+},{
+	 "i"		: 620
+	,"ids"		: "Idstring(@ID87610c7c3aa6007b@)"
+	,"StringID"	: "intro_hospital02"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 621
+	,"ids"		: "Idstring(@ID066dec8080906190@)"
+	,"StringID"	: "intro_hospital06"
+	,"orig_text": "You take out the cameras, keep the civilians down..."
+},{
+	 "i"		: 622
+	,"ids"		: "Idstring(@IDe84ae2b3a4527204@)"
+	,"StringID"	: "intro_hospital07"
+	,"orig_text": "...and get me into the hospital patient database. We need to ID the right guy."
+},{
+	 "i"		: 623
+	,"ids"		: "Idstring(@ID864bcaf8a200171d@)"
+	,"StringID"	: "intro_hospital08"
+	,"orig_text": "This should be quick and clean - security in hospitals is low."
+},{
+	 "i"		: 624
+	,"ids"		: "Idstring(@ID7308ed2923def1ae@)"
+	,"StringID"	: "intro_hospital10"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 625
+	,"ids"		: "Idstring(@ID7a69409ed9c88ec3@)"
+	,"StringID"	: "intro_hospital15"
+	,"orig_text": "\"Please go outside and smoke - you can't smoke in here, sir!\""
+},{
+	 "i"		: 626
+	,"ids"		: "Idstring(@ID81bb0efae3650927@)"
+	,"StringID"	: "intro_hospital16"
+	,"orig_text": "Bunch of crap..."
+},{
+	 "i"		: 627
+	,"ids"		: "Idstring(@ID5eb329202e18a54b@)"
+	,"StringID"	: "intro_hospital19"
+	,"orig_text": "WOLF: Bain, Old Time River here's been talking so I didn't quite catch that, but let's go."
+},{
+	 "i"		: 628
+	,"ids"		: "Idstring(@ID803c7c48b1d31541@)"
+	,"StringID"	: "intro_hospital29"
+	,"orig_text": "WOLF: Bain, I didn't get a word of that, but fuck it - let's just do it."
+},{
+	 "i"		: 629
+	,"ids"		: "Idstring(@ID320a117e9af11e57@)"
+	,"StringID"	: "intro_hospital30"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 630
+	,"ids"		: "Idstring(@ID36acebffda8b4e67@)"
+	,"StringID"	: "intro_hospital41"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 631
+	,"ids"		: "Idstring(@ID83d34355377874c1@)"
+	,"StringID"	: "intro_hospital44"
+	,"orig_text": "STRANGER: Hold that door!"
+},{
+	 "i"		: 632
+	,"ids"		: "Idstring(@ID4bd1f7d22dbeae8c@)"
+	,"StringID"	: "intro_hospital45"
+	,"orig_text": "This whole hospital can go to hell but do either of you have a light?"
+},{
+	 "i"		: 633
+	,"ids"		: "Idstring(@ID3791790c4e50d170@)"
+	,"StringID"	: "intro_hospital49"
+	,"orig_text": "But let's just do it."
+},{
+	 "i"		: 634
+	,"ids"		: "Idstring(@ID23bc61becefff7bc@)"
+	,"StringID"	: "intro_hospital57"
+	,"orig_text": "WOLF: Hey Bain, I'm sure you had a great plan - I just didn't fucking hear it!"
+},{
+	 "i"		: 635
+	,"ids"		: "Idstring(@IDb11671ead672dd64@)"
+	,"StringID"	: "intro_hospital58"
+	,"orig_text": "But anyway, let's do it."
+},{
+	 "i"		: 636
+	,"ids"		: "Idstring(@ID4c7f2c1fac8e76ff@)"
+	,"StringID"	: "intro_hospital65"
+	,"orig_text": "DALLAS: You! Get a move on!"
+},{
+	 "i"		: 637
+	,"ids"		: "Idstring(@IDdf2a10a1c9d84235@)"
+	,"StringID"	: "intro_hospital66"
+	,"orig_text": "STRANGER: Or what? You two gonna make an old man wait for the next one?"
+},{
+	 "i"		: 638
+	,"ids"		: "Idstring(@ID918354d360edeb67@)"
+	,"StringID"	: "intro_hospital67"
+	,"orig_text": "WOLF: Bain, I heard nada. This guy in the elevator kept messing it up!"
+},{
+	 "i"		: 639
+	,"ids"		: "Idstring(@IDa759ccaf1fea4877@)"
+	,"StringID"	: "intro_hospital68"
+	,"orig_text": "Anyway, let's do it."
+},{
+	 "i"		: 640
+	,"ids"		: "Idstring(@IDa1090054507c958f@)"
+	,"StringID"	: "intro_hospital74"
+	,"orig_text": "STRANGER: Hey, hold the door!"
+},{
+	 "i"		: 641
+	,"ids"		: "Idstring(@ID3f3f59212bab8c0f@)"
+	,"StringID"	: "intro_hospital78"
+	,"orig_text": "WOLF: Hey Bain, great briefing. I heard jack shit."
+},{
+	 "i"		: 642
+	,"ids"		: "Idstring(@IDd55c917cf2cb69bd@)"
+	,"StringID"	: "intro_hospital79"
+	,"orig_text": "Let's just, ah... Play by ear."
+},{
+	 "i"		: 643
+	,"ids"		: "Idstring(@ID7333c0673282543f@)"
+	,"StringID"	: "intro_hospital80"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 644
+	,"ids"		: "Idstring(@IDa9f99ffdd8f853e1@)"
+	,"StringID"	: "intro_hospital84"
+	,"orig_text": "STRANGER: Hang on! Hang on!! WOLF: Good day sir..."
+},{
+	 "i"		: 645
+	,"ids"		: "Idstring(@IDcaff97327e01cf1d@)"
+	,"StringID"	: "intro_hospital87"
+	,"orig_text": "WOLF: Bain, all I heard was:"
+},{
+	 "i"		: 646
+	,"ids"		: "Idstring(@IDc755fdf6236e20b1@)"
+	,"StringID"	: "intro_hospital93"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 647
+	,"ids"		: "Idstring(@IDfcc667c7c1bd1474@)"
+	,"StringID"	: "intro_hospital94"
+	,"orig_text": "STRANGER: Hold the door, hold the door."
+},{
+	 "i"		: 648
+	,"ids"		: "Idstring(@IDf833353efcb4d193@)"
+	,"StringID"	: "intro_hospital96"
+	,"orig_text": "What do you two do?! Sell insurance?"
+},{
+	 "i"		: 649
+	,"ids"		: "Idstring(@ID47570eaa9d2ed2ee@)"
+	,"StringID"	: "intro_hospital101"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 650
+	,"ids"		: "Idstring(@ID5e29aa2242b74937@)"
+	,"StringID"	: "intro_hospital104"
+	,"orig_text": "STRANGER: Hooold the door! WOLF: Good day, sir..."
+},{
+	 "i"		: 651
+	,"ids"		: "Idstring(@ID1aa0af20a5c62897@)"
+	,"StringID"	: "intro_hospital108"
+	,"orig_text": "*cough* *cough* I feel terrible..."
+},{
+	 "i"		: 652
+	,"ids"		: "Idstring(@ID5d9509b7ef0d24eb@)"
+	,"StringID"	: "intro_hospital110"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 653
+	,"ids"		: "Idstring(@IDfe1416b023f31cab@)"
+	,"StringID"	: "intro_hospital111"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 654
+	,"ids"		: "Idstring(@IDedf92d4eec9be52c@)"
+	,"StringID"	: "intro_hospital112"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+},{
+	 "i"		: 655
+	,"ids"		: "Idstring(@ID05ca73624c56dffe@)"
+	,"StringID"	: "intro_hospital116"
+	,"orig_text": "Kids these days - I swear, no manners."
+},{
+	 "i"		: 656
+	,"ids"		: "Idstring(@ID62a36235a05dc4d2@)"
+	,"StringID"	: "intro_hospital121"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 657
+	,"ids"		: "Idstring(@ID98db87df9178ebcc@)"
+	,"StringID"	: "intro_hospital123"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 658
+	,"ids"		: "Idstring(@ID82d97542bb2583c2@)"
+	,"StringID"	: "intro_hospital125"
+	,"orig_text": "WOLF: Yeah, come on in..."
+},{
+	 "i"		: 659
+	,"ids"		: "Idstring(@IDc509957a79692994@)"
+	,"StringID"	: "intro_hospital126"
+	,"orig_text": "Ay, thank you!"
+},{
+	 "i"		: 660
+	,"ids"		: "Idstring(@ID06b103c9df6dd1c2@)"
+	,"StringID"	: "intro_hospital130"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 661
+	,"ids"		: "Idstring(@ID5aea2cd169f2eaa5@)"
+	,"StringID"	: "intro_hospital131"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+},{
+	 "i"		: 662
+	,"ids"		: "Idstring(@ID401201b7ea2b10fc@)"
+	,"StringID"	: "intro_hospital133"
+	,"orig_text": "BAIN: Right..."
+},{
+	 "i"		: 663
+	,"ids"		: "Idstring(@ID1e7f8c7c3765b53c@)"
+	,"StringID"	: "intro_hospital135"
+	,"orig_text": "WOLF (in Swedish): Ah nä men... Det finns ju hur mycket plats som helst i den här jävla hissjäveln."
+},{
+	 "i"		: 664
+	,"ids"		: "Idstring(@ID746a0ce807a78ca8@)"
+	,"StringID"	: "intro_hospital136"
+	,"orig_text": "STRANGER: Ah, thank you."
+},{
+	 "i"		: 665
+	,"ids"		: "Idstring(@ID3361b51d93812c5f@)"
+	,"StringID"	: "intro_hospital139"
+	,"orig_text": "WOLF: Man, this guy can't stop talkin! Yap yap yap!"
+},{
+	 "i"		: 666
+	,"ids"		: "Idstring(@IDbd930b8bddee1c38@)"
+	,"StringID"	: "intro_hospital140"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+},{
+	 "i"		: 667
+	,"ids"		: "Idstring(@IDdf66674bc9d142a0@)"
+	,"StringID"	: "intro_hospital141"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+}
+]

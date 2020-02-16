@@ -1,0 +1,63 @@
+{
+	"menu_id" : "wac_menu_spec_ove9000",
+	"parent_menu_id" : "wac_menu_spec",
+	"title" : "wac_menu_spec_ove9000_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_ove9ksilentmotor",
+			"title" : "wac_replace_ove9ksilentmotor_title",
+			"callback" : "callback_toggle_replace_ove9ksilentmotor",		
+			"items" : [
+				"wac_default_multi",
+				"ove9kbainmotor_multi",
+				"ove9kstndmotor_multi"
+			],
+			"value" : "replace_ove9ksilentmotor",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_ove9kbainmotor",
+			"title" : "wac_replace_ove9kbainmotor_title",
+			"callback" : "callback_toggle_replace_ove9kbainmotor",		
+			"items" : [
+				"wac_default_multi",
+				"ove9ksilentmotor_multi",
+				"ove9kstndmotor_multi"
+			],
+			"value" : "replace_ove9kbainmotor",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_ovk9kdurableblade",
+			"title" : "wac_replace_durableblade_title",
+			"callback" : "callback_toggle_replace_ovk9kdurableblade",		
+			"items" : [
+				"wac_default_multi",
+				"ove9ksharpblade_multi",
+				"ove9kstndblade_multi"
+			],
+			"value" : "replace_ovk9kdurableblade",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_ovk9ksharpblade",
+			"title" : "wac_replace_sharpblade_title",
+			"callback" : "callback_toggle_replace_ovk9ksharpblade",		
+			"items" : [
+				"wac_default_multi",
+				"ove9kdurableblade_multi",
+				"ove9kstndblade_multi"
+			],
+			"value" : "replace_ovk9ksharpblade",
+			"default_value" : 1
+		}
+	]
+}

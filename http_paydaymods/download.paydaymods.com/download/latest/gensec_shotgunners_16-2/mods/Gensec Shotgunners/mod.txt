@@ -1,0 +1,25 @@
+{
+	"name" : "Gensec Shotgunners",
+	"description" : "A simple LUA script that re-enables Gensec Shotgunners to spawn on Deathwish",
+	"author" : "SC",
+	"contact" : "",
+	"version" : "1.6",
+	"updates" : [
+		{
+			"revision" : 16,
+			"identifier" : "gensec_shotgunners",
+			"install_dir" : "."
+		}
+	]
+	"hooks" : [
+		{ 	"hook_id" : "lib/tweak_data/groupaitweakdata",
+			"script_path" : "groupaitweakdata.lua"
+		},
+		{ 	"hook_id" : "lib/managers/mission/elementmissionend",
+			"script_path" : "lbg_bullshit.lua"
+		},
+		{ 	"hook_id" : "lib/tweak_data/charactertweakdata",
+			"script_path" : "charactertweakdata.lua"
+		}
+	]
+}

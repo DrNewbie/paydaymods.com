@@ -1,0 +1,7 @@
+{
+	"id"				: "0riginal",
+	"required"			: false,
+	"method"			: "paydaymods",
+	"id_or_link"		: "chtfonts",
+	"link_for_revision"	: "https://raw.githubusercontent.com/awcjack/font-revision-test/master/revision"
+}

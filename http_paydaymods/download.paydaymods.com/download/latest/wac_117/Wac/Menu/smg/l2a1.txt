@@ -1,0 +1,106 @@
+{
+	"menu_id" : "wac_menu_smg_l2a1",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_l2a1_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_l2a1longb",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_l2a1longb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_shortb_multi"
+			],
+			"value" : "replace_l2a1longb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_l2a1shortb",
+			"title" : "wac_replace_shortb_title",
+			"callback" : "callback_toggle_replace_l2a1shortb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_longb_multi"
+			],
+			"value" : "replace_l2a1shortb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_l2a1supp",
+			"title" : "wac_replace_suppuseonly_title",
+			"callback" : "callback_toggle_replace_l2a1supp",		
+			"items" : [
+				"wac_default_multi",
+				"wac_suppbarrel_multi",
+				"wac_e11supp_multi"
+			],
+			"value" : "replace_l2a1supp",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_l2a1extmag",
+			"title" : "wac_replace_extmag_title",
+			"callback" : "callback_toggle_replace_l2a1extmag",		
+			"items" : [
+				"wac_default_multi",
+				"stndmag_multi"
+			],
+			"value" : "replace_l2a1extmag",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_l2a1smallmag",
+			"title" : "wac_replace_shortmag_title",
+			"callback" : "callback_toggle_replace_l2a1smallmag",		
+			"items" : [
+				"wac_default_multi",
+				"stndmag_multi"
+			],
+			"value" : "replace_l2a1smallmag",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_l2a1solidstock",
+			"title" : "wac_replace_solidst_title",
+			"callback" : "callback_toggle_replace_l2a1solidstock",		
+			"items" : [
+				"wac_default_multi",
+				"foldedst_multi",
+				"nostock_multi",
+				"stndst_multi"
+			],
+			"value" : "replace_l2a1solidstock",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_l2a1x_st",
+			"title" : "wac_replace_akimbost_title",
+			"callback" : "callback_toggle_replace_l2a1x_st",		
+			"items" : [
+				"wac_default_multi",
+				"stndst_multi",
+				"nostock_multi",
+				"solidst_multi"
+			],
+			"value" : "replace_l2a1x_st",
+			"default_value" : 1
+		}
+	]
+}

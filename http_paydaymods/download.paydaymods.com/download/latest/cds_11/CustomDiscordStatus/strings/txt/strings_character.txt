@@ -1,0 +1,23 @@
+{
+    "dallas": "",
+    "wolf": "",
+    "chains": "",
+    "hoxton": "",
+    "jowi": "",
+    "old_hoxton": "",
+    "female_1": "",
+    "dragan": "",
+    "jacket": "",
+    "bonnie": "",
+    "sokol": "",
+    "dragon": "",
+    "bodhi": "",
+    "jimmy": "",
+    "sydney": "",
+    "wild": "",
+    "chico": "",
+    "max": "",
+    "myh": "",
+    "ecp_male": "",
+    "ecp_female": ""
+}

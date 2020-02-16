@@ -1,0 +1,21 @@
+{
+    "name" : "Classic Gunplay Mod - Akimbo",
+    "description" : "Akimbo rebalance part of the mod.",
+    "author" : "Jon, including code from Blaze the Fox, DMCWO and MP5 stats by Iron Predator.",
+    "contact" : "http://steamcommunity.com/id/ACPL_Jon/",
+    "version" : "1.40",
+
+"updates" : [
+    {
+        "revision" : 140,
+        "identifier" : "JCGM_Akimbo",
+    }
+]
+
+	"hooks": [
+		{
+			"hook_id": "lib/tweak_data/weapontweakdata",
+			"script_path" : "Rebalance_weapons.lua"
+		}
+	]
+}

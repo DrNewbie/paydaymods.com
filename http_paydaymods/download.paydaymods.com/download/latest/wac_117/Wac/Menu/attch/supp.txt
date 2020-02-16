@@ -1,0 +1,275 @@
+{
+	"menu_id" : "wac_menu_attch_supp",
+	"parent_menu_id" : "wac_menu_attch",
+	"title" : "wac_menu_attch_supp_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_arsupp_bigger",
+			"title" : "wac_replace_arsupp_bigger_title",
+			"callback" : "callback_toggle_replace_arsupp_bigger",		
+			"items" : [
+				"wac_default_multi",
+				"lowprofile_multi",
+				"mediumsupp_multi",
+				"silentkiller_multi",
+				"salvo12_multi",
+				"pis_large_multi",
+				"pis_medium_slim_multi",
+				"oil_filter_multi",
+				"wac_selectable_multi",
+				"wac_selectable2_multi"
+			],
+			"value" : "replace_arsupp_bigger",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_arsupp_medium",
+			"title" : "wac_replace_arsupp_medium_title",
+			"callback" : "callback_toggle_replace_arsupp_medium",		
+			"items" : [
+				"wac_default_multi",
+				"lowprofile_multi",
+				"biggersupp_multi",
+				"silentkiller_multi",
+				"salvo12_multi",
+				"pis_large_multi",
+				"pis_medium_slim_multi",
+				"oil_filter_multi",
+				"wac_selectable_multi",
+				"wac_selectable2_multi"
+			],
+			"value" : "replace_arsupp_medium",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_arsupp_lowprofile",
+			"title" : "wac_replace_arsupp_lowprofile_title",
+			"callback" : "callback_toggle_replace_arsupp_lowprofile",		
+			"items" : [
+				"wac_default_multi",
+				"biggersupp_multi",
+				"mediumsupp_multi",
+				"silentkiller_multi",
+				"salvo12_multi",
+				"pis_large_multi",
+				"pis_medium_slim_multi",
+				"oil_filter_multi",
+				"wac_selectable_multi",
+				"wac_selectable2_multi"
+			],
+			"value" : "replace_arsupp_lowprofile",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_selectablesupp",
+			"title" : "wac_replace_selectablemodel_title",
+			"callback" : "callback_toggle_replace_selectablesupp",		
+			"items" : [
+				"mp7qdsupp_multi",
+				"vectorhps_multi",
+				"cobraysupp_multi",
+				"mp9supp_multi",
+				"wac_sr2supp_multi",
+				"wac_gm45_multi"
+			],
+			"value" : "replace_selectablesupp",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_selectablesupp2",
+			"title" : "wac_replace_selectablemodel2_title",
+			"callback" : "callback_toggle_replace_selectablesupp2",		
+			"items" : [
+				"mp7qdsupp_multi",
+				"vectorhps_multi",
+				"cobraysupp_multi",
+				"mp9supp_multi",
+				"wac_sr2supp_multi",
+				"wac_gm45_multi"
+			],
+			"value" : "replace_selectablesupp2",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_salvo12",
+			"title" : "wac_replace_salvo12_title",
+			"callback" : "callback_toggle_replace_salvo12",		
+			"items" : [
+				"wac_default_multi",
+				"biggersupp_multi",
+				"silentkiller_multi"
+			],
+			"value" : "replace_salvo12",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_shotsupp_silent",
+			"title" : "wac_replace_shotsupp_silent_title",
+			"callback" : "callback_toggle_replace_shotsupp_silent",		
+			"items" : [
+				"wac_default_multi",
+				"biggersupp_multi",
+				"salvo12_multi"
+			],
+			"value" : "replace_shotsupp_silent",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_pis_medium_slim",
+			"title" : "wac_replace_pis_medium_slim_title",
+			"callback" : "callback_toggle_replace_pis_medium_slim",		
+			"items" : [
+				"wac_default_multi",
+				"pis_stndsupp_multi",
+				"pis_large_multi",
+				"pis_medium_gem_multi",
+				"pis_large_kac_multi",
+				"snakesupp_multi",
+				"oil_filter_multi",
+				"lowprofile_multi",
+				"mediumsupp_multi",
+				"silentkiller_multi"
+			],
+			"value" : "replace_pis_medium_slim",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_pis_large_kac",
+			"title" : "wac_replace_pis_large_kac_title",
+			"callback" : "callback_toggle_replace_pis_large_kac",		
+			"items" : [
+				"wac_default_multi",
+				"pis_stndsupp_multi",
+				"pis_large_multi",
+				"pis_medium_slim_multi",
+				"pis_medium_gem_multi",
+				"snakesupp_multi",
+				"oil_filter_multi",
+				"lowprofile_multi",
+				"mediumsupp_multi",
+				"silentkiller_multi"
+			],
+			"value" : "replace_pis_large_kac",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_snakesupp",
+			"title" : "wac_replace_snakesupp_title",
+			"callback" : "callback_toggle_replace_snakesupp",		
+			"items" : [
+				"wac_default_multi",
+				"pis_stndsupp_multi",
+				"pis_large_multi",
+				"pis_medium_slim_multi",
+				"pis_medium_gem_multi",
+				"pis_large_kac_multi",
+				"oil_filter_multi",
+				"lowprofile_multi",
+				"mediumsupp_multi",
+				"silentkiller_multi"
+			],
+			"value" : "replace_snakesupp",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_pis_medium_gem",
+			"title" : "wac_replace_pis_medium_gem_title",
+			"callback" : "callback_toggle_replace_pis_medium_gem",		
+			"items" : [
+				"wac_default_multi",
+				"pis_stndsupp_multi",
+				"pis_large_multi",
+				"pis_medium_slim_multi",
+				"pis_large_kac_multi",
+				"snakesupp_multi",
+				"oil_filter_multi",
+				"lowprofile_multi",
+				"mediumsupp_multi",
+				"silentkiller_multi"
+			],
+			"value" : "replace_pis_medium_gem",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_pis_small",
+			"title" : "wac_replace_pis_small_title",
+			"callback" : "callback_toggle_replace_pis_small",		
+			"items" : [
+				"wac_default_multi",
+				"pis_stndsupp_multi",
+				"pis_large_multi",
+				"pis_medium_slim_multi",
+				"pis_medium_gem_multi",
+				"pis_large_kac_multi",
+				"snakesupp_multi",
+				"oil_filter_multi",
+				"lowprofile_multi",
+				"mediumsupp_multi",
+				"silentkiller_multi"
+			],
+			"value" : "replace_pis_small",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_hidesuppressors",
+			"title" : "wac_replace_hidesuppressors_title",
+			"description" : "wac_requireadditionalmod_desc",
+			"callback" : "callback_toggle_replace_hidesuppressors",
+			"value" : "replace_hidesuppressors",
+			"default_value" : false
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_hidesuppbarrels",
+			"title" : "wac_replace_hidesuppbarrels_title",
+			"description" : "wac_requireadditionalmod_desc",
+			"callback" : "callback_toggle_replace_hidesuppbarrels",
+			"value" : "replace_hidesuppbarrels",
+			"default_value" : false
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hidesuppressorscomp",
+			"title" : "wac_replace_hidesuppressorscomp_title",
+			"description" : "wac_requireadditionalmodalt_desc",
+			"callback" : "callback_toggle_replace_hidesuppressorscomp",		
+			"items" : [
+				"wac_nomodel_multi",
+				"firepig_multi",
+				"tank_multi",
+				"stubby_multi",
+				"jprifles_multi",
+				"surefire_multi",
+				"linear_multi",
+				"battle_multi"
+			],
+			"value" : "replace_hidesuppressorscomp",
+			"default_value" : 1
+		}
+	]
+}

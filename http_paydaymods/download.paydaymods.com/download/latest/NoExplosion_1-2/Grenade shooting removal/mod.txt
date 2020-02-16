@@ -1,0 +1,26 @@
+{
+    "name" : "Grenade shooting removal",
+    "description" : "Frag and Molotov grenades will no longer detonate when shot.",
+    "author" : "Iron Predator",
+    "version" : "1.0"
+
+	"hooks" : [
+		{
+			"hook_id" : "lib/units/weapons/grenades/fraggrenade",
+			"script_path" : "fraggrenade.lua"
+		},
+		{
+			"hook_id" : "lib/units/weapons/grenades/molotovgrenade",
+			"script_path" : "molotovgrenade.lua"
+		},
+		{
+			"hook_id" : "lib/units/weapons/grenades/grenadebase",
+			"script_path" : "grenadebase.lua"
+		},
+		{
+			"hook_id" : "lib/units/weapons/grenades/incendiarygrenade",
+			"script_path" : "incendiarygrenade.lua"
+		}
+	]
+
+}

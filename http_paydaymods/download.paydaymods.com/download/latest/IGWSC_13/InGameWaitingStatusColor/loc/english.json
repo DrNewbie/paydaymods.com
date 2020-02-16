@@ -1,0 +1,36 @@
+{
+	"igwsc_menu_title": "InGame Waiting Status Color",
+	"igwsc_menu_desc": "Customize the status text's colors and status texts in the loadout screen",
+	
+	"igwsc_options_help_title": "Help",
+	"igwsc_option_help_desc": "Need to know a specific color code? Click this 'Help' button",
+	"igwsc_options_info_popup_message_help": "This mod is using the HTML Hex Color code index for changing text color.\n Here is a list of Colors and their HTML Hex codes that you may want to try.\n   Lists of the Hex Color\n       Black      000000    White       FFFFFF\n        Red        FF0000    Lime       00FF00\n         Blue      0000FF    Yellow     FFFF00\n        Cyan      00FFFF    Magenta  FF00FF\n        Silver     C0C0C0    Gray       808080\n        Maroon   800000    Olive      808000\n        Green     008000    Purple    800080\n        Teal        008080    Navy       000080\n- You can find more Hex color in many websites.\n- If you want to change the color, you can change it in the 'Color' field. Input a HTML Hex color code and press enter when finished.\n- In case you can't see the menu properly, you can change the color directly from the file IGWSC.txt (It is located in \PAYDAY 2\\mods\\saves)\n",
+	"igwsc_options_info_popup_close": "Close",
+	
+	"igwsc_options_reset_title": "Reset",
+	"igwsc_options_reset_desc": "Reset to default colors and default texts (Blue-JOINING, Yellow-LOADING, Green-READY and Red-NOT READY)",
+	
+	"dropin_text_title": "Set Loading text",
+	"dropin_text_desc": "Type any texts to set text for the LOADING status",
+	
+	"dropin_color_title": "Set Set Loading Color",
+	"dropin_color_desc": "Type the Hex Color code to set color for the LOADING status",
+	
+	"join_text_title": "Set Joining text",
+	"join_text_desc": "Type any texts to set text for the JOINING status",
+	
+	"join_color_title": "Set Joining Color",
+	"join_color_desc": "Type the Hex Color code to set color for the JOINING status",
+	
+	"ready_text_title": "Set Ready text",
+	"ready_text_desc": "Type any texts to set text for the READY status",
+	
+	"ready_color_title": "Set Ready Color",
+	"ready_color_desc": "Type the Hex Color code to set color for the READY status",
+	
+	"unready_color_title": "Set Not Ready Color",
+	"unready_color_desc": "Type the Hex Color code to set color for the NOT READY status",
+	
+	"unready_text_title": "Set Not Ready text",
+	"unready_text_desc": "Type any texts to set text for the NOT READY status"
+}

@@ -1,0 +1,10 @@
+{
+"name" : "Oh Shit! More Profiles",
+"description" : "Adds more profiles to use in-game.",
+"author" : "Iron Predator",
+"version" : "2.0",
+"hooks" : [
+   { "hook_id" : "lib/managers/multiprofilemanager", "script_path" : "multiprofilemanager.lua" },
+   { "hook_id" : "lib/managers/menu/multiprofileitemgui", "script_path" : "multiprofileitemgui.lua" }
+]
+}

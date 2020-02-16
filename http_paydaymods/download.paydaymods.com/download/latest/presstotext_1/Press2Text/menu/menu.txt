@@ -1,0 +1,64 @@
+{
+	"menu_id" : "press2text_menu",
+	"parent_menu_id" : "lua_mod_options_menu",
+	"title" : "press2text_menu_title",
+	"description" : "press2text_menu_desc",
+	"items" : [
+		{
+			"type" : "keybind",
+			"id" : "Send",
+			"title" : "send_title",
+			"description" : "send_desc",
+			"keybind_id" : "kb100",
+			"func" : "send",
+		},
+		{
+			"type" : "keybind",
+			"id" : "Group 1",
+			"title" : "group1_title",
+			"description" : "group1_desc",
+			"keybind_id" : "kb101",
+			"func" : "group1",
+		},
+		{
+			"type" : "keybind",
+			"id" : "Group 2",
+			"title" : "group2_title",
+			"description" : "group2_desc",
+			"keybind_id" : "kb102",
+			"func" : "group2",
+		},
+		{
+			"type" : "keybind",
+			"id" : "Group 3",
+			"title" : "group3_title",
+			"description" : "group3_desc",
+			"keybind_id" : "kb103",
+			"func" : "group3",
+		},
+		{
+			"type" : "keybind",
+			"id" : "Group 4",
+			"title" : "group4_title",
+			"description" : "group4_desc",
+			"keybind_id" : "kb104",
+			"func" : "group4",
+		},
+		{
+			"type" : "keybind",
+			"id" : "Group 5",
+			"title" : "group5_title",
+			"description" : "group5_desc",
+			"keybind_id" : "kb105",
+			"func" : "group5",
+		},
+		{
+			"type" : "keybind",
+			"id" : "Group 6",
+			"title" : "group6_title",
+			"description" : "group6_desc",
+			"keybind_id" : "kb106",
+			"func" : "group6",
+		}
+	]
+}

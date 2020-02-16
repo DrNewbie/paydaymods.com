@@ -1,0 +1,100 @@
+{
+	"menu_id" : "wac_menu_lmg_rpk",
+	"parent_menu_id" : "wac_menu_lmg",
+	"title" : "wac_menu_lmg_rpk_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_rpkpbs1",
+			"title" : "wac_replace_pbs1supp_title",
+			"callback" : "callback_toggle_replace_rpkpbs1",
+			"value" : "replace_rpkpbs1",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_rpkforegrip",
+			"title" : "wac_replace_stndfg_title",
+			"callback" : "callback_toggle_replace_rpkforegrip",	
+			"items" : [
+				"wac_default_multi",
+				"tactfg_multi"
+			],
+			"value" : "replace_rpkforegrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_rpkdrum",
+			"title" : "wac_replace_rpkdrum_title",
+			"callback" : "callback_toggle_replace_rpkdrum",		
+			"items" : [
+				"wac_default_multi",
+				"quadstack_multi",
+				"rpkmag_multi",
+				"akmmag_multi",
+				"ak74mag_multi",
+				"akmgoldmag_multi"
+			],
+			"value" : "replace_rpkdrum",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_rpkstock1",
+			"title" : "wac_replace_ar15_m4mk46_title",
+			"callback" : "callback_toggle_replace_rpkstock1",		
+			"items" : [
+				"wac_default_multi",
+				"skelst_multi",
+				"foldst_multi",
+				"akpslst_multi",
+				"plasticst_multi",
+				"stndst_multi",
+				"akclassst_multi"
+			],
+			"value" : "replace_rpkstock1",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_rpkstock2",
+			"title" : "wac_replace_akclassicst_title",
+			"callback" : "callback_toggle_replace_rpkstock2",		
+			"items" : [
+				"wac_default_multi",
+				"skelst_multi",
+				"foldst_multi",
+				"akpslst_multi",
+				"plasticst_multi",
+				"stndst_multi"
+			],
+			"value" : "replace_rpkstock2",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_rpkbipod",
+			"title" : "wac_replace_m249bipod_title",
+			"callback" : "callback_toggle_replace_rpkbipod",
+			"value" : "replace_rpkbipod",
+			"default_value" : false
+		}
+	]
+}

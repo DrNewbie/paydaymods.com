@@ -1,0 +1,12 @@
+<table>
+    <table search="unit">
+        <table search="sequence;name=' \'interact\' '">
+            <material name="'ecm'" texture="'units/payday2/equipment/gen_equipment_jammer/ecm_df'" search_render_template="'generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP'" multiple_objects="false"/>
+        </table>
+        <sequence editable_state="false" name="'activate'" triggable="true">
+            <object enabled="true" name="'g_ecm'"/>
+            <material name="'ecm'" texture="'units/gui/gui_color_use_df'" search_render_template="'generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP'" multiple_objects="false"/>
+            <graphic_group name="'ecm_icon'" visibility="false"/>
+        </sequence>
+    </table>
+</table>

@@ -1,0 +1,27 @@
+{
+	"menu_id" : "wac_menu_sh_cyresix12",
+	"parent_menu_id" : "wac_menu_sh",
+	"title" : "wac_menu_sh_cyresix12_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_cyresix12shortb",
+			"title" : "wac_replace_shortb_title",
+			"callback" : "callback_toggle_replace_cyresix12shortb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_cyresix12shortb",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_cyresix12suppb",
+			"title" : "wac_replace_usesuppb_title",
+			"callback" : "callback_toggle_replace_cyresix12suppb",
+			"value" : "replace_cyresix12suppb",
+			"default_value" : false
+		}
+	]
+}

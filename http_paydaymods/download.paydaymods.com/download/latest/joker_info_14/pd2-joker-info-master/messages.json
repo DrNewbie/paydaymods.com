@@ -1,0 +1,105 @@
+{
+  "death" : [
+    {
+      "threshold" : 0,
+      "texts" : [
+        "<N> died to <A>, being absolutely useless.",
+        "<N> didn't know how to use a gun and stood no chance against <A>.",
+        "<N> got wasted by <A> while staring at a wall.",
+        "<N> died to <A> as they lived - completely useless.",
+        "<A> shot first and killed <N>.",
+        "<N> pointed the wrong end of the gun towards <A>."
+      ]
+    },
+    {
+      "threshold" : 1,
+      "texts" : [
+        "<N> was a complete noob and could only get a single kill before dying to <A>.",
+        "<N> couldn't find it in them to continue living after killing a comrade and let <A> end them.",
+        "<N>'s only kill before getting killed by <A> was probably just an accident."
+      ]
+    },
+    { 
+      "threshold" : 5,
+      "texts" : [
+        "<N> didn't even try and only killed <K> enemies before getting killed by <A>.",
+        "<N> died to <A> with a sub-par kill count of <K>.",
+        "<N> didn't pay attention in gun training and could only score <K> kills before dying to <A>.",
+        "<N> couldn't be bothered to fight back against <A> after only scoring <K> kills."
+      ]
+    },
+    { 
+      "threshold" : 15,
+      "texts" : [
+        "<N> proved somewhat useful by scoring <K> kills before getting ended by <A>.",
+        "<N> was confident in their skills and scored <K> kills before being killed by <A>.",
+        "<N> performed slightly above average and got <K> kills before <A> killed them.",
+        "<A> stopped the potential of <N> who was getting into it, already having <K> kills."
+      ]
+    },
+    { 
+      "threshold" : 30,
+      "texts" : [
+        "<N> was especially trigger-happy, killing <K> of his comrades before being ended by <A>.",
+        "YouTube tutorials helped <N> get <K> kills before they were killed by <A>.",
+        "<N> showed some fine shooting skills, having scored <K> kills before dying to <A>.",
+        "<A> surprised <N> who was busy quick-scoping <K> enemies left and right."
+      ]
+    },
+    {
+      "threshold" : 50,
+      "texts" : [
+        "<N> went on a killing spree, scoring <K> kills before they died to <A>.",
+        "<N> really started to fit into the PAYDAY gang, killing <K> enemies before being put down by <A>.",
+        "<N> went down to <A> having mercilessly slaughtered <K> fellow colleagues.",
+        "<N> really hated their old job and went on a rampage resulting in their death by <A> and <K> kills.",
+        "<A> stopped the insane killing spree of <N> after they accumulated <K> kills."
+      ]
+    },
+    {
+      "threshold" : 100,
+      "texts" : [
+        "<N> somehow managed to even put the PAYDAY gang to shame, ending the lives of <K> enemies before dying to <A>.",
+        "<N> really wanted that job in the PAYDAY gang and worked hard to get <K> kills, but got ended by <A> early."
+      ]
+    }
+  ],
+  "survive" : [
+    {
+      "threshold" : 0,
+      "texts" : [
+        "<N> survived unharmed but didn't engage in combat at all.",
+        "<N> hid like a coward and therefore survived.",
+        "<N> somehow managed to survive despite being absolutely useless.",
+        "<N> thought it would be best to be a pacifist to stay alive."
+      ]
+    },
+    {
+      "threshold" : 1,
+      "texts" : [
+        "One shot, one kill. Unfortunately, it stayed at one shot for <N>.",
+        "<N> didn't get the chance to pull the trigger more than once before the end of the heist.",
+        "<N> was close to useless, only killing one enemy before the heist end."
+      ]
+    },
+    {
+      "threshold" : 15,
+      "texts": [
+        "<N> at least tried, and survived with <K> kills.",
+        "<N> managed to survive after killing <K> colleagues.",
+        "<N> got out alive with an acceptable kill count of <K>."
+      ]
+    },
+    {
+      "threshold" : 100,
+      "texts" : [
+        "<N> didn't acdum and managed to get out alive with <K> kills.",
+        "<N> lived to tell the tale of their amazing kill count of <K>.",
+        "<N> is now in therapy, traumatized from killing <K> people.",
+        "<N> survived the heist with <K> kills and is currently applying for a job in the PAYDAY gang.",
+        "<N> graduated top of their class in the Navy Seals and has at least <K> confirmed kills.",
+        "<N> is a real survival expert, accumulating <K> kills and getting out alive."
+      ]
+    }
+  ]
+}

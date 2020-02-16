@@ -1,0 +1,46 @@
+{
+	"inspirepriority_menu_title" : "Inspire-Priority Options",
+	"inspirepriority_menu_desc" : "Options for InspirePriority",
+	"inspirepriority_help_title" : "Help",
+	"inspirepriority_help_desc" : "Help for the different mod features and options.",
+	"inspirepriority_shout_priority_title" : "[Inspire-Revive Priority]",
+	"inspirepriority_shout_priority_desc" : "the aced Version of the Skill INSPIRE has more Priority while shouting at your downed teammates.",
+	"inspirepriority_disable_interaction_title" : "[Disable Interaction]",
+	"inspirepriority_disable_interaction_desc" : "Disable other interactions (use of medic bags/ammo bags, etc.) while shouting at your teammates.",
+	"inspirepriority_fail_message_title" : "[Fail Message]",
+	"inspirepriority_fail_message_desc" : "Displays a message in your local chat if revive attempt failed",
+	"inspirepriority_fail_message_vulgar_title" : "Alternative Fail Message",
+	"inspirepriority_fail_message_vulgar_desc" : "Displays the fail message in original vulgar Payday slang (Thanks to F1rekin for his awesome phrases.)",
+	"inspirepriority_steel_sight_reenable_title" : "Reenable Interactions temporary",
+	"inspirepriority_steel_sight_reenable_desc" : "Reenable all Interactions temporary while pressing the steel sight button (usually: right mouse button)",
+	"inspirepriority_reenable_medic_title" : "Reenable Healing when:",
+	"inspirepriority_reenable_medic_desc" : "Reenable the useage of medic bags if downed * times (Set * below)",
+	"inspirepriority_reenable_revive_title" : "Reenable Manual Revive when:",
+	"inspirepriority_reenable_revive_desc" : "Reenable reviving teammates manually instead of shouting if the target has only * seconds left before going into custody (Set * below)",
+	"inspirepriority_reenable_medic_downs_title" : "Downed",
+	"inspirepriority_reenable_medic_downs_desc" : "Set the number of downs when to reenable the usage of medic bags",
+	
+	"inspirepriority_reenable_medic_downs_option_0" : "0 times (always)",
+	"inspirepriority_reenable_medic_downs_option_1" : "1 time",
+	"inspirepriority_reenable_medic_downs_option_2" : "2 times",
+	"inspirepriority_reenable_medic_downs_option_3" : "3 times",
+	"inspirepriority_reenable_medic_downs_option_4" : "4 times (skilled)",
+	
+	"inspirepriority_reenable_revive_secs_title" : "Seconds left until custody",
+	"inspirepriority_reenable_revive_secs_desc" : "Set the maximum number of seconds that should be left (before target goes in custody) when to reenable manual revive",
+	
+	"inspirepriority_subtitle_inspire_revive" : "[Inspire-Revive Priority] Options",
+	"inspirepriority_subtitle_disable_interaction" : "[Disable Interaction] Options",
+	"inspirepriority_subtitle_fail_message" : "[Fail Message] Options",
+	
+	"inspirepriority_help_popup_title" : "Inspire-Priority Help",
+	"inspirepriority_help_popup_message" : "There are three main features in this mod: [Inspire-Revive Priority], [Disable Interactions] and [Fail Message].\n\n------------\n* [Inspire-Revive Priority]:\nBlocks any other shout-interactions while you are trying to revive your teammates from distance.\n => You won't mistakenly intimidate or mark enemies while trying to revive your teammates.\n------------\n \n------------\n* [Disable Interactions]\nDeactivates any interactions except shouting/intimidating.\n => You won't mistakenly interact with objects while trying to revive your teammates.\n \n --> Subfunctions:\n \n  - Reenable Healing:\nReenables healing up at a medic bag if you have been downed * times.\n * can be set in options\n \n  - Reenable Manual Revive:\nReenables reviving teammates manually if the target has only * seconds left until going into custody.\n * can be set in options\n \n  - Reenable Interactions:\nReenables all interactions temporary while pressing the <Steel_Sight_Button> (usually right mouse button).\n => You can short-term interact with any object you want if interaction is blocked.\n------------\n\n------------\n* [Fail Message]\nShows a message if the revive attempt failed (70% chance).\n => Only visible for you.\n \n --> Subfunctions:\n - Alternate Messages:\nToggle the Message Style between paydays vulgar slang and formal english.\n------------",
+	"inspirepriority_help_popup_back" : "Back",
+	
+	"inspirepriority_fail_message_regular" : "Revive attempt failed (30% chance)",
+	"inspirepriority_fail_message_vulgar0" : "You fucked up!",
+	"inspirepriority_fail_message_vulgar1" : "You won't help him up ... would you?",
+	"inspirepriority_fail_message_vulgar2" : "Please be gentle to your mates ... ... WHY THE FUCK IS HE EVEN DOWNED!?!",
+	"inspirepriority_fail_message_vulgar3" : "Let him die! One less ... more loot for us!",
+	"inspirepriority_fail_message_vulgar4" : "One does not simply revive a teammate at the first try"
+}

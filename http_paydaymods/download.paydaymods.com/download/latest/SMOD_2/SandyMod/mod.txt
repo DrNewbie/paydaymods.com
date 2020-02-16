@@ -1,0 +1,19 @@
+{
+	"blt_version" : 2,
+	"name": "SandyMod",
+	"description": "This mod is intended to make useless weapons, weapon mods and skills viable. Currently skills are not touched.",
+	"author": "Warnstaff",
+	"contact": "SandyMod Steam Group: http://steamcommunity.com/groups/PD2SandyMod",
+	"version": "v0.50",
+	"updates" : [
+	{
+		"revision" : 050,
+		"identifier" : "SMOD"
+	}
+	],
+	"priority": 500,
+	"hooks": [
+		{ "hook_id" : "lib/tweak_data/weaponfactorytweakdata", "script_path" : "weaponfactorytweakdata.lua"	},
+		{ "hook_id" : "lib/tweak_data/weapontweakdata", "script_path" : "SandyWeaponTweaks.lua"	}
+		]
+}

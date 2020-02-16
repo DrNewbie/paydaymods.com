@@ -1,0 +1,22 @@
+{
+	"name" : "Create Empty Lobby",
+	"description" : "Provides a convenient way to start a contractless lobby in friends-only mode, directly from the main menu",
+	"author" : "\n    Snh20\n    TdlQ (localizations loading code)\n    Mr.PlayYou [BE] (French translations)\n    Tha Venom (German translations)\n    Utku (Turkish translations)\n    Magic Bitard (Russian translations)",
+	"blt_version" : 2,
+	"version" : "0.0.1.4",
+	"priority" : 10,
+	"color" : "0.15 0.15 0.15",
+	"image" : "_icon.png",
+	"updates" : [
+		{
+			"revision" : 5,
+			"identifier" : "createemptylobby"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		}
+	]
+}

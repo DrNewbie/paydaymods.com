@@ -1,0 +1,12 @@
+{
+	"sellstuff_title" : "Sell All Items",
+	"id_sellstuff_dewit_title" : "Sell Selected Category",
+	"id_sellstuff_dewit_desc" : "DEW IT",
+	"sellstuff_category_title" : "Category",
+	"sellstuff_category_desc" : "Select Item Category",
+	"sellstuff_nothing" : "SELECT...",
+	"sellstuff_primaries" : "Primaries" ,
+	"sellstuff_secondaries" : "Secondaries",
+	"sellstuff_masks" : "Masks",
+	"sellstuff_all" : "ALL"
+}

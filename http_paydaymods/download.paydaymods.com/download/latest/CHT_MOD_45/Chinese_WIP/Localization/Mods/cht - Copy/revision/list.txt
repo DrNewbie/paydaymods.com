@@ -1,0 +1,12 @@
+{
+  "source": [
+    {
+      "author": "awcjack",
+      "link": "https://raw.githubusercontent.com/awcjack/payday-2-cWIP-mod-text/master/awcjack/list.txt"
+    },
+    {
+      "author": "綠茶地瓜",
+      "link": ""
+    }
+  ]
+}

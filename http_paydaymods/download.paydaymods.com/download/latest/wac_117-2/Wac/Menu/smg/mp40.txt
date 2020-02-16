@@ -1,0 +1,43 @@
+{
+	"menu_id" : "wac_menu_smg_mp40",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_mp40_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_mp40flashhider",
+			"title" : "wac_replace_useownflashhider_title",
+			"callback" : "callback_toggle_replace_mp40flashhider",
+			"value" : "replace_mp40flashhider",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_mp40_foldedst",
+			"title" : "wac_replace_foldedst_title",
+			"callback" : "callback_toggle_replace_mp40_foldedst",		
+			"items" : [
+				"wac_default_multi",
+				"unfoldst_multi"
+			],
+			"value" : "replace_mp40_foldedst",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_mp40x_st",
+			"title" : "wac_replace_akimbost_title",
+			"callback" : "callback_toggle_replace_mp40x_st",		
+			"items" : [
+				"wac_default_multi",
+				"unfoldst_multi"
+			],
+			"value" : "replace_mp40x_st",
+			"default_value" : 1
+		}
+	]
+}

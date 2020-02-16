@@ -1,0 +1,21 @@
+{
+	"name" : "Anti Voice Spam 2",
+	"description" : "A counter to soundboard or voice-spam mods like Basic Voices.",
+	"author" : "Offyerrocker",
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "1.0",
+	"blt_version" : 2,
+	"image" : "avs2.png",
+	"color" : "255 128 0",
+	"hooks" : [
+		{
+			"hook_id" : "lib/network/handlers/unitnetworkhandler",
+			"script_path" : "nocomment.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "avs2"
+		}
+	]
+}

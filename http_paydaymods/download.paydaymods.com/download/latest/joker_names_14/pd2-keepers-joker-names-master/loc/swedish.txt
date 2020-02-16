@@ -1,0 +1,15 @@
+{
+  "JokerNames_menu_main_name" : "Keepers-Jokernamn",
+  "JokerNames_menu_main_desc" : "Anpassa inställningar för Jokernamn",
+  "JokerNames_menu_use_custom_names" : "Använd anpassade inställningar",
+  "JokerNames_menu_use_custom_names_desc" : "Använd anpassade namn istället för de som anges",
+  "JokerNames_menu_information" : "Information",
+  "JokerNames_menu_information_text" : "En fil som kallas \"custom_joker_names.txt\" med inlagda exempel har skapats i \"PAYDAY 2/mods/saves\".\nRedigera den för att lägga till anpassade namn.",
+  "JokerNames_menu_name_style" : "Namnformat",
+  "JokerNames_menu_name_style_desc" : "Jokernamnens format\n%N = Name, %S = Surname, %K = Keepers name, %T = Unit type",
+  "JokerNames_menu_force_names" : "Överskrida namnen",
+  "JokerNames_menu_force_names_desc" : "Vill du överskrida andra spelares Jokernamn baserat på inställningar?",
+  "JokerNames_menu_force_names_never" : "Aldrig",
+  "JokerNames_menu_force_names_empty" : "Om odefinierat",
+  "JokerNames_menu_force_names_always" : "Alltid"
+}

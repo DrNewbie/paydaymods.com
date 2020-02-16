@@ -1,0 +1,20 @@
+{
+	"tip_tactical_reload" : "No olvides que puedes llevar a cabo una \"recarga táctica\", es decir, recargar el arma aunque te queden balas en el cargador.\n\nAsí te asegurarás de tener el cargador lleno cuando te metas en líos.",
+	"tip_weapon_effecienty" : "Cada arma tiene un alcance óptimo que la hace más apropiada para determinadas situaciones.",
+	"tip_switch_to_sidearm" : "Desenfundar el arma secundaria siempre es más rápido que recargar el arma principal.\n\nPor ejemplo, si llevas un subfusil y te quedas sin munición, desenfundar una pistola es mucho menos arriesgado que recargar.",
+	"tip_doctor_bag" : "El botiquín de urgencias puede salvarte la vida en más de una ocasión.\n\nSi tus compañeros están en las últimas, coloca el botiquín de urgencias en el suelo para que todos puedan curar sus heridas.",
+	"tip_ammo_bag" : "Si te quedas sin munición con frecuencia, lleva una bolsa de munición extra contigo.\n\nCuando estés escaso de munición, coloca la bolsa en el suelo y úsala para reponer tus reservas.",
+	"tip_head_shot" : "Los disparos en la cabeza son mucho más eficaces que en otras partes del cuerpo.",
+	"tip_secret_assignmnet" : "Las cuatro unidades especiales son muy peligrosas, sobre todo si tratas de enfrentarte a ellas en solitario.\n\nUne tus fuerzas con tus compañeros para hacerles frente.",
+	"tip_help_bleed_out" : "Si un atracador recibe demasiados daños, quedará malherido. Mientras esté en ese estado,  no podrá moverse y solo podrá disparar con su pistola.\n\nSi alguno de tus compañeros está malherido, puedes reanimarlo sin coste alguno.",
+	"tip_dont_shoot_civilians" : "No dispares a los civiles. Por cada civil que mates, la penalización para negociar aumentará.\n\nEso quiere decir que, si la policía te arresta, pasará más tiempo antes de que estén dispuestos a cambiarte por uno de los rehenes.",
+	"tip_trading_hostage" : "Si permaneces malherido demasiado tiempo, la policía te arrestará y solamente te liberará si hacéis un intercambio de prisioneros.\n\nLa policía se pondrá en contacto con Bain para organizar el cambio.",
+	"tip_shoot_at_civilians" : "Grita a los civiles de vez en cuando para mantenerlos a raya.\n\nUn civil con vida es mucho más útil que uno muerto. Mientras estén en el suelo será mucho más difícil que les pase algo.",
+	"tip_police_free_hostage" : "Si no hay ningún atracador cerca, la policía siempre aprovechará para liberar a los rehenes.\n\nProcurad dispersaros para vigilar a todos los rehenes. No olvidéis que son vuestro seguro de vida.",
+	"tip_steelsight" : "Si apuntas a través de la mirilla, tus tiros serán mucho más precisos que si disparas sin apuntar.",
+	"tip_melee_attack" : "Golpear a un rival con la culata del arma es una forma excelente de rematarlo.\n\nEste método resulta particularmente práctico si te queda poca munición.",
+	"tip_law_enforcers_as_hostages" : "Si no tienes civiles a mano, siempre puedes usar como rehenes a los agentes del orden que captures.",
+	"tip_mask_off" : "Recordad que los agentes del orden no se fijarán en vosotros hasta que no os pongáis las máscaras.\n\nExplorad a fondo el lugar y poneos en posición antes de poneros las máscaras. Una vez que os hayáis puesto las máscaras, ya no os las podréis quitar hasta que termine el golpe.",
+	"tip_objectives" : "El objetivo actual aparece en la esquina superior izquierda de la pantalla.\n\nConsulta la pantalla de información para ver una descripción más detallada del objetivo, así como una lista de objetivos cumplidos.",
+	"tip_shoot_in_bleed_out" : "No olvides que puedes disparar tu arma secundaria aunque estés malherido.\n\nDe este modo podrás defenderte y proteger a los compañeros que te ayuden a levantarte. Eso sí,  no provoques a las fuerzas del orden si estás solo: recuerda que los atracadores malheridos son un blanco fácil."
+}

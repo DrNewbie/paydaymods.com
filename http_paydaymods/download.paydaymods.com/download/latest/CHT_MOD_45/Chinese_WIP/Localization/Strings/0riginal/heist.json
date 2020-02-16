@@ -1,0 +1,1864 @@
+[
+{
+	 "i"		: 1
+	,"ids"		: "Idstring(@IDc2fc324efb29b593@)"
+	,"StringID"	: "heist_short1_stage1_hl"
+	,"orig_text": "Stealth - Flash Drive"
+},{
+	 "i"		: 2
+	,"ids"		: "Idstring(@IDcb94fa5cdcd6a1fd@)"
+	,"StringID"	: "heist_escape_overpass_briefing"
+	,"orig_text": "...Jesus they're right on top of you, prepare to get hit!"
+},{
+	 "i"		: 3
+	,"ids"		: "Idstring(@IDb67df42421612c0c@)"
+	,"StringID"	: "heist_four_stores_hl"
+	,"orig_text": "Four Stores"
+},{
+	 "i"		: 4
+	,"ids"		: "Idstring(@ID06f1439fb5ef52bb@)"
+	,"StringID"	: "heist_peta_crimenet"
+	,"orig_text": "Hector's death left a vacuum in the powder trade. Nature abhors a vacuum. Fucking abhors it! There's muck-fuckers crawling in from everywhere. Bunch of Hondurans are trying to spread. Let's hit them before they can take root. Break up their smuggling ring. Steal their product. What can go wrong?$NL;$NL;» Locate the goats$NL;» Secure the goats$NL;» Escape"
+},{
+	 "i"		: 5
+	,"ids"		: "Idstring(@ID4cfb9d5b6853a5d7@)"
+	,"StringID"	: "heist_alex_2_briefing"
+	,"orig_text": "OK folks, I spoke to Hector. The Mendoza higher ups are fleeing the country but Hector isn't quite ready to let them leave. He wants to know where they're headed. A rat in their midst has sold them out to the Cobras street gang - vicious pricks that even Hector's people don't deal with. Which is where you come in... Trade the meth with them for the info."
+},{
+	 "i"		: 6
+	,"ids"		: "Idstring(@IDa49b46e155cba825@)"
+	,"StringID"	: "heist_red2_hl"
+	,"orig_text": "First World Bank"
+},{
+	 "i"		: 7
+	,"ids"		: "Idstring(@IDdffc1acbea224c75@)"
+	,"StringID"	: "heist_roberts_briefing"
+	,"orig_text": "We got a bank here. Not a big branch but I've learned the vault is temporarily holding stacks of cash in transit. Foreign exchange notes.$NL;$NL;Anyway, you know how to do it - your way. Sneak in silent, or unleash hell. Either way, I got a little idea for how to lift the money out of there. You'll see what I mean. I think you'll like it."
+},{
+	 "i"		: 8
+	,"ids"		: "Idstring(@ID55506dc6b1c8de5d@)"
+	,"StringID"	: "heist_family"
+	,"orig_text": "Diamond Store"
+},{
+	 "i"		: 9
+	,"ids"		: "Idstring(@ID33f70c3858e66978@)"
+	,"StringID"	: "chill_combat_header"
+	,"orig_text": "Safe House Raid"
+},{
+	 "i"		: 10
+	,"ids"		: "Idstring(@ID26e5af7128242876@)"
+	,"StringID"	: "heist_escape_cafe_briefing"
+	,"orig_text": "...Damn it to hell they're onto us, they're onto us! You gotta escape with the loot!"
+},{
+	 "i"		: 11
+	,"ids"		: "Idstring(@ID7fe586acaeedacac@)"
+	,"StringID"	: "heist_welcome_to_the_jungle_1_briefing"
+	,"orig_text": "The Elephant gave us the location of the biker gang hunting for the scientist's little device. I think they're close to finding him - we need their intel so we can get to him first. I'm betting it's in their safe."
+},{
+	 "i"		: 12
+	,"ids"		: "Idstring(@IDe69a9069aa933a64@)"
+	,"StringID"	: "heist_arm_par_hl"
+	,"orig_text": "Transport: Park"
+},{
+	 "i"		: 13
+	,"ids"		: "Idstring(@IDa93c48474cace803@)"
+	,"StringID"	: "heist_crojob2_briefing"
+	,"orig_text": "The Moretta is sitting in a sealed dock, awaiting customs clearance. This is where you come in. Once you're in the dockyard, you're going to get it moved to a berth from where you can get aboard. From 2B to 3B. Open the dock gates, and let the Captain know he can move. Once the Moretta is berthed in 3B, you can get aboard and boost the explosives. Simple? Well, maybe not so simple. Security's too tight for a ship loaded with Balkan farm produce. Starting to guess a lot of shady stuff comes through that route. So be careful."
+},{
+	 "i"		: 14
+	,"ids"		: "Idstring(@ID5b70f72971857924@)"
+	,"StringID"	: "heist_wwh_hl"
+	,"orig_text": "Alaskan Deal"
+},{
+	 "i"		: 15
+	,"ids"		: "Idstring(@IDa104f66450ba97ba@)"
+	,"StringID"	: "heist_contact_bain_description"
+	,"orig_text": "The shadowy figure behind Crime.net. No one, not even the crew, has ever met Bain, and his interaction with the contacts and the crew is carefully managed to ensure minimum risk to all parties."
+},{
+	 "i"		: 16
+	,"ids"		: "Idstring(@ID67282576f6e55bdb@)"
+	,"StringID"	: "heist_hox_1_hl"
+	,"orig_text": "The Breakout"
+},{
+	 "i"		: 17
+	,"ids"		: "Idstring(@IDa67632ef8bcbb9e9@)"
+	,"StringID"	: "heist_man_hl"
+	,"orig_text": "Undercover"
+},{
+	 "i"		: 18
+	,"ids"		: "Idstring(@IDbbcc92b8a0dae5a4@)"
+	,"StringID"	: "heist_branchbank_gold"
+	,"orig_text": "Bank Heist: Gold"
+},{
+	 "i"		: 19
+	,"ids"		: "Idstring(@ID6bf024c300320288@)"
+	,"StringID"	: "heist_type_trade"
+	,"orig_text": "Trade"
+},{
+	 "i"		: 20
+	,"ids"		: "Idstring(@ID81dd39a6b12397cd@)"
+	,"StringID"	: "heist_contact_continental_description"
+	,"orig_text": "The Continental is a mysterious institution, a hotel but also a safe haven for professional assassins and others who move in the shadows. Sometimes the Continental has need of services, services that require special talents. This is where the Payday Gang comes into the picture."
+},{
+	 "i"		: 21
+	,"ids"		: "Idstring(@ID03e1377db170a06f@)"
+	,"StringID"	: "heist_branchbank_deposit_crimenet"
+	,"orig_text": "Bain wants you to do a classic bank hit. This job is about deposit boxes.$NL;$NL;» Locate the bank$NL;» Find the thermal drill$NL;» Drill the vault$NL;» Keep the civilians in check$NL;» Open the deposit boxes$NL;» Escape with the contents of the boxes"
+},{
+	 "i"		: 22
+	,"ids"		: "Idstring(@ID3ee9a173d939a185@)"
+	,"StringID"	: "rb14_drk_cbf_01_01"
+	,"orig_text": "To get our hands on the EMP bomb, we're gonna have to mess with fuckin' Murkywater. They're transporting a bunch of goods via train, and will be making a scheduled stop at a hidden train yard. I, of course, would prefer to do it guns blazing, but that's too risky, yeah? So we need to this the stealthy way, lads.$NL;$NL;» Find the trains$NL;» Locate the EMP bomb parts$NL;» Get them out of there and escape"
+},{
+	 "i"		: 23
+	,"ids"		: "Idstring(@IDece7c62983efd55e@)"
+	,"StringID"	: "heist_kenaz_hl"
+	,"orig_text": "Golden Grin Casino"
+},{
+	 "i"		: 24
+	,"ids"		: "Idstring(@IDb607929ff9bf6603@)"
+	,"StringID"	: "heist_contact_locke_description"
+	,"orig_text": "Born in South Africa, educated at Lincoln Laboratory, trained under MI5, and now employed by Murkywater. Vernon Locke heads their special cyberwarfare division, which has been tasked with infiltrating Crime.net. Locke has managed this. However, he sees this as an opportunity, and has reached out to Bain and the Payday gang. The deal? Work with him, or he brings Crime.net down forever."
+},{
+	 "i"		: 25
+	,"ids"		: "Idstring(@ID0a24579ffb5f9079@)"
+	,"StringID"	: "heist_short1_stage1_briefing"
+	,"orig_text": "Dallas, old friend, I'm glad to have you back after two years. Now you already know I'm a thorough man, so it should come as no surprise that I want to get rid of any ring rust that might exist. Follow my instructions just like old times and this will be a walk in the park. We're after some access codes that we will be needing later, but we need to make it look like nothing but a simple robbery. You're doing this in the quiet, so dress appropriately."
+},{
+	 "i"		: 26
+	,"ids"		: "Idstring(@IDf8515777a7a36571@)"
+	,"StringID"	: "heist_hox_3_crimenet"
+	,"orig_text": "The Feds have moved the rat to a safe house. They do a great job hiding his identity, but not his location. Silly pricks. So we drive out there, get in and put him down.$NL;$NL;» Scope the safe house and find a way in$NL;» Deal with any security $NL;» Locate the rat $NL;» Eliminate the rat $NL;» Remove any evidence"
+},{
+	 "i"		: 27
+	,"ids"		: "Idstring(@ID3e583f3a884f788b@)"
+	,"StringID"	: "heist_nightclub_crimenet"
+	,"orig_text": "Vlad wants you to steal money from Dmitri's nightclub.$NL;$NL;» Locate the nightclub$NL;» Break into the safe in the office$NL;» Bag Dmitri's money and get it to the car"
+},{
+	 "i"		: 28
+	,"ids"		: "Idstring(@ID6a3acffd2e26775c@)"
+	,"StringID"	: "heist_type_assault"
+	,"orig_text": "Assault"
+},{
+	 "i"		: 29
+	,"ids"		: "Idstring(@IDc840d8eed9f27aa3@)"
+	,"StringID"	: "heist_arm_cro_hl"
+	,"orig_text": "Transport: Crossroads"
+},{
+	 "i"		: 30
+	,"ids"		: "Idstring(@ID252529043dfd12dd@)"
+	,"StringID"	: "heist_chill_combat_crimenet"
+	,"orig_text": "The cops are coming to raid the Safe House. But they don't know who's there , so you'll have the advantage of surprise. Protect your money bags at all costs!$NL;$NL;»Defeat the police raid.$NL;»Don't let the cops steal your money."
+},{
+	 "i"		: 31
+	,"ids"		: "Idstring(@ID082afa9595709106@)"
+	,"StringID"	: "heist_family_briefing"
+	,"orig_text": "All the display cases in there are connected to an alarm. Disable the alarm and then steal the diamond jewelry. The escape driver is a bit jumpy so keep this quiet and methodical. Bag up everything. Let's get it all!"
+},{
+	 "i"		: 32
+	,"ids"		: "Idstring(@IDad5072118630a204@)"
+	,"StringID"	: "heist_mus_briefing"
+	,"orig_text": "This is one of the big ones. We're going after a major prize - The Diamond. You're going to break into the McKendrick museum, get the stone, and get out. Sounds simple. Well, 'simple' doesn't always mean 'easy', and this ain't gonna be. So here are the 'simple' objectives. Break into the museum. Once you're in, check what security there is between you and The Diamond. Take it down. Once you have the stone, get out.$NL;$NL;This one is for The Dentist. He's the only one with the connections to move the most famous diamond in the world. I get the feeling he's been feeling us out so far. Seeing if we're up for a heist like this."
+},{
+	 "i"		: 33
+	,"ids"		: "Idstring(@IDc48c9cf63d026809@)"
+	,"StringID"	: "heist_big_briefing"
+	,"orig_text": "The Benevolent Bank has history. Oldest US bank, sacked by the British in 1812, held Civil War gold, issued FDR's first bonds. Hell, you'll even find it on the back of your ten-spots. And guess what - in all that time, it has never been successfully knocked over. Successfully. Well, today it is your turn to try and change that.$NL;$NL;You're going in through the front door. Scope the place to figure your best way through the lobby to the vaults beyond. I've got some ideas of how we're going to boost all that loot. Trust me. Make history, guys."
+},{
+	 "i"		: 34
+	,"ids"		: "Idstring(@ID445d2b440e93c6f9@)"
+	,"StringID"	: "heist_contact_hector"
+	,"orig_text": "Hector"
+},{
+	 "i"		: 35
+	,"ids"		: "Idstring(@ID1becf0e332f0b1a9@)"
+	,"StringID"	: "heist_branchbank_gold_crimenet"
+	,"orig_text": "Bain wants you to do a classic bank hit. The Harvest & Trustee bank is trying to up its liquidity with a large deposit of gold.$NL;$NL;» Locate the bank$NL;» Find the thermal drill$NL;» Drill the vault$NL;» Escape with the gold"
+},{
+	 "i"		: 36
+	,"ids"		: "Idstring(@ID6e43fc090c59db1e@)"
+	,"StringID"	: "heist_kosugi_crimenet"
+	,"orig_text": "Murkywater has a bonded warehouse down at the old wharf. See what sort of crap they're shipping back.$NL;$NL;» Break into the warehouse undetected$NL;» Steal anything valuable you can find$NL;» Remember, there is no plan B$NL;» Escape with the loot"
+},{
+	 "i"		: 37
+	,"ids"		: "Idstring(@IDfbd5c2a194b2e19c@)"
+	,"StringID"	: "heist_mia_crimenet"
+	,"orig_text": "My long-term plans require leverage over Washington's District Attorney. My hotline to him goes through a Russian, operating out of Miami. Your job is to eliminate this Russian. Draw him out by sabotaging his operations in D.C. I'd wish you luck, but luck has nothing to do with it.$NL;$NL;The Dentist wants you to take care of the Commissar.$NL;$NL;» Force the Commissar to call you$NL;» Trace the call$NL;» Infiltrate the Commissar's hideout and eliminate him"
+},{
+	 "i"		: 38
+	,"ids"		: "Idstring(@IDbf8f3b7095524f52@)"
+	,"StringID"	: "heist_cane_crimenet"
+	,"orig_text": "The target is a gang-run warehouse. They've got some elves making presents - bundles of coke. Get them cutting for us.$NL;$NL;» Enter the warehouse$NL;» Convince the elves to make presents for us$NL;» Protect the elves$NL;» Secure the presents"
+},{
+	 "i"		: 39
+	,"ids"		: "Idstring(@ID42f33bd80807408b@)"
+	,"StringID"	: "heist_wwh"
+	,"orig_text": "Alaskan Deal"
+},{
+	 "i"		: 40
+	,"ids"		: "Idstring(@ID79aca83a4c6a9378@)"
+	,"StringID"	: "heist_short1"
+	,"orig_text": "Flash Drive - Stealth"
+},{
+	 "i"		: 41
+	,"ids"		: "Idstring(@IDb100203f67d28e4b@)"
+	,"StringID"	: "heist_arm_und_briefing"
+	,"orig_text": "We hit the Gensec convoy at the underpass, en-route from Dulles to their depot in McLean, so expect rich pickings. Get whatever's in the trucks to your escape driver. We're deep in Indian country here, gentlemen, so expect a fast response from D.C.'s finest."
+},{
+	 "i"		: 42
+	,"ids"		: "Idstring(@IDffdd7e63aa6d8ee9@)"
+	,"StringID"	: "heist_firestarter_3_hl"
+	,"orig_text": "Trustee Bank"
+},{
+	 "i"		: 43
+	,"ids"		: "Idstring(@ID8d63a7955bc58d2c@)"
+	,"StringID"	: "eday3_brief"
+	,"orig_text": "We may have failed to tamper with the voting machines, but we can still help rig this vote. The votes have been cast and the exit polls aren't encouraging. If we can corrupt the server with the results we can trigger a re-election. But here's the twist - to avoid suspicion, we're gonna make it look like collateral damage by robbing the bank next door."
+},{
+	 "i"		: 44
+	,"ids"		: "Idstring(@IDa7a7c9f55e04e549@)"
+	,"StringID"	: "heist_peta_hl"
+	,"orig_text": "This was not the deal"
+},{
+	 "i"		: 45
+	,"ids"		: "Idstring(@ID2b690d7494def2a2@)"
+	,"StringID"	: "heist_arm_par_briefing"
+	,"orig_text": "The lunch-time crowd at Sherping Memorial Park usually don't see anything more exciting than a pigeon taking a crap, so put a good show on for them, gentlemen. You got Gensec trucks and the strongboxes inside to deal with."
+},{
+	 "i"		: 46
+	,"ids"		: "Idstring(@ID6c17f0c6abd9cec5@)"
+	,"StringID"	: "heist_cage_crimenet"
+	,"orig_text": "We're headed down to the Teuer showroom. We're after new high-performance sports cars this time. Get them out of there. We don't want them scratched, so keep it quiet.$NL;$NL;» Find the storage room with the keys$NL;» Get access to the keyroom$NL;» Blow a hole in the road$NL;» Secure the cars at the docks"
+},{
+	 "i"		: 47
+	,"ids"		: "Idstring(@ID71ce712e85a26852@)"
+	,"StringID"	: "heist_arm_fac_briefing"
+	,"orig_text": "We're using a magnetic crane to drop a little present in the path of the Gensec convoy - a steel container of professional badasses. Hit the trucks, and get the loot to the getaway. These docks have a rich history of heistery, gentlemen - do it proud."
+},{
+	 "i"		: 48
+	,"ids"		: "Idstring(@ID355e3ec734d95d41@)"
+	,"StringID"	: "heist_hvh_hl"
+	,"orig_text": "Cursed Kill Room"
+},{
+	 "i"		: 49
+	,"ids"		: "Idstring(@ID88ce2ead0db7da2c@)"
+	,"StringID"	: "heist_short1_stage2_crimenet"
+	,"orig_text": "Break into the building - access the Police database and delete all the intel they have on Crime.Net."
+},{
+	 "i"		: 50
+	,"ids"		: "Idstring(@IDf434616cd3098e09@)"
+	,"StringID"	: "heist_short2_stage2b"
+	,"orig_text": "Loud - Plan B"
+},{
+	 "i"		: 51
+	,"ids"		: "Idstring(@ID4cd5fec80f031931@)"
+	,"StringID"	: "heist_dinner_briefing"
+	,"orig_text": "Murkywater's been moving stuff through DC by convoy for months. I've resisted hitting these til we got a shot at a big prize. Here it is. Gold bullion. Got a diversion on the Woodrow set up to get it where we want it, then we're gonna seperate an armored truck from an armed convoy. Once it's isolated, hit it and boost that sweet bling. Au yeah."
+},{
+	 "i"		: 52
+	,"ids"		: "Idstring(@ID62d043cfa29ccc3d@)"
+	,"StringID"	: "heist_safehouse_briefing_2"
+	,"orig_text": "Welcome back to the safe house."
+},{
+	 "i"		: 53
+	,"ids"		: "Idstring(@ID86b3b428badec757@)"
+	,"StringID"	: "heist_escape_garage_hl"
+	,"orig_text": "Garage Escape"
+},{
+	 "i"		: 54
+	,"ids"		: "Idstring(@IDa0cd22e57d2e7d77@)"
+	,"StringID"	: "heist_watchdogs_crimenet"
+	,"orig_text": "Hector needs watchdogs for transporting cocaine.$NL;$NL;» Guard the cocaine in the truck$NL;» Adapt to new situations$NL;» Reach the harbor$NL;» Deliver the shipment to boat driver"
+},{
+	 "i"		: 55
+	,"ids"		: "Idstring(@ID0700b0bc59139ddf@)"
+	,"StringID"	: "heist_mad_briefing"
+	,"orig_text": "Of all the times to grow a conscience, you decide now is the time? I can't say I like it, but I can't say you are making a mistake either. Based on what this Jimmy character is telling us, Akan really needs to be stopped. Your destination is a lumber mill in the middle of nowhere, that is secretly a laboratory run by a strange Russian organization. Jimmy tells me they are conducting some experiments that involve things out of this reality. Break into the lab and get the data Akan is after. Good luck, gang."
+},{
+	 "i"		: 56
+	,"ids"		: "Idstring(@ID513848086c075c1b@)"
+	,"StringID"	: "heist_election_day_1_hl"
+	,"orig_text": "Right Track"
+},{
+	 "i"		: 57
+	,"ids"		: "Idstring(@IDa0e8f3cb6c96df52@)"
+	,"StringID"	: "heist_short2_stage1_hl"
+	,"orig_text": "Loud - Get The Coke"
+},{
+	 "i"		: 58
+	,"ids"		: "Idstring(@ID8595f8ef3782a879@)"
+	,"StringID"	: "heist_jewelry_store"
+	,"orig_text": "Jewelry Store"
+},{
+	 "i"		: 59
+	,"ids"		: "Idstring(@ID544b050451d3aa80@)"
+	,"StringID"	: "heist_branchbank_hl"
+	,"orig_text": "Bank Heist"
+},{
+	 "i"		: 60
+	,"ids"		: "Idstring(@ID9ac8375c9f10771c@)"
+	,"StringID"	: "heist_branchbank"
+	,"orig_text": "Bank Heist: Random"
+},{
+	 "i"		: 61
+	,"ids"		: "Idstring(@ID100a6135d9a2da38@)"
+	,"StringID"	: "heist_fish_crimenet"
+	,"orig_text": "I know that mayor McKendrick has been somewhat of an... obstacle for the Payday Gang. Now, I have very reliable information that he's moving a large amount of illegal cash into the country to use for his re-election campaign. Enough to decide the election, perhaps. The money is hidden on a yacht belonging to a certain Ethan Powell, an ally of McKendrick. The yacht is currently anchored in New York harbor.$NL;$NL;» Find the stashes and bag the money$NL;» Locate and retrieve the server$NL;» Escape with the loot"
+},{
+	 "i"		: 62
+	,"ids"		: "Idstring(@IDad8b88dc9bd8380c@)"
+	,"StringID"	: "heist_arm_hcm_crimenet"
+	,"orig_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle"
+},{
+	 "i"		: 63
+	,"ids"		: "Idstring(@ID4088e4c13f68a8e4@)"
+	,"StringID"	: "heist_firestarter_2_briefing"
+	,"orig_text": "Now Hector tells me we need to hit the Mendozas themselves for information. Where they keep their money, in fact. Lucky for us, someone in the Mendoza cartel gave up info that they're being investigated by the FBI. So all we need to do is hit the local FBI office handling the cartel to get the data. And, yes, I know. Out of the frying pan, into the fire..."
+},{
+	 "i"		: 64
+	,"ids"		: "Idstring(@ID40b0759a5e21fe44@)"
+	,"StringID"	: "heist_dah_briefing"
+	,"orig_text": "Ok, listen up. To get inside that vault you need to get by the security system. Intel says that Garnet's son Ralph has the key card for it, but he also happens to be the birthday boy so that could be a problem. There's also a three-part security code split up onto different laptops because someone told 'em it would be safer. It'd be great if you could get our hands on both the key card and code without raising any alarms, maybe pull a silent fast one on Mr. Garnet."
+},{
+	 "i"		: 65
+	,"ids"		: "Idstring(@ID86665ebd7aa04001@)"
+	,"StringID"	: "heist_nightclub_hl"
+	,"orig_text": "Nightclub"
+},{
+	 "i"		: 66
+	,"ids"		: "Idstring(@IDda7a9ccf96b4f56d@)"
+	,"StringID"	: "heist_arm_cro_crimenet"
+	,"orig_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle"
+},{
+	 "i"		: 67
+	,"ids"		: "Idstring(@ID021cb4fee8f10aed@)"
+	,"StringID"	: "heist_kenaz_full"
+	,"orig_text": "Golden Grin Casino"
+},{
+	 "i"		: 68
+	,"ids"		: "Idstring(@IDfaed984e80b2e954@)"
+	,"StringID"	: "rb14_drk_outro_01_01"
+	,"orig_text": "Smooth as silk, boys and girls! With the EMP bomb secured we now got what we need to breach the hidden facility. Mother Russia - here we come! "
+},{
+	 "i"		: 69
+	,"ids"		: "Idstring(@ID7fa946a25be0ee34@)"
+	,"StringID"	: "heist_family_crimenet"
+	,"orig_text": "This is a high fashion jewelry store. Mostly diamonds in there. Bain wants a lot of bags. There is an alarm connected to the display cases. It will be a tough one.$NL;$NL;» Case the place carefully.$NL;» Check for guards, alarms and cameras$NL;» Fill your bags with diamond jewelry and get to the escape car$NL;"
+},{
+	 "i"		: 70
+	,"ids"		: "Idstring(@IDb27b5dc90904b1ec@)"
+	,"StringID"	: "heist_pbr2"
+	,"orig_text": "Birth of Sky"
+},{
+	 "i"		: 71
+	,"ids"		: "Idstring(@IDd5a1947b901ba9d9@)"
+	,"StringID"	: "heist_welcome_to_the_jungle_1_hl"
+	,"orig_text": "Club House"
+},{
+	 "i"		: 72
+	,"ids"		: "Idstring(@IDd91e8cf8c3a24111@)"
+	,"StringID"	: "heist_welcome_to_the_jungle_2_hl"
+	,"orig_text": "Engine Problem"
+},{
+	 "i"		: 73
+	,"ids"		: "Idstring(@ID8d79e06f2a47f8ba@)"
+	,"StringID"	: "heist_alex_1_hl"
+	,"orig_text": "Cook Off"
+},{
+	 "i"		: 74
+	,"ids"		: "Idstring(@IDe005076a318d46cf@)"
+	,"StringID"	: "heist_crojob2"
+	,"orig_text": "The Bomb: Forest"
+},{
+	 "i"		: 75
+	,"ids"		: "Idstring(@ID3f42f62eb3f12fa6@)"
+	,"StringID"	: "heist_escape_park_hl"
+	,"orig_text": "Park Escape"
+},{
+	 "i"		: 76
+	,"ids"		: "Idstring(@ID05d890f0809575ac@)"
+	,"StringID"	: "heist_glace_briefing"
+	,"orig_text": "The plan is simple: under cover of darkness, we hit the convoy when they cross Green Bridge. Actually - we'll blow the bridge with explosives! That should stop all traffic, don't you think? We grab the prisoner, put him in a fulton skyhook and make him vanish into thin air."
+},{
+	 "i"		: 77
+	,"ids"		: "Idstring(@ID347202b8167b70f4@)"
+	,"StringID"	: "heist_short1_stage2_hl"
+	,"orig_text": "Stealth  - Erasing History"
+},{
+	 "i"		: 78
+	,"ids"		: "Idstring(@ID7227b33a342bbf53@)"
+	,"StringID"	: "heist_short1_stage1_crimenet"
+	,"orig_text": "Break into the Police storage compound and get your hands on some access codes we will need later."
+},{
+	 "i"		: 79
+	,"ids"		: "Idstring(@IDbcafc1fe6284847c@)"
+	,"StringID"	: "heist_hvh_crimenet"
+	,"orig_text": "Tick tock little heisters, tick tock ..."
+},{
+	 "i"		: 80
+	,"ids"		: "Idstring(@ID0539be04f07be0c9@)"
+	,"StringID"	: "heist_ukrainian_job_crimenet"
+	,"orig_text": "Help Vlad destroy the wedding of the rat who sent him to prison.$NL;$NL;» Locate the jewelry store$NL;» Find and steal the tiara$NL;» Steal any other valuables you find"
+},{
+	 "i"		: 81
+	,"ids"		: "Idstring(@IDd360a266a1d74463@)"
+	,"StringID"	: "heist_chew_hl"
+	,"orig_text": "Interception"
+},{
+	 "i"		: 82
+	,"ids"		: "Idstring(@ID19c706818dd117b0@)"
+	,"StringID"	: "heist_haunted_crimenet"
+	,"orig_text": "Wake up..."
+},{
+	 "i"		: 83
+	,"ids"		: "Idstring(@IDdf4625455c9c9c49@)"
+	,"StringID"	: "heist_arena"
+	,"orig_text": "The Alesso Heist"
+},{
+	 "i"		: 84
+	,"ids"		: "Idstring(@IDda78f0df0daa4631@)"
+	,"StringID"	: "heist_four_stores"
+	,"orig_text": "Four Stores"
+},{
+	 "i"		: 85
+	,"ids"		: "Idstring(@ID9f70c7c0a8a8df11@)"
+	,"StringID"	: "heist_glace_hl"
+	,"orig_text": "Green Bridge"
+},{
+	 "i"		: 86
+	,"ids"		: "Idstring(@IDd6320de0d8a9bec1@)"
+	,"StringID"	: "heist_hvh"
+	,"orig_text": "Cursed Kill Room"
+},{
+	 "i"		: 87
+	,"ids"		: "Idstring(@ID45635f1ce402950c@)"
+	,"StringID"	: "heist_mia"
+	,"orig_text": "Hotline Miami"
+},{
+	 "i"		: 88
+	,"ids"		: "Idstring(@ID0c702961d05fc59e@)"
+	,"StringID"	: "heist_dark_crimenet"
+	,"orig_text": "To get our hands on the EMP bomb, we're gonna have to mess with Murkywater. They are transporting a bunch of goods via train, and will be making a scheduled stop at a hidden train yard. I would prefer to do it guns blazing, but that's too risky, yeah? So we need to this the stealthy way, lads.$NL;$NL;» Find the trains$NL;» Locate the EMP bomb parts$NL;» Get them out of there and escape"
+},{
+	 "i"		: 89
+	,"ids"		: "Idstring(@IDc9d3a15755fc27e1@)"
+	,"StringID"	: "heist_contact_the_dentist"
+	,"orig_text": "The Dentist"
+},{
+	 "i"		: 90
+	,"ids"		: "Idstring(@ID6a66b15dde593237@)"
+	,"StringID"	: "eday1_brief"
+	,"orig_text": "The Elephant's PR will claim he came to power through depth, leadership and integrity, but that's bullshit. That oily bastard is going to cheat his way to the Senate, and this is where you come in. There are trucks at Pier 39. One of them has voting machines. Find the truck, and attach a GPS tracker to it. We'll deal with it down the line. Naturally, The Elephant wants this done with as little chance of bad press coming back to him as possible. So he's ear-marked some of his considerable campaign funds for a special black-ops bonus. You guys do this quietly, and the good politician will see you are well rewarded."
+},{
+	 "i"		: 91
+	,"ids"		: "Idstring(@ID688e3becca7ec2d0@)"
+	,"StringID"	: "heist_moon_hl"
+	,"orig_text": "Stealing Xmas"
+},{
+	 "i"		: 92
+	,"ids"		: "Idstring(@ID7708a6dfd8f8007a@)"
+	,"StringID"	: "heist_kosugi_briefing"
+	,"orig_text": "This is all about stealth. Gage wants you to silently enter this depot, grab what you can and get out. The important part? Do NOT set off the alarm. If you do, I'm pulling you out.$NL;$NL;This warehouse is Murkywater. Their business cards say 'private security' but they're really just a private army of mercenaries and looters. This warehouse is bonded, and Gage suspects it's full of stuff shipped back from Iraq, Afghanistan and wherever else those corn-fed crooks flex their muscle. "
+},{
+	 "i"		: 93
+	,"ids"		: "Idstring(@ID00eb60eb1aeb97ec@)"
+	,"StringID"	: "heist_watchdogs_2_briefing"
+	,"orig_text": "OK, you go to the harbor like we planned. Offload the coke from the pick-up. You'll need to signal Hector's boat in the warehouse to get him to come in. Once he's there, get the coke onboard and the boat driver will do the rest."
+},{
+	 "i"		: 94
+	,"ids"		: "Idstring(@IDda05982e5659198d@)"
+	,"StringID"	: "heist_arm_cro"
+	,"orig_text": "Transport: Crossroads"
+},{
+	 "i"		: 95
+	,"ids"		: "Idstring(@IDd8b9d7f51d30402b@)"
+	,"StringID"	: "heist_mad_hl"
+	,"orig_text": "Boiling Point"
+},{
+	 "i"		: 96
+	,"ids"		: "Idstring(@ID776f0ac97a0d1fa2@)"
+	,"StringID"	: "heist_shoutout_raid_hl"
+	,"orig_text": "Meltdown"
+},{
+	 "i"		: 97
+	,"ids"		: "Idstring(@ID4779118b7ec9d2e2@)"
+	,"StringID"	: "heist_short2"
+	,"orig_text": "Get The Coke - Loud"
+},{
+	 "i"		: 98
+	,"ids"		: "Idstring(@ID0866ad876aeab2aa@)"
+	,"StringID"	: "heist_dark_briefing"
+	,"orig_text": "I'm not gonna lie; we are taking a huge risk by double-crossing Akan, but I believe this is the right choice. First thing is getting the EMP bomb that is being transported by Murkywater. They will be making a scheduled stop. That will be our chance. Get in quietly, find the EMP, then get out of there. You need to do this by stealth, so dress the part."
+},{
+	 "i"		: 99
+	,"ids"		: "Idstring(@ID74ec47362f9164b3@)"
+	,"StringID"	: "heist_framing_frame"
+	,"orig_text": "Framing Frame"
+},{
+	 "i"		: 100
+	,"ids"		: "Idstring(@ID7de88db18f5ecb5c@)"
+	,"StringID"	: "heist_mallcrasher_crimenet"
+	,"orig_text": "Vlad wants Mr. Stone to pay him for protection. To show that he means business, he wants you to destroy Stone's mall.$NL;$NL;» Locate the mall$NL;» Damage and destroy everything$NL;» Take any valuables you can find"
+},{
+	 "i"		: 101
+	,"ids"		: "Idstring(@ID7b2280d699cf4c1a@)"
+	,"StringID"	: "heist_escape_overpass_hl"
+	,"orig_text": "Overpass Escape"
+},{
+	 "i"		: 102
+	,"ids"		: "Idstring(@ID0f17154ebee3b505@)"
+	,"StringID"	: "heist_spa"
+	,"orig_text": "Brooklyn 10-10"
+},{
+	 "i"		: 103
+	,"ids"		: "Idstring(@ID8848d3e766fcd18f@)"
+	,"StringID"	: "heist_airport"
+	,"orig_text": "Airport"
+},{
+	 "i"		: 104
+	,"ids"		: "Idstring(@IDadca6fecfde5550d@)"
+	,"StringID"	: "heist_run_briefing"
+	,"orig_text": "Okay guys. Remember who you're dealing with here. Locke is a smelly fish. There's bound to be more sides to this than what he's telling you. Keep your eyes peeled."
+},{
+	 "i"		: 105
+	,"ids"		: "Idstring(@IDc42c2d234019e7dd@)"
+	,"StringID"	: "heist_gallery_crimenet"
+	,"orig_text": "Bain wants you to head back to the Art Gallery.$NL;$NL;» Case the place carefully.$NL;» Check for guards and cameras$NL;» Bag the marked out paintings and get to the escape van"
+},{
+	 "i"		: 106
+	,"ids"		: "Idstring(@IDa4685b3d1b4ffa18@)"
+	,"StringID"	: "heist_mus"
+	,"orig_text": "The Diamond"
+},{
+	 "i"		: 107
+	,"ids"		: "Idstring(@IDc8a4461d33a34c5e@)"
+	,"StringID"	: "heist_alex_3_hl"
+	,"orig_text": "Bus Stop"
+},{
+	 "i"		: 108
+	,"ids"		: "Idstring(@ID0920259f0dcc137d@)"
+	,"StringID"	: "heist_arm_hcm_hl"
+	,"orig_text": "Transport: Downtown"
+},{
+	 "i"		: 109
+	,"ids"		: "Idstring(@ID53cddafa8aa592c6@)"
+	,"StringID"	: "russian_desc_codex"
+	,"orig_text": "Dallas is experienced, cunning and methodical. He has no problem working as a part of a team but he isn't the social kind. He will carry out his part in a plan perfectly and expects everyone else to do the same. "
+},{
+	 "i"		: 110
+	,"ids"		: "Idstring(@ID84b040b03f39838a@)"
+	,"StringID"	: "heist_pbr_briefing"
+	,"orig_text": "Locke has us hitting a Murky facility out in the desert. Black Ridge. Was an old air force place, back in the day. Murkywater bought it up after the Cold War, turned it into their own Fort Knox, so you can bet they're holding some serious loot here. Not sure what to expect. Not much online, so we got little in the way of intel. One thing is certain though - you're not going to sneak through this one. Dress for loud."
+},{
+	 "i"		: 111
+	,"ids"		: "Idstring(@ID0de5a3a1153ffa11@)"
+	,"StringID"	: "heist_dah_crimenet"
+	,"orig_text": "The Garnet Group Building houses a vault containing millions of dollars in diamonds. It's also full of high-tech security systems and trigger-happy guards; luckily for us there's a birthday party going on to keep them distracted.$NL;$NL;» Find and override two router boxes so that Bain can hack the security system$NL;» Find three laptops and acquire all pieces of the security code$NL;» Get the keycard from the CEOs son$NL;» Open the vault and steal the diamonds"
+},{
+	 "i"		: 112
+	,"ids"		: "Idstring(@IDc8868c092b7826f1@)"
+	,"StringID"	: "heist_contact_events"
+	,"orig_text": "Events"
+},{
+	 "i"		: 113
+	,"ids"		: "Idstring(@ID92d3335e2f071867@)"
+	,"StringID"	: "heist_jewelry_store_briefing"
+	,"orig_text": "This town is a great place to fence jewelry. Easy to move. Diplomats and trophy wives buying it - no questions asked. This is going to be cake. Let's get going."
+},{
+	 "i"		: 114
+	,"ids"		: "Idstring(@ID86893d5d996fc03a@)"
+	,"StringID"	: "eday3_brief_skip1"
+	,"orig_text": "That truck you assholes tagged wasn't the right one, so we can forget about intercepting those voting machines. We're going to try something else to keep the Elephant sweet. We can trigger a re-election by scrambling the server at the polling place. To avoid suspicion on our sponsor, we'll make it look like collateral damage by robbing the bank next door."
+},{
+	 "i"		: 115
+	,"ids"		: "Idstring(@IDfaf742e775ea215f@)"
+	,"StringID"	: "heist_firestarter"
+	,"orig_text": "Firestarter"
+},{
+	 "i"		: 116
+	,"ids"		: "Idstring(@ID7ad3e363008075a7@)"
+	,"StringID"	: "heist_framing_frame_2_briefing"
+	,"orig_text": "OK, the cameras are installed in the paintings. We're ready. The senator's men are jumpy but ready to deal with us. So let's deal. Money for art. I've set up the meeting location. You meet in an abandoned trainyard. Good luck."
+},{
+	 "i"		: 117
+	,"ids"		: "Idstring(@IDbd3713c8084906d1@)"
+	,"StringID"	: "heist_moon_crimenet"
+	,"orig_text": "My brother-in-law, that useless piece of trash, was transporting some snow for me - Colombian snow, you know, for Christmas. But he fucked up and was followed by the cops. He was hiding at the Midtown Mall, but I think the cops got him. Fucking American cops, there's no Christmas spirit in this country! I'm a friendly guy, and Christmas is about forgiving, but this is not ok. Not ok! You have to help me, my friends. $NL;$NL;» Rescue Santa$NL;» Recover Vlad's coke $NL;» Steal the Christmas tree and escape"
+},{
+	 "i"		: 118
+	,"ids"		: "Idstring(@ID25fc76a649ac4aca@)"
+	,"StringID"	: "heist_framing_frame_2_hl"
+	,"orig_text": "Train Trade"
+},{
+	 "i"		: 119
+	,"ids"		: "Idstring(@IDd235483ed40175ce@)"
+	,"StringID"	: "heist_welcome_to_the_jungle"
+	,"orig_text": "Big Oil"
+},{
+	 "i"		: 120
+	,"ids"		: "Idstring(@ID9ce716ef88d2df4f@)"
+	,"StringID"	: "heist_pbr2_crimenet"
+	,"orig_text": "The target is a Murkywater transport plane. It is carrying pallets of currency. You will be smuggled aboard. Drop the money from the plane and recover it.$NL;$NL;» Emerge into the cargo compartment$NL;» Open the cargo doors and release the money pallets$NL;» Skydive to the surface$NL;» Recover the money pallets in the town and signal Locke$NL;» Descend into the sewers and escape"
+},{
+	 "i"		: 121
+	,"ids"		: "Idstring(@ID039074d636ce07f6@)"
+	,"StringID"	: "heist_fish_hl"
+	,"orig_text": "The Yacht Heist"
+},{
+	 "i"		: 122
+	,"ids"		: "Idstring(@ID81c74724eff8eedb@)"
+	,"StringID"	: "heist_arm_for_briefing"
+	,"orig_text": "That blueprint you found was for a new type of infantry turret - codenamed RC1. Real next-gen shit. Digging a little deeper, I got word of a specially chartered train, headed in to the Pentagon. I've hacked the rail network, and they think they've stopped due to a glitch in the switches. Three railcars. One has the hardware. The other two have its ammo. It all sells, but your priority is the turret. They won't be expecting you."
+},{
+	 "i"		: 123
+	,"ids"		: "Idstring(@ID8953d85c54b8eaea@)"
+	,"StringID"	: "heist_rat_briefing"
+	,"orig_text": "This is a simple job, but that doesn't mean it will be easy. We're going to head out to the forest. You remember the place. We did some work for Hector out there. Anyway, I scoped the place out and it is still intact. So, we're headed there to cook up as much meth as we can. You can stay as long as you want. If you run out of supplies, I'll get more flown in. Should be easy money."
+},{
+	 "i"		: 124
+	,"ids"		: "Idstring(@IDe184cef1baf86c27@)"
+	,"StringID"	: "heist_roberts_crimenet"
+	,"orig_text": "This is a classic bank job. Break the vault, empty the deposit boxes and get the loot out. Simple. Bain's intel says this branch has the lowest hit-rate in the country. It's time to change that.$NL;$NL;» Search the environment for keycards. Two are needed for the vault$NL;» Failing that, use a drill on the vault$NL;» Crack open the deposit boxes$NL;» Assemble the skyhook$NL;» Get the money out"
+},{
+	 "i"		: 125
+	,"ids"		: "Idstring(@ID508138cfeecb94ab@)"
+	,"StringID"	: "heist_airport_hl"
+	,"orig_text": "Airport"
+},{
+	 "i"		: 126
+	,"ids"		: "Idstring(@IDf7c918cd4835860d@)"
+	,"StringID"	: "heist_contact_hector_description"
+	,"orig_text": "A detail-oriented former business administrator, Hector is the biggest drug trafficker on the Eastern Seaboard and next in line for leadership of the Sinaloan Cartel in Mexico."
+},{
+	 "i"		: 127
+	,"ids"		: "Idstring(@ID33e756416b09031b@)"
+	,"StringID"	: "heist_roberts"
+	,"orig_text": "GO Bank"
+},{
+	 "i"		: 128
+	,"ids"		: "Idstring(@ID9d265e6fe380ca06@)"
+	,"StringID"	: "heist_election_day_3_hl"
+	,"orig_text": "Breaking Ballot"
+},{
+	 "i"		: 129
+	,"ids"		: "Idstring(@ID1ca3aaba17ce04dd@)"
+	,"StringID"	: "heist_gallery_hl"
+	,"orig_text": "Art Gallery"
+},{
+	 "i"		: 130
+	,"ids"		: "Idstring(@ID01ef10bbca65291e@)"
+	,"StringID"	: "heist_peta2_hl"
+	,"orig_text": "Dirty work"
+},{
+	 "i"		: 131
+	,"ids"		: "Idstring(@IDf6d77e5edf897df9@)"
+	,"StringID"	: "heist_big"
+	,"orig_text": "The Big Bank"
+},{
+	 "i"		: 132
+	,"ids"		: "Idstring(@ID5e362b24344d457c@)"
+	,"StringID"	: "rb14_drk_outro_01_02"
+	,"orig_text": "Fucking lovely, lads! With the EMP bomb secured we can breach the underground facility. It's time to go to mother fucking Russia!"
+},{
+	 "i"		: 133
+	,"ids"		: "Idstring(@IDf46027f22d7fb949@)"
+	,"StringID"	: "heist_contact_continental"
+	,"orig_text": "The Continental"
+},{
+	 "i"		: 134
+	,"ids"		: "Idstring(@IDaf2cd751ba0dff7b@)"
+	,"StringID"	: "heist_red2_crimenet"
+	,"orig_text": "We've been eyeing the First World Bank for a while. Now it's time to pull the trigger. Get down there and relieve them of their ill-gotten gains.$NL;$NL;» Locate the manager$NL;» Get access to the server room$NL;» Force your way to the vault$NL;» Bag all the money and escape"
+},{
+	 "i"		: 135
+	,"ids"		: "Idstring(@IDd611836299dff587@)"
+	,"StringID"	: "heist_pines_hl"
+	,"orig_text": "White Xmas"
+},{
+	 "i"		: 136
+	,"ids"		: "Idstring(@ID9f12ed433ed6172d@)"
+	,"StringID"	: "heist_pbr_hl"
+	,"orig_text": "Beneath the Mountain"
+},{
+	 "i"		: 137
+	,"ids"		: "Idstring(@ID864cfb11b2eb4bb4@)"
+	,"StringID"	: "heist_pal_briefing"
+	,"orig_text": "Welcome to the sunshine state! Where the women are gold diggers and the men are crooks. Meet Mr. Mitchell: on the surface, a golf coach for a respectable country club. Under the surface, a professional money launderer and counterfeiter - a master criminal. Mitchell and his partner in crime, Wilson, have managed to stay under the radar literally making millions. Until now."
+},{
+	 "i"		: 138
+	,"ids"		: "Idstring(@IDf256e94f8c422f50@)"
+	,"StringID"	: "heist_nail_hl"
+	,"orig_text": "Lab Rats"
+},{
+	 "i"		: 139
+	,"ids"		: "Idstring(@ID403f96209453358b@)"
+	,"StringID"	: "heist_arm_fac_crimenet"
+	,"orig_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle"
+},{
+	 "i"		: 140
+	,"ids"		: "Idstring(@ID0e43bf59d473ad27@)"
+	,"StringID"	: "heist_election_day_crimenet"
+	,"orig_text": "Crime is an unsavoury line of work, but it's time you dipped your toes in some truly dirty business - politics. The Elephant wants you to help get his man Bob McKendrick into the Mayor's office.$NL;$NL;» Locate the voting machines$NL;» Hack the machines to swing the vote$NL;» Make sure no suspicion falls on The Elephant"
+},{
+	 "i"		: 141
+	,"ids"		: "Idstring(@IDafd66f4dffb7ba6b@)"
+	,"StringID"	: "heist_born_hl"
+	,"orig_text": "Lion's Den"
+},{
+	 "i"		: 142
+	,"ids"		: "Idstring(@ID3845871fa82a25fe@)"
+	,"StringID"	: "heist_born_briefing"
+	,"orig_text": "We knew Rust's loyalty would be shaky at best, so Dallas came up with a plan to secure it by retaking the old biker's custom ride from the clubhouse. A quick and sneaky thing, you know? Unfortunately, things just got more complicated. The OVERKILL MC have taken Rust's mechanic friend, Mike, hostage. You see, the reason Rust was recruited to begin with, is that he has intel about a new type of advanced weaponry that Bain is after. But Rust has decided to not tell us shit until his friend and his bike are secured. No other choice than to walk straight into the lion's den and help him out, gentlemen. Good luck."
+},{
+	 "i"		: 143
+	,"ids"		: "Idstring(@ID7e961c2de00c214e@)"
+	,"StringID"	: "heist_short1_crimenet"
+	,"orig_text": " "
+},{
+	 "i"		: 144
+	,"ids"		: "Idstring(@ID3901edd4320d93a4@)"
+	,"StringID"	: "heist_dream"
+	,"orig_text": "Slaughterhouse"
+},{
+	 "i"		: 145
+	,"ids"		: "Idstring(@ID93dca9c935ee615e@)"
+	,"StringID"	: "heist_red2"
+	,"orig_text": "First World Bank"
+},{
+	 "i"		: 146
+	,"ids"		: "Idstring(@ID4cadb57c131697a6@)"
+	,"StringID"	: "heist_arena_crimenet"
+	,"orig_text": "Alesso is in town tonight. He's playing at the Gensec Arena, and that's where we're headed. But Alesso isn't the target. The Arena doubles as a secured fortress, and it's where Gensec are showcasing their new vault - the Investment Safe. They think it's impenetrable. Let's prove them wrong. $NL;$NL;» Search the arena and locate the C4 $NL;» Plant the C4 in the garage beneath the vault $NL;» Hack into the Pyro Booth and detonate the C4 $NL;» Drill the vault bottom $NL;» Secure the loot and escape"
+},{
+	 "i"		: 147
+	,"ids"		: "Idstring(@IDdd6918988bce2070@)"
+	,"StringID"	: "heist_spa_crimenet"
+	,"orig_text": "You're going to New York tonight. The Continental called - one of their key staff has been ambushed and is being held by unknown assailants at an address in Brooklyn. We have the location from a call he made just as they took him. The target's name is Charon. We need to get there fast, take out whoever's got him and send him back to the Continental safe and sound.$NL;$NL;» Locate Charon$NL;» Rescue Charon and protect him from the attackers$NL;» Get back what was stolen$NL;» Escape"
+},{
+	 "i"		: 148
+	,"ids"		: "Idstring(@IDf0f5595d61b54771@)"
+	,"StringID"	: "heist_branchbank_cash_briefing"
+	,"orig_text": "This is a hit on a medium-sized bank but it doesn't mean it'll be easy. We're going for cash. You want to find the vault, get the thermal drill out, crack the door, bag up the cash and escape at our van. Oh - my guy stashed the thermal drill around the back of the bank. Good luck out there people..."
+},{
+	 "i"		: 149
+	,"ids"		: "Idstring(@ID9d22f81d357f9ee6@)"
+	,"StringID"	: "heist_pines_crimenet"
+	,"orig_text": "Vlad wants you to rescue his drunken pilot and recover his product.$NL;$NL;» Locate the pilot$NL;» Keep him safe and get him to the rescue helicopter$NL;» Recover as much cocaine as possible"
+},{
+	 "i"		: 150
+	,"ids"		: "Idstring(@IDa9412461132587fa@)"
+	,"StringID"	: "heist_jewelry_store_hl"
+	,"orig_text": "Jewelry Store"
+},{
+	 "i"		: 151
+	,"ids"		: "Idstring(@ID5bac0cd0daa1356c@)"
+	,"StringID"	: "heist_cane"
+	,"orig_text": "Santa's Workshop"
+},{
+	 "i"		: 152
+	,"ids"		: "Idstring(@ID5d3de359f8a28db1@)"
+	,"StringID"	: "jowi_desc_codex"
+	,"orig_text": "John was a feared Hitman known among some of the largest crime syndicates. After having gone dark for a long time, John recently resurfaced and helped Chains out of a delicate situation. In return, John told Chains he was in need of a crew. How could Chains say no? He invited him into the PAYDAY gang in order to help his old friend. "
+},{
+	 "i"		: 153
+	,"ids"		: "Idstring(@ID949ad941bb82165d@)"
+	,"StringID"	: "heist_branchbank_cash_crimenet"
+	,"orig_text": "Bain wants you to do a classic bank hit. This job is about the cash shipment the bank just received.$NL;$NL;» Locate the bank$NL;» Find the thermal drill$NL;» Drill the vault$NL;» Keep the civilians in check$NL;» Escape with the money in the vault"
+},{
+	 "i"		: 154
+	,"ids"		: "Idstring(@ID1ec9b144276c9a57@)"
+	,"StringID"	: "heist_arm_und"
+	,"orig_text": "Transport: Underpass"
+},{
+	 "i"		: 155
+	,"ids"		: "Idstring(@ID9c4d94d548c3373d@)"
+	,"StringID"	: "heist_hox_2_asset_hooverbuilding"
+	,"orig_text": "The Destination"
+},{
+	 "i"		: 156
+	,"ids"		: "Idstring(@ID58b2b434fa42e41a@)"
+	,"StringID"	: "heist_kenaz_briefing"
+	,"orig_text": "This is a big job. I'll talk you through it as we go, but the skinny is this: the Golden Grin has a big vault. Big. I mean Benevolent Bank big. Whether you sneak in, or go full assault, you're in for a tough time. The Dentist won't say what we're lifting out of there. Being very cagey about that. He just said that once we're done, we're done. The contract is fulfilled... whatever that means."
+},{
+	 "i"		: 157
+	,"ids"		: "Idstring(@ID41cd257a266b151c@)"
+	,"StringID"	: "heist_moon_hl_briefing"
+	,"orig_text": "Vlad's brother-in-law hid from the cops in the mall's loading bay. It seems he hid the coke in various boxes, boxes that have now been distributed to shops all over the mall. He also disguised himself in a Santa Claus costume and stole some vodka and got drunk. What a mess. The cops got suspicious of the drunk Santa and apprehended him. You'll need to free him and ask him if he remembers what boxes he put the coke in."
+},{
+	 "i"		: 158
+	,"ids"		: "Idstring(@ID9f72f01367c9ca51@)"
+	,"StringID"	: "heist_dinner_hl"
+	,"orig_text": "Slaughterhouse"
+},{
+	 "i"		: 159
+	,"ids"		: "Idstring(@IDd3edbe0ab8a48928@)"
+	,"StringID"	: "heist_hox_3_briefing"
+	,"orig_text": "Alright. Finally, we're going after the rat - the fink who screwed Hox, wants to screw us all. Time to put him down. We know he's currently bunkering down in an FBI safe house outside the city. These safe houses are usually built along the same lines. Nice big houses, grounds, 24 hour security, and most likely a panic room somewhere inside. See where your tax dollars go? The plan is simple - get in there, find our informer and finish him. Now, I'm betting there'll be evidence against us in there too, so be good to clean that up too."
+},{
+	 "i"		: 160
+	,"ids"		: "Idstring(@ID0ab4eb794c040950@)"
+	,"orig_text": "Got chavez keys!"
+},{
+	 "i"		: 161
+	,"ids"		: "Idstring(@ID1b4d3eae2596c75a@)"
+	,"StringID"	: "heist_run_hl"
+	,"orig_text": "Heat Street"
+},{
+	 "i"		: 162
+	,"ids"		: "Idstring(@ID9e7abeafd9138d19@)"
+	,"StringID"	: "heist_dinner_crimenet"
+	,"orig_text": "We're ambushing a convoy down by the docks. The cargo is gold. The convoy is Murkywater. Questions?$NL;$NL;»Hit the convoy$NL;»Extract the gold$NL;»Prepare a trap$NL;»Lift the gold out of there$NL;»Escape"
+},{
+	 "i"		: 163
+	,"ids"		: "Idstring(@IDba645c07a8b0c333@)"
+	,"StringID"	: "heist_framing_frame_crimenet"
+	,"orig_text": "The Elephant wants to frame a rival senator.$NL;$NL;» Steal art that the senator wants from the art gallery$NL;» Install cameras in the stolen art and make a deal$NL;» Infiltrate the senator's apartment and plant coke in his vault"
+},{
+	 "i"		: 164
+	,"ids"		: "Idstring(@ID1d929341e451954a@)"
+	,"StringID"	: "heist_mia_1_briefing"
+	,"orig_text": "The Dentist has sent us after a Russian mobster, calls himself the Commissar. He's got criminal interests all over the East Coast, including this motel down at the heights. We don't know where he is, so you need to apply a little pressure. We've dropped him a hotline to us. Bust that place up as much as you can and he should call. And when he calls, we can trace him.$NL;$NL;We're doing this for Hoxton."
+},{
+	 "i"		: 165
+	,"ids"		: "Idstring(@ID126e71d1204237f5@)"
+	,"StringID"	: "heist_arm_fac_hl"
+	,"orig_text": "Transport: Harbor"
+},{
+	 "i"		: 166
+	,"ids"		: "Idstring(@ID641f35559e4b6dae@)"
+	,"StringID"	: "heist_four_stores_briefing"
+	,"orig_text": "Look, I know Vlad is nuts. But he's got a lot of connections and I have a good feeling about him having a line on some big jobs down the line. This is a good start. Just stay frosty till things heat up."
+},{
+	 "i"		: 167
+	,"ids"		: "Idstring(@ID63525d22909bddd2@)"
+	,"StringID"	: "heist_safehouse"
+	,"orig_text": "The safe house"
+},{
+	 "i"		: 168
+	,"ids"		: "Idstring(@ID820efea85a154147@)"
+	,"StringID"	: "heist_branchbank_deposit_briefing"
+	,"orig_text": "Now we're getting into the bank vault. This job is about deposit boxes. Case the bank first. They're wired out the ass with security cameras and trigger happy guards. Get the vault open with the thermal drill, then get the safe deposit boxes open. You might want a saw. And then carry your loot to the escape van."
+},{
+	 "i"		: 169
+	,"ids"		: "Idstring(@ID9193ec72d92eae70@)"
+	,"StringID"	: "heist_nail_crimenet"
+	,"orig_text": "Trick or treat,$NL;smell my feet.$NL;Give me something to put on the street.$NL;If you don't,$NL;I don't care.$NL;Just don't cook in your underwear."
+},{
+	 "i"		: 170
+	,"ids"		: "Idstring(@ID6afb21a46cdf3035@)"
+	,"StringID"	: "heist_run"
+	,"orig_text": "Heat Street"
+},{
+	 "i"		: 171
+	,"ids"		: "Idstring(@IDd1f130d60bc358a0@)"
+	,"StringID"	: "heist_crojob1"
+	,"orig_text": "The Bomb: Dockyard"
+},{
+	 "i"		: 172
+	,"ids"		: "Idstring(@IDe5aa795cb0c1f3d1@)"
+	,"StringID"	: "chill_combat_rewards"
+	,"orig_text": "Rewards"
+},{
+	 "i"		: 173
+	,"ids"		: "Idstring(@ID91c1f90d0a898ae5@)"
+	,"StringID"	: "heist_alex_3_briefing"
+	,"orig_text": "Well, turns out the FBI are escorting the Mendozas out of the country. Maybe they have a deal, maybe they don't. Frankly, I don't give a crap whether they're renditioning them or whatever. All the heads are on that bus, money and all. Get the money, eliminate the Mendoza top guys, and end this story. We'll go in by chopper."
+},{
+	 "i"		: 174
+	,"ids"		: "Idstring(@IDd993dfab04c55bfa@)"
+	,"StringID"	: "heist_short2_stage1_crimenet"
+	,"orig_text": "Okay, Dallas. It's been two years since we worked together, and I need to see that you still got what it takes. We'll start with something simple, all right? An acquaintance of mine recently got robbed on a cocaine deal by some low-life mobster. I need to you to break into his night club and see if you can find the stolen cocaine and get it back. Easy, right?"
+},{
+	 "i"		: 175
+	,"ids"		: "Idstring(@IDde3f910caa9aebea@)"
+	,"StringID"	: "heist_contact_interupt"
+	,"orig_text": "Car chase"
+},{
+	 "i"		: 176
+	,"ids"		: "Idstring(@IDdf0da2aea6ce90d6@)"
+	,"StringID"	: "heist_firestarter_1_briefing"
+	,"orig_text": "A little bird told me the Mendozas are flying in more weapons in preparation for the war with Hector. We go to their airport, find the weapons and take them all or destroy them. Preferably take them as the money will be great that way."
+},{
+	 "i"		: 177
+	,"ids"		: "Idstring(@ID8b59a47e43b8a7d5@)"
+	,"StringID"	: "heist_contact_gage_description"
+	,"orig_text": "Gage is an Afghanistan war veteran, known for being in a wheelchair after an assassination attempt. He is the best weapons dealer within the border - and a good assassin at that. Anything you might need, he's your man."
+},{
+	 "i"		: 178
+	,"ids"		: "Idstring(@IDd2bf6af4000402b9@)"
+	,"StringID"	: "heist_escape_street_briefing"
+	,"orig_text": "...They tailed us from the scene, switch car failed, everyone batten down the hatches!"
+},{
+	 "i"		: 179
+	,"ids"		: "Idstring(@IDf8a3cfbf7b8a5253@)"
+	,"StringID"	: "heist_contact_the_butcher_description"
+	,"orig_text": "The Butcher's business is weapons - their procurement, sale and distribution. With Gage on an \"extended vacation\", she is looking forward to a long and fruitful business relationship with Bain and the PAYDAY gang."
+},{
+	 "i"		: 180
+	,"ids"		: "Idstring(@ID42690a502752ae8c@)"
+	,"StringID"	: "heist_contact_gage"
+	,"orig_text": "Gage "
+},{
+	 "i"		: 181
+	,"ids"		: "Idstring(@IDc2e7a6a02bed0700@)"
+	,"StringID"	: "chill_combat_desc"
+	,"orig_text": "Your Safe House is under attack! Defend it!"
+},{
+	 "i"		: 182
+	,"ids"		: "Idstring(@ID5135316627dc3a1f@)"
+	,"StringID"	: "heist_alex_2_hl"
+	,"orig_text": "Code for Meth"
+},{
+	 "i"		: 183
+	,"ids"		: "Idstring(@IDdf1f1518f2d0103c@)"
+	,"StringID"	: "heist_day"
+	,"orig_text": "Day $DAYS;:"
+},{
+	 "i"		: 184
+	,"ids"		: "Idstring(@IDc42a228e81c8a82e@)"
+	,"StringID"	: "german_desc_codex"
+	,"orig_text": "Wolf can be happy-go-lucky one second and mad as hell the next. After his mental breakdown he reinvented his personality and it's now a mash-up of action movie characters and his own ideas of what criminals should be like."
+},{
+	 "i"		: 185
+	,"ids"		: "Idstring(@ID710686108f012fb7@)"
+	,"StringID"	: "heist_dark_hl"
+	,"orig_text": "Murky Station"
+},{
+	 "i"		: 186
+	,"ids"		: "Idstring(@IDa39f301b818cab64@)"
+	,"StringID"	: "heist_dinner"
+	,"orig_text": "Slaughterhouse"
+},{
+	 "i"		: 187
+	,"ids"		: "Idstring(@IDd63175197eab2023@)"
+	,"StringID"	: "heist_jolly"
+	,"orig_text": "Aftershock"
+},{
+	 "i"		: 188
+	,"ids"		: "Idstring(@ID95f17b90a9ba7cec@)"
+	,"StringID"	: "houston_desc_codex"
+	,"orig_text": "Dallas younger brother might be able to keep the Hoxton mask, but he's not keeping the name. The consensus among the PAYDAY gang was that from now on, New Hoxton will go by the nicknamed Houston. It's a relatively cheap price to pay to calm Hoxton down and - if anything - partially forgive the PAYDAY gang for leaving him in jail."
+},{
+	 "i"		: 189
+	,"ids"		: "Idstring(@ID051cac37339c471b@)"
+	,"StringID"	: "heist_nail"
+	,"orig_text": "Lab Rats"
+},{
+	 "i"		: 190
+	,"ids"		: "Idstring(@IDa4834372c732f773@)"
+	,"StringID"	: "heist_firestarter_2_hl"
+	,"orig_text": "FBI Server"
+},{
+	 "i"		: 191
+	,"ids"		: "Idstring(@IDfcff545077c856ac@)"
+	,"StringID"	: "heist_nightclub"
+	,"orig_text": "Nightclub"
+},{
+	 "i"		: 192
+	,"ids"		: "Idstring(@ID5d44dad2b86f14c1@)"
+	,"StringID"	: "heist_arm_for_hl"
+	,"orig_text": "Transport: Train Heist"
+},{
+	 "i"		: 193
+	,"ids"		: "Idstring(@ID56f6f4b68757a490@)"
+	,"StringID"	: "heist_branchbank_gold_briefing"
+	,"orig_text": "Like I said, this is a bank job for gold. It's a small bank, but they've got a lot of security and a lot of customers. You're going to have to work hard to keep this from turning ugly. Drill the vault and bag up the loot. Gold is heavy, remember. Wait for me to send the escape car. Clear? Oh - my guy left the thermal drill to get into the vault out back. Let's roll."
+},{
+	 "i"		: 194
+	,"ids"		: "Idstring(@ID602b4083e13b9096@)"
+	,"StringID"	: "heist_airport_crimenet"
+	,"orig_text": "The FBI has intercepted Vlad's weapon deal at the airport. He needs your help retrieving his hardware$NL;$NL;» Locate the hangar where the weapons are$NL;» Bring the weapons back to the van"
+},{
+	 "i"		: 195
+	,"ids"		: "Idstring(@IDe5e28f24301c1342@)"
+	,"StringID"	: "heist_shoutout_raid_crimenet"
+	,"orig_text": "I heard about the outstanding job you did sneaking into that Murkywater warehouse. Most impressive. I need you to go back there. Those mercenaries've got a 'little something' tucked away. A little something I would like. The Murkies are pulling out, and I need this before it disappears down some rabbit-hole.$NL;$NL; » Access the Murkywater compound $NL; » Locate the vault $NL; » Jam the vault vent  $NL; » Transport the loot to the train"
+},{
+	 "i"		: 196
+	,"ids"		: "Idstring(@ID1c43b2d769d86656@)"
+	,"orig_text": "The Search"
+},{
+	 "i"		: 197
+	,"ids"		: "Idstring(@IDc9e454abf871bcfd@)"
+	,"StringID"	: "heist_firestarter_3_briefing"
+	,"orig_text": "This is the place, people... This bank here holds all the Mendoza capital north of the border. Little old grandmothers walk right by their blood money every day. Hidden in plain sight, Hector says. At least $100m in black cash. What you're gonna do is go in, control the crowd, get into the vault without the alarm going off. Then set a fire, and film yourself doing it. Hector wants it that way."
+},{
+	 "i"		: 198
+	,"ids"		: "Idstring(@ID1e293624589a24b6@)"
+	,"StringID"	: "heist_watchdogs_1_hl"
+	,"orig_text": "Truck Load"
+},{
+	 "i"		: 199
+	,"ids"		: "Idstring(@ID424da32ae89d482a@)"
+	,"StringID"	: "heist_short1_stage1"
+	,"orig_text": "Stealth - Flash Drive"
+},{
+	 "i"		: 200
+	,"ids"		: "Idstring(@ID56d35332c7df301a@)"
+	,"StringID"	: "heist_alex"
+	,"orig_text": "Rats"
+},{
+	 "i"		: 201
+	,"ids"		: "Idstring(@IDa2203ca85eb2797f@)"
+	,"StringID"	: "heist_gallery_briefing"
+	,"orig_text": "I don't know much about art, but I know what I like - and that is paintings that sell. We're headed back to the Gallery. The brochure talks about \"the cultural importance of art\", but more importantly it talks about dollars - lots and lots of dollars.$NL;$NL;As before, you make your own rules. Scope the security and sneak it like Thomas Crown, or blaze in like those Oslo amateurs. Grab as much as you can, and get it to the van."
+},{
+	 "i"		: 202
+	,"ids"		: "Idstring(@IDf2e5e6d0d02249d4@)"
+	,"StringID"	: "heist_short1_stage2"
+	,"orig_text": "Stealth  - Erasing History"
+},{
+	 "i"		: 203
+	,"ids"		: "Idstring(@ID7049e6a123958194@)"
+	,"StringID"	: "heist_family_hl"
+	,"orig_text": "Diamond Store"
+},{
+	 "i"		: 204
+	,"ids"		: "Idstring(@IDf17652f5446a026d@)"
+	,"StringID"	: "heist_election_day"
+	,"orig_text": "Election Day"
+},{
+	 "i"		: 205
+	,"ids"		: "Idstring(@IDef5c370a5aa6d23b@)"
+	,"StringID"	: "heist_run_crimenet"
+	,"orig_text": "As you know, intelligence and information is my business. And I recently came across something important that concerns you. the Payday Gang. Someone is out to destroy you, possibly kill all of you. This morning I intercepted a message indicating that an agent of these people is meeting someone at a certain location downtown. I don't know yet who these people are, but as you know, I find you a valued asset, and so I want to help you apprehend this agent so you can squeeze information out of him. I'll give you the location and then keep an eye on you while you conduct the operation.$NL;$NL;» Find and apprehend the agent$NL;» Watch out for surprises"
+},{
+	 "i"		: 206
+	,"ids"		: "Idstring(@IDceceed7536d0450c@)"
+	,"StringID"	: "heist_hvh_briefing"
+	,"orig_text": "KILL, KILL, KILL, SAFE, KILL, KILL, KILL$NL;KILL, KILL, KILL, SAFE, KILL, KILL, KILL$NL;KILL, KILL, KILL, SAFE, KILL, KILL, KILL$NL;KILL, KILL, KILL, SAFE, KILL, KILL, KILL$NL;MAAAAAAAAASK!!!!!!$NL;KILL, KILL, KILL, SAFE, KILL, KILL, KILL$NL;KILL, KILL, KILL, SAFE, KILL, KILL, KILL$NL;KILL, KILL, KILL, SAFE, KILL, KILL, KILL$NL;KILL, KILL, KILL, SAFE, KILL, KILL, KILL$NL;KILL, KILL, KILL, SAFE, KILL, KILL, KILL$NL;KILL, KILL, KILL, SAFE, KILL, KILL, KILL"
+},{
+	 "i"		: 207
+	,"ids"		: "Idstring(@ID2c302f87e869776a@)"
+	,"StringID"	: "heist_mallcrasher"
+	,"orig_text": "Mallcrasher"
+},{
+	 "i"		: 208
+	,"ids"		: "Idstring(@ID91099b06dc3d86b6@)"
+	,"StringID"	: "heist_hox_2_briefing"
+	,"orig_text": "Well, lads, thanks for breakin' me out. But I shouldn't have been there to begin with. Someone set me up. I'm sure of it. The Feds had too much on me. Way more than those mingebag wankers could dig up. Someone ratted. Someone fucked me. And I'm gonna find out who.$NL;$NL;Now, it ain't gonna be easy. No fannying about around the edges, right? No shadowy deals or contacts, or that bollocks. We're going to the source. The biggest FBI nest. Gonna find out who screwed me."
+},{
+	 "i"		: 209
+	,"ids"		: "Idstring(@ID774c051be74eceee@)"
+	,"StringID"	: "heist_contact_locke"
+	,"orig_text": "Locke"
+},{
+	 "i"		: 210
+	,"ids"		: "Idstring(@ID28ba5866ccd76aa4@)"
+	,"StringID"	: "heist_watchdogs"
+	,"orig_text": "Watchdogs"
+},{
+	 "i"		: 211
+	,"ids"		: "Idstring(@IDfc8bf206a5779d45@)"
+	,"StringID"	: "heist_hox_3_hl"
+	,"orig_text": "The Revenge"
+},{
+	 "i"		: 212
+	,"ids"		: "Idstring(@IDc36c2c2387771df8@)"
+	,"StringID"	: "heist_chew_briefing"
+	,"orig_text": "All right, this is what we know: Somehow the OVERKILL MC got their hands on a new type of technology called brain-computer interface. and believe me, gentlemen; this is the future. This BCI technology lets you control a military drone by only using your brain and as you can imagine, it's very valuable. Bain is in contact with a potential buyer that is offering a large amount of cash to get his hands on it. The BCI headset and computer software is already on the move on a freight train, fortunately Bile is ready to drop you off. Now get to work."
+},{
+	 "i"		: 213
+	,"ids"		: "Idstring(@ID1ef5c128ea0c3570@)"
+	,"StringID"	: "heist_hox"
+	,"orig_text": "Hoxton Breakout"
+},{
+	 "i"		: 214
+	,"ids"		: "Idstring(@ID6f7f21fd8ddfef53@)"
+	,"StringID"	: "heist_crojob3_hl"
+	,"orig_text": "The Bomb: Forest"
+},{
+	 "i"		: 215
+	,"ids"		: "Idstring(@ID80a1702797dc1f76@)"
+	,"StringID"	: "heist_peta"
+	,"orig_text": "Goat Simulator"
+},{
+	 "i"		: 216
+	,"ids"		: "Idstring(@ID7f018187725582e2@)"
+	,"StringID"	: "heist_short2_stage1"
+	,"orig_text": "Loud - Get The Coke"
+},{
+	 "i"		: 217
+	,"ids"		: "Idstring(@IDd01830a4aa49e17e@)"
+	,"StringID"	: "heist_escape_garage_briefing"
+	,"orig_text": "...Lose 'em... Lose 'em... Dammit... DAMMMIT! You gotta stand and fight!"
+},{
+	 "i"		: 218
+	,"ids"		: "Idstring(@ID4648d7aab3f850fe@)"
+	,"StringID"	: "heist_pines"
+	,"orig_text": "White Xmas"
+},{
+	 "i"		: 219
+	,"ids"		: "Idstring(@ID2e54935bdc19e9c6@)"
+	,"StringID"	: "heist_contact_the_elephant"
+	,"orig_text": "The Elephant"
+},{
+	 "i"		: 220
+	,"ids"		: "Idstring(@IDe974f97c6fc51a9b@)"
+	,"StringID"	: "heist_hox_crimenet"
+	,"orig_text": "The Dentist got Hoxton a re-trial. We're going to grab him right after the hearing. The plan is as loud as it gets: we blow up a wall, grab Hoxton and get him the hell out.$NL;$NL;» Free Hoxton$NL;» Take Hoxton to the armored truck$NL;» Escort the armored truck with Hoxton in it$NL;» Escape with Hoxton"
+},{
+	 "i"		: 221
+	,"ids"		: "Idstring(@ID1aa5a94a3db39c9d@)"
+	,"StringID"	: "heist_big_crimenet"
+	,"orig_text": "This is the Mother of all bank jobs. The vault doors at the Benevolent Bank are way beyond anything that you've seen before.$NL;$NL;» Plan your heist using preplanning$NL;» Case the main hall and side offices$NL;» Find a way into the vault$NL;» Steal anything you can and get out"
+},{
+	 "i"		: 222
+	,"ids"		: "Idstring(@ID4b7ab49d57570be1@)"
+	,"StringID"	: "heist_dah_hl"
+	,"orig_text": "Diamond Heist"
+},{
+	 "i"		: 223
+	,"ids"		: "Idstring(@ID963bac423774b467@)"
+	,"StringID"	: "heist_rat_crimenet"
+	,"orig_text": "We're headed back to cook in the meth lab in the forest. None of Hector's shit this time. This is just for profit. $NL;$NL;» Locate the meth lab $NL;» Cook meth $NL;» Secure the loot and escape."
+},{
+	 "i"		: 224
+	,"ids"		: "Idstring(@ID16dbcbb731b437af@)"
+	,"StringID"	: "heist_cage"
+	,"orig_text": "Car Shop"
+},{
+	 "i"		: 225
+	,"ids"		: "Idstring(@IDc5801d09ef0dad7b@)"
+	,"StringID"	: "heist_contact_hoxton"
+	,"orig_text": "Hoxton"
+},{
+	 "i"		: 226
+	,"ids"		: "Idstring(@ID0ab162e5bda41e17@)"
+	,"StringID"	: "heist_branchbank_cash"
+	,"orig_text": "Bank Heist: Cash"
+},{
+	 "i"		: 227
+	,"ids"		: "Idstring(@ID65f13770154831db@)"
+	,"StringID"	: "heist_pbr2_briefing"
+	,"orig_text": "Okay, here's the plan. Locke is going to have you smuggled onto the plane. Wait until you get his signal and burst out. Resistance should be light - just the crew. The money is packed into large pallets. Get them out of the cargo doors, and we'll collect them when they hit the ground. Simple."
+},{
+	 "i"		: 228
+	,"ids"		: "Idstring(@ID08a7eca7bea0146d@)"
+	,"StringID"	: "heist_safehouse_briefing"
+	,"orig_text": "The safe house is your home away from home, your fortress, your place of contemplation, the place where your money takes shape and form. The safe house gives you a place to sharpen your skills in a low-pressure environment. You'll be able to test out various weapons, mechanics like cracking safes and disarming cameras, admire the fat stacks of cash in your vault, and even purchase assets to make the place the envy of every crook from here to the White House."
+},{
+	 "i"		: 229
+	,"ids"		: "Idstring(@ID9732da4014ad1b4b@)"
+	,"StringID"	: "heist_man"
+	,"orig_text": "Undercover"
+},{
+	 "i"		: 230
+	,"ids"		: "Idstring(@ID2b9787fe4a3a602e@)"
+	,"StringID"	: "heist_airport_briefing"
+	,"orig_text": "OK, the airport is just down the hill. Cut through the fence and find the hangar where the truck holding the cases is. The Mendozas will probably be there. Bring those weapons back to the van, or make sure they don't. They're not going down without a fight. If it hits the fan out there - destroy the guns."
+},{
+	 "i"		: 231
+	,"ids"		: "Idstring(@ID2871f808ec86a869@)"
+	,"StringID"	: "heist_hox_2_hl"
+	,"orig_text": "The Search"
+},{
+	 "i"		: 232
+	,"ids"		: "Idstring(@ID080d99e80d132731@)"
+	,"StringID"	: "heist_born"
+	,"orig_text": "The Biker Heist"
+},{
+	 "i"		: 233
+	,"ids"		: "Idstring(@ID34e668cf36233c2e@)"
+	,"StringID"	: "heist_spa_hl"
+	,"orig_text": "Brooklyn 10-10"
+},{
+	 "i"		: 234
+	,"ids"		: "Idstring(@IDd1ee9a4a69993017@)"
+	,"StringID"	: "heist_arm_par_crimenet"
+	,"orig_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle"
+},{
+	 "i"		: 235
+	,"ids"		: "Idstring(@IDee9dd07b5035341a@)"
+	,"StringID"	: "eday2_brief"
+	,"orig_text": "I've traced the truck to a warehouse out by Goose Island. It's a distribution depot, contracted to ship the voting machines to their final destination. With a little technical wizardry, we're going to make those machines a bit more sympathetic to The Elephants' mayoral candidate - that slimy ballbag McKendrick. Get in there, get them hacked, get out - simple."
+},{
+	 "i"		: 236
+	,"ids"		: "Idstring(@ID58dfcd1ce3cb14f2@)"
+	,"StringID"	: "heist_man_briefing"
+	,"orig_text": "The Taxman thought he was clever making a deal with a big corporation, but the information leaked, and now bigger sharks want in - all in. We have a complete, run-down building to ourselves, overlooking the deal. We've got a set-up installed. Alex will help with the crane. Scare the Taxman into his limo, shake him up, and he'll be sure to give us the server and the codes. When it's about $25,000,000, anything goes."
+},{
+	 "i"		: 237
+	,"ids"		: "Idstring(@ID03bc36c47f71eadc@)"
+	,"StringID"	: "heist_hox_3_alarm"
+	,"orig_text": "FBI Safe House Alarm box"
+},{
+	 "i"		: 238
+	,"ids"		: "Idstring(@IDee7a6a5478f53868@)"
+	,"StringID"	: "heist_pal_hl"
+	,"orig_text": "Counterfeit"
+},{
+	 "i"		: 239
+	,"ids"		: "Idstring(@ID0461742707e76caa@)"
+	,"StringID"	: "heist_firestarter_1_hl"
+	,"orig_text": "Airport"
+},{
+	 "i"		: 240
+	,"ids"		: "Idstring(@IDfe3a1f1187943274@)"
+	,"StringID"	: "heist_pal_crimenet"
+	,"orig_text": "Pack your bags, gang. This one is south of the Mason-Dixie. We're going after Mitchell and Wilson - couple of counterfeiters down in Pensacola. Running a printing operation out of his basement. It's a discreet operation, and this guy's work is solid, so he's making serious bank. Let's grab a piece!$NL;$NL;» Meet up with Mitchell$NL;» Breach into the basement$NL;» Extract the counterfeit plates and escape"
+},{
+	 "i"		: 241
+	,"ids"		: "Idstring(@IDf9c7606f9f64f705@)"
+	,"StringID"	: "heist_branchbank_briefing"
+	,"orig_text": "The Harvest & Trustee is a medium-size branch bank, vault in the back, a few different entries. Case the place first. My man's gonna leave a thermal drill out back. Get it on the vault door, then bag whatever's inside and move it to the escape car. Good luck."
+},{
+	 "i"		: 242
+	,"ids"		: "Idstring(@ID8926ef6dc2953be6@)"
+	,"StringID"	: "heist_framing_frame_3_briefing"
+	,"orig_text": "This is the senator's apartment. Nice neighborhood, high security though. He's already got the paintings hung, so our cameras are online and transmitting. You can tap the feed from the roof of the building, sorry we couldn't do better. Get into his hidden vault, take the gold, and leave a little coke there to finish the frame job. We can only get access to the vault with a password though, so find me some of his gadgets and I'll do the rest. Good luck."
+},{
+	 "i"		: 243
+	,"ids"		: "Idstring(@ID774b57a437a992fd@)"
+	,"StringID"	: "heist_fish"
+	,"orig_text": "The Yacht Heist"
+},{
+	 "i"		: 244
+	,"ids"		: "Idstring(@IDa9543f81fc794926@)"
+	,"StringID"	: "heist_arm_fac"
+	,"orig_text": "Transport: Harbor"
+},{
+	 "i"		: 245
+	,"ids"		: "Idstring(@ID6febcc42ca727feb@)"
+	,"StringID"	: "heist_dah"
+	,"orig_text": "Diamond Heist"
+},{
+	 "i"		: 246
+	,"ids"		: "Idstring(@ID5f832fb1c6f217c4@)"
+	,"StringID"	: "heist_friend_crimenet"
+	,"orig_text": "I have been running guns in the Caribbean for a while. It's been very profitable, but some of the old movers in the region don't approve of my presence on the local market. The Bolivian Sosa Cartel specifically. As they could not compete with me on level terms, they decided to attack my operation - sinking one of my ships, stealing my merchandise and killing my operatives. That was very unwise. Now they must pay. You will collect that payment, in blood.$NL;$NL;» Gain access to the house$NL;» Draw Ernesto Sosa out and kill him$NL;» Open the hidden safe$NL;» Escape with the loot"
+},{
+	 "i"		: 247
+	,"ids"		: "Idstring(@ID27321153108bf130@)"
+	,"orig_text": "The Search"
+},{
+	 "i"		: 248
+	,"ids"		: "Idstring(@IDe61d787e0e195e78@)"
+	,"StringID"	: "heist_mus_hl"
+	,"orig_text": "The Diamond"
+},{
+	 "i"		: 249
+	,"ids"		: "Idstring(@IDb16a84ad518e2437@)"
+	,"StringID"	: "heist_mad"
+	,"orig_text": "Boiling Point"
+},{
+	 "i"		: 250
+	,"ids"		: "Idstring(@IDec3e6aa2397c2aef@)"
+	,"StringID"	: "heist_pbr"
+	,"orig_text": "Beneath the Mountain"
+},{
+	 "i"		: 251
+	,"ids"		: "Idstring(@ID21fa36d8f8a0a15f@)"
+	,"StringID"	: "heist_crojob1_crimenet"
+	,"orig_text": "My contacts in Split has informed me that a cargo ship, the Moretta, is due to dock in Washington within the next few days. It is carrying a large amount of thermobaric explosive. I require a skilled team to recover these. Discretion is desired.$NL;$NL;» Open the dock gate$NL;» Move the ship to Loading Dock 3B$NL;» Get on the ship and search the containers$NL;» Take the bomb and escape"
+},{
+	 "i"		: 252
+	,"ids"		: "Idstring(@ID9c71029080a9771b@)"
+	,"StringID"	: "heist_kenaz_crimenet"
+	,"orig_text": "The Golden Grin Casino in Las Vegas is holding an item of loot that The Dentist wants. Get it out for him.$NL;$NL;» Use Pre-Planning to choose a loud or stealthy entry$NL;» Enter the casino$NL;» Follow your plan $NL;» Find a way to get into the vault $NL;» Recover the mysterious loot for The Dentist"
+},{
+	 "i"		: 253
+	,"ids"		: "Idstring(@ID9c17590c454c2db3@)"
+	,"StringID"	: "heist_haunted"
+	,"orig_text": "Safe house Nightmare"
+},{
+	 "i"		: 254
+	,"ids"		: "Idstring(@ID68252dd4d32b3d77@)"
+	,"StringID"	: "heist_gallery"
+	,"orig_text": "Art Gallery"
+},{
+	 "i"		: 255
+	,"ids"		: "Idstring(@IDdeb87853a5afbc7e@)"
+	,"StringID"	: "heist_jolly_crimenet"
+	,"orig_text": "I've struck a deal with the biggest syndicate on the west Coast, selling their safes on the east Coast. Unfortunately, first shipment of safes ran into a little trouble - a fucking earthquake! Can you believe that!? Get out there, ensure those safes are recovered. Fuck California.$NL;$NL;» Find Vlad's trucks$NL;» Open the trucks$NL;» Get the safes out"
+},{
+	 "i"		: 256
+	,"ids"		: "Idstring(@ID1579a9079ae07d9d@)"
+	,"StringID"	: "heist_watchdogs_1_briefing"
+	,"orig_text": "We're watchdogs on this job.$NL;$NL;Wear a heavy jacket and carry heavier weapons. We know Hector's transports are getting hit. You'll ride in the back of the truck. Don't let the coke go anywhere."
+},{
+	 "i"		: 257
+	,"ids"		: "Idstring(@ID016f659fd22fcf86@)"
+	,"StringID"	: "spanish_desc_codex"
+	,"orig_text": "As a teenager, Chains always got into trouble. After years of jumping between foster homes and juvenile institutions, he ended up in the military. There he became an excellent soldier."
+},{
+	 "i"		: 258
+	,"ids"		: "Idstring(@ID6953a11d77805b92@)"
+	,"StringID"	: "heist_contact_vlad_description"
+	,"orig_text": "A Ukrainian who used to be a feared enforcer in the Russian motherland, Vlad's been running his own extortion and crime racket in DC out of his local bakery for years. "
+},{
+	 "i"		: 259
+	,"ids"		: "Idstring(@ID27b6714e4d7c102e@)"
+	,"StringID"	: "heist_crojob3_briefing"
+	,"orig_text": "Those thermobaric explosives were loaded onto a freight train this morning. It's heading down to Norfolk. Maybe to be sold on, maybe to be decommissioned - it doesn't matter, because it won't reach there. A moving train is tough to stop, so we're doing this Old West style. Blow a section of bridge and the whole thing comes tumbling down. It's loud and messy, but effective. The wagons will be scattered to hell. One of them has a vault where our explosives are - search each of 'em til you find it."
+},{
+	 "i"		: 260
+	,"ids"		: "Idstring(@ID72823b258b739e2e@)"
+	,"StringID"	: "american_desc_codex"
+	,"orig_text": "Houston could never hold a job even if his life would depend on it. His life style turned him to a life of cons and burglary. He committed his first major felony at the age of 24 and the stakes have only increased since."
+},{
+	 "i"		: 261
+	,"ids"		: "Idstring(@ID6af1ff64308f5291@)"
+	,"StringID"	: "heist_watchdogs_2_hl"
+	,"orig_text": "Boat Load"
+},{
+	 "i"		: 262
+	,"ids"		: "Idstring(@ID94d939fce3feae02@)"
+	,"StringID"	: "heist_nightclub_briefing"
+	,"orig_text": "OK, we're going to pay a visit to the Tasteful club and uh, liberate their cash reserve. Nothing special. Find the manager's office, contain the crowd, make sure we leave in one piece.$NL;$NL;Oh, and there's probably rival Russian mobsters here. I know, Vlad is not being forthcoming with me either."
+},{
+	 "i"		: 263
+	,"ids"		: "Idstring(@ID2c3b54021e9f0057@)"
+	,"StringID"	: "heist_mallcrasher_briefing"
+	,"orig_text": "Yep. You heard him right. Vlad is serious. We go into the mall, we destroy as much as we can. Enough destruction and his client will rethink his whole stance on protection money. Dirty job but you like getting dirty, right?"
+},{
+	 "i"		: 264
+	,"ids"		: "Idstring(@ID6001057038a2a19c@)"
+	,"StringID"	: "heist_mia_2_hl"
+	,"orig_text": "Four Floors"
+},{
+	 "i"		: 265
+	,"ids"		: "Idstring(@ID962fed30ab7e5694@)"
+	,"StringID"	: "heist_arm_par"
+	,"orig_text": "Transport: Park"
+},{
+	 "i"		: 266
+	,"ids"		: "Idstring(@ID6cf3d607be92ede7@)"
+	,"StringID"	: "heist_big_hl"
+	,"orig_text": "The Big Bank"
+},{
+	 "i"		: 267
+	,"ids"		: "Idstring(@ID10ebda4df5e85ff3@)"
+	,"StringID"	: "heist_cane_briefing"
+	,"orig_text": "Straightforward job, this one. A bunch of thugs are running a little operation. Got a bunch of \"elves\" cutting coke that Vlad wants. Deal with the thugs, and then get the elves producing. Shouting at them should do it. Get as much coke as Vlad needs, and we're done."
+},{
+	 "i"		: 268
+	,"ids"		: "Idstring(@ID9bca9636aa032174@)"
+	,"StringID"	: "heist_framing_frame_1_hl"
+	,"orig_text": "Art Gallery"
+},{
+	 "i"		: 269
+	,"ids"		: "Idstring(@IDb01b24313b2acd95@)"
+	,"StringID"	: "heist_peta_briefing"
+	,"orig_text": "This Honduran cartel has a truck moving its product through Downtown. Vlad has arranged to have it hit. We're on clean-up. We go in afterwards, make sure the product gets out. Boots on the ground, you know? "
+},{
+	 "i"		: 270
+	,"ids"		: "Idstring(@ID961dee2c5f57dbc9@)"
+	,"StringID"	: "heist_hox_3"
+	,"orig_text": "Hoxton Revenge"
+},{
+	 "i"		: 271
+	,"ids"		: "Idstring(@ID2f2d98c8f50af59f@)"
+	,"StringID"	: "heist_contact_the_butcher"
+	,"orig_text": "The Butcher"
+},{
+	 "i"		: 272
+	,"ids"		: "Idstring(@ID045f5ba2f19d87dd@)"
+	,"StringID"	: "heist_arm_hcm"
+	,"orig_text": "Transport: Downtown"
+},{
+	 "i"		: 273
+	,"ids"		: "Idstring(@ID5ebcbc03ae52b8b2@)"
+	,"StringID"	: "heist_kenaz_e3"
+	,"orig_text": "Golden Grin Casino E3"
+},{
+	 "i"		: 274
+	,"ids"		: "Idstring(@ID5ed27cf67bf3a0a0@)"
+	,"StringID"	: "heist_kosugi"
+	,"orig_text": "Shadow Raid"
+},{
+	 "i"		: 275
+	,"ids"		: "Idstring(@IDba6b8afb466e5e97@)"
+	,"StringID"	: "heist_friend_hl_briefing"
+	,"orig_text": "Ernesto Sosa is the local boss in Miami for the Sosa Cartel, and The Butcher wants him dead. You're gonna love this: he lives in Tony Montana's old mansion in Miami Beach. Yeah that's right - Scarface, the legendary 80's drug lord. Anyway, you've got to hit the mansion, find a way in and then kill Ernesto Sosa. It won't be easy, the place is like a fortress. But you can do it. Oh yeah, I almost forgot - there should be a lot of money and other loot in that house. Steal it. Wipe them clean. But above all - kill Ernesto Sosa."
+},{
+	 "i"		: 276
+	,"ids"		: "Idstring(@IDd366f7207b25d7c4@)"
+	,"StringID"	: "heist_contact_events_description"
+	,"orig_text": "Contracts from events"
+},{
+	 "i"		: 277
+	,"ids"		: "Idstring(@ID6f3ff47f1ad492a9@)"
+	,"StringID"	: "heist_firestarter_crimenet"
+	,"orig_text": "Hector needs you in the war against the Mendoza cartel.$NL;$NL;» Intercept the Mendoza weapon shipment at the airport$NL;» Retrieve cartel data from the FBI offices$NL;» Burn down the bank holding Mendoza money"
+},{
+	 "i"		: 278
+	,"ids"		: "Idstring(@ID5837707c7a4c041c@)"
+	,"StringID"	: "heist_rat"
+	,"orig_text": "Cook Off"
+},{
+	 "i"		: 279
+	,"ids"		: "Idstring(@ID232e682b881d477c@)"
+	,"StringID"	: "heist_escape_park_briefing"
+	,"orig_text": "...Shit we picked up a tail folks, no shaking 'em now!"
+},{
+	 "i"		: 280
+	,"ids"		: "Idstring(@ID96aa1b4d87d45478@)"
+	,"StringID"	: "heist_haunted_briefing"
+	,"orig_text": "All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;All work and no play makes Wolf a dull boy. All work and no play makes Wolf a dull boy.$NL;"
+},{
+	 "i"		: 281
+	,"ids"		: "Idstring(@IDa28b49363a5cb025@)"
+	,"StringID"	: "heist_arm_hcm_briefing"
+	,"orig_text": "One downtown skyway, five pounds of strategically placed C-4 and impeccable timing has given us a stranded convoy of Gensec trucks. Hit them hard while they're still disoriented. Break into the trucks and the strongboxes, and return the goodies to the escape driver."
+},{
+	 "i"		: 282
+	,"ids"		: "Idstring(@IDcaa64abb470dcbca@)"
+	,"StringID"	: "heist_ukrainian_job"
+	,"orig_text": "Ukrainian Job"
+},{
+	 "i"		: 283
+	,"ids"		: "Idstring(@ID646b17c69473fb89@)"
+	,"StringID"	: "heist_welcome_to_the_jungle_2_briefing"
+	,"orig_text": "Well, I've been through the intel, and this is gonna be interesting. Check out the assets. Get to know them upside down. We need to sneak in to find this guy's lab, and, in the lab, his fusion engine."
+},{
+	 "i"		: 284
+	,"ids"		: "Idstring(@IDc697662db47262ed@)"
+	,"StringID"	: "eday3_brief_skip2"
+	,"orig_text": "I couldn't locate the right truck through the shipping data you uploaded, so we won't be able to intercept those voting machines. However, we can still keep the Elephant sweet. There's a bank next to the polling place. We're going to hit it. Except we're not, not really, 'cos your real goal is hitting the server with the polling results next door. Hit the bank, open the vault, all that stuff, but remember that the real objective is fucking up that polling place."
+},{
+	 "i"		: 285
+	,"ids"		: "Idstring(@ID31a04601e7c4a5b0@)"
+	,"StringID"	: "heist_fish_hl_briefing"
+	,"orig_text": "Ok guys, you know what's at stake here. McKendrick needs that cash to win the elections, and if you can steal it you're pulling the rug out from under his feet. Let's spoil his party, rain on his parade - get even for what that ungrateful bastard did. So get that cash. And there's another thing I found in the file that Charon gave us - somewhere on the yacht there's a server which contains passwords for illicit foreign bank accounts, some of which are also used by McKendrick. Steal that server, and we can cash in nicely on it.$NL;There's a fundraising party for McKendrick on the yacht tonight. With TV and everything. But the party's mostly on the upper deck, so if you sneak in quietly you should be able to get in and out without anyone noticing."
+},{
+	 "i"		: 286
+	,"ids"		: "Idstring(@ID2277bb30c9066fc6@)"
+	,"StringID"	: "heist_crojob2_hl"
+	,"orig_text": "The Bomb: Dockyard"
+},{
+	 "i"		: 287
+	,"ids"		: "Idstring(@ID9d4cd1090c2fb870@)"
+	,"StringID"	: "heist_four_stores_crimenet"
+	,"orig_text": "Vlad is back in town and he doesn't like his store owners working for the Russians. Show them what Vlad does with disloyal countrymen.$NL;$NL;» Locate the four stores$NL;» Steal all their money$NL;» See if you can find safes to crack"
+},{
+	 "i"		: 288
+	,"ids"		: "Idstring(@ID3a986df8f3f4ce39@)"
+	,"StringID"	: "heist_jolly_hl"
+	,"orig_text": "Aftershock"
+},{
+	 "i"		: 289
+	,"ids"		: "Idstring(@ID0d3c2a8d8b62c35c@)"
+	,"StringID"	: "heist_pbr_crimenet"
+	,"orig_text": "The target is a Murkywater facility in the desert. Consider it their Fort Knox. Force your way in, and bring out whatever loot they're holding.$NL;$NL;» Retrieve assets left by Locke$NL;» Fight your way to the inner complex$NL;» Open the vaults and retrieve the loot$NL;» Meet with Locke$NL;» Destroy the radars and escape"
+},{
+	 "i"		: 290
+	,"ids"		: "Idstring(@IDf1f3d9228cbd8629@)"
+	,"StringID"	: "heist_chew"
+	,"orig_text": "Interception"
+},{
+	 "i"		: 291
+	,"ids"		: "Idstring(@ID3b1fdd0536561159@)"
+	,"StringID"	: "heist_chill_combat_hl"
+	,"orig_text": "Safe House Raid"
+},{
+	 "i"		: 292
+	,"ids"		: "Idstring(@ID232b35222e052319@)"
+	,"StringID"	: "heist_cane_hl"
+	,"orig_text": "Santa's Workshop"
+},{
+	 "i"		: 293
+	,"ids"		: "Idstring(@IDe0bb85fdd1d577dc@)"
+	,"StringID"	: "heist_glace"
+	,"orig_text": "Green Bridge"
+},{
+	 "i"		: 294
+	,"ids"		: "Idstring(@IDbbff66d539836473@)"
+	,"StringID"	: "heist_branchbank_crimenet"
+	,"orig_text": "Bain wants you to do a classic bank hit.$NL;$NL;» Find the thermal drill$NL;» Drill the vault$NL;» Keep the civilians in check$NL;» Escape with the contents of the vault"
+},{
+	 "i"		: 295
+	,"ids"		: "Idstring(@ID8edd28752eb973c7@)"
+	,"StringID"	: "heist_contact_classic"
+	,"orig_text": "Classics"
+},{
+	 "i"		: 296
+	,"ids"		: "Idstring(@ID82f1557538e5a8c6@)"
+	,"StringID"	: "heist_alex_crimenet"
+	,"orig_text": "Help Hector wipe out the Mendoza leaders.$NL;$NL;» Retrieve meth from the Mendoza lab$NL;» Trade meth for info with the Cobras$NL;» Eliminate the Mendoza cartel leaders"
+},{
+	 "i"		: 297
+	,"ids"		: "Idstring(@IDf2864c4bf7dbaf7a@)"
+	,"StringID"	: "heist_framing_frame_1_briefing"
+	,"orig_text": "The senator loves to collect art - outsider art in particular. Lucky for us, the Capitol Art Gallery is hosting an exhibition this week. You need to take the marked paintings to the senator's apartment. They'll have cameras installed in them. Eyes on the inside will make your job easier, trust me."
+},{
+	 "i"		: 298
+	,"ids"		: "Idstring(@ID83486d9adfcac791@)"
+	,"StringID"	: "heist_peta2_briefing"
+	,"orig_text": "Okay, I think the worst is behind us. Vlad's driver got the goats to a farm outside the city, ready to perform the extraction of the packages. Stick around. Watch the perimeter. Easy work, right?"
+},{
+	 "i"		: 299
+	,"ids"		: "Idstring(@IDddeaa6d3165c6afd@)"
+	,"StringID"	: "heist_pines_briefing"
+	,"orig_text": "We need you there fast, but it's really out in the sticks, so you're going in like the paras. Find the pilot - he's probably near the wreck - and then we'll send in a chopper to extract him. Stay with him til he's safely out. Also, Vlad says that plane was loaded with product. Search the forest and get as much out as you can. Can always use a little extra cash at Christmas."
+},{
+	 "i"		: 300
+	,"ids"		: "Idstring(@ID5dba0c39fd06c55a@)"
+	,"StringID"	: "heist_dream_hl"
+	,"orig_text": "Slaughterhouse"
+},{
+	 "i"		: 301
+	,"ids"		: "Idstring(@IDc233fba6507f7e04@)"
+	,"StringID"	: "heist_arm_cro_briefing"
+	,"orig_text": "We've forced the Gensec trucks off the road at the corner of McCarty and James. Sure it had those Time Out hipsters shitting into their latte macchiatos. You're going to need to get into the trucks, and then break open the strongboxes inside. Whatever they're carrying, get it, and get out."
+},{
+	 "i"		: 302
+	,"ids"		: "Idstring(@ID12c95b55c51d056a@)"
+	,"StringID"	: "heist_alex_1_briefing"
+	,"orig_text": "Well, you heard Hector. No time to piss around. We go into the meth lab and secure the goods. I'm sure we don't have long before the law shows, either, which is in keeping with this spectacular run of bad luck we've been having."
+},{
+	 "i"		: 303
+	,"ids"		: "Idstring(@IDa255827b921a2056@)"
+	,"StringID"	: "heist_spa_hl_briefing"
+	,"orig_text": "Okay... Let's get Charon out. This is personal for me, so let's stay sharp."
+},{
+	 "i"		: 304
+	,"ids"		: "Idstring(@IDd95d90f36aad9537@)"
+	,"StringID"	: "heist_arena_hl"
+	,"orig_text": "The Alesso Heist"
+},{
+	 "i"		: 305
+	,"ids"		: "Idstring(@IDcfa173412fd8d309@)"
+	,"StringID"	: "heist_crojob2_crimenet"
+	,"orig_text": "A large amount of thermobaric explosive is due to be taken by a secure train, to a plant where it will be decommissioned. I require a skilled team to recover these explosives. Send a message. Do it loud.$NL;$NL;» Find the correct wagon$NL;» Fill the wagon with water$NL;» Find C4 and use it to open the wagon$NL;» Take the bomb and escape"
+},{
+	 "i"		: 306
+	,"ids"		: "Idstring(@ID8f36f2349e838aea@)"
+	,"StringID"	: "heist_mad_crimenet"
+	,"orig_text": "This dirty Russian organization is conducting some very disturbing experiments from a hidden laboratory in Russia. You won't believe what shit they're doing over there. We need to fuckin' stop Akan from getting his hands on the data, yeah? It's do or die, boys and girls.$NL;$NL;» Enter the compound$NL;» Gain access to the lab$NL;» Obtain the data$NL;» Escape"
+},{
+	 "i"		: 307
+	,"ids"		: "Idstring(@IDae7e050361e249d0@)"
+	,"StringID"	: "heist_chew_crimenet"
+	,"orig_text": "The OVERKILL MC is smuggling their stolen cargo on a freight train. The Elephant wants that weapon's tech. Go get it. $NL;$NL;» Board the train$NL;» Locate and steal the BCI helmet$NL;» Escape"
+},{
+	 "i"		: 308
+	,"ids"		: "Idstring(@IDf5aac53886d5143e@)"
+	,"StringID"	: "heist_arena_briefing"
+	,"orig_text": "The arena has a huge security floor run by Gensec. Part exhibition for corporate VIP's, but still a working vault. Tonight, we hit it. We got an inside man on this one. He stashed some C4 around the Arena. Gather it, blow the vault from beneath and get that sweet dirty money out. There's a big star playing here. No-one less than Alesso. Tonight's the last night of his sold-out East Coast tour, and he's promised to tear the roof up. Oh, and Wolf - stay off the dance floor."
+},{
+	 "i"		: 309
+	,"ids"		: "Idstring(@ID47c15c1580eefc2c@)"
+	,"StringID"	: "heist_type_knockover"
+	,"orig_text": "Knockover"
+},{
+	 "i"		: 310
+	,"ids"		: "Idstring(@ID5d714ac8c34c749f@)"
+	,"StringID"	: "heist_arm_und_crimenet"
+	,"orig_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle"
+},{
+	 "i"		: 311
+	,"ids"		: "Idstring(@ID3cb78149be08c535@)"
+	,"StringID"	: "heist_cage_hl"
+	,"orig_text": "Car Shop"
+},{
+	 "i"		: 312
+	,"ids"		: "Idstring(@ID801cf4fef6757301@)"
+	,"StringID"	: "heist_cage_briefing"
+	,"orig_text": "Teuer autos is our objective here. We're going to hit their dealership late in the evening. Should be quiet, not many civilians. They're a high-end joint. Deal in importing high-performance supercars from Europe and Japan. Those cars are a work of engineering beauty. And they're expensive - we're talking the price of a house in Georgetown here."
+},{
+	 "i"		: 313
+	,"ids"		: "Idstring(@ID97468076fabbc51c@)"
+	,"StringID"	: "heist_contact_bain"
+	,"orig_text": "Bain"
+},{
+	 "i"		: 314
+	,"ids"		: "Idstring(@IDc3897f70d24d47e1@)"
+	,"StringID"	: "heist_chill_combat_hl_briefing"
+	,"orig_text": "The cops are coming to raid the Safe House. But they don't know who's there , so you'll have the advantage of surprise. Protect your money bags at all costs!$NL;$NL;»Defeat the police raid.$NL;»Don't let the cops steal your money."
+},{
+	 "i"		: 315
+	,"ids"		: "Idstring(@IDe642435cedcc9699@)"
+	,"StringID"	: "heist_moon"
+	,"orig_text": "Stealing Xmas"
+},{
+	 "i"		: 316
+	,"ids"		: "Idstring(@ID4ea49178ac74846f@)"
+	,"StringID"	: "heist_contact_classic_description"
+	,"orig_text": "Contracts from the good ol' days."
+},{
+	 "i"		: 317
+	,"ids"		: "Idstring(@ID984a4a2165cc5046@)"
+	,"StringID"	: "heist_election_day_2_hl"
+	,"orig_text": "Swing Vote"
+},{
+	 "i"		: 318
+	,"ids"		: "Idstring(@ID6b8aeb59d3064b7c@)"
+	,"StringID"	: "heist_friend"
+	,"orig_text": "Scarface Mansion"
+},{
+	 "i"		: 319
+	,"ids"		: "Idstring(@ID47c60e0eb0b72913@)"
+	,"StringID"	: "heist_peta2"
+	,"orig_text": "Goat Simulator"
+},{
+	 "i"		: 320
+	,"ids"		: "Idstring(@ID8fb8a8918bed1832@)"
+	,"StringID"	: "heist_dark"
+	,"orig_text": "Murky Station"
+},{
+	 "i"		: 321
+	,"ids"		: "Idstring(@ID1da93a7df481ce90@)"
+	,"StringID"	: "heist_escape_street_hl"
+	,"orig_text": "Street Escape"
+},{
+	 "i"		: 322
+	,"ids"		: "Idstring(@IDf2f6738a3bdd7f87@)"
+	,"StringID"	: "heist_arm_for"
+	,"orig_text": "Transport: Train Heist"
+},{
+	 "i"		: 323
+	,"ids"		: "Idstring(@IDd14f9c09b8ed5d87@)"
+	,"StringID"	: "heist_branchbank_deposit"
+	,"orig_text": "Bank Heist: Deposit"
+},{
+	 "i"		: 324
+	,"ids"		: "Idstring(@IDe243e304fe0778e1@)"
+	,"StringID"	: "heist_arm_und_hl"
+	,"orig_text": "Transport: Underpass"
+},{
+	 "i"		: 325
+	,"ids"		: "Idstring(@ID93d743005adeaab6@)"
+	,"StringID"	: "heist_born_crimenet"
+	,"orig_text": "Rust's decision to join the PAYDAY gang did not come free of cost. His former brothers in the OVERKILL MC are out for blood. Our blood, to be more specific. We're walking straight into a trap, but it'll be worth it. Trust me.$NL;$NL;» Enter the clubhouse$NL;» Find the mechanic$NL;» Assemble the bike and escape"
+},{
+	 "i"		: 326
+	,"ids"		: "Idstring(@IDb0ae33dbe7517984@)"
+	,"StringID"	: "heist_chill_combat"
+	,"orig_text": "Safe House Raid"
+},{
+	 "i"		: 327
+	,"ids"		: "Idstring(@ID2b238d0976606f43@)"
+	,"StringID"	: "heist_arm_for_crimenet"
+	,"orig_text": "That blueprint you found in the last job was for a prototype infantry weapon, a new kind of turret. It's also carrying significant amounts of ammunition, which you can also try to retrieve. $NL;$NL;» Find and break into the correct railcar$NL;» Recover the prototype turret$NL;» Dismantle and secure the turret components$NL;» Acquire the required amounts of ammunition$NL;» Secure all items in the waiting vehicle"
+},{
+	 "i"		: 328
+	,"ids"		: "Idstring(@ID3f83753584ff0e1a@)"
+	,"StringID"	: "heist_contact_the_dentist_description"
+	,"orig_text": "Little is known about the Dentist. He represents a large clientele whom he refers to as his patients. He is a determined, meticulate planner who has taken a great interest in the PAYDAY gang. He is the only one who knows how to free old Hoxton."
+},{
+	 "i"		: 329
+	,"ids"		: "Idstring(@IDd1d629b75bd7c595@)"
+	,"StringID"	: "heist_contact_the_elephant_description"
+	,"orig_text": "John Henry Simmons, called the Elephant by press.  A dirty Republican Congressman with mysterious connections that go all the way to the top."
+},{
+	 "i"		: 330
+	,"ids"		: "Idstring(@ID04efd5f9c49d80e3@)"
+	,"StringID"	: "heist_contact_vlad"
+	,"orig_text": "Vlad"
+},{
+	 "i"		: 331
+	,"ids"		: "Idstring(@IDd6da219297ef002b@)"
+	,"StringID"	: "heist_escape_cafe_hl"
+	,"orig_text": "Cafe Escape"
+},{
+	 "i"		: 332
+	,"ids"		: "Idstring(@ID7a8227478e6d755e@)"
+	,"StringID"	: "heist_framing_frame_3_hl"
+	,"orig_text": "Framing"
+},{
+	 "i"		: 333
+	,"ids"		: "Idstring(@ID3bee9e11beb9bc02@)"
+	,"StringID"	: "heist_friend_hl"
+	,"orig_text": "Scarface Mansion"
+},{
+	 "i"		: 334
+	,"ids"		: "Idstring(@IDe9aa94d445d9b938@)"
+	,"StringID"	: "heist_glace_crimenet"
+	,"orig_text": "Ok, it's time to break this guy Kazuo out of prison so we can get the information he has on Kento. I engineered some ah... trouble... to get him transferred to another facility by convoy. We'll ambush that convoy and break the prisoner out. This isn't gonna be a quiet one, guys, we'll need to take extreme measures to stop the prison trucks. And, yeah, Kazuo doesn't know we're breaking him out, so boy is he in for a surprise!$NL;$NL;» Find the trucks$NL;» Saw the trucks open and find the prisoner$NL;» Escort the prisoner to the tower$NL;» Get the prisoner airlifted out$NL;» Escape"
+},{
+	 "i"		: 335
+	,"ids"		: "Idstring(@IDff6ca1176a631986@)"
+	,"StringID"	: "heist_haunted_hl"
+	,"orig_text": "Safe house Nightmare"
+},{
+	 "i"		: 336
+	,"ids"		: "Idstring(@ID37a8674febf11418@)"
+	,"StringID"	: "heist_hoxton_1"
+	,"orig_text": "Ye olde hoxton"
+},{
+	 "i"		: 337
+	,"ids"		: "Idstring(@ID52d74209ca2eb2cf@)"
+	,"StringID"	: "heist_hox_1_asset_armoredcar"
+	,"orig_text": "Armored Car"
+},{
+	 "i"		: 338
+	,"ids"		: "Idstring(@IDd4c829ba081cd74f@)"
+	,"StringID"	: "heist_hox_1_briefing"
+	,"orig_text": "The Dentist got Hoxton a re-trial. Uh, not you, Hox - I mean Old... Look, we'll sort out names later. The trial will be quick. With his record, he ain't gonna walk, but that's not the point. The point is he's moving, and we can hit him in transit. We're going to grab him right after the hearing. A nice little \"screw you\" to the US justice system.$NL;$NL;The plan is as loud as it gets: we blast a wall in the courthouse, grab Hox and get him the hell out.$NL;$NL;Area's locked down for blocks around. They'll be expecting trouble. Have your guns ready and pack a lot of ammo."
+},{
+	 "i"		: 339
+	,"ids"		: "Idstring(@ID01902bc10929fca4@)"
+	,"StringID"	: "heist_jewelry_store_crimenet"
+	,"orig_text": "Bain wants you to do a classic jewelry heist. Get in, grab the loot, and get out.$NL;$NL;» Locate the jewelry store$NL;» Check the back office for a safe$NL;» Bag and get the jewelry to the escape car$NL;» Steal any other valuables in the store"
+},{
+	 "i"		: 340
+	,"ids"		: "Idstring(@ID277008182dd80b47@)"
+	,"StringID"	: "heist_jolly_briefing"
+	,"orig_text": "Hey, you guys see the news?! Big quake just hit the West Coast! LA is completely messed up. And that's where you're headed.$NL;$NL;Seems Vlad has set up some big deal to move some freight from Seattle to DC. The shippers he contracted were in LA when the quake hit - I guess they were going to ship out of Long Beach. Vlad wants his freight secured safely. No time for planning on this one. LA is wrecked, and the roads are messed up so we're going to drop you in by chopper."
+},{
+	 "i"		: 341
+	,"ids"		: "Idstring(@IDff8a33fcad699952@)"
+	,"StringID"	: "heist_kosugi_hl"
+	,"orig_text": "Shadow Raid"
+},{
+	 "i"		: 342
+	,"ids"		: "Idstring(@ID00fe77a1b6405a38@)"
+	,"StringID"	: "heist_mallcrasher_hl"
+	,"orig_text": "Mallcrasher"
+},{
+	 "i"		: 343
+	,"ids"		: "Idstring(@ID0aa880ee3ec8ef02@)"
+	,"StringID"	: "heist_man_crimenet"
+	,"orig_text": "The Taxman carries a server weighting far more than just a fortune. Connect me with the computer inside the building and I can transfer the data easily. Let's show him we mean business.$NL;$NL;» Get the Taxman's server$NL;» Extract the codes$NL;» Hack and transfer the data"
+},{
+	 "i"		: 344
+	,"ids"		: "Idstring(@ID8bed7fd2014e879f@)"
+	,"StringID"	: "heist_mia_1_hl"
+	,"orig_text": "Hotline Miami"
+},{
+	 "i"		: 345
+	,"ids"		: "Idstring(@ID3f328f0f7592f7de@)"
+	,"StringID"	: "heist_mia_2_briefing"
+	,"orig_text": "We're using crates to get into the Commissar's place. Trojan horse style. His apartment is a cruddy dump in a crappy part of town. Security ain't great, but I'm sure he and his muscles have something in their back pocket. Objective is simple: find the Commissar and kill him. This is going to get loud, so dress to impress."
+},{
+	 "i"		: 346
+	,"ids"		: "Idstring(@IDf139f8352538cf65@)"
+	,"StringID"	: "heist_mus_crimenet"
+	,"orig_text": "The Diamond is historic. It is also extremely valuable. The Dentist is one of the few people with the connections to move it. You will retrieve it for an anonymous individual who he represents.$NL;$NL;» Get inside the McKendrick museum$NL;» Find where the Diamond is kept$NL;» Steal the Diamond$NL;» Steal any other artifacts you find"
+},{
+	 "i"		: 347
+	,"ids"		: "Idstring(@ID6b8416711cbf0bf1@)"
+	,"StringID"	: "heist_nail_briefing"
+	,"orig_text": "We're working in the lab, late tonight,$NL;letting your eyes behold an eerie sight.$NL;Get cooking on the table,$NL;bubble and boil.$NL;And keep the cops from bringin',$NL;trouble and toil."
+},{
+	 "i"		: 348
+	,"ids"		: "Idstring(@ID898df4f6aeb5d3f7@)"
+	,"StringID"	: "heist_pal"
+	,"orig_text": "Counterfeit"
+},{
+	 "i"		: 349
+	,"ids"		: "Idstring(@ID3c5b691282d02628@)"
+	,"StringID"	: "heist_pbr2_hl"
+	,"orig_text": "Birth of Sky"
+},{
+	 "i"		: 350
+	,"ids"		: "Idstring(@ID5b37ce5ecbe16d4d@)"
+	,"StringID"	: "heist_peta2_crimenet"
+	,"orig_text": "Vlad's driver got the goats to a farm outside the city. Snap on your gloves - time for some dirty work. $NL;$NL;» Make sure the product is secure$NL;» Watch the perimeter$NL;» Leave the area and escape"
+},{
+	 "i"		: 351
+	,"ids"		: "Idstring(@IDe33fa986ee519110@)"
+	,"StringID"	: "heist_rat_hl"
+	,"orig_text": "Cook Off"
+},{
+	 "i"		: 352
+	,"ids"		: "Idstring(@ID523e50c09fc3fbe0@)"
+	,"StringID"	: "heist_red2_briefing"
+	,"orig_text": "The vault is buried deep in the back of the bank. Getting through to it will be tough, but we have some help. An Inside Man is prepped and waiting for you. They're going to help us out once you're in there.$NL;$NL;You can do this loud, or you can take it softly. Up to you."
+},{
+	 "i"		: 353
+	,"ids"		: "Idstring(@ID58ff5e224202f5a3@)"
+	,"StringID"	: "heist_roberts_hl"
+	,"orig_text": "GO Bank"
+},{
+	 "i"		: 354
+	,"ids"		: "Idstring(@IDcaea9f5e253d45d9@)"
+	,"StringID"	: "heist_safehouse_crimenet"
+	,"orig_text": "Bain has set you up with a safe house."
+},{
+	 "i"		: 355
+	,"ids"		: "Idstring(@ID14049457027ccfa5@)"
+	,"StringID"	: "heist_safehouse_hl"
+	,"orig_text": "The safe house"
+},{
+	 "i"		: 356
+	,"ids"		: "Idstring(@ID6637027ef7155c3b@)"
+	,"StringID"	: "heist_short1_stage2_briefing"
+	,"orig_text": "All right, Dallas. It's time to use those access codes we stole last night. Find a way inside the building - access the Police database and delete all the intel they have on Crime.Net. This won't be a walk in the park, so show me you still got what it takes."
+},{
+	 "i"		: 357
+	,"ids"		: "Idstring(@ID5ef1d036a1e3f41d@)"
+	,"StringID"	: "heist_short2_crimenet"
+	,"orig_text": " "
+},{
+	 "i"		: 358
+	,"ids"		: "Idstring(@ID4ce85a77d519c8b0@)"
+	,"StringID"	: "heist_short2_stage1_briefing"
+	,"orig_text": "Okay, Dallas. It's been two years since we worked together, and I need to see that you still got what it takes. We'll start with something simple, all right? An acquaintance of mine recently got robbed on a cocaine deal by some low-life mobster. I need to you to break into his night club and see if you can find the stolen cocaine and get it back. Easy, right? "
+},{
+	 "i"		: 359
+	,"ids"		: "Idstring(@ID0b136d2b28e465df@)"
+	,"StringID"	: "heist_short2_stage2b_briefing"
+	,"orig_text": "It's not over yet, Dallas! We picked up more heat than I expected and the cops are on your tail. Try to shake them before they close you off and things get hairy!"
+},{
+	 "i"		: 360
+	,"ids"		: "Idstring(@ID9d474941f0863bd3@)"
+	,"StringID"	: "heist_short2_stage2b_hl"
+	,"orig_text": "Loud - Plan B"
+},{
+	 "i"		: 361
+	,"ids"		: "Idstring(@ID5e32bb15c6b74320@)"
+	,"StringID"	: "heist_shoutout_raid"
+	,"orig_text": "Meltdown"
+},{
+	 "i"		: 362
+	,"ids"		: "Idstring(@ID7568cd7e66833ce7@)"
+	,"StringID"	: "heist_shoutout_raid_briefing"
+	,"orig_text": "We're hitting the Murkywater warehouse for Vlad. Don't know what the target is, or where it is, but it's tucked away in a vault, which itself is in one of their branded shipping containers. Get in there, find the vault and get out whatever it is that crazy Russki wants. $NL;$NL;Murkies will be on high alert when you get there, and the cops'll be quick to respond, so you gotta get in there and do the job fast. Fast means loud. No tiptoeing this one. It's safeties off from the get-go. And, don't forget, there's loot all around. See what you can grab."
+},{
+	 "i"		: 363
+	,"ids"		: "Idstring(@IDee943a527b95e9c6@)"
+	,"StringID"	: "heist_type_heist"
+	,"orig_text": "Heist"
+},{
+	 "i"		: 364
+	,"ids"		: "Idstring(@ID9d14860458d05d7e@)"
+	,"StringID"	: "heist_ukrainian_job_briefing"
+	,"orig_text": "Vlad really doesn't like this Dmitri guy. One of these old-country feuds. Maybe he shagged his sister or something. Anyway, let's help the man settle the score. We go for the tiara - back room from what I understand. Don't get the heat on you too early or your escape is going to be rough. Check your assets. Let's go."
+},{
+	 "i"		: 365
+	,"ids"		: "Idstring(@ID010bf6805011a235@)"
+	,"StringID"	: "heist_ukrainian_job_hl"
+	,"orig_text": "Ukrainian Job"
+},{
+	 "i"		: 366
+	,"ids"		: "Idstring(@IDd3866426e8c26a1e@)"
+	,"StringID"	: "heist_welcome_to_the_jungle_crimenet"
+	,"orig_text": "The Elephant needs a politically-disruptive invention dealt with.$NL;$NL;» Find more information about the inventor$NL;» Locate and steal the invention"
+},{
+	 "i"		: 367
+	,"ids"		: "Idstring(@ID3880e4072f443b23@)"
+	,"StringID"	: "heist_wwh_briefing"
+	,"orig_text": "Locke has asked for help guarding a weapons transaction in Alaska. Says he's not expecting trouble, but want some reliable security just in case. Looks like it might be an easy Payday if you can put up with the cold."
+},{
+	 "i"		: 368
+	,"ids"		: "Idstring(@ID6f222c4cb823bed6@)"
+	,"StringID"	: "heist_wwh_crimenet"
+	,"orig_text": "Dear friends, I need assistance unloading some weapons. I have set up a deal in Alaska, but I need an escort to keep the transaction secure, yeah?"
+},{
+	 "i"		: 369
+	,"ids"		: "Idstring(@ID50b9ec2dc3539565@)"
+	,"StringID"	: "hud_assault_survived"
+	,"orig_text": "WAVE SURVIVED"
+},{
+	 "i"		: 370
+	,"ids"		: "Idstring(@ID63fc9647f8964485@)"
+	,"StringID"	: "rb14_drk_outro_02_01"
+	,"orig_text": "Fuck, the alarm went off, but we made it. We good. Fucking Murkies won't know what hit them. Akan, however, will be mad as fuck. The thought of that kind of pleases me. "
+},{
+	 "i"		: 371
+	,"ids"		: "Idstring(@ID00680ede8424856a@)"
+	,"StringID"	: "rb14_mad_cbf_01_01"
+	,"orig_text": "This dirty Russian organization is conducting some very disturbing experiments from a hidden laboratory in Russia. You won't believe what shit they're doing over there. We need to fuckin' stop Akan from getting his hands on the data, yeah? It's do or die, boys and girls.$NL;$NL;» Enter the compound$NL;» Gain access to the lab$NL;» Obtain the data$NL;» Escape"
+},{
+	 "i"		: 372
+	,"ids"		: "Idstring(@ID7fb71331ace475a9@)"
+	,"StringID"	: "rb14_mad_outro_01_01"
+	,"orig_text": "We fuckin' did it, lads! We stopped that white-haired fucking freak from getting the data he was after. So, what do you say? What do you say? We burn it, yeah? Burn it straight to fuckin' hell!  "
+},{
+	 "i"		: 373
+	,"ids"		: "Idstring(@IDf0b4f7b07cc49eb3@)"
+	,"orig_text": "Source Language Text"
+}
+]

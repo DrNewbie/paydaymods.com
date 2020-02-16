@@ -1,0 +1,19 @@
+{
+  "source": [
+    {
+      "tag": "awcjack",
+      "author": "awcjack",
+      "link": "https://bitbucket.org/awcjack/payday-2-cwip-mod-text/raw/master/awcjack/list.txt"
+    },
+    {
+      "tag": "x778888778",
+      "author": "綠茶地瓜",
+      "link": "https://raw.githubusercontent.com/dream6179/-lua-josn-txt/master/list.txt"
+    },
+    {
+      "tag": "IDK",
+      "author": "備份或特別用途",
+      "link": "https://bitbucket.org/awcjack/payday-2-cwip-mod-text/raw/master/IDK/list.txt"
+    }
+  ]
+}

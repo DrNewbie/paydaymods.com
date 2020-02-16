@@ -1,0 +1,83 @@
+{
+	"menu_id" : "wac_menu_smg_m45",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_m45_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m45ergogrip",
+			"title" : "wac_replace_ergogrip_title",
+			"callback" : "callback_toggle_replace_m45ergogrip",		
+			"items" : [
+				"wac_default_multi",
+				"blinggrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_m45ergogrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_m45extmag",
+			"title" : "wac_replace_hideextmag_title",
+			"callback" : "callback_toggle_replace_m45extmag",
+			"value" : "replace_m45extmag",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m45stndst",
+			"title" : "wac_replace_stndst_title",
+			"callback" : "callback_toggle_replace_m45stndst",		
+			"items" : [
+				"wac_default_multi",
+				"foldedst_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_m45stndst",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m45foldst",
+			"title" : "wac_replace_foldedst_title",
+			"callback" : "callback_toggle_replace_m45foldst",		
+			"items" : [
+				"wac_default_multi",
+				"unfoldst_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_m45foldst",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_m45x_st",
+			"title" : "wac_replace_akimbost_title",
+			"callback" : "callback_toggle_replace_m45x_st",		
+			"items" : [
+				"wac_default_multi",
+				"unfoldst_multi",
+				"nostock_multi"
+			],
+			"value" : "replace_m45x_st",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_hidem45bparts",
+			"title" : "wac_replace_hidem45bparts_title",
+			"callback" : "callback_toggle_replace_hidem45bparts",
+			"value" : "replace_hidem45bparts",
+			"default_value" : false
+		}
+	]
+}

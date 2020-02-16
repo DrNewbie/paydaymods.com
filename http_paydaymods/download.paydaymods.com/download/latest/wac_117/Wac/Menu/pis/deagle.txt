@@ -1,0 +1,85 @@
+{
+	"menu_id" : "wac_menu_pis_deagle",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_deagle_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_deaglestndb",
+			"title" : "wac_replace_stndb_title",
+			"callback" : "callback_toggle_replace_deaglestndb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_deaglel6sl_multi"
+			],
+			"value" : "replace_deaglestndb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_deaglelongb",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_deaglelongb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_deaglelongb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_deaglel6b",
+			"title" : "wac_replace_deaglel6b_title",
+			"callback" : "callback_toggle_replace_deaglel6b",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_deaglel6b",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_deagleergogrip",
+			"title" : "wac_replace_ergogrip_title",
+			"callback" : "callback_toggle_replace_deagleergogrip",		
+			"items" : [
+				"wac_default_multi",
+				"blinggrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_deagleergogrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_deagleblinggrip",
+			"title" : "wac_replace_blinggrip_title",
+			"callback" : "callback_toggle_replace_deagleblinggrip",		
+			"items" : [
+				"wac_default_multi",
+				"ergogrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_deagleblinggrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_deagleextmag",
+			"title" : "wac_replace_hideextmag_title",
+			"callback" : "callback_toggle_replace_deagleextmag",
+			"value" : "replace_deagleextmag",
+			"default_value" : false
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"name" : "Real Weapon Mod Names",
+	"description" : "Real-life names for weapon mods",
+	"author" : "BillyAlt",
+	"contact" : "wmaltdel@gmail.com",
+	"version" : "0.92",
+	"updates" : [
+		{
+			"revision" : 3,
+			"identifier" : "RWMN_BillyAlt",
+		}
+	],
+	"hooks" : [
+		{   
+			"hook_id" : "lib/managers/localizationmanager",
+			"script_path" : "realweaponmodnames.lua"
+		}
+	],
+}

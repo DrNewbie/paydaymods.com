@@ -1,0 +1,152 @@
+{
+    "menu_id": "dynamic_hud_options",
+    "parent_menu_id": "mod_collection_options",
+    "title": "dynamic_hud_options",
+    "description": "dynamic_hud_options_desc",
+    "items": [
+        {
+            "type": "toggle",
+            "id": "show_timers",
+            "title": "show_timers",
+            "description": "show_timers_desc",
+            "callback": "callback_show_timers",
+            "value": "show_timers",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_equipment",
+            "title": "show_equipment",
+            "description": "show_equipment_desc",
+            "callback": "callback_show_equipment",
+            "value": "show_equipment",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_minions",
+            "title": "show_minions",
+            "description": "show_minions_desc",
+            "callback": "callback_show_minions",
+            "value": "show_minions",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_pagers",
+            "title": "show_pagers",
+            "description": "show_pagers_desc",
+            "callback": "callback_show_pagers",
+            "value": "show_pagers",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "remove_answered_pager_contour",
+            "title": "remove_answered_pager_contour",
+            "description": "remove_answered_pager_contour_desc",
+            "callback": "callback_remove_answered_pager_contour",
+            "value": "remove_answered_pager_contour",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_ecms",
+            "title": "show_ecms",
+            "description": "show_ecms_desc",
+            "callback": "callback_show_ecms",
+            "value": "show_ecms",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_enemies",
+            "title": "show_enemies",
+            "description": "show_enemies_desc",
+            "callback": "callback_show_enemies",
+            "value": "show_enemies",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "aggregate_enemies",
+            "title": "aggregate_enemies",
+            "description": "aggregate_enemies_desc",
+            "callback": "callback_aggregate_enemies",
+            "value": "aggregate_enemies",
+            "default_value": false
+        },
+        {
+            "type": "toggle",
+            "id": "show_civilians",
+            "title": "show_civilians",
+            "description": "show_civilians_desc",
+            "callback": "callback_show_civilians",
+            "value": "show_civilians",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_hostages",
+            "title": "show_hostages",
+            "description": "show_hostages_desc",
+            "callback": "callback_show_hostages",
+            "value": "show_hostages",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_pager_count",
+            "title": "show_pager_count",
+            "description": "show_pager_count_desc",
+            "callback": "callback_show_pager_count",
+            "value": "show_pager_count",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_loot",
+            "title": "show_loot",
+            "description": "show_loot_desc",
+            "callback": "callback_show_loot",
+            "value": "show_loot",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "aggregate_loot",
+            "title": "aggregate_loot",
+            "description": "aggregate_loot_desc",
+            "callback": "callback_aggregate_loot",
+            "value": "aggregate_loot",
+            "default_value": false
+        },
+        {
+            "type": "toggle",
+            "id": "separate_bagged_loot",
+            "title": "separate_bagged_loot",
+            "description": "separate_bagged_loot_desc",
+            "callback": "callback_separate_bagged_loot",
+            "value": "separate_bagged_loot",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_special_pickups",
+            "title": "show_special_pickups",
+            "description": "show_special_pickups_desc",
+            "callback": "callback_show_special_pickups",
+            "value": "show_special_pickups",
+            "default_value": true
+        },
+        {
+            "type": "toggle",
+            "id": "show_buffs",
+            "title": "show_buffs",
+            "description": "show_buffs_desc",
+            "callback": "callback_show_buffs",
+            "value": "show_buffs",
+            "default_value": true
+        }
+	]
+}

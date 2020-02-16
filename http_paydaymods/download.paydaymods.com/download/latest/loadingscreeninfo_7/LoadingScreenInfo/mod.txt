@@ -1,0 +1,38 @@
+{
+	"name" : "Loading Screen Info",
+	"description" : "Displays tips and game session information on the level loading screen",
+	"author" : "\n    Snh20\n    TdlQ (localizations loading code)\n    Mr.PlayYou [BE] & LASTBULLET_Babyforce (French translations)\n    Magic Bitard (Russian translations)\n    Luca- & FeelAlive (German translations)\n    4Loris4 (Italian translations)\n    KouRyuu, Alcat101 (tips)\n    Fooksie (tips, level-specific tips suggestion)",
+	"blt_version" : 2,
+	"version" : "0.0.3.4",
+	"priority" : 10,
+	"color" : "0.15 0.15 0.15",
+	"image" : "_icon.png",
+	"updates" : [
+		{
+			"revision" : 7,
+			"identifier" : "loadingscreeninfo"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/setups/setup",
+			"script_path" : "setup.lua"
+		},
+		{
+			"hook_id" : "lib/utils/levelloadingscreenguiscript",
+			"script_path" : "levelloadingscreenguiscript.lua"
+		},
+		{
+			"hook_id" : "lib/tweak_data/tipstweakdata",
+			"script_path" : "tipstweakdata.lua"
+		},
+		{
+			"hook_id" : "lib/network/base/clientnetworksession",
+			"script_path" : "clientnetworksession.lua"
+		},
+		{
+			"hook_id" : "lib/network/base/hostnetworksession",
+			"script_path" : "hostnetworksession.lua"
+		}
+	]
+}

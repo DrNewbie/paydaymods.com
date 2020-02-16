@@ -1,0 +1,34 @@
+{
+	"blt_version" : 2,
+	"name": "VR Recoil",
+	"description": "Adds recoil to VR.",
+	"author": "Rokk",
+	"contact": "http://steamcommunity.com/id/Rokk or Rokk#8740",
+	"version": "1",
+	"updates" : [
+		{
+			"identifier" : "vrrecoil"
+		}
+	],
+	"hooks": [
+		{
+			"hook_id": "lib/units/beings/player/states/vr/hand/playerhandstateweapon",
+			"script_path": "playerhandstateweapon.lua"
+		},
+		{
+			"hook_id": "lib/units/beings/player/states/vr/hand/playerhandstateakimbo",
+			"script_path": "playerhandstateakimbo.lua"
+		},
+		{
+			"hook_id": "lib/units/weapons/vr/newraycastweaponbasevr",
+			"script_path": "newraycastweaponbasevr.lua"
+		}
+	],
+	"libraries" : [
+        {
+            "display_name" : "BeardLib",
+            "identifier" : "beardlib",
+            "optional" : "false"
+        }
+    ]
+}

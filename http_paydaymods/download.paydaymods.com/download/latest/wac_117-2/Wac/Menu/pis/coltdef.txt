@@ -1,0 +1,59 @@
+{
+	"menu_id" : "wac_menu_pis_coltdef",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_coltdef_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_coltdefblinggrip",
+			"title" : "wac_replace_blinggrip_title",
+			"callback" : "callback_toggle_replace_coltdefblinggrip",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_coltdefblinggrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_coltdefergogrip",
+			"title" : "wac_replace_ergogrip_title",
+			"callback" : "callback_toggle_replace_coltdefergogrip",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_coltdefergogrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_coltdefextmag",
+			"title" : "wac_replace_hideextmag_title",
+			"callback" : "callback_toggle_replace_coltdefextmag",
+			"value" : "replace_coltdefextmag",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_coltdefmilledsl",
+			"title" : "wac_replace_coltdefmilled_title",
+			"callback" : "callback_toggle_replace_coltdefmilledsl",		
+			"items" : [
+				"wac_default_multi",
+				"stndslide_multi"
+			],
+			"value" : "replace_coltdefmilledsl",
+			"default_value" : 1
+		}
+	]
+}

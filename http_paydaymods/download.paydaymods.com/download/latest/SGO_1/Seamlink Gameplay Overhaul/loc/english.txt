@@ -1,0 +1,187 @@
+{
+	"sgo_options_menu_title" : "Seamlink's Gameplay Overhaul",
+	"sgo_options_menu_desc"  : "Enter here to control SGO's Features, thanks to Subsimple for helping me with the menus, Sigma,Polkka,Bonny,Smile,Nolegs and friends for testing from the beginning",
+	
+	"sgo_options_menuw_title" : "<-Weapon Modifications->                   ",
+	"sgo_options_menuw_desc"  : "Contains Mods that tweak weapons and their behaviour",
+	
+	"sgo_options_menup_title" : "<-Player Modifications->                   ",
+	"sgo_options_menup_desc"  : "Contains tweaks that enhance player habilities",
+	
+	"sgo_options_menuh_title" : "<-HUD Modifications + Tweaks->             ",
+	"sgo_options_menuh_desc"  : "Contains HUD related stuff + certain tweaks",
+	
+	"sgo_options_menui_title" : "<-Inventory Modifications->                ",
+	"sgo_options_menui_desc"  : "Contains mods that tweak the inventory",
+	
+	"sgo_options_menua_title" : "<-Animations+Sound Tweaks->               ",
+	"sgo_options_menua_desc"  : "Contains mods that tweak either animations or sounds",
+	
+	"sgo_options_menue_title" : "<-Experimental Features->                   ",
+	"sgo_options_menue_desc"  : "Contains Experimental Features that work nicely on mid to high spec machines",
+	
+	"sgo_options_menus_title" : "<-Difficulty Settings by Brand0 & Seamlink->   ",
+	"sgo_options_menus_desc"  : "This section allows you to customize how many enemies will spawn during gameplay, this can vary if you kill civilians, there is a keybind for that, dont understimate the police brutality now.",
+	
+	"sgo_options_menul_title" : "<-Slowmo Settings->                           ",
+	"sgo_options_menul_desc"  : "Contains sliders to customize your slowmo experience",
+	
+	"sgo_options_menud_title" : "<-Sliding Settings->                           ",
+	"sgo_options_menud_desc"  : "Contains sliders to customize your sliding experience",
+	
+	"sgo_options_menums_title" : "<-Miscellaneous Settings->                ",
+	"sgo_options_menums_desc"  : "Contains other stuff",
+	
+	"sgo_options_menusc_title" : "v-v-Scroll Down for more options-v-v       ",
+	"sgo_options_menusc_desc"  : "There are even more options below, read the descriptions to make sure you understand what they do",
+	
+	"sgo_options_enable_limit" : "Not Working",
+	"sgo_options_enable_limit_desc"  : "This controls how many enemies can be present in the map, can be changed in game, the lower, the faster and more agressive enemies become, use 30 for Low Spec machines, 70+ requires a powerful PC",
+	
+	"sgo_options_enable_limit2" : "Not Working",
+	"sgo_options_enable_limit2_desc"  : "This limits how many enemies you need to kill for the Assault to Finish, the more, the longer the assault becomes, cannot be changed in game, for low spec machines pick 300, to refresh video memory",
+	
+	"sgo_options_enable_slow" : "SlowMotion Trigger Intensity",
+	"sgo_options_enable_slow_desc"  : "This controls how strong/weak the SlowMotion trigger is, 0.35 comes by default, the lower, the stronger, dont forget to check Mod Keybinds!",
+	
+	"sgo_options_enable_slow2" : "SlowMotion Duration",
+	"sgo_options_enable_slow2_desc"  : "This controls how many seconds the SlowMo effect works, the longer the effect, the longer the reload, This is a part of the slowmo keybind!",
+	
+	"sgo_options_enable_zawarudo" : "Za Warudo! Effect Duration",
+	"sgo_options_enable_zawarudo_desc"  : "This controls how many seconds the Zawarudo Effect lasts! the longer the effect, the longer the reload, This is part of Za Warudo mod keybind!",
+	
+	"sgo_options_enable_slidy1" : "Sliding Duration In Seconds",
+	"sgo_options_enable_slidy1_desc"  : "This controls how many seconds you will be sliding, 0.00 = OFF 0.25=short 1.00=Heisters on ICE! Requires Sliding Option turned ON to work REQUIRES MAP RESTART",
+	
+	"sgo_options_enable_slidy2" : "Sliding Speed Multiplier",
+	"sgo_options_enable_slidy2_desc"  : "This controls how fast you are going to slide 1=Normal 0.90=Slower than Normal 1.10=Faster than normal, not so much difference. REQUIRES MAP RESTART",
+	
+	"sgo_options_enable_screw" : "Graphics Optimizer",
+	"sgo_options_enable_screw_desc"  : "Handles the Graphics Optimizer Screw Post Processing, this module disables unnecessary obligatory effects, like the blue screen filter, also, screws up the b/w screen while you are critical, MAP restart required.",
+	"sgo_options_enable_screw_choice1"  : "No Optimizer",
+	"sgo_options_enable_screw_choice2"  : "With Outlines",
+	"sgo_options_enable_screw_choice3"  : "Without Outlines",
+	"sgo_options_enable_screw_choice4"  : "With Outlines+Color Grading ",
+	"sgo_options_enable_screw_choice5"  : "Ultra Light Mode",
+	
+	"sgo_options_enable_tweako" : "Weapons Stats Mode",
+	"sgo_options_enable_tweako_desc"  : "Choose the Weapons Stats Mode, Vanilla = No Changes, Rebalance = Light damage changes. based pn vanilla, Full Overhaul = Full Overhaul, simple, right? Requires Map Restart",
+	"sgo_options_enable_tweako_choice1"  : "Vanilla / OFF Mode",
+	"sgo_options_enable_tweako_choice2"  : "Rebalance Mode",
+	"sgo_options_enable_tweako_choice3"  : "Full Overhaul",
+	"sgo_options_enable_tweako_choice4"  : "Blaze Rebalance",
+	"sgo_options_enable_tweako_choice5"  : "AlbusNerva Weapons Overhaul",
+	
+	"sgo_options_enable_tweak" : "Seamlink's Weapons Overhaul",
+	"sgo_options_enable_tweak_desc"  : "Enables/Disables the Weapon Overhaul, this includes damage,spread,stability,firerate and total ammo, disable it to always play with Vanilla Payday 2 Stats.",
+	
+	"sgo_options_enable_melee" : "Melee Overhaul",
+	"sgo_options_enable_melee_desc"  : "Enables/Disables the Melee Overhaul, disable it to play with Vanilla Payday 2 Stats.",
+	
+	"sgo_options_enable_perkb" : "Perk Buffs",
+	"sgo_options_enable_perkb_desc"  : "Enables/Disables the Perk buffs, like old Grinder, Maniac Buff",
+	
+	"sgo_options_enable_perka" : "Built in Skills",
+	"sgo_options_enable_perka_desc"  : "Built in Skills and Armor Improvements are here",
+	
+	"sgo_options_enable_jumpy2" : "Multi Jump",
+	"sgo_options_enable_jumpy2_desc"  : "Allows you to edit how many times you can jump",
+	
+	"sgo_options_enable_chat" : "Chat SGO Announcer",
+	"sgo_options_enable_chat_desc"  : "Enables/Disables the welcome / announce message that people see when they join you, requires map restart to take effect",
+	
+	"sgo_options_enable_sprinty" : "Sprint with all Bags",
+	"sgo_options_enable_sprinty_desc"  : "Enables/Disables Sprinting with all bags, does NOT give you 100% sprinting speed, just sprinting animations with 10% more speed ",
+	
+	"sgo_options_enable_run" : "Infinite Stamina / Sprint",
+	"sgo_options_enable_run_desc"  : "Enables/Disables the ability of having infinite Stamina, Do you think you can outrun the AI on One Down?",
+	
+	"sgo_options_enable_boom" : "Throwables & Explosives Overhaul",
+	"sgo_options_enable_boom_desc"  : "Enables/Disables changes on Explosives and throwables, the bigger the explosive, the greater the damage, Disable it if you are getting wrecked too much by explosives",
+
+	"sgo_options_enable_insp" : "Useful Inspire",
+	"sgo_options_enable_insp_desc"  : "Enables/Disables Super Inspire, which has no cooldown and 100% chance to work, also speeds up teammates faster",
+	
+	"sgo_options_enable_hefty" : "Hefty by Fooksie",
+	"sgo_options_enable_hefty_desc"  : "Enables/Disables Hefty, which allows you to carry more keycards, meth ingredients and gasoline cans",
+	
+	"sgo_options_enable_baws" : "Bows Overhaul by MXSWAT",
+	"sgo_options_enable_baws_desc"  : "Enables/Disables Bows Overhaul, which speeds up the loading animations for bows by MXSWAT",
+	
+	"sgo_options_enable_sounds" : "Auto-Fire-Fix + Sound Replacements",
+	"sgo_options_enable_sounds_desc"  : "Enables/Disables the Weapon Sounds Replacements for some weapons AND Auto Fire Fix, which fixes the full auto sounds when switching to slowmo for all weapons except, Saiga, AK12/74, Akimbo Heather and FMG9",
+	
+	"sgo_options_enable_anims" : "Pistol & Mangums Animation Tweaks",
+	"sgo_options_enable_anims_desc"  : "Enables/Disables Peacemaker animations for all revolvers, also, Deagle Sprinting for all pistols, all custom pistols covered.",
+	
+	"sgo_options_enable_hold" : "Press 2 Hold + Hold 2 Pick",
+	"sgo_options_enable_hold_desc"  : "Allows you interact with everything by tapping once and pick small loot fast by holding the pickup key by Malo & TdlQ, revamp by Seven, requires map restart",
+	
+	"sgo_options_enable_kill" : "Kill Counter (WIP) by Seven",
+	"sgo_options_enable_kill_desc"  : "Shows a Killcounter above your health meter by Seven,requires map restart",
+	
+	"sgo_options_enable_invt" : "Inventory Gadget Icons+Names",
+	"sgo_options_enable_invt_desc"  : "Shows inventory gadget and icon names in the Weapon Inventory by Slippy and SNH20, requires map restart",
+	
+	"sgo_options_enable_stci" : "Stamina Indicator by Seven",
+	"sgo_options_enable_stci_desc"  : "Shows a Stamina Indicator inside your health meter by Seven,requires map restart",
+	
+	"sgo_options_enable_ramm" : "Real Ammo by Fishtaco",
+	"sgo_options_enable_ramm_desc"  : "Shows your real reserve ammo on your hud,requires map restart",
+	
+	"sgo_options_enable_burst" : "Burst Fire by Seven",
+	"sgo_options_enable_burst_desc"  : "Enables a third fire selector, Burst Fire, shots 3 bullets in one hold,requires map restart",
+	
+	"sgo_options_enable_dcot" : "Down Counter by Seven",
+	"sgo_options_enable_dcot_desc"  : "Shows a counter for your teammate downs and how many downs you have left,requires map restart",
+	
+	"sgo_options_enable_drive" : "Driver Neck Brace Removal by Enraic",
+	"sgo_options_enable_drive_desc"  : "by Enraic, allows you to turn 360 degrees while driving, useful to see how many passengers are inside the vehicle,requires map restart",
+	
+	"sgo_options_enable_skip" : "Auto Skip Endscreen + Autopick by Seven",
+	"sgo_options_enable_skip_desc"  : "Skips the endscreen as soon as it finishes counting XP and cash, hold space to make it faster, it also picks a card for you,requires map restart",
+	
+	"sgo_options_enable_slot" : "6x6 Inventory Slots",
+	"sgo_options_enable_slot_desc"  : "Allows you to have a bigger inventory, beautiful on 1080p screens, REQUIRES GAME RESTART",
+	
+	"sgo_options_enable_asset" : "Buy All Assets v3 by Steamed Revenge",
+	"sgo_options_enable_asset_desc"  : "by SteamedRevenge and =TBM= BangL Allows you to buy all assets instead of buying one by one,requires map restart",
+	
+	"sgo_options_enable_decap" : "Bullet Decapitations by Undeadsewer",
+	"sgo_options_enable_decap_desc"  : "by Undeadsewer, Headshots will cause enemies to be decapitated, Causes fps drops on low spec machines, map restart required",
+	
+	"sgo_options_enable_inva" : "Invisible Armor by Zdann",
+	"sgo_options_enable_inva_desc"  : "Visually hides your armor, useful if you dont like how the armor looks on PD2, requires map restart to apply",
+	
+	"sgo_options_enable_mobj" : "Mute Objective Sound by 9600bauds",
+	"sgo_options_enable_mobj_desc"  : "Mutes Objective Sound, the SHHHWOMWOM, after securing a bag or completing an objective, map restart to apply",
+	
+	"sgo_options_enable_skco" : "Skip Confirm Dialogs by Notwa & ReaperTeh",
+	"sgo_options_enable_skco_desc"  : "This skips the Are you sure you want to x? dialogues boxes by Notwa & ReaperTeh",
+	
+	"sgo_options_enable_nofa" : "No Fade to Black on Inventory by Luffy",
+	"sgo_options_enable_nofa_desc"  : "This eliminates the fade to black transition, by Luffy",
+	
+	"sgo_options_enable_incap" : "Swan Song While Downed",
+	"sgo_options_enable_incap_desc"  : "This gives you invulnerability while downed, until you get rescued or killed",
+	
+	"sgo_options_enable_cook" : "Rats Blur Removal",
+	"sgo_options_enable_cook_desc"  : "While ON, removes the smoke blur on Rats/Cook off",
+	
+	"sgo_options_enable_bolt" : "Slides & Bolt Lock Back by Noep",
+	"sgo_options_enable_bolt_desc"  : "by Noep/DMCWO, Makes your weapon slide/bolt stay locked back when its empty provided the empty reload animation starts with the slide/bolt locked back",
+	
+	"sgo_options_enable_indo" : "Inspire while Downed by Dr.Newbie",
+	"sgo_options_enable_indo_desc"  : "by Dr.Newbie, Allows you to inspire/revive others while being downed!",
+	
+	"sgo_options_enable_snipa" : "Steady Sniper Rifle Sights",
+	"sgo_options_enable_snipa_desc"  : "Removes the annoying breathing effect while aiming with sniper rifles, works with all sniper rifles.",
+	
+	"sgo_options_enable_prom" : "Pro Mode Switcher WIP",
+	"sgo_options_enable_prom_desc"  : "ALWAYS ON NOT AVAILABLE YET Pro Mode sets your health to 1! you have to options, NO OFF OPTION MWAHAHAHAHA GET WRECKED",
+	"sgo_options_enable_prom_choice1"  : "Only with Frenzy",
+	"sgo_options_enable_prom_choice2"  : "NOT AVAILABLE",
+	
+	"sgo_options_enable_lmgs2" : "LMG Sights by Iron Predator + Overhaul",
+	"sgo_options_enable_lmgs2_desc"  : "This gives you the ability to add sights to LMGs, deploy Bipod anywhere and turn 360 with it",
+}

@@ -1,0 +1,94 @@
+{
+	"menu_id" : "wac_menu_sh_short870",
+	"parent_menu_id" : "wac_menu_sh",
+	"title" : "wac_menu_sh_short870_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_short870b",
+			"title" : "wac_replace_shortb_title",
+			"callback" : "callback_toggle_replace_short870b",		
+			"items" : [
+				"wac_default_multi",
+				"wac_longb_multi"
+			],
+			"value" : "replace_short870b",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_short870extmag",
+			"title" : "wac_replace_hideextmag_title",
+			"callback" : "callback_toggle_replace_short870extmag",
+			"value" : "replace_short870extmag",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_short870stock1",
+			"title" : "wac_replace_short870nostrail_title",
+			"callback" : "callback_toggle_replace_short870stock1",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi",
+				"stndst_multi",
+				"short870strail_multi"
+			],
+			"value" : "replace_short870stock1",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_short870stock2",
+			"title" : "wac_replace_short870strail_title",
+			"callback" : "callback_toggle_replace_short870stock2",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi",
+				"stndst_multi",
+				"short870nostrail_multi"
+			],
+			"value" : "replace_short870stock2",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_short870stock3",
+			"title" : "wac_replace_ar15_m4mk46_title",
+			"callback" : "callback_toggle_replace_short870stock3",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi",
+				"stndst_multi",
+				"short870strail_multi",
+				"short870nostrail_multi"
+			],
+			"value" : "replace_short870stock3",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_shellrack",
+			"title" : "wac_replace_shellrack_title",
+			"callback" : "callback_toggle_replace_shellrack",		
+			"items" : [
+				"wac_default_multi",
+				"noshellrack_multi"
+			],
+			"value" : "replace_shellrack",
+			"default_value" : 1
+		}
+	]
+}

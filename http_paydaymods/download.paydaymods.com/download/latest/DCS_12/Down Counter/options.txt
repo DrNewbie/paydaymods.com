@@ -1,0 +1,79 @@
+{
+	"menu_id" : "downcounterstandalone_options",
+	"parent_menu_id" : "blt_options",
+	"title" : "dcs_title",
+	"back_callback" : "callback_dcs_close",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "dcs_hudmode",
+			"title" : "dcs_hudmode_title",
+			"description" : "dcs_hudmode_desc",
+			"callback" : "callback_dcs_hudmode",
+			"value" : "hudmode"
+		},		
+		{
+			"type" : "divider",
+			"size" : 16
+		},		
+		{
+			"type" : "multiple_choice",
+			"id" : "dcs_chat_mode",
+			"title" : "dcs_chatmode_title",
+			"description" : "dcs_chatmode_desc",
+			"callback" : "callback_dcs_chatmode",
+			"items" : [
+				"dcs_chatmode_a",
+				"dcs_chatmode_b",
+				"dcs_chatmode_c"
+			],
+			"value" : "announce_chat_mode"
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "dcs_alert_mode",
+			"title" : "dcs_alertmode_title",
+			"description" : "dcs_alertmode_desc",
+			"callback" : "callback_dcs_alertmode",
+			"items" : [
+				"dcs_alertmode_a",
+				"dcs_alertmode_b",
+				"dcs_alertmode_c"
+			],
+			"value" : "announce_alert_mode"
+		},
+		{
+			"type" : "toggle",
+			"id" : "dcs_downs_low",
+			"title" : "dcs_downs_low_title",
+			"description" : "dcs_downs_low_desc",
+			"callback" : "callback_dcs_downs_low",
+			"value" : "only_announce_lowdowns_mode"
+		},
+		{
+			"type" : "toggle",
+			"id" : "dcs_custody",
+			"title" : "dcs_custody_title",
+			"description" : "dcs_custody_desc",
+			"callback" : "callback_dcs_custody",
+			"value" : "announce_custody"
+		},
+		{
+			"type" : "toggle",
+			"id" : "dcs_docbags",
+			"title" : "dcs_docbags_title",
+			"description" : "dcs_docbags_desc",
+			"callback" : "callback_dcs_docbags",
+			"value" : "announce_docbags"
+		},
+		{
+			"type" : "toggle",
+			"id" : "dcs_extras",
+			"title" : "dcs_extras_title",
+			"description" : "dcs_extras_desc",
+			"callback" : "callback_dcs_extras",
+			"value" : "announce_extras"
+		}
+		
+	]
+}

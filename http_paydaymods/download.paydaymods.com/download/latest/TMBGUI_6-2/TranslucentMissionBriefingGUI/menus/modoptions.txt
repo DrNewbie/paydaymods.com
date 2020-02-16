@@ -1,0 +1,49 @@
+{
+	"menu_id" : "translucentmissionbriefinggui_menu_id",
+	"parent_menu_id" : "blt_options",
+	"title" : "translucentmissionbriefinggui_menu_title",
+	"description" : "translucentmissionbriefinggui_menu_desc",
+	"back_callback" : "TranslucentMissionBriefingGUI_SaveSettings",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "tog_translucentmissionbriefinggui_fadeelements",
+			"title" : "tog_translucentmissionbriefinggui_fadeelements_title",
+			"description" : "tog_translucentmissionbriefinggui_fadeelements_desc",
+			"callback" : "TranslucentMissionBriefingGUI_ToggleFadeElements",
+			"value" : "FadeElements",
+			"default_value" : true
+		},
+		{
+			"type" : "slider",
+			"id" : "sld_translucentmissionbriefinggui_fadeduration",
+			"title" : "sld_translucentmissionbriefinggui_fadeduration_title",
+			"description" : "sld_translucentmissionbriefinggui_fadeduration_desc",
+			"callback" : "TranslucentMissionBriefingGUI_SetFadeDuration",
+			"value" : "FadeDuration",
+			"default_value" : 0.5,
+			"max" : 5.0,
+			"min" : 0.1
+		},
+		{
+			"type" : "toggle",
+			"id" : "tog_translucentmissionbriefinggui_autohidebackground",
+			"title" : "tog_translucentmissionbriefinggui_autohidebackground_title",
+			"description" : "tog_translucentmissionbriefinggui_autohidebackground_desc",
+			"callback" : "TranslucentMissionBriefingGUI_ToggleAutoHideBackground",
+			"value" : "AutoHideBackground",
+			"default_value" : true
+		},
+		{
+			"type" : "divider",
+			"size" : "20"
+		},
+		{
+			"type" : "button",
+			"id" : "btn_translucentmissionbriefinggui_reset",
+			"title" : "btn_translucentmissionbriefinggui_reset_title",
+			"description" : "btn_translucentmissionbriefinggui_reset_desc",
+			"callback" : "TranslucentMissionBriefingGUI_Reset"
+		}
+	]
+}

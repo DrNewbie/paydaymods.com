@@ -1,0 +1,7 @@
+1.0
+Initial launch
+1.1
+Added more callouts
+Added a voice notification when you get cloacked
+1.2
+Now the mod reads its callouts from a text file. (It is generated after the first run and is located in mod directory "callouts.ini")

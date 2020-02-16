@@ -1,0 +1,55 @@
+{
+	"menu_id" : "wac_menu_attch_pis",
+	"parent_menu_id" : "wac_menu_attch",
+	"title" : "wac_menu_attch_pis_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_glockcrimsonlaser",
+			"title" : "wac_replace_lasergrip_title",
+			"callback" : "callback_toggle_replace_glockcrimsonlaser",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_glockcrimsonlaser",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_glockgripcytec",
+			"title" : "wac_replace_glockgripcytec_title",
+			"callback" : "callback_toggle_replace_glockgripcytec",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_glockgripcytec",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_glockgriphogue",
+			"title" : "wac_replace_ergogrip_title",
+			"callback" : "callback_toggle_replace_glockgriphogue",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_glockgriphogue",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_hidemarksman",
+			"title" : "wac_replace_hidemarksman_title",
+			"callback" : "callback_toggle_replace_hidemarksman",
+			"value" : "replace_hidemarksman",
+			"default_value" : false
+		}
+	]
+}

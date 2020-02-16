@@ -1,0 +1,23 @@
+{
+	"TMBGUI_show_context" : "Show context",
+	"TMBGUI_hide_context" : "Hide context",
+	"TMBGUI_character" : "Character",
+	"TMBGUI_toggle_panning" : "View panning",
+	"TMBGUI_current_character" : "Currently spectating:",
+	"TMBGUI_nobody" : "Nobody",
+
+	"translucentmissionbriefinggui_menu_title" : "Translucent Mission Briefing GUI",
+	"translucentmissionbriefinggui_menu_desc" : "Configure Translucent Mission Briefing GUI Options",
+
+	"tog_translucentmissionbriefinggui_fadeelements_title" : "Fade Elements",
+	"tog_translucentmissionbriefinggui_fadeelements_desc" : "Determines whether the elements to be hidden are faded in or out instead of being hidden instantaneously",
+
+	"sld_translucentmissionbriefinggui_fadeduration_title" : "Fade Duration",
+	"sld_translucentmissionbriefinggui_fadeduration_desc" : "Determines the time taken to fade elements in/out, in seconds. Has no effect if Fade Elements is not enabled",
+
+	"tog_translucentmissionbriefinggui_autohidebackground_title" : "Automatically Hide Background",
+	"tog_translucentmissionbriefinggui_autohidebackground_desc" : "Determines whether the background is automatically hidden as soon as the 'Show Context' button is enabled",
+
+	"btn_translucentmissionbriefinggui_reset_title" : "Reset to defaults",
+	"btn_translucentmissionbriefinggui_reset_desc" : "Resets all options here to their defaults"
+}

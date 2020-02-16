@@ -1,0 +1,53 @@
+{
+	"menu_id" : "wac_menu_lmg_hk21e",
+	"parent_menu_id" : "wac_menu_lmg",
+	"title" : "wac_menu_lmg_hk21e_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hk21elongb",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_hk21elongb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_hk21elongb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hk21estndfg",
+			"title" : "wac_replace_stndfg_title",
+			"callback" : "callback_toggle_replace_hk21estndfg",		
+			"items" : [
+				"wac_default_multi",
+				"shortfg_multi"
+			],
+			"value" : "replace_hk21estndfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_hk21egrip",
+			"title" : "wac_replace_ergogrip_title",
+			"callback" : "callback_toggle_replace_hk21egrip",		
+			"items" : [
+				"wac_default_multi",
+				"g3psg1grip_multi",
+				"g3retrogrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_hk21egrip",
+			"default_value" : 1
+		}
+	]
+}

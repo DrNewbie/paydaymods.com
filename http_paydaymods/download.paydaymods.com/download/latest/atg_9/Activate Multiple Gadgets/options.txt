@@ -1,0 +1,38 @@
+{
+	"menu_id" : "allthegadgets_options",
+	"parent_menu_id" : "blt_options",
+	"title" : "atg_title",
+	"back_callback" : "callback_atg_close",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "atg_enabled",
+			"title" : "atg_enabled_title",
+			"description" : "atg_enabled_desc",
+			"callback" : "callback_atg_enabled",
+			"value" : "atg_enabled"
+		},
+		{
+			"type" : "divider",
+			"size" : 32
+		},		
+		{
+			"type" : "toggle",
+			"id" : "atg_disable_cycle",
+			"title" : "atg_disable_cycle_title",
+			"description" : "atg_disable_cycle_desc",
+			"callback" : "callback_atg_disable_cycle",
+			"value" : "disable_cycle"
+		},
+		{
+			"type" : "keybind",
+			"id" : "id_atg_keybind",
+			"title" : "atg_sight_keybind_title",
+			"description" : "atg_sight_keybind_desc",
+			"keybind_id" : "keybindid_atg_sightgadget",
+			"run_in_game" : true,
+			"run_in_menu" : false,
+			"func" : "atg_toggle_sight_gadget"
+		}
+	]
+}

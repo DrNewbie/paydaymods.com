@@ -1,0 +1,12 @@
+<table>
+    <table search="unit">
+        <table search="sequence;name='\'show_interactive\''">
+            <table search="object;name='\'g_c4\''" enabled="true"/>
+            <table search="object;name='\'c4_icon\''" visibility="false"/>
+            <material_config name="'units/pd2_dlc_cage/masks/f1/msk_f1_mask'"/>
+        </table>
+        <table search="sequence;name='\'show\''">
+            <material_config name="'units/payday2/equipment/gen_equipment_shape_charge_plantable/gen_equipment_shape_charge_plantable'"/>
+        </table>
+    </table>
+</table>

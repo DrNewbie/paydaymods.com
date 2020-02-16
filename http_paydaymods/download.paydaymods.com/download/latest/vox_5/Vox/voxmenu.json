@@ -1,0 +1,19 @@
+{
+    "menu_id" : "vox_menu",
+    "parent_menu_id" : "blt_options",
+    "title" : "vox_menu_title",
+    "description" : "vox_menu_desc",
+    "items" : [
+		{
+			"type" : "button",
+			"id" : "vox_btn_add_id",
+			"title" : "vox_btn_add_id",
+			"description" : "vox_btn_add_id_desc",
+			"callback" : "vox_add_id"
+		},
+		{
+			"type" : "divider",
+			"size" : 8
+		}
+    ]
+}

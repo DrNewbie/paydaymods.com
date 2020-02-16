@@ -1,0 +1,47 @@
+{
+	"menu_id" : "wac_menu_pis_jericho941",
+	"parent_menu_id" : "wac_menu_pis",
+	"title" : "wac_menu_pis_jericho941_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_jericho941comp",
+			"title" : "wac_replace_jericho941comp_title",
+			"callback" : "callback_toggle_replace_jericho941comp",
+			"value" : "replace_jericho941comp",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_jericho941grip",
+			"title" : "wac_replace_jericho941grip_title",
+			"callback" : "callback_toggle_replace_jericho941grip",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_jericho941grip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_jericho941body",
+			"title" : "wac_replace_jericho941spike_title",
+			"callback" : "callback_toggle_replace_jericho941body",		
+			"items" : [
+				"wac_default_multi",
+				"stndbody_multi"
+			],
+			"value" : "replace_jericho941body",
+			"default_value" : 1
+		}
+	]
+}

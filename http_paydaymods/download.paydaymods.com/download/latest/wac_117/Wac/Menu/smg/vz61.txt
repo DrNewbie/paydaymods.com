@@ -1,0 +1,87 @@
+{
+	"menu_id" : "wac_menu_smg_vz61",
+	"parent_menu_id" : "wac_menu_smg",
+	"title" : "wac_menu_smg_vz61_title",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_vz61suppb",
+			"title" : "wac_replace_uniquesupp_title",
+			"callback" : "callback_toggle_replace_vz61suppb",
+			"value" : "replace_vz61suppb",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_vz61ergo",
+			"title" : "wac_replace_ergogrip_title",
+			"callback" : "callback_toggle_replace_vz61ergo",		
+			"items" : [
+				"wac_default_multi",
+				"woodengrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_vz61ergo",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_vz61woodgrip",
+			"title" : "wac_replace_woodengrip_title",
+			"callback" : "callback_toggle_replace_vz61woodgrip",		
+			"items" : [
+				"wac_default_multi",
+				"ergogrip_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_vz61woodgrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_vz61extmag",
+			"title" : "wac_replace_hideextmag_title",
+			"callback" : "callback_toggle_replace_vz61extmag",
+			"value" : "replace_vz61extmag",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_vz61nost",
+			"title" : "wac_replace_nostock_title",
+			"callback" : "callback_toggle_replace_vz61nost",		
+			"items" : [
+				"wac_default_multi",
+				"unfoldst_multi",
+				"foldedst_multi"
+			],
+			"value" : "replace_vz61nost",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_vz61unfoldst",
+			"title" : "wac_replace_unfoldst_title",
+			"callback" : "callback_toggle_replace_vz61unfoldst",		
+			"items" : [
+				"wac_default_multi",
+				"nostock_multi",
+				"foldedst_multi"
+			],
+			"value" : "replace_vz61unfoldst",
+			"default_value" : 1
+		}
+	]
+}

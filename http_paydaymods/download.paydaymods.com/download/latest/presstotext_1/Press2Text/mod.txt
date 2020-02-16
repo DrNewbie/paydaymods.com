@@ -1,0 +1,17 @@
+{
+	"name" : "Press2Text"
+	"description" : "Allow you to send useful text in the chat by pressing few buttons."
+	"author" : "Babyforce"
+	"contact" : "http://steamcommunity.com/id/Babyforce/"
+	"version" : "v2.0"
+	"updates" : [
+    {
+        "revision" : 1,
+        "identifier" : "presstotext",
+    }
+    ],
+	"hooks" :
+	[
+		{"hook_id" : "lib/managers/menumanager", "script_path" : "lua/press2text.lua"}
+	]
+}

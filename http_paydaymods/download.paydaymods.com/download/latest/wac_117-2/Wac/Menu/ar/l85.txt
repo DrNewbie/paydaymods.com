@@ -1,0 +1,73 @@
+{
+	"menu_id" : "wac_menu_ar_l85",
+	"parent_menu_id" : "wac_menu_ar",
+	"title" : "wac_menu_ar_l85_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_l85longb",
+			"title" : "wac_replace_l85longb_title",
+			"callback" : "callback_toggle_replace_l85longb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_shortb_multi"
+			],
+			"value" : "replace_l85longb",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_l85shortb",
+			"title" : "wac_replace_l85shortb_title",
+			"callback" : "callback_toggle_replace_l85shortb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi",
+				"wac_longb_multi"
+			],
+			"value" : "replace_l85shortb",
+			"default_value" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "toggle_replace_l85flashhider",
+			"title" : "wac_replace_useownflashhider_title",
+			"callback" : "callback_toggle_replace_l85flashhider",
+			"value" : "replace_l85flashhider",
+			"default_value" : false
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_l85railfg",
+			"title" : "wac_replace_l85railfg_title",
+			"callback" : "callback_toggle_replace_l85railfg",		
+			"items" : [
+				"wac_default_multi",
+				"stndfg_multi"
+			],
+			"value" : "replace_l85railfg",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_l85worngrip",
+			"title" : "wac_replace_l85worngrip_title",
+			"callback" : "callback_toggle_replace_l85worngrip",		
+			"items" : [
+				"wac_default_multi",
+				"stngrip_multi"
+			],
+			"value" : "replace_l85worngrip",
+			"default_value" : 1
+		}
+	]
+}

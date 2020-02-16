@@ -1,0 +1,42 @@
+{
+	"menu_id" : "wac_menu_attch_vertgrip",
+	"parent_menu_id" : "wac_menu_attch",
+	"title" : "wac_menu_attch_vertgrip_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_stubbygrip",
+			"title" : "wac_replace_stubbygrip_title",
+			"callback" : "callback_toggle_replace_stubbygrip",		
+			"items" : [
+				"wac_default_multi",
+				"vertgrip_multi",
+				"afg2_multi",
+				"hk416cvert_multi",
+				"vectorvert_multi",
+				"surefirem900_multi",
+				"cobratact_multi",
+				"novertgrip_multi"
+			],
+			"value" : "replace_stubbygrip",
+			"default_value" : 1
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_vertgrip",
+			"title" : "wac_replace_vertgrip_title",
+			"callback" : "callback_toggle_replace_vertgrip",		
+			"items" : [
+				"wac_default_multi",
+				"stubbygrip_multi",
+				"hk416cvert_multi",
+				"vectorvert_multi",
+				"surefirem900_multi",
+				"cobratact_multi",
+				"novertgrip_multi"
+			],
+			"value" : "replace_vertgrip",
+			"default_value" : 1
+		}
+	]
+}

@@ -1,0 +1,4005 @@
+[
+{
+	 "i"		: 1
+	,"ids"		: "Idstring(@ID4ffa8025c70adb8d@)"
+	,"StringID"	: "intro_hospital40"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 2
+	,"ids"		: "Idstring(@IDe87ea0eb3856a54f@)"
+	,"StringID"	: "mission_suburbia_mission2_hack1"
+	,"orig_text": "Override Mitchell's code lock."
+	,"tran_text": "超載 Mitchell 的密碼鎖。"
+},{
+	 "i"		: 3
+	,"ids"		: "Idstring(@IDe2cb8760c250770a@)"
+	,"StringID"	: "mission_slaughterhouse_locate_van_hl"
+	,"orig_text": "Get to the armored truck!"
+	,"tran_text": "找到裝甲車！"
+},{
+	 "i"		: 4
+	,"ids"		: "Idstring(@ID1963eea86e4269a6@)"
+	,"StringID"	: "intro_hospital95"
+	,"orig_text": "What the hell - you ain't doctors, are ya?"
+	,"tran_text": "他媽的－你們不是醫生，對吧？"
+},{
+	 "i"		: 5
+	,"ids"		: "Idstring(@ID3999db2e795773c6@)"
+	,"StringID"	: "mission_apartment_panic_hl"
+	,"orig_text": "Get into the Panic Room (Floor 3.)"
+	,"tran_text": "進入安全室 ( 三樓 )"
+},{
+	 "i"		: 6
+	,"ids"		: "Idstring(@ID93a0b37d7f7b583c@)"
+	,"StringID"	: "mission_suburbia_mission9_hl"
+	,"orig_text": "GET INSIDE THE SHELTER."
+	,"tran_text": "進入庇護所"
+},{
+	 "i"		: 7
+	,"ids"		: "Idstring(@IDdd72bd0bd26e9f57@)"
+	,"StringID"	: "tip_head_shot"
+	,"orig_text": "Shots to the head are more effective than shots to any other body part."
+	,"tran_text": "射頭比射其他部位更加有效。"
+},{
+	 "i"		: 8
+	,"ids"		: "Idstring(@ID1cc5b70a1cdb4e70@)"
+	,"StringID"	: "location_hospital_outsideICU"
+	,"orig_text": "Outside ICU"
+	,"tran_text": "加護病房外"
+},{
+	 "i"		: 9
+	,"ids"		: "Idstring(@ID2cb31ff0d6773e3a@)"
+	,"StringID"	: "location_vault"
+	,"orig_text": "In Vault."
+	,"tran_text": "在金庫"
+},{
+	 "i"		: 10
+	,"ids"		: "Idstring(@IDb26895936feebb26@)"
+	,"StringID"	: "recoil_multiplier"
+	,"orig_text": "This upgrade will lower the amount of firing recoil.$NL;This makes it easier to land a series of aimed shots."
+	,"tran_text": "這降低了開火後座力。$NL;這令一連串子彈落在一點上。"
+},{
+	 "i"		: 11
+	,"ids"		: "Idstring(@IDf3880e4f1740b9cf@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_3"
+	,"orig_text": "Charge defused."
+	,"tran_text": "炸藥解除"
+},{
+	 "i"		: 12
+	,"ids"		: "Idstring(@IDdcdc0a209c299a62@)"
+	,"StringID"	: "mission_empty_vault"
+	,"orig_text": "Empty the Vault (Vault)"
+	,"tran_text": "清空金庫 ( 金庫 )"
+},{
+	 "i"		: 13
+	,"ids"		: "Idstring(@ID60f53b940274630f@)"
+	,"StringID"	: "mission_apartment_snipes_hl"
+	,"orig_text": "Take out the snipers (Roof.)"
+	,"tran_text": "解決狙擊手 ( 天台。)"
+},{
+	 "i"		: 14
+	,"ids"		: "Idstring(@ID6d87bbf94d35dc3a@)"
+	,"StringID"	: "location_suburbia_str3"
+	,"orig_text": "On Marine Str."
+	,"tran_text": "在海洋街"
+},{
+	 "i"		: 15
+	,"ids"		: "Idstring(@IDfbf9c45d152c9c26@)"
+	,"StringID"	: "location_hospital_westCorridor"
+	,"orig_text": "West Corridor"
+	,"tran_text": "西面走廊"
+},{
+	 "i"		: 16
+	,"ids"		: "Idstring(@IDdd444f569ad310ef@)"
+	,"StringID"	: "mission_suburbia_mission12"
+	,"orig_text": "Let Bain tell you how to enter this safe."
+	,"tran_text": "讓 Bain 教你如何進入保險箱。"
+},{
+	 "i"		: 17
+	,"ids"		: "Idstring(@ID1b3542098a2907e2@)"
+	,"StringID"	: "mission_suburbia_mission4_hl"
+	,"orig_text": "DRILL A HOLE AND CONNECT THE HOSE TO THE SAFE."
+	,"tran_text": "鑽洞及連接水管"
+},{
+	 "i"		: 18
+	,"ids"		: "Idstring(@ID30fea5bf40ca0741@)"
+	,"StringID"	: "intro_hospital34"
+	,"orig_text": "STRANGER: Hold the door! Hold the door!! WOLF: Good day, sir."
+	,"tran_text": "陌生人： 抓住那門！抓住那門！！ WOLF ：美好的一天，先生。"
+},{
+	 "i"		: 19
+	,"ids"		: "Idstring(@ID0bef5757f28a95c2@)"
+	,"StringID"	: "mission_boat_saw"
+	,"orig_text": "Saw down the obelisk to break the glass-cage."
+	,"tran_text": "鋸開方尖碑以破壞玻璃櫃。"
+},{
+	 "i"		: 20
+	,"ids"		: "Idstring(@IDa6d7aa191255b942@)"
+	,"StringID"	: "location_suburbia_m_cellar"
+	,"orig_text": "In Mitchell's Cellar"
+	,"tran_text": "在 Mitchell 的地下室"
+},{
+	 "i"		: 21
+	,"ids"		: "Idstring(@ID2ee65c54c454b9dd@)"
+	,"StringID"	: "enter_steelsight_speed_multiplier"
+	,"orig_text": "This upgrade decreases the time needed to bring up weapon sights.$NL;Good when you need to quickly switch to precision aiming."
+	,"tran_text": "這減少了準備瞄準的時間。$NL;當你需要快速轉成精準射擊時有效。"
+},{
+	 "i"		: 22
+	,"ids"		: "Idstring(@ID95aa2436ab115845@)"
+	,"StringID"	: "location_hospital_Morgue"
+	,"orig_text": "Morgue"
+	,"tran_text": "停屍間"
+},{
+	 "i"		: 23
+	,"ids"		: "Idstring(@ID504b472530505d3b@)"
+	,"StringID"	: "mission_boat_escape_hl"
+	,"orig_text": "Escape."
+	,"tran_text": "撤離"
+},{
+	 "i"		: 24
+	,"ids"		: "Idstring(@ID781e5708d2014090@)"
+	,"StringID"	: "intro_hospital117"
+	,"orig_text": "WOLF: Bain, grampa over here was talking - so we didn't hear shit."
+	,"tran_text": "WOLF ： Bain ，有個老人家一直在說話所以我們聽不到。"
+},{
+	 "i"		: 25
+	,"ids"		: "Idstring(@ID2111318a8734f1b4@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_1"
+	,"orig_text": "Charge defused."
+	,"tran_text": "炸藥解除"
+},{
+	 "i"		: 26
+	,"ids"		: "Idstring(@IDcb02e3d4bea9f878@)"
+	,"StringID"	: "location_dh_elevators22"
+	,"orig_text": "By Elevators Floor 22."
+	,"tran_text": "在二十二樓升降機旁"
+},{
+	 "i"		: 27
+	,"ids"		: "Idstring(@ID5f5a5ba596697f78@)"
+	,"StringID"	: "mission_undercover_escape2"
+	,"orig_text": "Make the escape, a helicopter will pick you up on the neighbouring rooftop."
+	,"tran_text": "撤離，直昇機會在鄰近的天台帶你走。"
+},{
+	 "i"		: 28
+	,"ids"		: "Idstring(@IDddc9ffc9c16965ef@)"
+	,"StringID"	: "location_bridge_construction"
+	,"orig_text": "At Construction."
+	,"tran_text": "在施工地點"
+},{
+	 "i"		: 29
+	,"ids"		: "Idstring(@ID9fb9b422f6c13ec3@)"
+	,"StringID"	: "intro_hospital142"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 30
+	,"ids"		: "Idstring(@ID3911a207022cafa3@)"
+	,"StringID"	: "mission_hospital_escape"
+	,"orig_text": "Make the escape."
+	,"tran_text": "撤離。"
+},{
+	 "i"		: 31
+	,"ids"		: "Idstring(@ID95797ab12ddc9214@)"
+	,"StringID"	: "intro_hospital132"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 32
+	,"ids"		: "Idstring(@ID53cc5d4731bf41ed@)"
+	,"StringID"	: "mission_apartment_snipes"
+	,"orig_text": "Take out all snipers on the rooftops around the building so that the helicopter can drop off the C4."
+	,"tran_text": "解決在周邊天台的所有狙擊手以讓直昇機能投下 C4 。"
+},{
+	 "i"		: 33
+	,"ids"		: "Idstring(@ID0f7a9a9f97c1694e@)"
+	,"StringID"	: "intro_apartment03"
+	,"orig_text": "That panic room they got in there is gonna be full of cash..."
+	,"tran_text": "這避難室內一定放滿現金 ..."
+},{
+	 "i"		: 34
+	,"ids"		: "Idstring(@IDa2459fcca577821b@)"
+	,"StringID"	: "location_server"
+	,"orig_text": "In Server Room."
+	,"tran_text": "在伺服器房"
+},{
+	 "i"		: 35
+	,"ids"		: "Idstring(@IDa02d6836979e78b2@)"
+	,"StringID"	: "des_more_blood_to_bleed"
+	,"orig_text": "All your teammates bleedout time increases. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+	,"tran_text": "所有你的隊員都能增加倒地次數，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+},{
+	 "i"		: 36
+	,"ids"		: "Idstring(@ID2cfa464c78bc9067@)"
+	,"StringID"	: "intro_hospital48"
+	,"orig_text": "WOLF: Bain, I didn't hear squat cause Old McDonald over here was talking all the time..."
+	,"tran_text": "WOLF ：Bain ，我沒聽到要蹲下，因為老 McDonald 一直在說話 ..."
+},{
+	 "i"		: 37
+	,"ids"		: "Idstring(@ID996bd57f8e0721a3@)"
+	,"StringID"	: "tip_xp"
+	,"orig_text": "You get cash by completing objectives, challenges and stealing loot. $NL; $NL; Collecting cash rewards increases your reputation, which in turn gives you access new weapons, equipment and abilities."
+	,"tran_text": "你能透過完成目標、挑戰、偷走贓物來獲得金錢。 $NL; $NL; 收集金錢獎勵以增加聲望，那會令你有新武器、裝置及能力。"
+},{
+	 "i"		: 38
+	,"ids"		: "Idstring(@ID1e732004b860d5eb@)"
+	,"StringID"	: "intro_hospital71"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 39
+	,"ids"		: "Idstring(@ID9a3272db430c60d1@)"
+	,"StringID"	: "tip_law_enforcers_as_hostages"
+	,"orig_text": "If there are no civilians to take as hostages, you can always take law enforcers as hostages."
+	,"tran_text": "如果沒有市民作為人質，你可以抓警務人員當人質。"
+},{
+	 "i"		: 40
+	,"ids"		: "Idstring(@IDcda9d3c5d69c8e78@)"
+	,"StringID"	: "mission_diamond_wait_hl"
+	,"orig_text": "Wait for Bain."
+	,"tran_text": "等待 Bain 。"
+},{
+	 "i"		: 41
+	,"ids"		: "Idstring(@ID856e6ed751519783@)"
+	,"StringID"	: "mission_boat_restart_engine_hl"
+	,"orig_text": "Restart the engine."
+	,"tran_text": "重啟引擎"
+},{
+	 "i"		: 42
+	,"ids"		: "Idstring(@IDbb93c59c0f517906@)"
+	,"StringID"	: "extra_ammo_multiplier"
+	,"orig_text": "This upgrade increases the maximum amount of ammo.$NL;If you are trigger happy, then This could be it."
+	,"tran_text": "這增加了彈藥的最大數量。$NL;如果你想玩得高興，它可能有效。"
+},{
+	 "i"		: 43
+	,"ids"		: "Idstring(@ID8774913897a7864b@)"
+	,"StringID"	: "intro_hospital120"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 44
+	,"ids"		: "Idstring(@IDee40bc977083774d@)"
+	,"StringID"	: "location_str_2ave"
+	,"orig_text": "On Major Ave."
+	,"tran_text": "在主要大道"
+},{
+	 "i"		: 45
+	,"ids"		: "Idstring(@IDb1b584b4556da64a@)"
+	,"StringID"	: "intro_street04_2"
+	,"orig_text": "Hah, fooled ya guys!"
+	,"tran_text": "哈，愚弄到你們了！"
+},{
+	 "i"		: 46
+	,"ids"		: "Idstring(@ID0e52e47731ead780@)"
+	,"StringID"	: "intro_hospital82"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 47
+	,"ids"		: "Idstring(@ID299f14745334f86d@)"
+	,"StringID"	: "mission_security_footage_text"
+	,"orig_text": "Locate the hacked computer and use it to erase the Security Footage!"
+	,"tran_text": "找到被駭入的電腦並用來清理保安錄像！"
+},{
+	 "i"		: 48
+	,"ids"		: "Idstring(@IDcbbdadd5acbb6f5e@)"
+	,"StringID"	: "mission_apply_drill_text"
+	,"orig_text": "Mount the drill on the gate outside the vault area."
+	,"tran_text": "搬鑽機到金庫範圍。"
+},{
+	 "i"		: 49
+	,"ids"		: "Idstring(@IDb514a2e7d73927b7@)"
+	,"StringID"	: "des_extra_cable_tie"
+	,"orig_text": "Extra cable ties gives more cable ties to start with. How much more depends on the upgrade level."
+	,"tran_text": "開始時帶有額外的綁繩，基於等級變化。"
+},{
+	 "i"		: 50
+	,"ids"		: "Idstring(@ID659c2e4e6c35943e@)"
+	,"StringID"	: "location_floor3"
+	,"orig_text": "On Floor 3."
+	,"tran_text": "在三樓"
+},{
+	 "i"		: 51
+	,"ids"		: "Idstring(@ID5be3a122349dcb28@)"
+	,"StringID"	: "mission_thermite_wait"
+	,"orig_text": "Melt the floor (above the Vault)"
+	,"tran_text": "熔掉樓層 (金庫上層)"
+},{
+	 "i"		: 52
+	,"ids"		: "Idstring(@ID1e4db2bb8afba823@)"
+	,"StringID"	: "mission_diamond_codes_hl"
+	,"orig_text": "Enter the codes."
+	,"tran_text": "輸入密碼。"
+},{
+	 "i"		: 53
+	,"ids"		: "Idstring(@IDf161fc4f43e1e180@)"
+	,"StringID"	: "location_str_1st"
+	,"orig_text": "On Scarlet St."
+	,"tran_text": "在猩紅大道"
+},{
+	 "i"		: 54
+	,"ids"		: "Idstring(@IDbb0a2ece486c4aaf@)"
+	,"StringID"	: "location_slaughterhouse_sewer_entry"
+	,"orig_text": "in the Sewer Entry."
+	,"tran_text": "在下水道入口"
+},{
+	 "i"		: 55
+	,"ids"		: "Idstring(@IDbb0c023866d5f353@)"
+	,"StringID"	: "mission_diamond_timelock_hl"
+	,"orig_text": "Wait for the time lock."
+	,"tran_text": "等待時間鎖。"
+},{
+	 "i"		: 56
+	,"ids"		: "Idstring(@IDd3746ac2b13c763f@)"
+	,"StringID"	: "mission_slaughterhouse_prepare_ambush"
+	,"orig_text": "Get in position!"
+	,"tran_text": "去目的地！"
+},{
+	 "i"		: 57
+	,"ids"		: "Idstring(@ID24f51736e2d1c2af@)"
+	,"StringID"	: "mission_hospital_cameras"
+	,"orig_text": "Take out all the cameras in and around the reception area."
+	,"tran_text": "破壞接待處附近的所有攝像頭。"
+},{
+	 "i"		: 58
+	,"ids"		: "Idstring(@ID14ceaf0f0c9ac0f9@)"
+	,"StringID"	: "intro_hospital122"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 59
+	,"ids"		: "Idstring(@ID2abbc4abfc9c1486@)"
+	,"StringID"	: "mission_undercover_interogation_hl"
+	,"orig_text": "CODES NOW!"
+	,"tran_text": "現在就要密碼！"
+},{
+	 "i"		: 60
+	,"ids"		: "Idstring(@ID295a878dcf15e018@)"
+	,"StringID"	: "intro_hospital134"
+	,"orig_text": "STRANGER: Hooold the door!"
+	,"tran_text": "陌生人：抓住那門！"
+},{
+	 "i"		: 61
+	,"ids"		: "Idstring(@ID7a00014d530477f3@)"
+	,"StringID"	: "mission_boat_drill_bridge"
+	,"orig_text": "Gain access to the bridge by blowing the bridge door open."
+	,"tran_text": "以炸開大橋的門來進入。"
+},{
+	 "i"		: 62
+	,"ids"		: "Idstring(@ID7ea8111b37ec529d@)"
+	,"StringID"	: "location_upper"
+	,"orig_text": "In Upper Hallways."
+	,"tran_text": "在上層大廳"
+},{
+	 "i"		: 63
+	,"ids"		: "Idstring(@IDeb6b60cc78e09d0b@)"
+	,"StringID"	: "mission_suburbia_mission3_hl"
+	,"orig_text": "IT'S A TRAP!"
+	,"tran_text": "陷阱！"
+},{
+	 "i"		: 64
+	,"ids"		: "Idstring(@ID87394e397bd7645e@)"
+	,"StringID"	: "intro_bridge"
+	,"orig_text": "10:45 pm, Green Bridge - southbound"
+	,"tran_text": "下午 10:45 ，格林大橋－南"
+},{
+	 "i"		: 65
+	,"ids"		: "Idstring(@ID7adf95e2e3a87f02@)"
+	,"StringID"	: "intro_hospital137"
+	,"orig_text": "Finally - two gentlemen in a building filled with clowns..."
+	,"tran_text": "最終－兩個紳士在放滿了小丑的建築 ..."
+},{
+	 "i"		: 66
+	,"ids"		: "Idstring(@ID14ba1982b34aef08@)"
+	,"StringID"	: "mission_bridge_locate_convoy"
+	,"orig_text": "Make your way further along the bridge and locate the prison convoy."
+	,"tran_text": "穿過大橋及找到囚犯護送車隊。"
+},{
+	 "i"		: 67
+	,"ids"		: "Idstring(@IDfa538ba7cd655fd9@)"
+	,"StringID"	: "intro_hospital03"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 68
+	,"ids"		: "Idstring(@ID57124d5d2307af35@)"
+	,"StringID"	: "location_dh_server"
+	,"orig_text": "In Server Room."
+	,"tran_text": "在伺服器房"
+},{
+	 "i"		: 69
+	,"ids"		: "Idstring(@ID1361af2ab012987c@)"
+	,"StringID"	: "mission_undercover_escape2_hl"
+	,"orig_text": "ESCAPE!"
+	,"tran_text": "撤離！"
+},{
+	 "i"		: 70
+	,"ids"		: "Idstring(@ID827da9b940ef757e@)"
+	,"StringID"	: "tip_select_reward"
+	,"orig_text": "On the info screen you can choose amongst several skill-trees which lets you specialize in different areas. $NL; $NL; The trees give different perks and weapons, and you can have them all if your reputation is high enough."
+	,"tran_text": "在資訊欄中你能選擇幾種技能樹，能讓你專精在幾種方面。 $NL; $NL; 技能樹能給予不同的天賦牌組及武器，如果你等級夠高能擁有所有。"
+},{
+	 "i"		: 71
+	,"ids"		: "Idstring(@IDd596fb8eeda9b7fe@)"
+	,"StringID"	: "location_dh_sales"
+	,"orig_text": "In Sales Department."
+	,"tran_text": "在銷售部"
+},{
+	 "i"		: 72
+	,"ids"		: "Idstring(@ID5a812dc58b2d8e96@)"
+	,"StringID"	: "intro_bank02"
+	,"orig_text": "We got a go from our insider... "
+	,"tran_text": "我們靠內應進入 ..."
+},{
+	 "i"		: 73
+	,"ids"		: "Idstring(@ID5e69461aa733ce4c@)"
+	,"StringID"	: "location_str_1ave"
+	,"orig_text": "On Foreign Ave."
+	,"tran_text": "在外國大道"
+},{
+	 "i"		: 74
+	,"ids"		: "Idstring(@ID1e4dc9f07310cbae@)"
+	,"StringID"	: "mission_hospital_cooler"
+	,"orig_text": "Put two validated samples into the cooler."
+	,"tran_text": "放下兩個已經驗證的樣本到冷卻器。"
+},{
+	 "i"		: 75
+	,"ids"		: "Idstring(@IDbec0caf80d731716@)"
+	,"StringID"	: "location_dh_floor23"
+	,"orig_text": "On Floor 23."
+	,"tran_text": "在二十三樓"
+},{
+	 "i"		: 76
+	,"ids"		: "Idstring(@ID8f59b612cf21fb05@)"
+	,"StringID"	: "tip_trading_hostage"
+	,"orig_text": "A robber who loses all his health is put in custody. When in custody, you can only be brought back through a hostage trade. $NL; $NL; The police will contact Bain to set up the trade."
+	,"tran_text": "劫匪失去所有生命就是入牢，當在坐牢時，你只能靠交易人質來帶你回來。 $NL; $NL; 條子會找 Bain 來進行交易。"
+},{
+	 "i"		: 77
+	,"ids"		: "Idstring(@ID928f2d2c4edc3372@)"
+	,"StringID"	: "intro_secret_stash03"
+	,"orig_text": "He's selling them a server with vital data. We screw 'em over, and snatch both Taxman and the server."
+	,"tran_text": "他在賣有重要資料的伺服器，我們搶它過來，稅務員跟伺服器。"
+},{
+	 "i"		: 78
+	,"ids"		: "Idstring(@ID4953c315d6e7857f@)"
+	,"StringID"	: "location_hospital_ExamG64"
+	,"orig_text": "Examination G27"
+	,"tran_text": "觀察病房 G27"
+},{
+	 "i"		: 79
+	,"ids"		: "Idstring(@ID444fd98634e3801a@)"
+	,"StringID"	: "location_slaughterhouse_mainroom"
+	,"orig_text": "In the Main Room."
+	,"tran_text": "在主要房間"
+},{
+	 "i"		: 80
+	,"ids"		: "Idstring(@ID0a540fe68d91fc94@)"
+	,"StringID"	: "location_basement"
+	,"orig_text": "In Basement."
+	,"tran_text": "在地下室"
+},{
+	 "i"		: 81
+	,"ids"		: "Idstring(@ID3d8081891e840417@)"
+	,"StringID"	: "mission_undercover_saw_limo_hl"
+	,"orig_text": "SAW OPEN THE LIMO."
+	,"tran_text": "鋸開加長車"
+},{
+	 "i"		: 82
+	,"ids"		: "Idstring(@IDbb700f6fe5c8e831@)"
+	,"StringID"	: "mission_apartment_detach2"
+	,"orig_text": "Hold the fort and keep an eye on the saws."
+	,"tran_text": "守住並看好電鋸"
+},{
+	 "i"		: 83
+	,"ids"		: "Idstring(@ID2fcf3d0377521997@)"
+	,"StringID"	: "location_ap_secretroom"
+	,"orig_text": "Room 145."
+	,"tran_text": "145 室"
+},{
+	 "i"		: 84
+	,"ids"		: "Idstring(@IDec4019fce3d15d25@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_2"
+	,"orig_text": "Charge defused."
+	,"tran_text": "炸藥解除"
+},{
+	 "i"		: 85
+	,"ids"		: "Idstring(@IDfd51a7f57daccca7@)"
+	,"StringID"	: "mission_slaughterhouse_load_gold"
+	,"orig_text": "Use the crane to lift the container containing the gold onto the truck."
+	,"tran_text": "使用起重機以釣黃金貨櫃到貨車上。"
+},{
+	 "i"		: 86
+	,"ids"		: "Idstring(@ID8d725589b14f47d8@)"
+	,"StringID"	: "intro_hospital147"
+	,"orig_text": "WOLF: Man, this guy just can't stop talking!"
+	,"tran_text": "WOLF ：伙伴，這人不能停止說話！"
+},{
+	 "i"		: 87
+	,"ids"		: "Idstring(@IDf313b85dd13cced1@)"
+	,"StringID"	: "intro_apartment04"
+	,"orig_text": "and we're gonna take it all!"
+	,"tran_text": "還有我們一定要拿光它！"
+},{
+	 "i"		: 88
+	,"ids"		: "Idstring(@ID6b6e2e93ed4a0865@)"
+	,"StringID"	: "extra_cable_tie"
+	,"orig_text": "This upgrade adds extra cable ties.$NL;Need a lot of hostages to trade? This is it."
+	,"tran_text": "這增加了綁帶數量。$NL;需要很多人質用以交易？就是它了。"
+},{
+	 "i"		: 89
+	,"ids"		: "Idstring(@ID5ffd1663191dc8cb@)"
+	,"StringID"	: "location_dh_bigred"
+	,"orig_text": "At Big Red."
+	,"tran_text": "在大紅鑽"
+},{
+	 "i"		: 90
+	,"ids"		: "Idstring(@IDaa947e9791a0da27@)"
+	,"StringID"	: "intro_hospital01"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 91
+	,"ids"		: "Idstring(@ID7f6364bace0bce65@)"
+	,"StringID"	: "location_embassy"
+	,"orig_text": "At the Embassy."
+	,"tran_text": "在大使館"
+},{
+	 "i"		: 92
+	,"ids"		: "Idstring(@ID59e88e3f5fe60621@)"
+	,"StringID"	: "mission_hospital_waitElevator"
+	,"orig_text": "Wait for the elevator to arrive while making sure to keep the power running."
+	,"tran_text": "等待升降機來及確保電源穩定。"
+},{
+	 "i"		: 93
+	,"ids"		: "Idstring(@ID0cc87d65205d5be0@)"
+	,"StringID"	: "intro_hospital20"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 94
+	,"ids"		: "Idstring(@ID5eaf9662fa093e02@)"
+	,"StringID"	: "mission_hospital_getToPatient"
+	,"orig_text": "Using the saw, open up the security door that holds the contaminated patient."
+	,"tran_text": "用鋸打開受感染病人的保安門。"
+},{
+	 "i"		: 95
+	,"ids"		: "Idstring(@ID2b3c16612be89f7b@)"
+	,"StringID"	: "intro_hospital85"
+	,"orig_text": "STRANGER: Why in the hell are you all dressed up?"
+	,"tran_text": "陌生人：為甚麼穿成這鬼樣子？"
+},{
+	 "i"		: 96
+	,"ids"		: "Idstring(@ID9708f66a9b6625db@)"
+	,"StringID"	: "mission_undercover_fasten_hl"
+	,"orig_text": "GET THE SERVER, PLUG IT IN."
+	,"tran_text": "拿到伺服器及插電"
+},{
+	 "i"		: 97
+	,"ids"		: "Idstring(@ID1a10167bebf1830e@)"
+	,"StringID"	: "des_hk21"
+	,"orig_text": "STATS : 7.62mm : High capacity magazine$NL;Even though it was originally designed as a mounted machinegun, the Brenner 21 is a mobile powerhouse. With its huge capacity magazine, this is a given choice for the assault specialist."
+	,"tran_text": "統計： 7.62mm ： 極大容量彈匣$NL;甚至被人當成是設計成裝好的機槍， Brenner 21 是移動式的武器，有它巨大的彈匣，這對突擊兵來說是個好選擇。"
+},{
+	 "i"		: 98
+	,"ids"		: "Idstring(@IDcf5d9d7c9459d744@)"
+	,"StringID"	: "des_trip_mine"
+	,"orig_text": "The trip mine consists of a beam projector affixed to a shaped explosive casing. The laser activates once the trip mine is placed, acting as a tripwire to detonate the mine. If the beam is broken or the charge fired upon, the mine will detonate."
+	,"tran_text": "詭雷有雷射顯示器粘到成形炸藥套管內，當被放置後雷射就會被開啟，就像引爆詭雷的拉發線，當雷射被阻塞或被射擊時就會引爆。"
+},{
+	 "i"		: 99
+	,"ids"		: "Idstring(@ID3e05a4e450b20e71@)"
+	,"StringID"	: "intro_secret_stash07"
+	,"orig_text": "Ready now!"
+	,"tran_text": "準備好！"
+},{
+	 "i"		: 100
+	,"ids"		: "Idstring(@ID6130cfcc94cc4c57@)"
+	,"StringID"	: "des_beretta92"
+	,"orig_text": "STATS : 9mm : Semiautomatic : Low recoil$NL;The B9-S is one of the most used law-enforcement pistols today.$NL;The relatively light damage is compensated by its big clips.$NL;A sidearm for the professional."
+	,"tran_text": "統計： 9mm ： 半自動 ： 後座力低$NL;B9-S 是警用手槍中最常用的一把。$NL;低傷害換來高彈夾。$NL;專家的側臂。"
+},{
+	 "i"		: 101
+	,"ids"		: "Idstring(@ID3a7fc7acd6f02147@)"
+	,"StringID"	: "intro_hospital124"
+	,"orig_text": "STRANGER: Hooold the door!"
+	,"tran_text": "陌生人：抓住那門！"
+},{
+	 "i"		: 102
+	,"ids"		: "Idstring(@ID0d46f7aad39e4796@)"
+	,"StringID"	: "mission_undercover_check_hl"
+	,"orig_text": "CHECK THE LIMO."
+	,"tran_text": "檢查加長車"
+},{
+	 "i"		: 103
+	,"ids"		: "Idstring(@IDe7b239ac1a7ff7c4@)"
+	,"StringID"	: "intro_hospital127"
+	,"orig_text": "...and may I say you two are the finest dressed nurses in the whole hospital!"
+	,"tran_text": "... 我可以說你們是整間醫院穿得最好的護士嗎！"
+},{
+	 "i"		: 104
+	,"ids"		: "Idstring(@IDb3bddbd35cec829e@)"
+	,"StringID"	: "intro_hospital92"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 105
+	,"ids"		: "Idstring(@ID09d71b6d48a213ef@)"
+	,"StringID"	: "intro_hospital70"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 106
+	,"ids"		: "Idstring(@IDc71c6d733befe15d@)"
+	,"StringID"	: "mission_apartment_winch"
+	,"orig_text": "Attach the magnet hanging from the helicopter to the top of the panic room."
+	,"tran_text": "連起直昇機的磁鐵和安全室頂部。"
+},{
+	 "i"		: 107
+	,"ids"		: "Idstring(@IDd3022d30976f4e26@)"
+	,"StringID"	: "intro_secret_stash01"
+	,"orig_text": "The limo has arrived - Taxman is here."
+	,"tran_text": "加長車到了－稅務員在內。"
+},{
+	 "i"		: 108
+	,"ids"		: "Idstring(@IDb84143f343dba046@)"
+	,"StringID"	: "mission_suburbia_mission5_hl"
+	,"orig_text": "GET THE WATER RUNNING."
+	,"tran_text": "保持水流"
+},{
+	 "i"		: 109
+	,"ids"		: "Idstring(@ID09fd0bd3908fd49e@)"
+	,"StringID"	: "location_str_x2st2ave"
+	,"orig_text": "By Major and Easy."
+	,"tran_text": "在主要大道跟簡易大道間"
+},{
+	 "i"		: 110
+	,"ids"		: "Idstring(@ID3e4bca886ea8cfef@)"
+	,"StringID"	: "intro_hospital36"
+	,"orig_text": "Should we... Can I take him out?"
+	,"tran_text": "所以我們應該 ... 帶它出來？"
+},{
+	 "i"		: 111
+	,"ids"		: "Idstring(@IDd3348d0d73b90149@)"
+	,"StringID"	: "location_slaughterhouse_staffkitchen"
+	,"orig_text": "In the Staff Kitchen."
+	,"tran_text": "在員工廚房"
+},{
+	 "i"		: 112
+	,"ids"		: "Idstring(@IDbbd2a9085ec47454@)"
+	,"StringID"	: "location_drill_office"
+	,"orig_text": "In Drill Area."
+	,"tran_text": "在鑽頭區"
+},{
+	 "i"		: 113
+	,"ids"		: "Idstring(@ID45829c96a00560e2@)"
+	,"StringID"	: "tip_tips"
+	,"orig_text": "TIPS:"
+	,"tran_text": "提示："
+},{
+	 "i"		: 114
+	,"ids"		: "Idstring(@IDcae7a692c0edd746@)"
+	,"StringID"	: "location_dh_roofacces"
+	,"orig_text": "At Roof Access."
+	,"tran_text": "在後樓梯"
+},{
+	 "i"		: 115
+	,"ids"		: "Idstring(@ID59ba1869df8fec7b@)"
+	,"StringID"	: "intro_street"
+	,"orig_text": "11:00 am, uptown - Double crossed"
+	,"tran_text": "早上 11:00 ，城上－雙十字路口"
+},{
+	 "i"		: 116
+	,"ids"		: "Idstring(@IDdfe8811b1536b044@)"
+	,"StringID"	: "intro_hospital77"
+	,"orig_text": "Is it Halloween!?"
+	,"tran_text": "萬聖節了！？"
+},{
+	 "i"		: 117
+	,"ids"		: "Idstring(@IDf602770c217c4d82@)"
+	,"StringID"	: "mission_undercover_crane_hl"
+	,"orig_text": "LIMO LIFT."
+	,"tran_text": "搬加長車。"
+},{
+	 "i"		: 118
+	,"ids"		: "Idstring(@ID1dd85b9bdb6b28b6@)"
+	,"StringID"	: "mission_boat_escape"
+	,"orig_text": "Escape!."
+	,"tran_text": "撤離！"
+},{
+	 "i"		: 119
+	,"ids"		: "Idstring(@ID3daf07cb4df84be6@)"
+	,"StringID"	: "mission_slaughterhouse_load_gas"
+	,"orig_text": "Use the crane to lift the container with the trap in place."
+	,"tran_text": "使用起重機以釣貨櫃到陷阱"
+},{
+	 "i"		: 120
+	,"ids"		: "Idstring(@ID5b56320533be55be@)"
+	,"StringID"	: "location_suburbia_w_by"
+	,"orig_text": "At Wilson's Back"
+	,"tran_text": "在 Wilson 家後面"
+},{
+	 "i"		: 121
+	,"ids"		: "Idstring(@ID0db163e65d317ef3@)"
+	,"StringID"	: "intro_hospital62"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 122
+	,"ids"		: "Idstring(@ID0a3240c0a3441b61@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_6"
+	,"orig_text": "Charge defused."
+	,"tran_text": "炸藥解除"
+},{
+	 "i"		: 123
+	,"ids"		: "Idstring(@IDd194cba168d5fdb6@)"
+	,"StringID"	: "intro_apartment01"
+	,"orig_text": "Let's slip into our roles in this little drug deal charade..."
+	,"tran_text": "就滑進這小小的毒品交易中吧 ..."
+},{
+	 "i"		: 124
+	,"ids"		: "Idstring(@IDab7a0fabcc015a4b@)"
+	,"StringID"	: "location_uc_stair1"
+	,"orig_text": "At Left Staircase"
+	,"tran_text": "在左面樓梯"
+},{
+	 "i"		: 125
+	,"ids"		: "Idstring(@ID9dea6f3829ff4501@)"
+	,"StringID"	: "intro_hospital113"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 126
+	,"ids"		: "Idstring(@IDd9a55f961c0032fc@)"
+	,"StringID"	: "intro_street02_2"
+	,"orig_text": "There, Slick - now I call the shots!"
+	,"tran_text": "這裡，亂飛－現在我這樣叫開火！"
+},{
+	 "i"		: 127
+	,"ids"		: "Idstring(@IDcdefec28b19cb7a2@)"
+	,"StringID"	: "mission_apartment_wait2"
+	,"orig_text": "Hold the fort until the helicopter returns to lift the panic room."
+	,"tran_text": "守住直到直昇機回來帶走安全室。"
+},{
+	 "i"		: 128
+	,"ids"		: "Idstring(@IDf7bc51e4d9a258a3@)"
+	,"StringID"	: "mission_slaughterhouse_escape"
+	,"orig_text": "Make the escape through the container tunnel and spring the trap."
+	,"tran_text": "使用貨櫃撤離及設立陷阱。"
+},{
+	 "i"		: 129
+	,"ids"		: "Idstring(@ID098ab86f4807d11c@)"
+	,"StringID"	: "mission_bridge_identify"
+	,"orig_text": "Send up the Balloon so George can fly in and pick up the Ejection Seat."
+	,"tran_text": "放出氣球以讓 George 及椅子能飛起。"
+},{
+	 "i"		: 130
+	,"ids"		: "Idstring(@ID56c60159d85aea32@)"
+	,"StringID"	: "location_dh_terrace"
+	,"orig_text": "On Terrace."
+	,"tran_text": "在陽台"
+},{
+	 "i"		: 131
+	,"ids"		: "Idstring(@IDd8a16e22bea27e5d@)"
+	,"StringID"	: "mission_hospital_callelevator_hl"
+	,"orig_text": "CALL THE ELEVATOR."
+	,"tran_text": "召叫升降機"
+},{
+	 "i"		: 132
+	,"ids"		: "Idstring(@ID5a3230203eece0b0@)"
+	,"StringID"	: "intro_hospital35"
+	,"orig_text": "WOLF: Bain, we got a civilian too close..."
+	,"tran_text": "WOLF ：Bain　，我們有太近的市民　..."
+},{
+	 "i"		: 133
+	,"ids"		: "Idstring(@ID20c6a3e6102a2146@)"
+	,"StringID"	: "mission_hospital_atrapp_hl"
+	,"orig_text": "SET UP FAKE SENTRY GUNS."
+	,"tran_text": "開設假步哨槍。"
+},{
+	 "i"		: 134
+	,"ids"		: "Idstring(@IDf8dad5c1637cee2d@)"
+	,"StringID"	: "location_overpass"
+	,"orig_text": "On Overpass."
+	,"tran_text": "在高架道"
+},{
+	 "i"		: 135
+	,"ids"		: "Idstring(@IDfcb60037278f6dc4@)"
+	,"StringID"	: "location_slaughterhouse_alley"
+	,"orig_text": "In the Alley."
+	,"tran_text": "在小巷"
+},{
+	 "i"		: 136
+	,"ids"		: "Idstring(@ID7f57df9f59b7a7ec@)"
+	,"StringID"	: "location_slaughterhouse_loadingroom"
+	,"orig_text": "In the Loading Room."
+	,"tran_text": "在裝載室"
+},{
+	 "i"		: 137
+	,"ids"		: "Idstring(@ID8d0fa7c3500d4ce1@)"
+	,"StringID"	: "intro_street01"
+	,"orig_text": "OK, I'll take the plates - you erase the security footage."
+	,"tran_text": "好，我會拿那版－你清除保安記錄。"
+},{
+	 "i"		: 138
+	,"ids"		: "Idstring(@IDb300feb142af527b@)"
+	,"StringID"	: "intro_hospital42"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 139
+	,"ids"		: "Idstring(@ID12501bcfd7ff3e4f@)"
+	,"StringID"	: "intro_hospital37"
+	,"orig_text": "STRANGER: Aw Christ, look at ya."
+	,"tran_text": "陌生人： 啊，基督，看看吧。"
+},{
+	 "i"		: 140
+	,"ids"		: "Idstring(@IDa7a19e896b856b80@)"
+	,"StringID"	: "location_dh_fitness"
+	,"orig_text": "In Fitness Center."
+	,"tran_text": "在健身中心"
+},{
+	 "i"		: 141
+	,"ids"		: "Idstring(@ID74b1d5b932682402@)"
+	,"StringID"	: "location_unknown"
+	,"orig_text": ""
+	,"tran_text": ""
+},{
+	 "i"		: 142
+	,"ids"		: "Idstring(@ID79318a9736bac7f4@)"
+	,"StringID"	: "location_slaughterhouse_rooftop_stairs"
+	,"orig_text": "On the Rooftop Stairs."
+	,"tran_text": "在天台樓梯"
+},{
+	 "i"		: 143
+	,"ids"		: "Idstring(@IDbe81dd69681b1428@)"
+	,"StringID"	: "mission_suburbia_mission10"
+	,"orig_text": "See to it that the drill finishes it's job. The cops might try to turn the power off."
+	,"tran_text": "看看鑽機完成了嗎，條子可能關上了電源。"
+},{
+	 "i"		: 144
+	,"ids"		: "Idstring(@ID6a71af31f4834949@)"
+	,"StringID"	: "intro_suburbia"
+	,"orig_text": "12:00 pm, Suburbs - Bodhi's Pool Repair"
+	,"tran_text": "下午 12:00 ，郊區－Bodhi 水電行"
+},{
+	 "i"		: 145
+	,"ids"		: "Idstring(@IDfe5d6c06cb3e8400@)"
+	,"StringID"	: "mission_apartment_c42"
+	,"orig_text": "Move downstairs, away from the C4!"
+	,"tran_text": "下樓，遠離C4炸藥"
+},{
+	 "i"		: 146
+	,"ids"		: "Idstring(@ID21d58e46200d6c97@)"
+	,"StringID"	: "location_cafeteria"
+	,"orig_text": "In Cafeteria."
+	,"tran_text": "在餐廳"
+},{
+	 "i"		: 147
+	,"ids"		: "Idstring(@ID13c78e6092c84709@)"
+	,"StringID"	: "mission_slaughterhouse_take"
+	,"orig_text": "Take the gold from the safe and load it into bags."
+	,"tran_text": "從保險箱中拿出黃金再將其入袋。"
+},{
+	 "i"		: 148
+	,"ids"		: "Idstring(@IDe4d46dec127f7108@)"
+	,"StringID"	: "location_conferance"
+	,"orig_text": "In Conference Room."
+	,"tran_text": "在會議室"
+},{
+	 "i"		: 149
+	,"ids"		: "Idstring(@ID3a924f358387e81a@)"
+	,"StringID"	: "location_suburbia_w_grage"
+	,"orig_text": "In Wilson's Garage"
+	,"tran_text": "在 Wilson 的車庫"
+},{
+	 "i"		: 150
+	,"ids"		: "Idstring(@ID970e307eca628099@)"
+	,"StringID"	: "location_hospital_ReceptionCorridor"
+	,"orig_text": "Reception Corridor"
+	,"tran_text": "接待走廊"
+},{
+	 "i"		: 151
+	,"ids"		: "Idstring(@ID8112afd3dfad3652@)"
+	,"StringID"	: "mission_suburbia_mission1_hl"
+	,"orig_text": "TALK TO THE OWNER."
+	,"tran_text": "跟主人說話"
+},{
+	 "i"		: 152
+	,"ids"		: "Idstring(@ID32e020ef5f904a65@)"
+	,"StringID"	: "mission_get_drill"
+	,"orig_text": "Get the drill & thermite (Server Room.)"
+	,"tran_text": "拿到鑽機及熱熔劑 (伺服器房)"
+},{
+	 "i"		: 153
+	,"ids"		: "Idstring(@IDfcb4eb9f2242961b@)"
+	,"StringID"	: "mission_bridge_jump_hl"
+	,"orig_text": "Make the escape (Bridge pillar.)"
+	,"tran_text": "撤離 ( 大橋支柱 )"
+},{
+	 "i"		: 154
+	,"ids"		: "Idstring(@IDc8b2b902cce98eaa@)"
+	,"StringID"	: "location_suburbia_m_by"
+	,"orig_text": "At Mitchell's Back"
+	,"tran_text": "在 Mitchell 家後面"
+},{
+	 "i"		: 155
+	,"ids"		: "Idstring(@ID3114d59b74c23215@)"
+	,"StringID"	: "intro_hospital99"
+	,"orig_text": "Problem is, Mr Alzheimers over here kept talking all the fucking time!"
+	,"tran_text": "問題是， Alzheimers 先生一直在這麼說廢話啊！"
+},{
+	 "i"		: 156
+	,"ids"		: "Idstring(@IDaad7a1ecd6cf5828@)"
+	,"StringID"	: "mission_apartment_panic"
+	,"orig_text": "Use the key to open the red door."
+	,"tran_text": "使用鎖匙打開紅色門。"
+},{
+	 "i"		: 157
+	,"ids"		: "Idstring(@IDae14b1afa659fd0b@)"
+	,"StringID"	: "mission_suburbia_mission5"
+	,"orig_text": "Go up to the tap and make sure the water is flowing."
+	,"tran_text": "上去水喉處及確保有開水。"
+},{
+	 "i"		: 158
+	,"ids"		: "Idstring(@ID5ecd39704127523a@)"
+	,"StringID"	: "des_mossberg"
+	,"orig_text": "STATS : 12 Gauge : Quick action$NL;The Locomotive is a compact, extremely fast 12-gauge shotgun.$NL;Clearing an entire room in a few seconds is what this was made for."
+	,"tran_text": "統計： 12 Gauge ： 快裝式$NL;Locomotive 是一把緊密、極端快的 12-gauge 霰彈槍。$NL;它能在幾秒在清空整個房間。"
+},{
+	 "i"		: 159
+	,"ids"		: "Idstring(@IDf4e1e8f9f59f371b@)"
+	,"StringID"	: "intro_hospital12"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 160
+	,"ids"		: "Idstring(@ID948ed74005c59eed@)"
+	,"StringID"	: "location_hospital_ExamA13"
+	,"orig_text": "Examination A13"
+	,"tran_text": "觀察病房 A13"
+},{
+	 "i"		: 161
+	,"ids"		: "Idstring(@ID5b11ee524eec12c1@)"
+	,"StringID"	: "mission_trough_lobby_text"
+	,"orig_text": "Get through the Lobby and make your way to the hallway outside the server room."
+	,"tran_text": "穿過大廳以到達伺服器房外的門廳。"
+},{
+	 "i"		: 162
+	,"ids"		: "Idstring(@ID9c33e592a6364046@)"
+	,"StringID"	: "location_outside"
+	,"orig_text": "Outside."
+	,"tran_text": "外面"
+},{
+	 "i"		: 163
+	,"ids"		: "Idstring(@ID87a704cf9cd3ae90@)"
+	,"StringID"	: "reload_speed_multiplier"
+	,"orig_text": "This upgrade decreases the reload times of the weapon.$NL;Good for those intense moments."
+	,"tran_text": "這降低了武器的回彈時間。$NL;在激烈時很有用。"
+},{
+	 "i"		: 164
+	,"ids"		: "Idstring(@ID3f70a1e3af5f19c2@)"
+	,"StringID"	: "location_uc_stairacces1"
+	,"orig_text": "At Roof access left"
+	,"tran_text": "在左面後樓梯"
+},{
+	 "i"		: 165
+	,"ids"		: "Idstring(@ID78b703d63ec7b74a@)"
+	,"StringID"	: "location_dh_elevators23"
+	,"orig_text": "By Elevators Floor 23."
+	,"tran_text": "在二十三樓升降機旁"
+},{
+	 "i"		: 166
+	,"ids"		: "Idstring(@ID5cd26e336bf30241@)"
+	,"StringID"	: "intro_hospital75"
+	,"orig_text": "WOLF (in Swedish): Finns det hjärterum, finns det stjärterum..."
+	,"tran_text": "WOLF (瑞典語) ： Finns det hjärterum, finns det stjärterum..."
+},{
+	 "i"		: 167
+	,"ids"		: "Idstring(@ID61003e03ecffa781@)"
+	,"StringID"	: "location_floor5"
+	,"orig_text": "On Floor 5."
+	,"tran_text": "在五樓"
+},{
+	 "i"		: 168
+	,"ids"		: "Idstring(@ID94c2a419a0f6ad23@)"
+	,"StringID"	: "mission_suburbia_mission6_hl"
+	,"orig_text": "TAKE THE PLATES AND GET OUT!"
+	,"tran_text": "拿印刷版走！"
+},{
+	 "i"		: 169
+	,"ids"		: "Idstring(@ID0d776194fdb3ccf4@)"
+	,"StringID"	: "mission_undercover_transaction"
+	,"orig_text": "Using BAIN's brain, Taxman's insider knowledge and the team's charms - get the IRS data base hacked for a huge tax cut."
+	,"tran_text": "用 BAIN 的腦、稅務員的知識及團體魅力－駭入國稅局的資料庫以得到大幅的稅務減免。"
+},{
+	 "i"		: 170
+	,"ids"		: "Idstring(@ID387af37119ddb155@)"
+	,"StringID"	: "mission_suburbia_mission11"
+	,"orig_text": "Connect the rest of the hose to the hole in the safe."
+	,"tran_text": "連上剩下的水管到保險箱的洞上。"
+},{
+	 "i"		: 171
+	,"ids"		: "Idstring(@ID7272126307b60861@)"
+	,"StringID"	: "mission_suburbia_mission2_hl"
+	,"orig_text": "HACK THE CODE LOCKS."
+	,"tran_text": "駭入密碼鎖"
+},{
+	 "i"		: 172
+	,"ids"		: "Idstring(@IDd99edc1819e96bb9@)"
+	,"StringID"	: "mission_apartment_key"
+	,"orig_text": "Locate Chavez - he is on one of the upper floors in the building, wearing a red beanie hat. Take the key from him."
+	,"tran_text": "找到 Chavez － 他在這建築的上層位置，他戴住紅色針織帽，在他身上拿到鎖匙。"
+},{
+	 "i"		: 173
+	,"ids"		: "Idstring(@IDe79be11833985dd7@)"
+	,"StringID"	: "intro_secret_stash06"
+	,"orig_text": "Ok guys, at the right moment disrupt the deal, then Alex lifts the limo out of there."
+	,"tran_text": "好的，伙伴，在正確的時間阻止交易，然後 Alex 帶加長車離開那裡。"
+},{
+	 "i"		: 174
+	,"ids"		: "Idstring(@IDfd0787b9b61878c8@)"
+	,"StringID"	: "des_mac11"
+	,"orig_text": "STATS : .45 Caliber : Very high fire rate$NL;Against its original purpose, black market upgrades have converted the MARK11 into a fully automatic monster of a weapon.$NL;When in need of a close range bullet hose, look no further."
+	,"tran_text": "統計： .45 口徑 ： 非常高射速$NL;除了原來的目的，黑市升級了 MARK11 到全自動怪獸。$NL;當你需要近距離亂開槍，就用它吧。"
+},{
+	 "i"		: 175
+	,"ids"		: "Idstring(@ID5b99d91285355af7@)"
+	,"StringID"	: "mission_thermite"
+	,"orig_text": "Pour out the thermite to melt the floor (above the vault)."
+	,"tran_text": "倒下熱熔劑以燒穿樓層 (金庫上層) 。"
+},{
+	 "i"		: 176
+	,"ids"		: "Idstring(@IDe67d6c4153a2a525@)"
+	,"StringID"	: "intro_diamondheist02"
+	,"orig_text": "Check!"
+	,"tran_text": "檢查！"
+},{
+	 "i"		: 177
+	,"ids"		: "Idstring(@IDbc010cc497dd3594@)"
+	,"StringID"	: "mission_boat_aquire_drill"
+	,"orig_text": "Get the key from a staff-member and aquire the drill hidden in the bottom-deck cargo room."
+	,"tran_text": "在一名職員身上拿到鑰匙及拿到藏在下層倉庫的鑽機。"
+},{
+	 "i"		: 178
+	,"ids"		: "Idstring(@IDa169574692d3e3d4@)"
+	,"StringID"	: "location_suburbia_sewer"
+	,"orig_text": "In Sewers"
+	,"tran_text": "在下水道"
+},{
+	 "i"		: 179
+	,"ids"		: "Idstring(@ID6078136fa88546c9@)"
+	,"StringID"	: "location_str_x1st1ave"
+	,"orig_text": "By Foreign and Scarlet."
+	,"tran_text": "在外國大道跟猩紅大道間"
+},{
+	 "i"		: 180
+	,"ids"		: "Idstring(@ID79545827f4f786bb@)"
+	,"StringID"	: "intro_hospital114"
+	,"orig_text": "STRANGER: Hey! Hey - hold the goddamn door!"
+	,"tran_text": "陌生人：嘿！嘿－抓住那他媽的門！"
+},{
+	 "i"		: 181
+	,"ids"		: "Idstring(@ID7a3d601b87908118@)"
+	,"StringID"	: "intro_hospital33"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 182
+	,"ids"		: "Idstring(@IDf61b849cf3f90177@)"
+	,"StringID"	: "tip_steelsight"
+	,"orig_text": "Aiming down your sights allows you to shoot more accurately than you do when you shoot from your hip."
+	,"tran_text": "瞄準能讓你射得比腰射更準。"
+},{
+	 "i"		: 183
+	,"ids"		: "Idstring(@ID7e99e5f48b237a7d@)"
+	,"StringID"	: "des_m14"
+	,"orig_text": "STATS : 7.62mm : Semiautomatic : Medium recoil$NL;Chambered for the 7.62 mm round, the M308 has made its way out on the black market after years of military service.$NL;When one well placed shot is all you need, this is it."
+	,"tran_text": "統計： 7.62mm ： 半自動 ：後座力一般$NL;間隔為 7.62 mm 彈頭而設， M308 為軍人服務幾年就進入黑市。$NL;當你需要的是準確的射擊，就要它吧。"
+},{
+	 "i"		: 184
+	,"ids"		: "Idstring(@IDac1919e4e97b5ecd@)"
+	,"StringID"	: "location_hospital_ExamH88"
+	,"orig_text": "Examination H88"
+	,"tran_text": "觀察病房 H88"
+},{
+	 "i"		: 185
+	,"ids"		: "Idstring(@IDe3d96b18d52d28f4@)"
+	,"StringID"	: "location_bridge_end"
+	,"orig_text": "At Bridge Pillar."
+	,"tran_text": "在橋墩"
+},{
+	 "i"		: 186
+	,"ids"		: "Idstring(@IDfd3f823c52e9d6c9@)"
+	,"StringID"	: "mission_boat_money_hl"
+	,"orig_text": "Collect the money."
+	,"tran_text": "包錢"
+},{
+	 "i"		: 187
+	,"ids"		: "Idstring(@ID4521cc4250784bd0@)"
+	,"StringID"	: "des_ammo_bag"
+	,"orig_text": "The ammo bag is deployable equipment. Once placed it can be interacted with by any player to fully restore all ammo until depleted."
+	,"tran_text": "彈藥包是可放置物品，當被放下後就能被任何玩家互動並回復所有彈藥直到用光。"
+},{
+	 "i"		: 188
+	,"ids"		: "Idstring(@ID0102800d6dbf9ae1@)"
+	,"StringID"	: "tip_melee_attack"
+	,"orig_text": "A hit with the butt of your weapon can be a good way to finish off an opponent. $NL; $NL; This is especially useful if you are low on ammo."
+	,"tran_text": "用槍柄來打是解決敵人的好方法。 $NL; $NL; 尤其當你很缺乏子彈的時候就很有用。"
+},{
+	 "i"		: 189
+	,"ids"		: "Idstring(@IDa5967cea223e9983@)"
+	,"StringID"	: "mission_suburbia_mission13"
+	,"orig_text": "DEFUSE OR DIE!"
+	,"tran_text": "解除或死亡！"
+},{
+	 "i"		: 190
+	,"ids"		: "Idstring(@ID3309ffc555c99c4c@)"
+	,"StringID"	: "mission_boat_saw_hl"
+	,"orig_text": "Saw down the obelisk."
+	,"tran_text": "鋸開方尖碑"
+},{
+	 "i"		: 191
+	,"ids"		: "Idstring(@IDf9f1e585b542d6f8@)"
+	,"StringID"	: "mission_bridge_get_hostage_hl"
+	,"orig_text": "Find the Chinese prisoner (Convoy.)"
+	,"tran_text": "找到中國囚犯 ( 護送車隊 )"
+},{
+	 "i"		: 192
+	,"ids"		: "Idstring(@ID7a25675d04b4c5c9@)"
+	,"StringID"	: "mission_undercover_transaction_hl"
+	,"orig_text": "IRS HACK."
+	,"tran_text": "駭入國稅局"
+},{
+	 "i"		: 193
+	,"ids"		: "Idstring(@ID23f01665f98af252@)"
+	,"StringID"	: "tip_mask_off"
+	,"orig_text": "Law enforcers won't take notice of you if your mask is off - use that to your advantage. $NL; $NL; Scout the place and take positions before you put your masks on. Once you have put your mask on, it can't be taken off for the remainder of the heist."
+	,"tran_text": "在沒戴面具時，條子不會留意你－這是你的優勢。 $NL; $NL; 戴面具前視察環境及站好位置。當你戴上面具後，劫案內就不能脫下來了。"
+},{
+	 "i"		: 194
+	,"ids"		: "Idstring(@ID1b75edb37fce46bc@)"
+	,"StringID"	: "mission_suburbia_mission3"
+	,"orig_text": "Defuse or DIE!"
+	,"tran_text": "解除或死亡！"
+},{
+	 "i"		: 195
+	,"ids"		: "Idstring(@ID2f2703acce7d81f1@)"
+	,"StringID"	: "mission_get_into_vault_text"
+	,"orig_text": "Keep an eye on the drill - it jams."
+	,"tran_text": "看住鑽機－它卡住了。"
+},{
+	 "i"		: 196
+	,"ids"		: "Idstring(@IDaec6f9f3c865ebd1@)"
+	,"StringID"	: "des_thick_skin"
+	,"orig_text": "Thick Skin allows the wearer to receive more damage before going into bleed out. How much more depends on the upgrade level."
+	,"tran_text": "皮厚肉韌令使用者在倒地前可承受更多傷害，增幅取決於等級。"
+},{
+	 "i"		: 197
+	,"ids"		: "Idstring(@IDbdc5b4fff2509190@)"
+	,"StringID"	: "intro_hospital91"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 198
+	,"ids"		: "Idstring(@ID0a4fc5c60654bcc2@)"
+	,"StringID"	: "mission_undercover_saw_limo"
+	,"orig_text": "Get Taxman out of the Limo! Saw open the roof and get him out!"
+	,"tran_text": "帶稅務員離開加長車！鋸開頂版以帶他出來！"
+},{
+	 "i"		: 199
+	,"ids"		: "Idstring(@IDb7ae26896aaa1dbe@)"
+	,"StringID"	: "mission_slaughterhouse_hide_hl"
+	,"orig_text": "Hide the Gold."
+	,"tran_text": "隱藏黃金"
+},{
+	 "i"		: 200
+	,"ids"		: "Idstring(@ID04877751fb063610@)"
+	,"StringID"	: "mission_callelevator_pickup"
+	,"orig_text": "Call the elevator and wait for it to arrive, then use it to make the escape from the roof."
+	,"tran_text": "召叫升降機及等待，然後用來上天台撤離。"
+},{
+	 "i"		: 201
+	,"ids"		: "Idstring(@IDfed4a3ec500ee88e@)"
+	,"StringID"	: "mission_suburbia_mission4_hose"
+	,"orig_text": "Drag the water hose."
+	,"tran_text": "拉下水管"
+},{
+	 "i"		: 202
+	,"ids"		: "Idstring(@ID96caffc34270522b@)"
+	,"StringID"	: "mission_apartment_key_hl"
+	,"orig_text": "Find Chavez and get his key."
+	,"tran_text": "拿到 Chavez 的鎖匙"
+},{
+	 "i"		: 203
+	,"ids"		: "Idstring(@ID1ab40f697dcc6c40@)"
+	,"StringID"	: "mission_apartment_winch_hl"
+	,"orig_text": "Attach the magnet (Floor 4.)"
+	,"tran_text": "連接磁鐵 ( 四樓 )"
+},{
+	 "i"		: 204
+	,"ids"		: "Idstring(@ID285151ff06f00cb4@)"
+	,"StringID"	: "mission_boat_stir_hl"
+	,"orig_text": "Stir the boat away from land."
+	,"tran_text": "送船離開"
+},{
+	 "i"		: 205
+	,"ids"		: "Idstring(@ID8b6087178964f78d@)"
+	,"StringID"	: "location_hospital_ISOa"
+	,"orig_text": "Isolation A"
+	,"tran_text": "隔離 A"
+},{
+	 "i"		: 206
+	,"ids"		: "Idstring(@ID1b69be48c519d434@)"
+	,"StringID"	: "mission_security_footage"
+	,"orig_text": "Erase the Security Footage (Management.)"
+	,"tran_text": "清除保安錄像 ( 管理處 )"
+},{
+	 "i"		: 207
+	,"ids"		: "Idstring(@ID6b9ebb341d07e72e@)"
+	,"StringID"	: "location_slaughterhouse_sewer_exit"
+	,"orig_text": "In Sewer Exit."
+	,"tran_text": "在下水道出口"
+},{
+	 "i"		: 208
+	,"ids"		: "Idstring(@ID8856737a2b136818@)"
+	,"StringID"	: "location_office"
+	,"orig_text": "In Second Office Building."
+	,"tran_text": "在另一座辦公室建築"
+},{
+	 "i"		: 209
+	,"ids"		: "Idstring(@ID5b1197098bf6a7e2@)"
+	,"StringID"	: "intro_slaughterhouse01"
+	,"orig_text": "...and also on the 45 goin' south, there's been a major accident that's clogging the entire freeway..."
+	,"tran_text": "... 然後同時往南 45 里，發生了場重大車禍令整個高速公路被堵 ..."
+},{
+	 "i"		: 210
+	,"ids"		: "Idstring(@ID2d77b11e8f6abf5c@)"
+	,"StringID"	: "mission_diamond_escape"
+	,"orig_text": "Make your way to the helicopter. It can't stay in the same place for too long!"
+	,"tran_text": "去直昇機，它不能停太久的！"
+},{
+	 "i"		: 211
+	,"ids"		: "Idstring(@ID69036db96237ef29@)"
+	,"StringID"	: "mission_apartment_roof_hl"
+	,"orig_text": "Secure the roof (Roof.)"
+	,"tran_text": "獲得天台 ( 天台 )"
+},{
+	 "i"		: 212
+	,"ids"		: "Idstring(@ID4aaed02c614602a2@)"
+	,"StringID"	: "mission_slaughterhouse_take_hl"
+	,"orig_text": "Take the gold!"
+	,"tran_text": "拿走黃金！"
+},{
+	 "i"		: 213
+	,"ids"		: "Idstring(@ID80fdbdf365970fd4@)"
+	,"StringID"	: "mission_apartment_escape_hl"
+	,"orig_text": "Escape (Basement.)"
+	,"tran_text": "撤離 ( 地下室 )"
+},{
+	 "i"		: 214
+	,"ids"		: "Idstring(@ID7d48ab7018c60cc0@)"
+	,"StringID"	: "intro_hospital04"
+	,"orig_text": "Go to the fourth floor - the infection clinic."
+	,"tran_text": "上四樓－感染了的部門。"
+},{
+	 "i"		: 215
+	,"ids"		: "Idstring(@ID22917d7c2098826c@)"
+	,"StringID"	: "location_dh_construction"
+	,"orig_text": "At Construction."
+	,"tran_text": "在建築"
+},{
+	 "i"		: 216
+	,"ids"		: "Idstring(@ID861363a0164647e3@)"
+	,"StringID"	: "intro_hospital47"
+	,"orig_text": "Aw, hell..."
+	,"tran_text": "啊，幹 ..."
+},{
+	 "i"		: 217
+	,"ids"		: "Idstring(@ID0605b1d7346e82be@)"
+	,"StringID"	: "intro_hospital46"
+	,"orig_text": "*cough* *cough* *cough* *cough*"
+	,"tran_text": "*咳* *咳* *咳* *咳*"
+},{
+	 "i"		: 218
+	,"ids"		: "Idstring(@IDcaff67ef5460aff1@)"
+	,"StringID"	: "damage_multiplier"
+	,"orig_text": "This upgrade increases the damage of the weapon.$NL;Nice when taking down heavier enemies."
+	,"tran_text": "這提升了武器傷害。$NL;當攻擊重型敵人時很好。"
+},{
+	 "i"		: 219
+	,"ids"		: "Idstring(@ID7eeca028a69957dc@)"
+	,"StringID"	: "intro_hospital148"
+	,"orig_text": "I'll kill him first!"
+	,"tran_text": "我會先殺他！"
+},{
+	 "i"		: 220
+	,"ids"		: "Idstring(@ID186968b5cce6914d@)"
+	,"StringID"	: "mission_hospital_ICU_hl"
+	,"orig_text": "SAW OPEN THE DOORS INTO THE ICU."
+	,"tran_text": "鋸進加護病房"
+},{
+	 "i"		: 221
+	,"ids"		: "Idstring(@IDb8579ec6529e1798@)"
+	,"StringID"	: "mission_slaughterhouse_prepare_gas_hl"
+	,"orig_text": "Prepare a trap!"
+	,"tran_text": "準備陷阱！"
+},{
+	 "i"		: 222
+	,"ids"		: "Idstring(@ID7b1cbfd405bc024e@)"
+	,"StringID"	: "location_hospital_ExamD45"
+	,"orig_text": "Examination D45"
+	,"tran_text": "觀察病房 D45"
+},{
+	 "i"		: 223
+	,"ids"		: "Idstring(@ID76f9f1d41db4e425@)"
+	,"StringID"	: "mission_undercover_fasten"
+	,"orig_text": "Get the server from the Limo and make your way to the transfer room to plug it in."
+	,"tran_text": "在加長車拿到伺服器再去交易器插電。"
+},{
+	 "i"		: 224
+	,"ids"		: "Idstring(@IDd8ef467399f9d7e0@)"
+	,"StringID"	: "mission_suburbia_mission10_hl"
+	,"orig_text": "LET THE DRILL FINISH."
+	,"tran_text": "讓鑽機完成"
+},{
+	 "i"		: 225
+	,"ids"		: "Idstring(@IDcc11602cad0f719d@)"
+	,"StringID"	: "location_slaughterhouse_safehouse"
+	,"orig_text": "In the Safe House."
+	,"tran_text": "在安全屋"
+},{
+	 "i"		: 226
+	,"ids"		: "Idstring(@ID9025952ffbf69ff7@)"
+	,"StringID"	: "mission_boat_get_key"
+	,"orig_text": "Get the key from a securityguard and gain access to the securityroom."
+	,"tran_text": "在警衛身上拿到鑰匙及進入保安室。"
+},{
+	 "i"		: 227
+	,"ids"		: "Idstring(@ID595d777c2903bce7@)"
+	,"StringID"	: "mission_slaughterhouse_drill"
+	,"orig_text": "Drill open the safe."
+	,"tran_text": "鑽開保險箱。"
+},{
+	 "i"		: 228
+	,"ids"		: "Idstring(@ID3581c00a342b3667@)"
+	,"StringID"	: "mission_sec_doors_hl"
+	,"orig_text": "Plant tablets on the remaining alarm boxes."
+	,"tran_text": "放置平版在剩下的警報箱。"
+},{
+	 "i"		: 229
+	,"ids"		: "Idstring(@IDc2c98f865744d06e@)"
+	,"StringID"	: "intro_bank03"
+	,"orig_text": "he hid the thermite and a drill in the server room - but he bailed."
+	,"tran_text": "他藏了熱熔劑及鑽機在伺服器房－但他被保釋了。"
+},{
+	 "i"		: 230
+	,"ids"		: "Idstring(@ID89e8c72b4c49b1c8@)"
+	,"StringID"	: "location_str_2st"
+	,"orig_text": "On Easy St."
+	,"tran_text": "在簡易大道"
+},{
+	 "i"		: 231
+	,"ids"		: "Idstring(@ID6fb45a5e3cf25d41@)"
+	,"StringID"	: "location_dh_pr"
+	,"orig_text": "In PR Department."
+	,"tran_text": "在公關部"
+},{
+	 "i"		: 232
+	,"ids"		: "Idstring(@ID5be9c49f0628ed59@)"
+	,"StringID"	: "mission_undercover_check"
+	,"orig_text": "Check the Limo and see if you can get the Taxman out of it."
+	,"tran_text": "檢查加長車以看看你能不能抓到稅務員。"
+},{
+	 "i"		: 233
+	,"ids"		: "Idstring(@IDb8e6a4760ee7b5a3@)"
+	,"StringID"	: "location_slaughterhouse_mainroom_walkway"
+	,"orig_text": "On the Main Room Walkway."
+	,"tran_text": "在主要房間走道"
+},{
+	 "i"		: 234
+	,"ids"		: "Idstring(@IDa9d74262a249eade@)"
+	,"StringID"	: "mission_boat_money"
+	,"orig_text": "Collect the money into bags."
+	,"tran_text": "包錢入袋子內。"
+},{
+	 "i"		: 235
+	,"ids"		: "Idstring(@IDdff3142470ddb883@)"
+	,"StringID"	: "location_hospital_ICUArea"
+	,"orig_text": "ICU Area"
+	,"tran_text": "加護病房"
+},{
+	 "i"		: 236
+	,"ids"		: "Idstring(@IDf98043acb2b711c0@)"
+	,"StringID"	: "thick_skin"
+	,"orig_text": "This upgrade gives extra health.$NL;Being a criminal toughens your skin."
+	,"tran_text": "這給予你額外的生命。$NL;犯罪加厚你的皮膚。"
+},{
+	 "i"		: 237
+	,"ids"		: "Idstring(@ID07f76a6226befdd3@)"
+	,"StringID"	: "trip_mine_damage"
+	,"orig_text": "This upgrade increases the explosive power and blast radius of your trip mines."
+	,"tran_text": "這提升了詭雷的爆炸力及範圍。"
+},{
+	 "i"		: 238
+	,"ids"		: "Idstring(@ID27f8074fa436492b@)"
+	,"StringID"	: "mission_get_drill_text"
+	,"orig_text": "Get the drill and the thermite."
+	,"tran_text": "拿到鑽機及熱熔劑。"
+},{
+	 "i"		: 239
+	,"ids"		: "Idstring(@IDb95b9a486faaf37f@)"
+	,"StringID"	: "location_dh_security"
+	,"orig_text": "In Security Room."
+	,"tran_text": "在保安室"
+},{
+	 "i"		: 240
+	,"ids"		: "Idstring(@ID1df13866b47b48e0@)"
+	,"StringID"	: "location_vault_above"
+	,"orig_text": "Above Vault."
+	,"tran_text": "金庫上"
+},{
+	 "i"		: 241
+	,"ids"		: "Idstring(@ID1e94d2c17cb55857@)"
+	,"StringID"	: "intro_suburbia01"
+	,"orig_text": "Bodhi's Pool Repair."
+	,"tran_text": "Bodhi 水電行"
+},{
+	 "i"		: 242
+	,"ids"		: "Idstring(@ID62d29fd1e7ce4dd2@)"
+	,"StringID"	: "tip_dont_shoot_civilians"
+	,"orig_text": "Don't shoot civilians. For each civilian you kill, penalty time is added to your regular custody time. $NL; $NL; This means that if you are put in custody, you will have to wait longer before the police make an offer to trade you for a hostage."
+	,"tran_text": "不要射市民，你每殺一個市民，你的坐牢時間就會有懲罰性增加。 $NL; $NL; 這代表如果你坐牢了，你需要更多時間等待條子交易人質。"
+},{
+	 "i"		: 243
+	,"ids"		: "Idstring(@ID35994e027458e077@)"
+	,"StringID"	: "location_hospital_BreakRoom"
+	,"orig_text": "Break Room"
+	,"tran_text": "休息室"
+},{
+	 "i"		: 244
+	,"ids"		: "Idstring(@IDde3a71fe399f368a@)"
+	,"StringID"	: "location_hospital_Office"
+	,"orig_text": "Office"
+	,"tran_text": "辦公室"
+},{
+	 "i"		: 245
+	,"ids"		: "Idstring(@ID3b9df78d7f01487c@)"
+	,"StringID"	: "mission_diamond_loot_hl"
+	,"orig_text": "Steal the diamonds."
+	,"tran_text": "盜取鑽石。"
+},{
+	 "i"		: 246
+	,"ids"		: "Idstring(@ID3c1b02744a70c0fe@)"
+	,"StringID"	: "mission_apartment_wait_hl"
+	,"orig_text": "Wait for the explosives (Roof.)"
+	,"tran_text": "等待爆炸物 ( 天台 )"
+},{
+	 "i"		: 247
+	,"ids"		: "Idstring(@ID02d376bc6280f537@)"
+	,"StringID"	: "location_dh_roof"
+	,"orig_text": "On Roof."
+	,"tran_text": "在天台"
+},{
+	 "i"		: 248
+	,"ids"		: "Idstring(@IDcdc006f8ae27ca06@)"
+	,"StringID"	: "mission_get_into_vault"
+	,"orig_text": "Drill the gates (Drill Area.)"
+	,"tran_text": "鑽開閘門 (鑽機範圍)"
+},{
+	 "i"		: 249
+	,"ids"		: "Idstring(@ID8d7caaa2d9a05277@)"
+	,"StringID"	: "tip_secret_assignmnet"
+	,"orig_text": "The four types of special units are very dangerous, especially if you face them alone. $NL; $NL; Team up to take them down!"
+	,"tran_text": "四種特殊警察都非常危險，特別是當你孤身面對他們時。 $NL; $NL; 與隊友一起圍剿他們吧！"
+},{
+	 "i"		: 250
+	,"ids"		: "Idstring(@IDc9e669fe9bb5ec81@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_5"
+	,"orig_text": "Charge defused."
+	,"tran_text": "炸藥解除"
+},{
+	 "i"		: 251
+	,"ids"		: "Idstring(@IDdd01a3b1c77acc75@)"
+	,"StringID"	: "mission_hospital_cameras_hl"
+	,"orig_text": "TAKE OUT THE CAMERAS."
+	,"tran_text": "破壞攝像頭。"
+},{
+	 "i"		: 252
+	,"ids"		: "Idstring(@IDd1de46af598f2b43@)"
+	,"StringID"	: "location_bridge_convoy"
+	,"orig_text": "At Convoy."
+	,"tran_text": "在護送車隊"
+},{
+	 "i"		: 253
+	,"ids"		: "Idstring(@ID4947e5314866afca@)"
+	,"StringID"	: "mission_diamond_escort2_hl"
+	,"orig_text": "Get Mr. Garnet's son Ralph."
+	,"tran_text": "找到 Garnet 先生的兒子 Ralph 。"
+},{
+	 "i"		: 254
+	,"ids"		: "Idstring(@ID44bfa7bda3e1d99c@)"
+	,"StringID"	: "des_toolset"
+	,"orig_text": "The toolkit allows the owner to organize, carry and protect the tools, making them more effective. How much more depends on the upgrade level."
+	,"tran_text": "這工具包允許擁有者管理、攜帶及保護工具，令它們更有效，數量取決於等級。"
+},{
+	 "i"		: 255
+	,"ids"		: "Idstring(@ID26dbaae74939c5c0@)"
+	,"StringID"	: "tip_shoot_in_bleed_out"
+	,"orig_text": "While in bleed-out, you can still fire your sidearm. $NL; $NL; When a partner is helping you up you can protect the both of you, but provoking law enforcers while on your own makes you an easy and helpless target."
+	,"tran_text": "當倒地時，你仍可以用副武器射擊。 $NL; $NL; 這樣當隊友正在拯救你時你能保護你們兩人，但孤身一人時這樣做只是挑釁條子將你當成靶子，令你更快變成「無助」狀態。"
+},{
+	 "i"		: 256
+	,"ids"		: "Idstring(@ID53680a24c6e478f0@)"
+	,"StringID"	: "mission_hospital_disguise_hl"
+	,"orig_text": "PLAY DOCTOR."
+	,"tran_text": "裝成醫生。"
+},{
+	 "i"		: 257
+	,"ids"		: "Idstring(@ID87730583847c8f7d@)"
+	,"StringID"	: "des_m79"
+	,"orig_text": "STATS : 40mm rounds : Single-shot : Break Action$NL;\"The Thump-Gun\", \"The Skill Cannon\", \"The Pro Pipe\", \"The Noob Tube\", and \"The Ex-Wife\" - things we love have many names. The GL40 is a single-shot, shoulder-fired break action grenade launcher that aims to please."
+	,"tran_text": "統計： 40mm rounds ： 單發 ： 後裝式$NL;「Thump －槍」、「技巧大砲」、「專家管道」、「新手管子」及「前任」－我們喜歡有很多名字的東西， GL40 是單發、開火後槍管後折的榴彈發射器。"
+},{
+	 "i"		: 258
+	,"ids"		: "Idstring(@ID890ea8967f04e71d@)"
+	,"StringID"	: "mission_hospital_drawblood"
+	,"orig_text": "Draw blood from the patient, and use the validation machines around the hospital to validate the blood sample. Don´t spill it!"
+	,"tran_text": "在病人身上抽血，使用醫院的驗血機測試，不要灑掉！"
+},{
+	 "i"		: 259
+	,"ids"		: "Idstring(@IDb79d16fe855ce796@)"
+	,"StringID"	: "location_suburbia_str24"
+	,"orig_text": "At Keel and Spinnaker"
+	,"tran_text": "在骨街跟三角帆街之間"
+},{
+	 "i"		: 260
+	,"ids"		: "Idstring(@IDb08b894016b2381a@)"
+	,"StringID"	: "location_hospital_northCorridor"
+	,"orig_text": "North Corridor"
+	,"tran_text": "北面走廊"
+},{
+	 "i"		: 261
+	,"ids"		: "Idstring(@IDe1b2cb19be705ebe@)"
+	,"StringID"	: "mission_diamond_loot"
+	,"orig_text": "Enter the vault and steal the diamonds."
+	,"tran_text": "進入金庫並盜取鑽石。"
+},{
+	 "i"		: 262
+	,"ids"		: "Idstring(@ID563e23401ebfb85c@)"
+	,"StringID"	: "intro_hospital56"
+	,"orig_text": "Let's get going, OK? *cough* *cough*"
+	,"tran_text": "來吧，好嗎？ *咳* *咳*"
+},{
+	 "i"		: 263
+	,"ids"		: "Idstring(@IDc47b766693105b22@)"
+	,"StringID"	: "intro_bank"
+	,"orig_text": "2:15 pm, downtown - First World Bank"
+	,"tran_text": "下午 2:15 ， 鬧市－第一世界銀行"
+},{
+	 "i"		: 264
+	,"ids"		: "Idstring(@IDab78e1401c1e6094@)"
+	,"StringID"	: "intro_hospital39"
+	,"orig_text": "WOLF: I didn't quite catch that... But let's go."
+	,"tran_text": "WOLF ：我不能完全理解 ... 但去吧。"
+},{
+	 "i"		: 265
+	,"ids"		: "Idstring(@IDb19a152bad0653df@)"
+	,"StringID"	: "mission_slaughterhouse_drill_hl"
+	,"orig_text": "Drill the safe"
+	,"tran_text": "鑽保險箱"
+},{
+	 "i"		: 266
+	,"ids"		: "Idstring(@ID2350a65763abacab@)"
+	,"StringID"	: "intro_street01_2"
+	,"orig_text": "Come on we got it, let's get out of here!"
+	,"tran_text": "來吧，我們準備好了，出去吧！"
+},{
+	 "i"		: 267
+	,"ids"		: "Idstring(@ID69942452300b1077@)"
+	,"StringID"	: "mission_diamond_wait"
+	,"orig_text": "Wait while Bain is negotiating for the codes."
+	,"tran_text": "等待 Bain 談判要求密碼。"
+},{
+	 "i"		: 268
+	,"ids"		: "Idstring(@IDfc2e045ca486b89c@)"
+	,"StringID"	: "intro_hospital115"
+	,"orig_text": "You think just because you're wearing $5.000 suits you don't need to hold the door?!"
+	,"tran_text": "你覺得你只是穿住五美元的西裝就不用扶住門？！"
+},{
+	 "i"		: 269
+	,"ids"		: "Idstring(@IDc2db29e525215b63@)"
+	,"StringID"	: "mission_get_key_text"
+	,"orig_text": "Find the bank manager - Look for a yellow outline once he's identified."
+	,"tran_text": "找到銀行經理－當被找到時會看到黃色輪廓。"
+},{
+	 "i"		: 270
+	,"ids"		: "Idstring(@IDf7bc75d1eefd0639@)"
+	,"StringID"	: "mission_diamond_timelock"
+	,"orig_text": "Wait for the time lock to expire."
+	,"tran_text": "等待時間鎖完結。"
+},{
+	 "i"		: 271
+	,"ids"		: "Idstring(@ID45449a8918010303@)"
+	,"StringID"	: "location_str_drakes"
+	,"orig_text": "At Drake's Loading."
+	,"tran_text": "在 Drake 的休憩處"
+},{
+	 "i"		: 272
+	,"ids"		: "Idstring(@ID1460138d877d0e9e@)"
+	,"StringID"	: "mission_blow_wall"
+	,"orig_text": "Blow a hole in the wall (Management.)"
+	,"tran_text": "炸開牆壁 ( 管理處 )"
+},{
+	 "i"		: 273
+	,"ids"		: "Idstring(@ID35f784a6a46b227d@)"
+	,"StringID"	: "trip_mine_quantity"
+	,"orig_text": "This upgrade adds extra trip mines to the inventory.$NL;A couple of extra mines will increase your chances."
+	,"tran_text": "這提升了攜帶詭雷的數目。$NL;每多一組詭雷就增加你一點機會。"
+},{
+	 "i"		: 274
+	,"ids"		: "Idstring(@IDde78a0c309ffbb57@)"
+	,"StringID"	: "fire_rate_multiplier"
+	,"orig_text": "This upgrade increases the rate of fire.$NL;Eats through enemies like it eats through ammunition."
+	,"tran_text": "這增加了開火速度。$NL;射穿敵人就像射光彈藥。"
+},{
+	 "i"		: 275
+	,"ids"		: "Idstring(@ID5f7dae9ef42daa8f@)"
+	,"StringID"	: "location_hospital_ElevatorShaft"
+	,"orig_text": "Elevator Shaft"
+	,"tran_text": "升降機井道"
+},{
+	 "i"		: 276
+	,"ids"		: "Idstring(@ID46253e94c9ce743e@)"
+	,"StringID"	: "location_roof"
+	,"orig_text": "On Roof."
+	,"tran_text": "在天台"
+},{
+	 "i"		: 277
+	,"ids"		: "Idstring(@IDa80f7a14df40230b@)"
+	,"StringID"	: "intro_hospital107"
+	,"orig_text": "That's just bad for business!"
+	,"tran_text": "這對經濟不好！"
+},{
+	 "i"		: 278
+	,"ids"		: "Idstring(@ID79590f24fd7e978f@)"
+	,"StringID"	: "mission_apartment_c42_hl"
+	,"orig_text": "Move away from the C4 (Floor 2.)"
+	,"tran_text": "遠離二樓的C4炸藥"
+},{
+	 "i"		: 279
+	,"ids"		: "Idstring(@ID0dd4a0c2fb024aa1@)"
+	,"StringID"	: "mission_boat_aquire_drill_hl"
+	,"orig_text": "Get the Drill"
+	,"tran_text": "拿到鑽機"
+},{
+	 "i"		: 280
+	,"ids"		: "Idstring(@ID4fd7c9ac62023c24@)"
+	,"StringID"	: "mission_thermite_wait_text"
+	,"orig_text": "Hold the fort and let the thermite burn through the floor. There are two cans of thermite hidden in the copy machine, if both are carried to the vault it will speed up the melting process."
+	,"tran_text": "守住以讓熱熔劑燒穿樓層，在影印機內藏了兩罐熱熔劑，兩罐都被帶到金庫的話將能加速燃燒速度。"
+},{
+	 "i"		: 281
+	,"ids"		: "Idstring(@ID4be87ee06ec1f55e@)"
+	,"StringID"	: "mission_suburbia_mission8_hl"
+	,"orig_text": "MAKE SURE THE WATER'S FLOWING."
+	,"tran_text": "確保水流"
+},{
+	 "i"		: 282
+	,"ids"		: "Idstring(@IDd46edecdf2a9693d@)"
+	,"StringID"	: "mission_suburbia_mission4_drill"
+	,"orig_text": "Apply the drill to the safe."
+	,"tran_text": "鑽開保險箱"
+},{
+	 "i"		: 283
+	,"ids"		: "Idstring(@IDe8221cc5869ffa7f@)"
+	,"StringID"	: "explosion_range_multiplier"
+	,"orig_text": "This upgrades the explosion range for the GL40 Grenade Launcher.$NL;The only thing better than an explosion - is a bigger explosion."
+	,"tran_text": "這提升了 GL40 榴彈發射器的爆炸範圍。$NL;比爆炸更好的就只有－更有的爆炸。"
+},{
+	 "i"		: 284
+	,"ids"		: "Idstring(@IDd24eb2ad4a56e973@)"
+	,"StringID"	: "mission_suburbia_mission4_info"
+	,"orig_text": "Hose stretch completed"
+	,"tran_text": "拉完水管"
+},{
+	 "i"		: 285
+	,"ids"		: "Idstring(@ID63c26b21d42b387c@)"
+	,"StringID"	: "des_r870_shotgun"
+	,"orig_text": "STATS : 12 Gauge : Very high damage$NL;There is no more powerful firearm than the pump-action, 12 gauge bore Reinbeck shotgun.$NL;What it lacks in speed, it makes up for in raw, indisputable power."
+	,"tran_text": "統計： 12 Gauge ： 非常高傷害$NL;這裡沒有比泵動式武器更大殺傷力， 12 gauge 鏜孔 Reinbeck 霰彈槍。$NL;它沒有速度，補償是原始、鐵一般的力量。"
+},{
+	 "i"		: 286
+	,"ids"		: "Idstring(@IDae9497a30f3c884d@)"
+	,"StringID"	: "location_slaughterhouse_alley_stairs"
+	,"orig_text": "On the Alley Stairs."
+	,"tran_text": "在小巷樓梯"
+},{
+	 "i"		: 287
+	,"ids"		: "Idstring(@ID32edc1222301e407@)"
+	,"StringID"	: "mission_apartment_bag"
+	,"orig_text": "Alex dropped off the C4 bag, find it."
+	,"tran_text": "Alex 投下了 C4 包，去找它。"
+},{
+	 "i"		: 288
+	,"ids"		: "Idstring(@ID9dc5c20670c93b72@)"
+	,"StringID"	: "location_hospital_ExamA12"
+	,"orig_text": "Examination A12"
+	,"tran_text": "觀察病房 A12"
+},{
+	 "i"		: 289
+	,"ids"		: "Idstring(@ID385a97f8d94e9d64@)"
+	,"StringID"	: "intro_hospital50"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 290
+	,"ids"		: "Idstring(@IDd7b3104ee0b56747@)"
+	,"StringID"	: "mission_hospital_hostage"
+	,"orig_text": "Keep the civilians from activating the alarm until Bain is finished scanning the database."
+	,"tran_text": "不要讓市民在 Bain 掃瞄資料庫完成前激活警報。"
+},{
+	 "i"		: 291
+	,"ids"		: "Idstring(@IDf35b58b5aa0c48a2@)"
+	,"StringID"	: "location_hospital_Exam22"
+	,"orig_text": "Examination B22"
+	,"tran_text": "觀察病房 B22"
+},{
+	 "i"		: 292
+	,"ids"		: "Idstring(@ID30722f7807860377@)"
+	,"StringID"	: "intro_hospital27"
+	,"orig_text": "What are you monkies dressed up for - a wedding or a f..."
+	,"tran_text": "你這猴子穿成這樣做甚麼－婚禮還是葬 ..."
+},{
+	 "i"		: 293
+	,"ids"		: "Idstring(@IDa63c4b0ce01ec405@)"
+	,"StringID"	: "intro_hospital143"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 294
+	,"ids"		: "Idstring(@ID8d94d051f0a05ab6@)"
+	,"StringID"	: "toolset"
+	,"orig_text": "This upgrade makes you interact faster.$NL; When you need to get in and out fast as hell, the Toolkit might be something for you."
+	,"tran_text": "這提升了你的互動速度。$NL;當你需要快速進出，這工具包可以適合你。"
+},{
+	 "i"		: 295
+	,"ids"		: "Idstring(@ID1024b33e869db6d5@)"
+	,"StringID"	: "ammo_bag"
+	,"orig_text": "The ammo bag can be deployed on the ground, so that you and your crew can use it.$NL;Ammo for everyone."
+	,"tran_text": "彈藥包可以設置在地上，以便你和你的隊友都能使用它。$NL;分享彈藥給所有人吧。"
+},{
+	 "i"		: 296
+	,"ids"		: "Idstring(@ID482be9515f887e52@)"
+	,"StringID"	: "location_dh_heliroof"
+	,"orig_text": "On Roof Helipad."
+	,"tran_text": "在天台直昇機坪"
+},{
+	 "i"		: 297
+	,"ids"		: "Idstring(@ID87554198f9dfc81d@)"
+	,"StringID"	: "location_slaughterhouse_walkway"
+	,"orig_text": "On the Walkway."
+	,"tran_text": "在走道"
+},{
+	 "i"		: 298
+	,"ids"		: "Idstring(@IDd14ab1e198d208a7@)"
+	,"StringID"	: "mission_undercover_interogation"
+	,"orig_text": "Get the codes from Taxman! Screams, threats and a good old beating - anything goes - we are in a hurry!"
+	,"tran_text": "在稅務員口中拿到密碼！大叫、威脅及原始的打擊－任何都好－我們很趕！"
+},{
+	 "i"		: 299
+	,"ids"		: "Idstring(@IDf072b1b1ff4ac7e6@)"
+	,"StringID"	: "location_hospital_construction"
+	,"orig_text": "Construction"
+	,"tran_text": "建築工地"
+},{
+	 "i"		: 300
+	,"ids"		: "Idstring(@IDc792ae67d172d78e@)"
+	,"StringID"	: "mission_boat_destroy_security_equipment_hl"
+	,"orig_text": "Destroy equipment."
+	,"tran_text": "破壞裝置"
+},{
+	 "i"		: 301
+	,"ids"		: "Idstring(@ID9a3c6bbd600dec23@)"
+	,"StringID"	: "location_str_parking"
+	,"orig_text": "At Jake's Parking."
+	,"tran_text": "在 Jake 的停車場"
+},{
+	 "i"		: 302
+	,"ids"		: "Idstring(@IDbb28b50b1c5e5e1d@)"
+	,"StringID"	: "mission_slaughterhouse_smoke"
+	,"orig_text": "Block the helicopters view with smoke from a burning tire pile!"
+	,"tran_text": "靠燒輪胎樁的煙阻礙直昇機視線！"
+},{
+	 "i"		: 303
+	,"ids"		: "Idstring(@ID3652320672c14b9c@)"
+	,"StringID"	: "intro_hospital55"
+	,"orig_text": "Come on! Unless you two plan on operating on me here, you better make room!"
+	,"tran_text": "來吧！除非你有兩個計劃，不然你最好騰出空間！"
+},{
+	 "i"		: 304
+	,"ids"		: "Idstring(@IDbc2ac7341314949e@)"
+	,"StringID"	: "mission_apartment_wait2_hl"
+	,"orig_text": "Wait for the helicopter to return to the roof (Roof.)"
+	,"tran_text": "等待直昇機回來 ( 天台。)"
+},{
+	 "i"		: 305
+	,"ids"		: "Idstring(@ID4ab69764494f8b94@)"
+	,"StringID"	: "mission_apartment_door_hl"
+	,"orig_text": "Locate the Panic Room (Floor 3.)"
+	,"tran_text": "找到安全室 ( 三樓 )"
+},{
+	 "i"		: 306
+	,"ids"		: "Idstring(@ID835dabfc5883254e@)"
+	,"StringID"	: "mission_undercover_power_hl"
+	,"orig_text": "KEEP THE POWER."
+	,"tran_text": "保持電源"
+},{
+	 "i"		: 307
+	,"ids"		: "Idstring(@ID24d7b16206f4bf13@)"
+	,"StringID"	: "mission_slaughterhouse_load_gold_hl"
+	,"orig_text": "Lift the gold out of here!"
+	,"tran_text": "釣走黃金！"
+},{
+	 "i"		: 308
+	,"ids"		: "Idstring(@ID2d8818d769e99dd3@)"
+	,"StringID"	: "intro_hospital73"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 309
+	,"ids"		: "Idstring(@ID8bf37663225a8c7f@)"
+	,"StringID"	: "mission_apartment_wait"
+	,"orig_text": "Wait for the helicopter to drop the C4 on the roof."
+	,"tran_text": "等待直昇機投下 C4 到天台。"
+},{
+	 "i"		: 310
+	,"ids"		: "Idstring(@ID46faa9b3addc4705@)"
+	,"StringID"	: "mission_diamond_escort2"
+	,"orig_text": "Find Mr. Garnet's son Ralph and take him to our chopper on the roof."
+	,"tran_text": "找到 Garnet 先生的兒子 Ralph 及帶他到天台的直昇機。"
+},{
+	 "i"		: 311
+	,"ids"		: "Idstring(@IDc7f5b701ede231c4@)"
+	,"StringID"	: "intro_secret_stash04"
+	,"orig_text": "With those, we'll make a $25,000,000 hack. Alex, crane ready?"
+	,"tran_text": "有了這些，我們就能做價值 $25,000,000 的駭入。 Alex ，準備好起重機了？"
+},{
+	 "i"		: 312
+	,"ids"		: "Idstring(@ID5dec5345ec567315@)"
+	,"StringID"	: "location_slaughterhouse_sewer"
+	,"orig_text": "In the Sewer."
+	,"tran_text": "在下水道"
+},{
+	 "i"		: 313
+	,"ids"		: "Idstring(@ID7719899b9adbd499@)"
+	,"StringID"	: "intro_hospital109"
+	,"orig_text": "WOLF: Bain, grampa over here kept talking so we didn't hear you. Fuck it, let's just improvise."
+	,"tran_text": "WOLF ： Bain ，有個老人家一直在說話所以我們聽不到你的指令，幹，只是剛剛好聽到。"
+},{
+	 "i"		: 314
+	,"ids"		: "Idstring(@ID113d7ccf7d5a544f@)"
+	,"StringID"	: "intro_street03_2"
+	,"orig_text": "What the..! What are you doin' Matt!?"
+	,"tran_text": "甚麼 .. ！你在做甚麼， Matt！？"
+},{
+	 "i"		: 315
+	,"ids"		: "Idstring(@ID07dc6611249a1c5b@)"
+	,"StringID"	: "intro_diamondheist"
+	,"orig_text": "1:30 am, 22nd floor - Garnet Group Skyscraper"
+	,"tran_text": "上午1:30 ， 22 樓－ Garnet Group 大廈"
+},{
+	 "i"		: 316
+	,"ids"		: "Idstring(@ID74142f1a22c4ccd2@)"
+	,"StringID"	: "location_hospital_laundry"
+	,"orig_text": "Laundry room"
+	,"tran_text": "洗衣房"
+},{
+	 "i"		: 317
+	,"ids"		: "Idstring(@ID7444cadfef75d4e5@)"
+	,"StringID"	: "intro_hospital21"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 318
+	,"ids"		: "Idstring(@IDda5b711737f13cb2@)"
+	,"StringID"	: "mission_boat_restart_engine"
+	,"orig_text": "Get down to the enginge room and get the enginge running again."
+	,"tran_text": "下去引擎室以重新開動引擎。"
+},{
+	 "i"		: 319
+	,"ids"		: "Idstring(@IDbfaadba6765372b6@)"
+	,"StringID"	: "location_suburbia_str1"
+	,"orig_text": "On Pacific Drv."
+	,"tran_text": "在太平洋街"
+},{
+	 "i"		: 320
+	,"ids"		: "Idstring(@ID3875f6d7cc7e2210@)"
+	,"StringID"	: "intro_hospital63"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 321
+	,"ids"		: "Idstring(@ID0642d8db45c40367@)"
+	,"StringID"	: "mission_boat_stir"
+	,"orig_text": "Stir the boat away from land into international water."
+	,"tran_text": "送走船到公海。"
+},{
+	 "i"		: 322
+	,"ids"		: "Idstring(@ID7cd841ca04f9f6d1@)"
+	,"StringID"	: "location_suburbia_shelter"
+	,"orig_text": "In Shelter"
+	,"tran_text": "在庇護所"
+},{
+	 "i"		: 323
+	,"ids"		: "Idstring(@ID2cc849ee03fac90d@)"
+	,"StringID"	: "intro_hospital97"
+	,"orig_text": "*chuckle* What a racket..."
+	,"tran_text": "*笑* 甚麼球拍..."
+},{
+	 "i"		: 324
+	,"ids"		: "Idstring(@IDfc5e78b414c041cd@)"
+	,"StringID"	: "intro_bridge04"
+	,"orig_text": "Let's go, guys!"
+	,"tran_text": "去吧，伙伴！"
+},{
+	 "i"		: 325
+	,"ids"		: "Idstring(@ID6cda92d6c7656ecf@)"
+	,"StringID"	: "mission_apartment_bag_hl"
+	,"orig_text": "Locate the C4 Bag."
+	,"tran_text": "找到 C4 包"
+},{
+	 "i"		: 326
+	,"ids"		: "Idstring(@IDe6c3de5f0b22da38@)"
+	,"StringID"	: "location_backalley"
+	,"orig_text": "In Back Alley."
+	,"tran_text": "在後巷"
+},{
+	 "i"		: 327
+	,"ids"		: "Idstring(@ID803671d2ce54539f@)"
+	,"StringID"	: "location_cokeoverkill"
+	,"orig_text": "By the OVERKILL Cola sign."
+	,"tran_text": "在 OVERKILL 可樂標誌"
+},{
+	 "i"		: 328
+	,"ids"		: "Idstring(@ID96c2b6dbcdf4b534@)"
+	,"StringID"	: "intro_hospital52"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 329
+	,"ids"		: "Idstring(@ID636c56a6bb764626@)"
+	,"StringID"	: "intro_slaughterhouse03"
+	,"orig_text": "Looks like the diversion worked - they've changed their course. Convoy should be here in moments!"
+	,"tran_text": "看來改道策略奏效了－他們改變了路線，護送車隊快來了！"
+},{
+	 "i"		: 330
+	,"ids"		: "Idstring(@IDe209aa1dcc1a44dc@)"
+	,"StringID"	: "intro_hospital100"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 331
+	,"ids"		: "Idstring(@ID131053db83e4bafb@)"
+	,"StringID"	: "intro_bank01"
+	,"orig_text": "Alright guys, listen up - good news and bad news:"
+	,"tran_text": "對了伙伴，聽住－一個好消息跟一個壞消息："
+},{
+	 "i"		: 332
+	,"ids"		: "Idstring(@ID46733009c763f507@)"
+	,"StringID"	: "location_uc_floor1"
+	,"orig_text": "On Floor 1"
+	,"tran_text": "在一樓"
+},{
+	 "i"		: 333
+	,"ids"		: "Idstring(@ID2ff6060a81cada08@)"
+	,"StringID"	: "mission_diamond_sneak_hl"
+	,"orig_text": "Sneak and access the alarm boxes."
+	,"tran_text": "潛入存取警報箱。"
+},{
+	 "i"		: 334
+	,"ids"		: "Idstring(@IDa30bf57bdb770fbb@)"
+	,"StringID"	: "mission_suburbia_mission4"
+	,"orig_text": "Apply the drill to the safe and plug the power cord into an outlet. As soon as the drill is done, drag the water hose down to the basement and connect it."
+	,"tran_text": "對保險箱使用鑽機及插電源插口到外面，當鑽機完成，放水管下去地下室及連上它。"
+},{
+	 "i"		: 335
+	,"ids"		: "Idstring(@IDfee1483fc7777350@)"
+	,"StringID"	: "location_slaughterhouse_main_corridor"
+	,"orig_text": "In the Main Corridor."
+	,"tran_text": "在主要走廊"
+},{
+	 "i"		: 336
+	,"ids"		: "Idstring(@IDbb5e5bf4ae2f7e03@)"
+	,"StringID"	: "des_m4"
+	,"orig_text": "STATS : 5.56mm : Semiautomatic : Medium recoil$NL;The AMCAR-4 is one of the most versatile assault rifles there is.$NL;The good accuracy coupled with the high rate of fire prepares its owner for any situation."
+	,"tran_text": "統計： 5.56mm ： 半自動 ：後座力一般$NL;AMCAR-4 是這裡最平衡的突擊步槍。$NL;高準確配上高射速令主人能處理任何情況。"
+},{
+	 "i"		: 337
+	,"ids"		: "Idstring(@IDc4aaf7e3b6ed62c0@)"
+	,"StringID"	: "tip_weapon_effecienty"
+	,"orig_text": "Different weapons are more effective at different ranges, and are therefore suited for different situations."
+	,"tran_text": "不同武器在不同距離有更好的效果，而且適合不同環境。"
+},{
+	 "i"		: 338
+	,"ids"		: "Idstring(@ID708dd85f699b3ff7@)"
+	,"StringID"	: "location_hospital_Elevator"
+	,"orig_text": "Elevator"
+	,"tran_text": "升降機"
+},{
+	 "i"		: 339
+	,"ids"		: "Idstring(@ID64a0d9b2e16efc25@)"
+	,"StringID"	: "intro_hospital31"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 340
+	,"ids"		: "Idstring(@IDd763a7e37b717096@)"
+	,"StringID"	: "mission_diamond_sneak"
+	,"orig_text": "Sneak around and gain access to the consoles controlling the vault doors. If the alarm goes off, Bain will have to hack the remaining consoles."
+	,"tran_text": "偷偷地去獲得控制金庫大門的控制面版權限，如果警鐘響了， Bain 需要駭入剩下的控制面版。"
+},{
+	 "i"		: 341
+	,"ids"		: "Idstring(@IDfaf948e7ae14b255@)"
+	,"StringID"	: "location_hospital_ExamF64"
+	,"orig_text": "Examination F64"
+	,"tran_text": "觀察病房 F64"
+},{
+	 "i"		: 342
+	,"ids"		: "Idstring(@IDc17cfa1170ee1f02@)"
+	,"StringID"	: "intro_hospital61"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 343
+	,"ids"		: "Idstring(@IDa315a408303eb9de@)"
+	,"StringID"	: "location_dh_managment"
+	,"orig_text": "In Management."
+	,"tran_text": "在管理層"
+},{
+	 "i"		: 344
+	,"ids"		: "Idstring(@ID9b448141728d80ec@)"
+	,"StringID"	: "location_bridge_boat"
+	,"orig_text": "On A Boat."
+	,"tran_text": "在船上"
+},{
+	 "i"		: 345
+	,"ids"		: "Idstring(@ID88a9327c689f1280@)"
+	,"StringID"	: "intro_hospital103"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 346
+	,"ids"		: "Idstring(@IDa9d32e4a42d333eb@)"
+	,"StringID"	: "intro_hospital138"
+	,"orig_text": "I can tell you're good people."
+	,"tran_text": "我能說你是好人。"
+},{
+	 "i"		: 347
+	,"ids"		: "Idstring(@ID6f7f7b4ecab93553@)"
+	,"StringID"	: "intro_hospital81"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 348
+	,"ids"		: "Idstring(@ID8c3104b41fce2be2@)"
+	,"StringID"	: "mission_slaughterhouse_gasoline_hl"
+	,"orig_text": "Get the Gasoline!"
+	,"tran_text": "拿汽油桶！"
+},{
+	 "i"		: 349
+	,"ids"		: "Idstring(@ID109c7144e36afce9@)"
+	,"StringID"	: "intro_hospital83"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 350
+	,"ids"		: "Idstring(@ID5098c0debdd66e53@)"
+	,"StringID"	: "tip_shoot_at_civilians"
+	,"orig_text": "Shout at civilians to keep them in check. $NL; $NL; A living civilian is always an asset, and lying down he/she is more likely to stay alive."
+	,"tran_text": "喝止平民能令他們持續趴下不動。 $NL; $NL; 只有活著的平民才有價值，保持他們趴下以免他們被流彈殺死。"
+},{
+	 "i"		: 351
+	,"ids"		: "Idstring(@ID22fd27ff019f37e4@)"
+	,"StringID"	: "intro_hospital88"
+	,"orig_text": "\"blah blah blah pick you up from the roof when we're done.\""
+	,"tran_text": "吧啦吧啦當我們完成時在天台帶走我們。"
+},{
+	 "i"		: 352
+	,"ids"		: "Idstring(@IDc10067494fe1224a@)"
+	,"StringID"	: "intro_hospital145"
+	,"orig_text": "Aw, Christ in a handbag - are you two cops?"
+	,"tran_text": "啊，基督在手袋內－你們是條子？"
+},{
+	 "i"		: 353
+	,"ids"		: "Idstring(@ID82093089162218d5@)"
+	,"StringID"	: "mission_slaughterhouse_attack_convoy_hl"
+	,"orig_text": "Hit the convoy!"
+	,"tran_text": "攻擊車隊！"
+},{
+	 "i"		: 354
+	,"ids"		: "Idstring(@ID8365cd46cd82465b@)"
+	,"StringID"	: "intro_diamondheist03"
+	,"orig_text": "Remember: Stay low, stay dark, avoid guards and gunfire. Here we go..."
+	,"tran_text": "記住：低調行事，不要被人及發現，避開警衛及開槍的機會，來吧 ..."
+},{
+	 "i"		: 355
+	,"ids"		: "Idstring(@ID914fc969f41fbe37@)"
+	,"StringID"	: "mission_bridge_get_hostage"
+	,"orig_text": "Locate the prisoner! He's in one of the trucks. Saw the doors open."
+	,"tran_text": "找到囚犯！他在單中一輛貨車上，鋸開門。"
+},{
+	 "i"		: 356
+	,"ids"		: "Idstring(@ID05af281896caeaf7@)"
+	,"StringID"	: "mission_suburbia_mission4_power"
+	,"orig_text": "Hook up the drill to an outlet."
+	,"tran_text": "連接鑽機到外面。"
+},{
+	 "i"		: 357
+	,"ids"		: "Idstring(@IDf1165d52c23e1a91@)"
+	,"StringID"	: "location_vault_hallway"
+	,"orig_text": "In Vault Hallway."
+	,"tran_text": "在金庫大廳"
+},{
+	 "i"		: 358
+	,"ids"		: "Idstring(@ID3aaa49b351d16d5f@)"
+	,"StringID"	: "mission_diamond_escape_hl"
+	,"orig_text": "Escape!"
+	,"tran_text": "撤離！"
+},{
+	 "i"		: 359
+	,"ids"		: "Idstring(@ID0520983980a909dc@)"
+	,"StringID"	: "location_suburbia_m_garage"
+	,"orig_text": "In Mitchell's Garage"
+	,"tran_text": "在 Mitchell 的車庫"
+},{
+	 "i"		: 360
+	,"ids"		: "Idstring(@ID2f508c04ac25f243@)"
+	,"StringID"	: "intro_bridge01"
+	,"orig_text": "OK, stay low everybody. I'm detonating in four, three, two, cover, ignition!"
+	,"tran_text": "好，保持低調，我正在引爆，四，三，二，小心，燃燒！"
+},{
+	 "i"		: 361
+	,"ids"		: "Idstring(@IDbc8e006e57aec40e@)"
+	,"StringID"	: "mission_diamond_escort1_hl"
+	,"orig_text": "Change of plan, get the CFO."
+	,"tran_text": "改變計劃，找到 CFO"
+},{
+	 "i"		: 362
+	,"ids"		: "Idstring(@ID8250e792c7bdd845@)"
+	,"StringID"	: "location_slaughterhouse_lockerroom"
+	,"orig_text": "In the Locker Room."
+	,"tran_text": "在儲物室"
+},{
+	 "i"		: 363
+	,"ids"		: "Idstring(@IDee2091554e69f104@)"
+	,"StringID"	: "location_suburbia_str4"
+	,"orig_text": "On Spinnaker Str."
+	,"tran_text": "在三角帆街"
+},{
+	 "i"		: 364
+	,"ids"		: "Idstring(@IDd4b0b46e3bc55da8@)"
+	,"StringID"	: "tip_tactical_reload"
+	,"orig_text": "You can reload your weapon even if you haven't completely emptied your current ammo clip. $NL; $NL;This way you make sure that you have a full clip the next time you run into trouble. This is called a \"tactical reload\"."
+	,"tran_text": "即使你沒有完全消耗彈匣，你仍能換彈。 $NL; $NL;這能確保你下次有麻煩時仍有滿的彈匣用。這叫「戰術換彈」。"
+},{
+	 "i"		: 365
+	,"ids"		: "Idstring(@ID2bf8092e9605e1da@)"
+	,"StringID"	: "mission_bridge_escort_hl"
+	,"orig_text": "Escort the prisoner (Scaffolding.)"
+	,"tran_text": "護送囚犯 ( 鋼筋 )"
+},{
+	 "i"		: 366
+	,"ids"		: "Idstring(@ID589cc42d4c965e47@)"
+	,"StringID"	: "des_c45"
+	,"orig_text": "STATS : .45 Caliber : Semiautomatic : Medium recoil$NL;The C45 is a very reliable weapon that has proven its worth over years of use. It does enough damage and carries enough rounds to handle most targets. A good all rounder."
+	,"tran_text": "統計： .45 口徑 ： 半自動 ： 後座力一般$NL;C45 是非常可靠的武器，能經年累月地用。它能造成夠多的傷害及帶備足夠的子彈以處理大量敵人，整理而言很好。"
+},{
+	 "i"		: 367
+	,"ids"		: "Idstring(@IDc8bad8e6ce60184c@)"
+	,"StringID"	: "mission_slaughterhouse_escape_hl"
+	,"orig_text": "Make the escape!"
+	,"tran_text": "撤離"
+},{
+	 "i"		: 368
+	,"ids"		: "Idstring(@ID46fec365b6cab10d@)"
+	,"StringID"	: "mission_slaughterhouse_load_gas_hl"
+	,"orig_text": "Set the trap in place!"
+	,"tran_text": "設計陷阱！"
+},{
+	 "i"		: 369
+	,"ids"		: "Idstring(@ID0469574353113c29@)"
+	,"StringID"	: "intro_hospital53"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 370
+	,"ids"		: "Idstring(@ID5a6c0091e449fb12@)"
+	,"StringID"	: "location_uc_floor2"
+	,"orig_text": "On Floor 2"
+	,"tran_text": "在二樓"
+},{
+	 "i"		: 371
+	,"ids"		: "Idstring(@IDc37e3cc85ed433fc@)"
+	,"StringID"	: "mission_hospital_atrapp"
+	,"orig_text": "Set up the fake sentry guns so that the civilians will stay down."
+	,"tran_text": "開設假的步哨槍以令市民保持冷靜。"
+},{
+	 "i"		: 372
+	,"ids"		: "Idstring(@ID8c0f628034a3654e@)"
+	,"StringID"	: "tip_switch_to_sidearm"
+	,"orig_text": "It is always quicker to switch to your sidearm than reloading your primary weapon. $NL; $NL; So if you run out of ammo for your SMG and you're in a tight spot, switching to your sidearm instead of reloading could save your life."
+	,"tran_text": "換手永遠比換彈快。 $NL; $NL; 所以如果你沒有衝鋒槍子彈，而且在緊急時機，換手會比換彈更能救你的命。"
+},{
+	 "i"		: 373
+	,"ids"		: "Idstring(@ID3a3d264df16d0258@)"
+	,"StringID"	: "mission_suburbia_mission6"
+	,"orig_text": "Take the printing plates from within the safe."
+	,"tran_text": "在保險箱內拿印刷版。"
+},{
+	 "i"		: 374
+	,"ids"		: "Idstring(@ID01e6f797ad15eab1@)"
+	,"StringID"	: "doctor_bag_increase"
+	,"orig_text": "This upgrades the amount of health that can be acquired from the bag.$NL;It will help you help your friends even more."
+	,"tran_text": "這提升了醫療包的使用次數。$NL;令你再幫助你的朋友。"
+},{
+	 "i"		: 375
+	,"ids"		: "Idstring(@ID18b801906a7a8667@)"
+	,"StringID"	: "mission_hospital_rounds_hl"
+	,"orig_text": "FIND OUT WHERE THE CONTAMINATED PATIENT IS."
+	,"tran_text": "找到受污染病人的位置。"
+},{
+	 "i"		: 376
+	,"ids"		: "Idstring(@IDb6aae072e38ca353@)"
+	,"StringID"	: "mission_get_into_bank_hl"
+	,"orig_text": "Enter the bank (Lobby.)"
+	,"tran_text": "進入銀行 (大廳)"
+},{
+	 "i"		: 377
+	,"ids"		: "Idstring(@ID7e0efea5147ae98f@)"
+	,"StringID"	: "intro_hospital64"
+	,"orig_text": "STRANGER: Let's go, let's go! We can all fit in the elevator!"
+	,"tran_text": "陌生人： 去吧，去吧！我們能全進入升降機的！"
+},{
+	 "i"		: 378
+	,"ids"		: "Idstring(@IDc8bf15950bb05473@)"
+	,"StringID"	: "intro_bank04"
+	,"orig_text": "The bank manager's got the key card to get in there - let's get it on."
+	,"tran_text": "銀行經理有進入的鑰匙卡－去吧。"
+},{
+	 "i"		: 379
+	,"ids"		: "Idstring(@ID40b073fa66565dcd@)"
+	,"StringID"	: "intro_slaughterhouse"
+	,"orig_text": "8:01 am, Slaughterhouse district - AMBUSH!"
+	,"tran_text": "早上 8:01 ，屠宰場一帶－伏擊！"
+},{
+	 "i"		: 380
+	,"ids"		: "Idstring(@IDa08717309624737c@)"
+	,"StringID"	: "intro_slaughterhouse02"
+	,"orig_text": "...it's like a war zone out there so this morning you better take scenic route!"
+	,"tran_text": "... 這就像戰爭區，這早上你應該選景區路線的！"
+},{
+	 "i"		: 381
+	,"ids"		: "Idstring(@IDd21afd948a251aae@)"
+	,"StringID"	: "ammo_bag_increase"
+	,"orig_text": "This upgrades the amount of ammo that can be acquired from the bag.$NL;Even more ammo for everyone."
+	,"tran_text": "這增加了彈藥包中的備用子彈量。$NL;大家都有更多的彈藥。"
+},{
+	 "i"		: 382
+	,"ids"		: "Idstring(@IDff4d747cf6402c7c@)"
+	,"StringID"	: "mission_hospital_cooler_amount_text"
+	,"orig_text": "BLOOD SAMPLES IN COOLER."
+	,"tran_text": "血液樣本在冷卻器。"
+},{
+	 "i"		: 383
+	,"ids"		: "Idstring(@ID0bf9c85b00451c26@)"
+	,"StringID"	: "intro_suburbia04"
+	,"orig_text": "Yeah, you hurry!"
+	,"tran_text": "好，你快點！"
+},{
+	 "i"		: 384
+	,"ids"		: "Idstring(@IDc890e5cbc411e1f7@)"
+	,"StringID"	: "mission_suburbia_escape"
+	,"orig_text": "Open the grate and enter the storm drains. Escape the storm drains and say hi to the pacific!"
+	,"tran_text": "打開柵欄門及進入下水道，在下水道撤離及跟太平洋說好！"
+},{
+	 "i"		: 385
+	,"ids"		: "Idstring(@ID8d5268335b637789@)"
+	,"StringID"	: "des_mp5"
+	,"orig_text": "STATS : 9mm : High rate of fire and low recoil$NL;COMPACT-5 is hands down the most frequently used weapon of special operation units.$NL;With its low recoil and compact size it is ideal for urban combat."
+	,"tran_text": "統計： 9mm ： 高射速及後座力低$NL;COMPACT-5 是特別行動單位最常用的武器。$NL;它後座力低及大小對城市戰鬥很有利。"
+},{
+	 "i"		: 386
+	,"ids"		: "Idstring(@IDa37bfc3e41c1fc7f@)"
+	,"StringID"	: "location_hospital_ExamE52"
+	,"orig_text": "Examination E52"
+	,"tran_text": "觀察病房 E52"
+},{
+	 "i"		: 387
+	,"ids"		: "Idstring(@IDee7c06ff44699abb@)"
+	,"StringID"	: "mission_suburbia_mission2"
+	,"orig_text": "Get access to the secret criminal enterprise under Mitchell's pool."
+	,"tran_text": "進入 Mitchell 水池下的秘密犯罪集團。"
+},{
+	 "i"		: 388
+	,"ids"		: "Idstring(@IDc595300f2557c1fb@)"
+	,"StringID"	: "location_slaughterhouse_toilet"
+	,"orig_text": "In the Toilet."
+	,"tran_text": "在廁所"
+},{
+	 "i"		: 389
+	,"ids"		: "Idstring(@ID8c553447b9bcedb6@)"
+	,"StringID"	: "tip_help_bleed_out"
+	,"orig_text": "If a robber is shot down he goes into \"bleed-out\", where he can't move and can only shoot with his sidearm. $NL; $NL; A robber in bleed-out can be helped back up at no cost."
+	,"tran_text": "如果劫匪被擊倒並進入「倒地」狀態，他將不能移動及只能用副武器射擊。 $NL; $NL; 倒地的劫匪可以被隊友救起而無須消耗道具。"
+},{
+	 "i"		: 390
+	,"ids"		: "Idstring(@ID4d55d69284a72c3b@)"
+	,"StringID"	: "intro_hospital11"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 391
+	,"ids"		: "Idstring(@ID30c37a875762ba6d@)"
+	,"StringID"	: "location_suburbia_str2"
+	,"orig_text": "On Keel Str."
+	,"tran_text": "在骨街"
+},{
+	 "i"		: 392
+	,"ids"		: "Idstring(@ID1f1393bdbd217bbd@)"
+	,"StringID"	: "mission_ap_c4_sub_top"
+	,"orig_text": "Place the charges on the roof."
+	,"tran_text": "在屋頂放置炸藥"
+},{
+	 "i"		: 393
+	,"ids"		: "Idstring(@IDdc759b05faeafb58@)"
+	,"StringID"	: "location_slaughterhouse_yard"
+	,"orig_text": "On the Yard."
+	,"tran_text": "在院子"
+},{
+	 "i"		: 394
+	,"ids"		: "Idstring(@ID75413e8b21d38926@)"
+	,"StringID"	: "location_str_x1st2ave"
+	,"orig_text": "By Scarlet and Major."
+	,"tran_text": "在猩紅大道跟主要大道間"
+},{
+	 "i"		: 395
+	,"ids"		: "Idstring(@ID9cefa94c3ed0fd06@)"
+	,"StringID"	: "location_str_3ave"
+	,"orig_text": "On Armitage Ave."
+	,"tran_text": "在 Armitage 大道"
+},{
+	 "i"		: 396
+	,"ids"		: "Idstring(@ID9780de14c618fd4d@)"
+	,"StringID"	: "location_dh_party"
+	,"orig_text": "At Party."
+	,"tran_text": "在廚房"
+},{
+	 "i"		: 397
+	,"ids"		: "Idstring(@IDfa95ba3429267994@)"
+	,"StringID"	: "mission_bridge_heli_clear"
+	,"orig_text": "Hold the tower, wait for the airplane and make sure George snatches up the chair!"
+	,"tran_text": "守住高塔，等待飛機及確保 George 被綁好在椅子上！"
+},{
+	 "i"		: 398
+	,"ids"		: "Idstring(@IDc1d608f1e53024eb@)"
+	,"StringID"	: "mission_hospital_ICU"
+	,"orig_text": "Use the hidden saw that looks like a teddybear, and start sawing your way through the ICU doors."
+	,"tran_text": "使用看起來是泰迪熊的隱藏鋸，以及開始鋸開加護病房的門。"
+},{
+	 "i"		: 399
+	,"ids"		: "Idstring(@ID3ef75e2f1d0811de@)"
+	,"StringID"	: "intro_hospital90"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 400
+	,"ids"		: "Idstring(@IDe15fa1f98b38f8e1@)"
+	,"StringID"	: "mission_undercover_crane"
+	,"orig_text": "While Alex is lifting the limo to the roof, make sure to Keep the FBI at bay."
+	,"tran_text": "當 Alex 搬加長車到天台時，確保 FBI 在海灣。"
+},{
+	 "i"		: 401
+	,"ids"		: "Idstring(@IDed64130874ea8c54@)"
+	,"StringID"	: "intro_apartment"
+	,"orig_text": "4:02 pm, projects - Chavez's crib"
+	,"tran_text": "下午 4:02 ，計劃－ Chavez 的嬰兒床"
+},{
+	 "i"		: 402
+	,"ids"		: "Idstring(@ID44b1a1e80938e59f@)"
+	,"StringID"	: "mission_apartment_start_hl"
+	,"orig_text": "Drug deal (Lobby.)"
+	,"tran_text": "毒品交易 ( 大廳 )"
+},{
+	 "i"		: 403
+	,"ids"		: "Idstring(@IDcb356fdba02cdd89@)"
+	,"StringID"	: "mission_slaughterhouse_gasoline"
+	,"orig_text": "Find the cans of gasoline."
+	,"tran_text": "找到汽油桶。"
+},{
+	 "i"		: 404
+	,"ids"		: "Idstring(@ID71138d4f8aad2627@)"
+	,"StringID"	: "intro_hospital118"
+	,"orig_text": "Fuck it, let's just improvise."
+	,"tran_text": "幹，只是剛剛好聽到。"
+},{
+	 "i"		: 405
+	,"ids"		: "Idstring(@ID3bc8e523d31c1243@)"
+	,"StringID"	: "intro_hospital72"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 406
+	,"ids"		: "Idstring(@ID4fbc50ce15f2177d@)"
+	,"StringID"	: "location_uc_stairacces2"
+	,"orig_text": "At Roof access right"
+	,"tran_text": "在右面後樓梯"
+},{
+	 "i"		: 407
+	,"ids"		: "Idstring(@ID01779dadb1f177a1@)"
+	,"StringID"	: "intro_street04"
+	,"orig_text": "What the..! What are you doing, Matt!?"
+	,"tran_text": "甚麼 .. ！你在做甚麼， Matt！？"
+},{
+	 "i"		: 408
+	,"ids"		: "Idstring(@IDb378c4019f88879c@)"
+	,"StringID"	: "intro_suburbia02"
+	,"orig_text": "Bonjour, it's Mitchell over on Keel Street. The pipes, you know the ones you've supposedly fixed, they're leaking again."
+	,"tran_text": "你好，我是住在骨街的 Mitchell ，水管，你知道你應該修好的那條，又爆開了。"
+},{
+	 "i"		: 409
+	,"ids"		: "Idstring(@IDdc33cb107be7e960@)"
+	,"StringID"	: "intro_hospital89"
+	,"orig_text": "Sounds like a plan."
+	,"tran_text": "聽起來像一個計劃。"
+},{
+	 "i"		: 410
+	,"ids"		: "Idstring(@ID07de15918b2aa2f6@)"
+	,"StringID"	: "location_floor2"
+	,"orig_text": "On Floor 2."
+	,"tran_text": "在二樓"
+},{
+	 "i"		: 411
+	,"ids"		: "Idstring(@IDbb404a64f51fdc5c@)"
+	,"StringID"	: "mission_diamond_escort1"
+	,"orig_text": "We need to pressure Mr. Garnet into giving us the access codes to the vault. Bain is trying to locate the CFO using security footage, but try to find him sooner than that."
+	,"tran_text": "我們需要逼 Garnet 先生給我們進入金庫的密碼， Bain 嘗試用保安錄像找到 CFO ，但試試找他應該較快。"
+},{
+	 "i"		: 412
+	,"ids"		: "Idstring(@IDee59e7ea3a640938@)"
+	,"StringID"	: "mission_hospital_cooler_hl"
+	,"orig_text": "PUT TWO VALIDATED SAMPLES INTO THE COOLER."
+	,"tran_text": "放兩個樣本到冷卻器。"
+},{
+	 "i"		: 413
+	,"ids"		: "Idstring(@ID24e682aff9357bee@)"
+	,"StringID"	: "mission_bridge_jump"
+	,"orig_text": "Make it to the Bridge Pillar and take the stairs to the waiting scuba gear."
+	,"tran_text": "去大橋支柱以及拿起在樓梯上的潛水裝置。"
+},{
+	 "i"		: 414
+	,"ids"		: "Idstring(@IDcc65b44d694be60e@)"
+	,"StringID"	: "intro_hospital129"
+	,"orig_text": "I'll kill him first."
+	,"tran_text": "我會先殺他。"
+},{
+	 "i"		: 415
+	,"ids"		: "Idstring(@IDe4e834e21e89ac35@)"
+	,"StringID"	: "tip_xp_bar"
+	,"orig_text": "The cash gauge is in the lower left corner of the screen. $NL; $NL; It shows how much more cash you need to collect to reach your next level of reputation, and what weapon, equipment or ability you will be rewarded with."
+	,"tran_text": "現金估計就在左下角。 $NL; $NL; 它顯示了你還需要多少金錢來升級，及未來的武器、裝置及能力。"
+},{
+	 "i"		: 416
+	,"ids"		: "Idstring(@ID5278b6b0ad49be54@)"
+	,"StringID"	: "des_more_ammo"
+	,"orig_text": "All your teammates get to carry more ammo. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+	,"tran_text": "所有你的隊員都能帶有更多彈藥，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+},{
+	 "i"		: 417
+	,"ids"		: "Idstring(@IDf6215acbb8a62ae0@)"
+	,"StringID"	: "mission_suburbia_escape_hl"
+	,"orig_text": "ESCAPE!"
+	,"tran_text": "撤離！"
+},{
+	 "i"		: 418
+	,"ids"		: "Idstring(@ID500a33edee7f315b@)"
+	,"StringID"	: "des_glock"
+	,"orig_text": "STATS : 9mm : Full Auto : Low recoil$NL;The military has it, the police have it, and now you have it. The Stryk is an easy to use fully automatic pistol, specifically designed to fight crime. Wait a minute..."
+	,"tran_text": "統計： 9mm ： 全自動 ： 後座力低$NL;軍隊都用它，警察都用它，現在你用它， Stryk 是一把易用的全自動手槍，設計是特別用來對付罪犯的，等等 ..."
+},{
+	 "i"		: 419
+	,"ids"		: "Idstring(@IDad78fcc64c7d0a64@)"
+	,"StringID"	: "location_druglab"
+	,"orig_text": "In Drug Lab."
+	,"tran_text": "在毒品室"
+},{
+	 "i"		: 420
+	,"ids"		: "Idstring(@ID3208f994ed7fb6da@)"
+	,"StringID"	: "mission_hospital_rapport"
+	,"orig_text": "Look through the files and find the correct patient file."
+	,"tran_text": "看看檔案並找到正確的病人資料。"
+},{
+	 "i"		: 421
+	,"ids"		: "Idstring(@IDb54974496b36500c@)"
+	,"StringID"	: "mission_bridge_locate_convoy_hl"
+	,"orig_text": "Locate the prison convoy (Convoy.)"
+	,"tran_text": "找到囚犯護送車隊 ( 護送車隊 )"
+},{
+	 "i"		: 422
+	,"ids"		: "Idstring(@IDfe328fcb8a9f5e2c@)"
+	,"StringID"	: "location_management"
+	,"orig_text": "In Management."
+	,"tran_text": "在管理層"
+},{
+	 "i"		: 423
+	,"ids"		: "Idstring(@ID21e4d2335f02a1b0@)"
+	,"StringID"	: "intro_hospital54"
+	,"orig_text": "STRANGER: Back up, let me in! WOLF: Good day, sir..."
+	,"tran_text": "陌生人：後備，讓我入去！ WOLF ：今天好，先生 ..."
+},{
+	 "i"		: 424
+	,"ids"		: "Idstring(@ID25806a36026b2ab0@)"
+	,"StringID"	: "location_suburbia_str23"
+	,"orig_text": "At Keel and Marine"
+	,"tran_text": "在骨街跟海洋街間"
+},{
+	 "i"		: 425
+	,"ids"		: "Idstring(@ID8e7b65b0c62cf28f@)"
+	,"StringID"	: "des_gang_of_ninjas"
+	,"orig_text": "All your teammates melee attack range increases. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+	,"tran_text": "所有你的隊員都會有近戰距離增幅，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+},{
+	 "i"		: 426
+	,"ids"		: "Idstring(@IDe32550b872bff007@)"
+	,"StringID"	: "location_front"
+	,"orig_text": "In Front."
+	,"tran_text": "在前面"
+},{
+	 "i"		: 427
+	,"ids"		: "Idstring(@IDfb3232e9b6d127bb@)"
+	,"StringID"	: "intro_hospital43"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 428
+	,"ids"		: "Idstring(@IDa7f1648eef69a748@)"
+	,"StringID"	: "intro_hospital105"
+	,"orig_text": "Do either of you have a smoke?"
+	,"tran_text": "你需要吸煙嗎？"
+},{
+	 "i"		: 429
+	,"ids"		: "Idstring(@IDcc770bc4f63a7574@)"
+	,"StringID"	: "intro_street03"
+	,"orig_text": "There, Slick! Now I call the shots!"
+	,"tran_text": "這裡，亂飛！現在我這樣叫開火！"
+},{
+	 "i"		: 430
+	,"ids"		: "Idstring(@ID41758a6039c8e7f7@)"
+	,"StringID"	: "intro_hospital76"
+	,"orig_text": "What in the hell are you two dressed up for..."
+	,"tran_text": "你們穿成這樣是甚麼鬼 ..."
+},{
+	 "i"		: 431
+	,"ids"		: "Idstring(@IDd224721ccba53b3b@)"
+	,"StringID"	: "intro_hospital26"
+	,"orig_text": "STRANGER: Yeah... thanks, I guess."
+	,"tran_text": "陌生人： 好 ... 感謝，我猜"
+},{
+	 "i"		: 432
+	,"ids"		: "Idstring(@IDf03936c6c0c6ac55@)"
+	,"StringID"	: "intro_apartment02"
+	,"orig_text": "those junkies won't know what hit 'em before it's too late."
+	,"tran_text": "這些癮君子不會知道是甚麼打到他們的。"
+},{
+	 "i"		: 433
+	,"ids"		: "Idstring(@ID5e3f1f6c3739da1a@)"
+	,"StringID"	: "intro_hospital128"
+	,"orig_text": "WOLF: Aaargh, you old fart!"
+	,"tran_text": "WOLF ：啊，你屁啦！"
+},{
+	 "i"		: 434
+	,"ids"		: "Idstring(@ID700bd8f8db8bf342@)"
+	,"StringID"	: "intro_hospital146"
+	,"orig_text": "I was gonna light up... You ain't gonna arrest me, are ya?"
+	,"tran_text": "我想開燈 ... 你不會打算拒捕我吧，對吧？"
+},{
+	 "i"		: 435
+	,"ids"		: "Idstring(@IDca4e978fe2a16ed9@)"
+	,"StringID"	: "clip_ammo_increase"
+	,"orig_text": "This upgrade adds more bullets to every clip.$NL;Some extra bullets can make all the difference in the world."
+	,"tran_text": "這提升了每個彈夾的子彈量。$NL;額外的子彈能改善世界。"
+},{
+	 "i"		: 436
+	,"ids"		: "Idstring(@IDf597ec52f8df874b@)"
+	,"StringID"	: "mission_undercover_deal"
+	,"orig_text": "Wait until the SERVER is exposed before you hit them! That server is the only way to make our transaction!"
+	,"tran_text": "在你打他們前要先看到伺服器！有伺服器才能交易！"
+},{
+	 "i"		: 437
+	,"ids"		: "Idstring(@ID98bea8a700dba2f6@)"
+	,"StringID"	: "tip_doctor_bag"
+	,"orig_text": "The doctor's bag is a real life saver. $NL; $NL; If your team runs low on health, place your doctor's bag on the ground and let everyone patch themselves up!"
+	,"tran_text": "醫療包是真正的生命救星。 $NL; $NL; 如果你的隊伍只有低血量，放置醫療包在地下，並讓所有人治療！"
+},{
+	 "i"		: 438
+	,"ids"		: "Idstring(@ID25751a530b0fa3dd@)"
+	,"StringID"	: "des_extra_start_out_ammo"
+	,"orig_text": "Extra start out ammo allows the owner to carry more ammo. How much more depends on the upgrade level."
+	,"tran_text": "開始時帶有額外的彈藥，基於等級變化。"
+},{
+	 "i"		: 439
+	,"ids"		: "Idstring(@ID176c64ac2d1c1960@)"
+	,"StringID"	: "mission_apartment_intro"
+	,"orig_text": "Let Chavez buzz you in, and then enter the building through the back door."
+	,"tran_text": "等 Chavez 叫你入去，然後在後門進入。"
+},{
+	 "i"		: 440
+	,"ids"		: "Idstring(@IDfe2d86d2a8e386db@)"
+	,"StringID"	: "mission_apartment_roof"
+	,"orig_text": "Rid the roof of all the law enforcers."
+	,"tran_text": "解決天台上的執法人員。"
+},{
+	 "i"		: 441
+	,"ids"		: "Idstring(@ID4c7fecb0ee43e34e@)"
+	,"StringID"	: "tip_police_free_hostage"
+	,"orig_text": "The police will always take the opportunity to free hostages when no robber is nearby. $NL; $NL; Spread your crew out and keep an eye on all the hostages - they are your life lines!"
+	,"tran_text": "當沒有劫匪在附近時，條子會趁機會來釋放人質。 $NL; $NL; 分散你的隊伍及看住所有人質－－他們是你的命脈！"
+},{
+	 "i"		: 442
+	,"ids"		: "Idstring(@ID0d3182283943a284@)"
+	,"StringID"	: "location_plaza"
+	,"orig_text": "On Plaza."
+	,"tran_text": "在商場"
+},{
+	 "i"		: 443
+	,"ids"		: "Idstring(@ID6b7a0734bc3f64a9@)"
+	,"StringID"	: "mission_bridge_identify_hl"
+	,"orig_text": "Send up the Balloon (Scaffolding.)"
+	,"tran_text": "放出氣球 ( 鋼筋 )"
+},{
+	 "i"		: 444
+	,"ids"		: "Idstring(@ID3e37f96aa4f0fdb1@)"
+	,"StringID"	: "intro_hospital102"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 445
+	,"ids"		: "Idstring(@IDe6e99a5cf4a9eed7@)"
+	,"StringID"	: "mission_boat_destroy_security_equipment"
+	,"orig_text": "Destroy all security equipment in the securityroom."
+	,"tran_text": "破壞所有保安室內的保安裝置。"
+},{
+	 "i"		: 446
+	,"ids"		: "Idstring(@ID834a352c2dde3d94@)"
+	,"StringID"	: "location_floor4"
+	,"orig_text": "On Floor 4."
+	,"tran_text": "在四樓"
+},{
+	 "i"		: 447
+	,"ids"		: "Idstring(@ID1879694c9ce59e3a@)"
+	,"StringID"	: "mission_hospital_enterelevator_hl"
+	,"orig_text": "TAKE THE ELEVATOR TO THE ROOF."
+	,"tran_text": "用升降機上天台。"
+},{
+	 "i"		: 448
+	,"ids"		: "Idstring(@IDbf295194c322ce96@)"
+	,"StringID"	: "mission_undercover_power"
+	,"orig_text": "See to it that the cops do not cut the power, if they do you have to turn it back on fast to keep the computers running."
+	,"tran_text": "看住不要被條子關掉電源，如果他們關了，你就要盡快開回以確保電腦運作。"
+},{
+	 "i"		: 449
+	,"ids"		: "Idstring(@IDf15e42c88f273caf@)"
+	,"StringID"	: "mission_enterelevator_pickup"
+	,"orig_text": "Take the elevator to get to the exit on the roof."
+	,"tran_text": "用升降機以到達天台出口。"
+},{
+	 "i"		: 450
+	,"ids"		: "Idstring(@ID36265b839c43b33a@)"
+	,"StringID"	: "des_aggressor"
+	,"orig_text": "All your teammates get a damage multiplier. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+	,"tran_text": "所有你的隊員都會有傷害增幅，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+},{
+	 "i"		: 451
+	,"ids"		: "Idstring(@ID98c1fd9c3aa2f44b@)"
+	,"StringID"	: "mission_apartment_intro_hl"
+	,"orig_text": "Entrance (Back alley.)"
+	,"tran_text": "進入 ( 後巷 )"
+},{
+	 "i"		: 452
+	,"ids"		: "Idstring(@ID4a3630358db26f2f@)"
+	,"StringID"	: "location_str_crash"
+	,"orig_text": "At Inkwell Industrial."
+	,"tran_text": "在印刷工廠"
+},{
+	 "i"		: 453
+	,"ids"		: "Idstring(@ID23d63012ff36f8c0@)"
+	,"StringID"	: "intro_hospital17"
+	,"orig_text": "I remember when you could smoke in the operating room! *chuckle*"
+	,"tran_text": "我記得你在手術室內吸煙！ *笑*"
+},{
+	 "i"		: 454
+	,"ids"		: "Idstring(@IDca616f7c74a04bdf@)"
+	,"StringID"	: "location_firescape"
+	,"orig_text": "On Fire Escape."
+	,"tran_text": "在逃生處"
+},{
+	 "i"		: 455
+	,"ids"		: "Idstring(@ID183be3333ec5ff60@)"
+	,"StringID"	: "spread_multiplier"
+	,"orig_text": "This upgrade increases the precision of the weapon.$NL;Good for long range shots."
+	,"tran_text": "這提升了武器的精準度。$NL;長距離射擊很好。"
+},{
+	 "i"		: 456
+	,"ids"		: "Idstring(@ID2828c959019c909f@)"
+	,"StringID"	: "mission_apartment_detach2_hl"
+	,"orig_text": "Keep the saws going (Floor 2 and 3.)"
+	,"tran_text": "確保電鋸運作 ( 二樓及三樓 )"
+},{
+	 "i"		: 457
+	,"ids"		: "Idstring(@ID67fc10b187a5d32c@)"
+	,"StringID"	: "location_slaughterhouse_bosshouse"
+	,"orig_text": "In the Office."
+	,"tran_text": "在辦公室"
+},{
+	 "i"		: 458
+	,"ids"		: "Idstring(@IDbed7cd784eb95182@)"
+	,"StringID"	: "mission_hospital_getToPatient_hl"
+	,"orig_text": "PICK THE RIGHT DOOR TO OPEN."
+	,"tran_text": "打開正確的門。"
+},{
+	 "i"		: 459
+	,"ids"		: "Idstring(@IDaaa8f9b010520516@)"
+	,"StringID"	: "mission_hospital_hostage_hl"
+	,"orig_text": "KEEP THE HOSTAGES DOWN."
+	,"tran_text": "確保人質冷靜。"
+},{
+	 "i"		: 460
+	,"ids"		: "Idstring(@ID1d8bb61ea797c727@)"
+	,"StringID"	: "mission_apartment_roof2"
+	,"orig_text": "Alex needs to wait for the smoke to clear, you need to keep the police off the roof until then."
+	,"tran_text": "Alex 需要等待煙霧散走，你要趕走警察直到直昇機離開。"
+},{
+	 "i"		: 461
+	,"ids"		: "Idstring(@ID0e690f30b9513eab@)"
+	,"StringID"	: "des_sharpshooters"
+	,"orig_text": "All your teammates get improved accuracy. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+	,"tran_text": "所有你的隊員都獲得了準確度增幅，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+},{
+	 "i"		: 462
+	,"ids"		: "Idstring(@IDff7e99719452f84e@)"
+	,"StringID"	: "tip_help_arrested"
+	,"orig_text": "Try to complete challenges - these award cash and are a good way to progress fast. $NL; $NL; All the challenges and their objectives are listed in the main menu."
+	,"tran_text": "試試完成挑戰吧－－除了現金獎勵外還有大量經驗值令你更快升級。 $NL; $NL; 所有挑戰及它們的詳細目標都在主選單中列出。"
+},{
+	 "i"		: 463
+	,"ids"		: "Idstring(@IDf06203d95bd025b5@)"
+	,"StringID"	: "mission_apartment_detach"
+	,"orig_text": "Saw off the beams above and below the panic room to detach it from the floor."
+	,"tran_text": "鋸掉安全室上方與下方的固定柱讓它脫離。"
+},{
+	 "i"		: 464
+	,"ids"		: "Idstring(@ID9c6e884162f6aaa6@)"
+	,"StringID"	: "intro_hospital86"
+	,"orig_text": "You two in some... goddamn... boy band!?"
+	,"tran_text": "你們兩個在 ... 他媽的 ... 男子樂團！？"
+},{
+	 "i"		: 465
+	,"ids"		: "Idstring(@IDfc23268ce478534d@)"
+	,"StringID"	: "mission_apply_drill"
+	,"orig_text": "Start the drill (Drill Area.)"
+	,"tran_text": "開始鑽機 ( 鑽機範圍 )"
+},{
+	 "i"		: 466
+	,"ids"		: "Idstring(@IDbdad73a1c2c87650@)"
+	,"StringID"	: "intro_street05"
+	,"orig_text": "Haha! Fooled ya guys!"
+	,"tran_text": "哈哈，愚弄到你們了！"
+},{
+	 "i"		: 467
+	,"ids"		: "Idstring(@ID0b1aa8597e2fde24@)"
+	,"StringID"	: "sentry_gun_armor_increase"
+	,"orig_text": "This upgrades the amount of heat your sentry gun can take before going out.$NL;When you are in a tight spot, this might save your life."
+	,"tran_text": "這提升了步哨槍過熱前的時間。$NL;當你在危險地方，這一定能保命。"
+},{
+	 "i"		: 468
+	,"ids"		: "Idstring(@IDf02d905b43082a29@)"
+	,"StringID"	: "trip_mine"
+	,"orig_text": "Trip mines can be placed anywhere and are triggered by a laser \"trip line\".$NL;Having issues watching your back or taking out special units? This could be it."
+	,"tran_text": "詭雷能在任何地方放下來以及會被雷射「詭線」觸發。$NL;望後有問題或想解決特別單位？它可能能幫你。"
+},{
+	 "i"		: 469
+	,"ids"		: "Idstring(@ID5f35cc5d5c5e0536@)"
+	,"StringID"	: "location_slaughterhouse_rooftop"
+	,"orig_text": "On the Rooftop."
+	,"tran_text": "在天台"
+},{
+	 "i"		: 470
+	,"ids"		: "Idstring(@IDd24d629447d75dba@)"
+	,"StringID"	: "intro_hospital144"
+	,"orig_text": "STRANGER: Hold that door!"
+	,"tran_text": "陌生人： 抓住那門！"
+},{
+	 "i"		: 471
+	,"ids"		: "Idstring(@IDd6fcc5a270c66c99@)"
+	,"StringID"	: "mission_hospital_cooler_sub1"
+	,"orig_text": "First blood sample."
+	,"tran_text": "第一個血液樣本。"
+},{
+	 "i"		: 472
+	,"ids"		: "Idstring(@ID5bc7b044bf838dae@)"
+	,"StringID"	: "intro_hospital05"
+	,"orig_text": "We're here to draw some blood from a guy that they have in quarantine."
+	,"tran_text": "我們來這裡拿點被隔離了的人的血液走。"
+},{
+	 "i"		: 473
+	,"ids"		: "Idstring(@ID7f2f7f44b88b9298@)"
+	,"StringID"	: "mission_hospital_rounds"
+	,"orig_text": "Figure out a way to get to the contaminated patient. Prove your Harvard degree paid off."
+	,"tran_text": "找出方法以得到受污染的病人，證明你哈佛的學位是值得的。"
+},{
+	 "i"		: 474
+	,"ids"		: "Idstring(@IDb07212dd0fd06c5e@)"
+	,"StringID"	: "location_bridge_scaffhold"
+	,"orig_text": "On Scaffolding."
+	,"tran_text": "在臨時建築"
+},{
+	 "i"		: 475
+	,"ids"		: "Idstring(@IDcb6f78ee07a495a5@)"
+	,"StringID"	: "intro_slaughterhouse04"
+	,"orig_text": "OK, ready for action. These are Murky Water mercenaries, remember; use cover and shoot in short controlled bursts."
+	,"tran_text": "好，準備好行動，他們是黑水集團，記住，找掩護及短程射擊。"
+},{
+	 "i"		: 476
+	,"ids"		: "Idstring(@IDa8f2088b0a693b30@)"
+	,"StringID"	: "mission_bridge_gear_hl"
+	,"orig_text": "Get the gear!"
+	,"tran_text": "拿到工具！"
+},{
+	 "i"		: 477
+	,"ids"		: "Idstring(@ID24592b60e76ecc3f@)"
+	,"StringID"	: "tip_objectives"
+	,"orig_text": "Your current objective is shown in the upper left corner of the screen. $NL; $NL; A more detailed description of the objective, as well as a list of completed objectives, can be seen in the info screen."
+	,"tran_text": "你現時的目標顯示了在左上角。 $NL; $NL; 更加詳細的解釋，即是目標列表，能在介紹欄見到。"
+},{
+	 "i"		: 478
+	,"ids"		: "Idstring(@ID27520aa981687467@)"
+	,"StringID"	: "mission_boat_get_key_hl"
+	,"orig_text": "Get the key."
+	,"tran_text": "拿到鑰匙"
+},{
+	 "i"		: 479
+	,"ids"		: "Idstring(@ID9afd3635a64fbf03@)"
+	,"StringID"	: "mission_undercover_escort"
+	,"orig_text": "We need to get the Taxman to the transfer room we started out in. Use all necessary force to make him cooperate."
+	,"tran_text": "我們需要帶稅務員到一開始的交易室，用一切必須的武力逼他交易。"
+},{
+	 "i"		: 480
+	,"ids"		: "Idstring(@ID01e2f44f0113f69e@)"
+	,"StringID"	: "location_uc_floor3"
+	,"orig_text": "On Floor 3"
+	,"tran_text": "在三樓"
+},{
+	 "i"		: 481
+	,"ids"		: "Idstring(@ID55ae77eb31f34471@)"
+	,"StringID"	: "mission_suburbia_mission2_hack2"
+	,"orig_text": "Override Wilson's code lock."
+	,"tran_text": "超載 Wilson 的密碼鎖。"
+},{
+	 "i"		: 482
+	,"ids"		: "Idstring(@ID2626115f5caad462@)"
+	,"StringID"	: "intro_suburbia03"
+	,"orig_text": "Sorry to hear that, sir. We'll send our guys over right away."
+	,"tran_text": "很抱歉聽到這事，先生，我們會再派人去那裡。"
+},{
+	 "i"		: 483
+	,"ids"		: "Idstring(@ID74cee5a27c7bc964@)"
+	,"StringID"	: "mission_hospital_rapport_hl"
+	,"orig_text": "FIND THE CORRECT PATIENT FILE."
+	,"tran_text": "尋找正確的病人資料。"
+},{
+	 "i"		: 484
+	,"ids"		: "Idstring(@ID3e54b7f973d8d709@)"
+	,"StringID"	: "location_hospital_mainCorridor"
+	,"orig_text": "Main Corridor"
+	,"tran_text": "主要走廊"
+},{
+	 "i"		: 485
+	,"ids"		: "Idstring(@IDb22da8b86ec8791d@)"
+	,"StringID"	: "intro_hospital13"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 486
+	,"ids"		: "Idstring(@ID3e9875ee96b2c3a9@)"
+	,"StringID"	: "location_uc_roof"
+	,"orig_text": "On Roof"
+	,"tran_text": "在天台"
+},{
+	 "i"		: 487
+	,"ids"		: "Idstring(@ID4e1bebcad43a7381@)"
+	,"StringID"	: "des_welcome_to_the_gang"
+	,"orig_text": "All your teammates get a cash multiplier. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team has to equip a Crew Bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+	,"tran_text": "你的隊伍會得到現金增幅，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+},{
+	 "i"		: 488
+	,"ids"		: "Idstring(@ID0797f57a035f1b1d@)"
+	,"StringID"	: "mission_get_key"
+	,"orig_text": "Find the bank manager."
+	,"tran_text": "找到銀行經理。"
+},{
+	 "i"		: 489
+	,"ids"		: "Idstring(@ID981f0ef696df5770@)"
+	,"StringID"	: "intro_hospital24"
+	,"orig_text": "STRANGER: Back up! *cough* *cough*"
+	,"tran_text": "陌生人： 後援！ *咳嗽* *咳嗽*"
+},{
+	 "i"		: 490
+	,"ids"		: "Idstring(@ID57c270d9c70621a5@)"
+	,"StringID"	: "intro_hospital60"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 491
+	,"ids"		: "Idstring(@ID7ded159e472689fe@)"
+	,"StringID"	: "location_suburbia_str14"
+	,"orig_text": "At Pacific and Spinnaker"
+	,"tran_text": "在太平洋街跟三角帆街之間"
+},{
+	 "i"		: 492
+	,"ids"		: "Idstring(@IDa1ec376777f1a009@)"
+	,"StringID"	: "location_suburbia_w_fy"
+	,"orig_text": "At Wilson's Front"
+	,"tran_text": "在 Wilson 家前面"
+},{
+	 "i"		: 493
+	,"ids"		: "Idstring(@ID8d754a3bf60d1366@)"
+	,"StringID"	: "mission_thermite_text"
+	,"orig_text": "Pour out the thermite in the office above the vault - it will burn a hole through the steel floor. There are two cans of thermite hidden in the copy machine, if both are carried to the vault it will speed up the melting process."
+	,"tran_text": "在金庫上層的辦公室倒下熱熔劑－它會燒出一個穿過鋼的洞，在影印機有兩罐熱熔劑，兩罐都被帶到金庫的話將能加速燃燒速度。"
+},{
+	 "i"		: 494
+	,"ids"		: "Idstring(@ID318c7b5823e7a8d3@)"
+	,"StringID"	: "location_uc_ground"
+	,"orig_text": "On Ground floor"
+	,"tran_text": "在地面"
+},{
+	 "i"		: 495
+	,"ids"		: "Idstring(@IDb5c41ddfac93cfe6@)"
+	,"StringID"	: "mission_ap_c4_sub_mid"
+	,"orig_text": "Place the charges on floor 5."
+	,"tran_text": "在五樓放置炸藥"
+},{
+	 "i"		: 496
+	,"ids"		: "Idstring(@ID1bc703b0410b12da@)"
+	,"StringID"	: "location_floor1"
+	,"orig_text": "On Floor 1."
+	,"tran_text": "在一樓"
+},{
+	 "i"		: 497
+	,"ids"		: "Idstring(@ID0ad0bc56f504c446@)"
+	,"StringID"	: "mission_suburbia_mission13_hl"
+	,"orig_text": "IT'S A TRAP!"
+	,"tran_text": "陷阱！"
+},{
+	 "i"		: 498
+	,"ids"		: "Idstring(@ID509db19a866285dd@)"
+	,"StringID"	: "location_slaughterhouse_outside_entrance"
+	,"orig_text": "At the Slaughterhouse Entrance."
+	,"tran_text": "在屠宰場入口"
+},{
+	 "i"		: 499
+	,"ids"		: "Idstring(@ID7738267f1a02f07e@)"
+	,"StringID"	: "intro_hospital25"
+	,"orig_text": "WOLF: Come on in."
+	,"tran_text": "WOLF ：來吧。"
+},{
+	 "i"		: 500
+	,"ids"		: "Idstring(@ID9a7367150d7c2c5a@)"
+	,"StringID"	: "mission_blow_wall_text"
+	,"orig_text": "Apply C4 to the wall next to the server room and blow a hole into the neighboring building."
+	,"tran_text": "在伺服室隔壁放置 C4 炸藥"
+},{
+	 "i"		: 501
+	,"ids"		: "Idstring(@IDbc5e3973c3769cb0@)"
+	,"StringID"	: "location_dh_admin"
+	,"orig_text": "In Administration."
+	,"tran_text": "在管理室"
+},{
+	 "i"		: 502
+	,"ids"		: "Idstring(@IDde9f8036b992ff2d@)"
+	,"StringID"	: "sentry_gun"
+	,"orig_text": "Based on internet blueprints, the Sentry Gun is a criminal's best friend. Two guns connected to a computer automatically aim and fire at any target detected by its sensors. Being the bad guy has never felt more alien."
+	,"tran_text": "基於網上藍圖，步哨槍是犯罪的好伙伴。兩把槍連結到電腦後用感應器自動瞄準及開火射擊任何目標，當壞人就像外星人般。"
+},{
+	 "i"		: 503
+	,"ids"		: "Idstring(@ID0828ddad9361775c@)"
+	,"StringID"	: "des_speed_reloaders"
+	,"orig_text": "All your teammates reload faster. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+	,"tran_text": "所有你的隊員都獲得了回槍速度增幅，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+},{
+	 "i"		: 504
+	,"ids"		: "Idstring(@ID1967ac8342e162e3@)"
+	,"StringID"	: "location_dh_floor22"
+	,"orig_text": "On Floor 22."
+	,"tran_text": "在二十二樓"
+},{
+	 "i"		: 505
+	,"ids"		: "Idstring(@ID45e30ebc72f87578@)"
+	,"StringID"	: "location_slaughterhouse_container_area"
+	,"orig_text": "In the Container Area."
+	,"tran_text": "在儲物區"
+},{
+	 "i"		: 506
+	,"ids"		: "Idstring(@ID7d9477e5776f47e1@)"
+	,"StringID"	: "mission_sec_doors"
+	,"orig_text": "Some consoles are still online. Plant the tablets on and let Bain hack the alarm system."
+	,"tran_text": "還有些控街面版可用，放下平版電腦以讓 Bain 駭入警報系統。"
+},{
+	 "i"		: 507
+	,"ids"		: "Idstring(@ID3f8dd87c489396d4@)"
+	,"StringID"	: "intro_hospital106"
+	,"orig_text": "Goddamn hospital removed their cigarette machines!"
+	,"tran_text": "幹，醫院去除了煙草機！"
+},{
+	 "i"		: 508
+	,"ids"		: "Idstring(@ID7909561cf924b53b@)"
+	,"StringID"	: "location_bridge_bridge"
+	,"orig_text": "On Bridge."
+	,"tran_text": "在橋上"
+},{
+	 "i"		: 509
+	,"ids"		: "Idstring(@IDd042cc5563a0cebc@)"
+	,"StringID"	: "mission_suburbia_mission11_hl"
+	,"orig_text": "CONNECT THE HOSE TO THE SAFE."
+	,"tran_text": "連接水管到保險箱"
+},{
+	 "i"		: 510
+	,"ids"		: "Idstring(@ID970021252c1aaef8@)"
+	,"StringID"	: "mission_boat_drill_bridge_hl"
+	,"orig_text": "Blow the bridge door open"
+	,"tran_text": "炸開大橋的門"
+},{
+	 "i"		: 511
+	,"ids"		: "Idstring(@ID69f2e1bb907b897b@)"
+	,"StringID"	: "location_suburbia_str13"
+	,"orig_text": "At Pacific and Marine"
+	,"tran_text": "在太平洋街跟海洋街之間"
+},{
+	 "i"		: 512
+	,"ids"		: "Idstring(@ID9d0778ef890b94d5@)"
+	,"StringID"	: "mission_undercover_shoot_limo_hl"
+	,"orig_text": "FREE THE LIMO."
+	,"tran_text": "放下加長車"
+},{
+	 "i"		: 513
+	,"ids"		: "Idstring(@IDd7e091a4aa8df79d@)"
+	,"StringID"	: "location_balcony"
+	,"orig_text": "On Balcony."
+	,"tran_text": "在陽台"
+},{
+	 "i"		: 514
+	,"ids"		: "Idstring(@ID52415a1bc223f870@)"
+	,"StringID"	: "intro_hospital38"
+	,"orig_text": "How many insurance claims did you deny to get those suits?"
+	,"tran_text": "你拒絕要這些西裝能拿到多少保險賠償？"
+},{
+	 "i"		: 515
+	,"ids"		: "Idstring(@ID16ef9d010b5f7050@)"
+	,"StringID"	: "mission_slaughterhouse_attack_convoy"
+	,"orig_text": "Attack and halt the convoy!"
+	,"tran_text": "攻擊及阻止護送車隊！"
+},{
+	 "i"		: 516
+	,"ids"		: "Idstring(@IDa6b541e63f15cc31@)"
+	,"StringID"	: "intro_hospital98"
+	,"orig_text": "WOLF: Hey Bain, great briefing... ah..."
+	,"tran_text": "WOLF ：嘿 Bain ，很好的簡介 ... 啊 ..."
+},{
+	 "i"		: 517
+	,"ids"		: "Idstring(@IDebb9536ab8b5f82c@)"
+	,"StringID"	: "intro_hospital32"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 518
+	,"ids"		: "Idstring(@IDf4b9a80a4dc0b54a@)"
+	,"StringID"	: "mission_empty_vault_text"
+	,"orig_text": "Empty the Vault! Get the Cash!"
+	,"tran_text": "清空金庫！拿到現金！"
+},{
+	 "i"		: 519
+	,"ids"		: "Idstring(@ID3a56139afce275e2@)"
+	,"StringID"	: "mission_diamond_codes"
+	,"orig_text": "Get to the vault doors and enter the codes to gain access to the vault."
+	,"tran_text": "到達金庫門口並輸入密碼以得到進入金庫的權限。"
+},{
+	 "i"		: 520
+	,"ids"		: "Idstring(@IDa5f0b47519c0468a@)"
+	,"StringID"	: "location_hospital_roofelevator"
+	,"orig_text": "Roof Elevator"
+	,"tran_text": "天台升降機"
+},{
+	 "i"		: 521
+	,"ids"		: "Idstring(@ID997e9907f90dab9d@)"
+	,"StringID"	: "intro_slaughterhouse05"
+	,"orig_text": "Let's get to work."
+	,"tran_text": "行動吧。"
+},{
+	 "i"		: 522
+	,"ids"		: "Idstring(@ID2b0ce0f96f9daf80@)"
+	,"StringID"	: "mission_trough_lobby"
+	,"orig_text": "Get through the Lobby."
+	,"tran_text": "穿過大廳"
+},{
+	 "i"		: 523
+	,"ids"		: "Idstring(@ID99787e619458469c@)"
+	,"StringID"	: "intro_hospital28"
+	,"orig_text": "Yeah, alright - I forgot where I was."
+	,"tran_text": "好，對－我忘了我在哪。"
+},{
+	 "i"		: 524
+	,"ids"		: "Idstring(@ID2b6588d2edf90ce6@)"
+	,"StringID"	: "mission_bridge_heli_clear_hl"
+	,"orig_text": "Defend (Scaffolding.)"
+	,"tran_text": "保護 ( 鋼筋。)"
+},{
+	 "i"		: 525
+	,"ids"		: "Idstring(@ID64026af7dd63ea49@)"
+	,"StringID"	: "des_sentry_gun"
+	,"orig_text": "Based on internet blueprints, the Sentry Gun is a criminal's best friend. Two guns connected to a computer automatically aim and fire at any target detected by its sensors. Being the bad guy has never felt more alien."
+	,"tran_text": "按照網上藍圖，步哨槍是犯罪的好伙伴。兩把槍連結到電腦後用感應器自動瞄準及開火射擊任何目標，當壞人就像外星人般。"
+},{
+	 "i"		: 526
+	,"ids"		: "Idstring(@ID35a0a2b46680cd80@)"
+	,"StringID"	: "mission_undercover_escort_hl"
+	,"orig_text": "TAKE TAXMAN TO TRANSFER ROOM."
+	,"tran_text": "帶稅務員到交易室"
+},{
+	 "i"		: 527
+	,"ids"		: "Idstring(@IDacb01b111a357f35@)"
+	,"StringID"	: "des_mr_nice_guy"
+	,"orig_text": "All your teammates get a cash multiplier. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+	,"tran_text": "所有你的隊員能得到現金加成，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+},{
+	 "i"		: 528
+	,"ids"		: "Idstring(@ID4201a46d8dd6c9ca@)"
+	,"StringID"	: "location_hospital_serviceArea"
+	,"orig_text": "Service area"
+	,"tran_text": "服務區"
+},{
+	 "i"		: 529
+	,"ids"		: "Idstring(@ID17784a74f8412bbd@)"
+	,"StringID"	: "location_dh_atrium"
+	,"orig_text": "In Atrium."
+	,"tran_text": "在中庭"
+},{
+	 "i"		: 530
+	,"ids"		: "Idstring(@ID7a1cec2574903d05@)"
+	,"StringID"	: "mission_undercover_roof"
+	,"orig_text": "Wait for Taxman to show the server we are after. Scare him into his limo when you see it - we need both the server and the Taxman. Alex will lift him up to us from the open street. Also, keep an eye out for what you can use to better your chances."
+	,"tran_text": "等待稅務員出示伺服器後就嚇他回加長車－我們需要伺服器及他， Alex 會在大街搬他上來，同時，看看你能用甚麼來增加成功率。"
+},{
+	 "i"		: 531
+	,"ids"		: "Idstring(@ID4043bfa6fd7d52d3@)"
+	,"StringID"	: "des_raging_bull"
+	,"orig_text": "STATS : .44 Caliber : Six-shooter : High recoil$NL;Primarily developed for hunting big animals, the Bronco has found its use against heavily armored targets.$NL;With its .44 round, it packs a mean punch."
+	,"tran_text": "統計： .44 口徑 ： 六發槍 ： 後座力高$NL;主要設計來獵殺大型動用， Bronco 能用來對付重裝目標。$NL;它的 .44 彈頭，代表了一記重擊。"
+},{
+	 "i"		: 532
+	,"ids"		: "Idstring(@IDda328f7a371467fb@)"
+	,"StringID"	: "mission_slaughterhouse_prepare_ambush_hl"
+	,"orig_text": "Prepare for the ambush."
+	,"tran_text": "準備伏擊"
+},{
+	 "i"		: 533
+	,"ids"		: "Idstring(@IDf35d6a2ed7634ba4@)"
+	,"StringID"	: "clip_amount_increase"
+	,"orig_text": "This upgrades the ammo clip amount for the GL40 Grenade Launcher.$NL;Why carry few ammo clips, when you can carry many?"
+	,"tran_text": "這提升了 GL40 榴彈發射器的彈夾量。$NL;當你能帶更多時，為甚麼只帶這麼少？"
+},{
+	 "i"		: 534
+	,"ids"		: "Idstring(@ID8970027fc92d755b@)"
+	,"StringID"	: "mission_apartment_escape"
+	,"orig_text": "Get downstairs to the basement and escape through the sewers."
+	,"tran_text": "下去地下室並用下水道撤離。"
+},{
+	 "i"		: 535
+	,"ids"		: "Idstring(@ID8ca7a762cedaa5bd@)"
+	,"StringID"	: "intro_hospital22"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 536
+	,"ids"		: "Idstring(@IDe993453c7fa72b84@)"
+	,"StringID"	: "mission_slaughterhouse_locate_van"
+	,"orig_text": "Get to the armored truck and blow it open."
+	,"tran_text": "去找裝甲車及炸開它。"
+},{
+	 "i"		: 537
+	,"ids"		: "Idstring(@ID30881dff67d8ef8b@)"
+	,"StringID"	: "location_str_end"
+	,"orig_text": "By the OVERKILL Cola sign."
+	,"tran_text": "在 OVERKILL 可樂標誌"
+},{
+	 "i"		: 538
+	,"ids"		: "Idstring(@ID0bf8bc131c50ca30@)"
+	,"StringID"	: "location_hospital_ISOb"
+	,"orig_text": "Isolation B"
+	,"tran_text": "隔離 B"
+},{
+	 "i"		: 539
+	,"ids"		: "Idstring(@ID950f27659252ccad@)"
+	,"StringID"	: "mission_apartment_start"
+	,"orig_text": "Go through with the drug deal. This is the front that allows us to enter the building."
+	,"tran_text": "進入以進行毒品交易，這是讓我們進入建築的藉口。"
+},{
+	 "i"		: 540
+	,"ids"		: "Idstring(@IDed2352ae20a2b428@)"
+	,"StringID"	: "intro_hospital00"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴... 看來有點東西在這裡 ... 金錢！"
+},{
+	 "i"		: 541
+	,"ids"		: "Idstring(@ID743d2ac7bd4b35c0@)"
+	,"StringID"	: "body_armor"
+	,"orig_text": "Body armor removes some of the damage received in combat.$NL;Good when moving between cover or in close combat."
+	,"tran_text": "護甲能減少戰鬥中的傷害。$NL;在各個掩體移動和近距離戰鬥時效果最好。"
+},{
+	 "i"		: 542
+	,"ids"		: "Idstring(@IDe148d25268b5b14f@)"
+	,"StringID"	: "intro_hospital18"
+	,"orig_text": "Once I put on that damn dress, I tell ya; I'm smoking anywhere I want!"
+	,"tran_text": "當我放下這他媽的裙子，我說好；我能在任何地方吸煙！"
+},{
+	 "i"		: 543
+	,"ids"		: "Idstring(@ID4dffb5ccb5f213be@)"
+	,"StringID"	: "intro_hospital14"
+	,"orig_text": "STRANGER: Hey, hold the door!"
+	,"tran_text": "陌生人： 嘿，抓住那面！"
+},{
+	 "i"		: 544
+	,"ids"		: "Idstring(@ID59ef478485379982@)"
+	,"StringID"	: "intro_street05_2"
+	,"orig_text": "Open the god damn door Matt!"
+	,"tran_text": "打開那他媽的門 Matt ！"
+},{
+	 "i"		: 545
+	,"ids"		: "Idstring(@ID3c16d2c18aa646e8@)"
+	,"StringID"	: "mission_suburbia_mission3_amount_text"
+	,"orig_text": "OF THE C4 CHARGES DEFUSED."
+	,"tran_text": " 個 C4 已解除。"
+},{
+	 "i"		: 546
+	,"ids"		: "Idstring(@ID25f1d117d441862b@)"
+	,"StringID"	: "intro_hospital51"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 547
+	,"ids"		: "Idstring(@ID3ad4dad522116a55@)"
+	,"StringID"	: "intro_diamondheist01"
+	,"orig_text": "Alright, entry point. Synchronize on my mark... Mark."
+	,"tran_text": "對，入口，跟我的標記同步 ... 標記。"
+},{
+	 "i"		: 548
+	,"ids"		: "Idstring(@IDfb122fa8b07a9a9f@)"
+	,"StringID"	: "mission_slaughterhouse_prepare_gas"
+	,"orig_text": "Prepare one container with a can of gasoline."
+	,"tran_text": "準備一個貨櫃有汽油桶的。"
+},{
+	 "i"		: 549
+	,"ids"		: "Idstring(@IDafbfec406e98ba80@)"
+	,"StringID"	: "mission_hospital_cooler_sub2"
+	,"orig_text": "Second blood sample."
+	,"tran_text": "第二個血液樣本。"
+},{
+	 "i"		: 550
+	,"ids"		: "Idstring(@IDf5fa2b273d5362da@)"
+	,"StringID"	: "des_doctor_bag"
+	,"orig_text": "The doctor bag is deployable equipment. Once placed it can be interacted with by any player to fully restore health until depleted."
+	,"tran_text": "醫療包是可放置物品，當被放下後就能被任何玩家互動並回復所有血量直到用光。"
+},{
+	 "i"		: 551
+	,"ids"		: "Idstring(@IDb63908ccfc22fcdf@)"
+	,"StringID"	: "mission_apartment_door"
+	,"orig_text": "The panic room should be in a flat on the third floor."
+	,"tran_text": "安全室應該在三樓。"
+},{
+	 "i"		: 552
+	,"ids"		: "Idstring(@ID99a02198d0599c46@)"
+	,"StringID"	: "intro_street02"
+	,"orig_text": "No, that wasn't the plan. Don't change things up, man!"
+	,"tran_text": "不，這不在計劃，不要改變事情，伙伴！"
+},{
+	 "i"		: 553
+	,"ids"		: "Idstring(@ID056b4a13ef481319@)"
+	,"StringID"	: "intro_hospital09"
+	,"orig_text": "I'll pick you up from the roof when we're done."
+	,"tran_text": "當我們完成後，我會在天台帶你們走。"
+},{
+	 "i"		: 554
+	,"ids"		: "Idstring(@ID781f223b0085036c@)"
+	,"StringID"	: "mission_suburbia_mission9"
+	,"orig_text": "Get down under the pool and into the printing shelter."
+	,"tran_text": "下去水池下及進入印刷庇護所。"
+},{
+	 "i"		: 555
+	,"ids"		: "Idstring(@ID2c7303ca7af5703d@)"
+	,"StringID"	: "location_suburbia_m_house"
+	,"orig_text": "In Mitchell's House"
+	,"tran_text": "在 Mitchell 家"
+},{
+	 "i"		: 556
+	,"ids"		: "Idstring(@ID8ed56f5aada5766f@)"
+	,"StringID"	: "mission_bridge_gear"
+	,"orig_text": "Get the scuba gear!"
+	,"tran_text": "拿到水肺工具！"
+},{
+	 "i"		: 557
+	,"ids"		: "Idstring(@ID0ba80b58da2e65ae@)"
+	,"StringID"	: "intro_hospital23"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 558
+	,"ids"		: "Idstring(@IDc3ea0a6057b06cbc@)"
+	,"StringID"	: "mission_suburbia_mission1"
+	,"orig_text": "Talk to Mitchell. See if you can get down to the basement without any necessary hustle."
+	,"tran_text": "跟 Mitchell 談話，看看你能不能沒出事下進入地下室。"
+},{
+	 "i"		: 559
+	,"ids"		: "Idstring(@ID3996af783d26fd33@)"
+	,"StringID"	: "location_panicroom"
+	,"orig_text": "In Panic Room."
+	,"tran_text": "在避難室"
+},{
+	 "i"		: 560
+	,"ids"		: "Idstring(@IDbb886b0dafd0eb5c@)"
+	,"StringID"	: "mission_apartment_detach_hl"
+	,"orig_text": "Detach the panic room (Floor 2 and 3.)"
+	,"tran_text": "鋸開二樓與三樓的安全室固具"
+},{
+	 "i"		: 561
+	,"ids"		: "Idstring(@ID5a7f1ae8cbdb56bb@)"
+	,"StringID"	: "des_body_armor"
+	,"orig_text": "Body armor absorbs more damage before the wearer get hurt. How much more depends on the upgrade level."
+	,"tran_text": "身體裝甲能在主人受傷前吸收更多傷害，基於等級變化。"
+},{
+	 "i"		: 562
+	,"ids"		: "Idstring(@IDa4e981e2f4134f73@)"
+	,"StringID"	: "des_locked"
+	,"orig_text": "Gain cash and level up your reputation to unlock more weapons, equipment and crew bonuses."
+	,"tran_text": "賺錢及升級來解鎖更多武器、裝置及隊伍獎勵。"
+},{
+	 "i"		: 563
+	,"ids"		: "Idstring(@IDfd8279032870375a@)"
+	,"StringID"	: "tip_ammo_bag"
+	,"orig_text": "If you often run out of ammo, it might be a good idea to bring a bag of extra ammo. $NL; $NL; When ammo is running low, place the ammo bag on the ground and use it to refill your stash."
+	,"tran_text": "如果你經常用光彈藥，那額外帶多包彈藥是不錯的想法。 $NL; $NL; 當彈藥存量低時，放下彈藥包到地下，然後用它來填充。"
+},{
+	 "i"		: 564
+	,"ids"		: "Idstring(@ID81240dbfd2078d60@)"
+	,"StringID"	: "intro_secret_stash02"
+	,"orig_text": "Alright, to repeat: Taxman is IRS, making a shady deal with some big corporation."
+	,"tran_text": "對，重覆：稅務員是國家稅務局的人，在偷偷跟大公司交易。"
+},{
+	 "i"		: 565
+	,"ids"		: "Idstring(@IDaf1478b489f6beb0@)"
+	,"StringID"	: "mission_escape_text"
+	,"orig_text": "Get down to the underground garage and make your escape."
+	,"tran_text": "前往地下車庫以撤離。"
+},{
+	 "i"		: 566
+	,"ids"		: "Idstring(@IDf25a9adf51f8cc26@)"
+	,"StringID"	: "mission_ap_c4_sub_btm"
+	,"orig_text": "Place the charges on floor 4."
+	,"tran_text": "在四樓放置炸藥"
+},{
+	 "i"		: 567
+	,"ids"		: "Idstring(@ID18f62ce35486e578@)"
+	,"StringID"	: "intro_bridge02"
+	,"orig_text": "Well, that oughta stop the prison transport, right? Let's get moving!"
+	,"tran_text": "好，這應該停止了囚犯押運，對吧？去吧！"
+},{
+	 "i"		: 568
+	,"ids"		: "Idstring(@IDf718be184be94c61@)"
+	,"StringID"	: "mission_get_into_bank_text"
+	,"orig_text": "Get inside and don't draw attention to yourselves!"
+	,"tran_text": "入去及不要吸引注意！"
+},{
+	 "i"		: 569
+	,"ids"		: "Idstring(@IDc04e3ed3ddb12d25@)"
+	,"StringID"	: "mission_apartment_roof2_hl"
+	,"orig_text": "Defend Helicopter (Roof.)"
+	,"tran_text": "保護直昇機 ( 天台 )"
+},{
+	 "i"		: 570
+	,"ids"		: "Idstring(@IDe8fe0e508b4d2e06@)"
+	,"StringID"	: "intro_bridge03"
+	,"orig_text": "Nice firework!"
+	,"tran_text": "很好的煙花！"
+},{
+	 "i"		: 571
+	,"ids"		: "Idstring(@ID3f7ae2228053f1e6@)"
+	,"StringID"	: "mission_escape"
+	,"orig_text": "Escape (Basement.)"
+	,"tran_text": "撤離 ( 地下室 )"
+},{
+	 "i"		: 572
+	,"ids"		: "Idstring(@ID089a9d416f984a26@)"
+	,"StringID"	: "mission_bridge_escort"
+	,"orig_text": "Escort the prisoner to the top of the right tower. When he's at the top, strap him down in the chair and send him skyward with the balloon."
+	,"tran_text": "護送囚犯到右面的高塔頂樓，當他在天台時，綁他到椅子上再讓氣球帶他飛往天際。"
+},{
+	 "i"		: 573
+	,"ids"		: "Idstring(@ID28957b96636104dc@)"
+	,"StringID"	: "mission_slaughterhouse_hide"
+	,"orig_text": "Hide the gold in the marked container."
+	,"tran_text": "隱藏黃金到標明了的貨櫃。"
+},{
+	 "i"		: 574
+	,"ids"		: "Idstring(@ID4e2d83e72c5a5471@)"
+	,"StringID"	: "mission_slaughterhouse_smoke_hl"
+	,"orig_text": "Start the smokescreen!"
+	,"tran_text": "開啟煙幕！"
+},{
+	 "i"		: 575
+	,"ids"		: "Idstring(@ID0c6998f2469138ba@)"
+	,"StringID"	: "des_protector"
+	,"orig_text": "All your teammates get a health multiplier. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+	,"tran_text": "所以你的隊員能得到血量加成，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+},{
+	 "i"		: 576
+	,"ids"		: "Idstring(@ID00b120f3e1fc05b5@)"
+	,"StringID"	: "des_three_angry_men"
+	,"orig_text": "Crowd control is more effective for all your teammates. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
+	,"tran_text": "人潮管制對你隊伍來說壓制會更有效，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+},{
+	 "i"		: 577
+	,"ids"		: "Idstring(@ID5f855ab79a876cf7@)"
+	,"StringID"	: "des_ak47"
+	,"orig_text": "STATS : 7.62mm : Automatic : Medium recoil$NL;Stick it to the man with the premiere choice amongst entrepeneurs and thugs alike. Simple Design, high reliability, low cost and so popular it is a part of a national flag - the AK was built to heist."
+	,"tran_text": "統計： 7.62mm ：自動：後座力一般$NL;它在企業家及暴徒上被認為是首先選擇，簡單設計、高可靠度、成本低廉，所以歡迎得像國旗一部份－ AK 是為搶劫而造的。"
+},{
+	 "i"		: 578
+	,"ids"		: "Idstring(@ID987d04bc2f16e458@)"
+	,"StringID"	: "des_intimidation"
+	,"orig_text": "Supposed to give the owner an increased intimidation factor."
+	,"tran_text": "預設是給主人用來增加威嚇力。"
+},{
+	 "i"		: 579
+	,"ids"		: "Idstring(@ID989581504bf0cb2a@)"
+	,"StringID"	: "location_lobby"
+	,"orig_text": "In Lobby."
+	,"tran_text": "在大廳"
+},{
+	 "i"		: 580
+	,"ids"		: "Idstring(@ID64e59478489299cf@)"
+	,"StringID"	: "location_dh_canteen"
+	,"orig_text": "In Canteen."
+	,"tran_text": "在餐廳"
+},{
+	 "i"		: 581
+	,"ids"		: "Idstring(@ID3d557a78743e37b3@)"
+	,"StringID"	: "location_dh_loot"
+	,"orig_text": "In Vault."
+	,"tran_text": "在金庫"
+},{
+	 "i"		: 582
+	,"ids"		: "Idstring(@ID9d9eb773fb3a37cb@)"
+	,"StringID"	: "location_bridge_scaffhold_roof"
+	,"orig_text": "Top of the Tower."
+	,"tran_text": "在塔頂"
+},{
+	 "i"		: 583
+	,"ids"		: "Idstring(@IDcca64455e69dba42@)"
+	,"StringID"	: "location_slaughterhouse_fridgeroom"
+	,"orig_text": "In the Fridge Room."
+	,"tran_text": "在冷藏室"
+},{
+	 "i"		: 584
+	,"ids"		: "Idstring(@ID7afc4f4a9f3a4eb5@)"
+	,"StringID"	: "location_suburbia_w_cellar"
+	,"orig_text": "In Wilson's Cellar"
+	,"tran_text": "在 Wilson 的地下室"
+},{
+	 "i"		: 585
+	,"ids"		: "Idstring(@ID4c005e468253eb93@)"
+	,"StringID"	: "location_suburbia_w_house"
+	,"orig_text": "In Wilson's House"
+	,"tran_text": "在 Wilson 家"
+},{
+	 "i"		: 586
+	,"ids"		: "Idstring(@ID2cb84f2d9e5ca779@)"
+	,"StringID"	: "location_suburbia_m_fy"
+	,"orig_text": "At Mitchell's Front"
+	,"tran_text": "在 Mitchell 家前面"
+},{
+	 "i"		: 587
+	,"ids"		: "Idstring(@ID0a73847573a977b9@)"
+	,"StringID"	: "doctor_bag"
+	,"orig_text": "The doctor bag can be deployed on the ground, so that you and your teamates can use it.$NL;It will help you help your friends."
+	,"tran_text": "醫療包能放在地上，令你跟你的隊員都能使用它。$NL;它能幫你幫助你的朋友。"
+},{
+	 "i"		: 588
+	,"ids"		: "Idstring(@ID4f582e7a9ce326b7@)"
+	,"StringID"	: "sentry_gun_ammo_increase"
+	,"orig_text": "This upgrades the amount of ammo your sentry gun has, making it last longer.$NL;Outstanding. Now all we need is a deck of cards."
+	,"tran_text": "這提升了步哨槍彈藥量，可以使用更長時間。$NL;超強，現在我們需要一組卡片。"
+},{
+	 "i"		: 589
+	,"ids"		: "Idstring(@IDa621fdacc9e54ca2@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_4"
+	,"orig_text": "Charge defused."
+	,"tran_text": "炸藥解除"
+},{
+	 "i"		: 590
+	,"ids"		: "Idstring(@ID30b215ae10816e19@)"
+	,"StringID"	: "mission_suburbia_mission3_sub_7"
+	,"orig_text": "Charge defused."
+	,"tran_text": "炸藥解除"
+},{
+	 "i"		: 591
+	,"ids"		: "Idstring(@IDff9cfecb628cbd4c@)"
+	,"StringID"	: "mission_suburbia_mission7_hl"
+	,"orig_text": "ATTACH THE C4 TO THE SAFE."
+	,"tran_text": "放置 C4"
+},{
+	 "i"		: 592
+	,"ids"		: "Idstring(@IDd1c688977d513795@)"
+	,"StringID"	: "mission_suburbia_mission7"
+	,"orig_text": "Attach the C4 to the safe using the hole you just drilled. Let the water and explosion force the safe open from within!"
+	,"tran_text": "放置 C4 到剛鑽開的洞，讓水跟爆炸力逼開保險箱！"
+},{
+	 "i"		: 593
+	,"ids"		: "Idstring(@ID5d086656af43ec4b@)"
+	,"StringID"	: "mission_suburbia_mission8"
+	,"orig_text": "Cops might try to cut the water supply. Make sure the water is flowing!"
+	,"tran_text": "條子可能嘗試阻止水源供應，確保水流！"
+},{
+	 "i"		: 594
+	,"ids"		: "Idstring(@ID60bcb2e1f3538c74@)"
+	,"StringID"	: "mission_suburbia_mission12_hl"
+	,"orig_text": "INVESTIGATE THE SAFE."
+	,"tran_text": "研究保險箱"
+},{
+	 "i"		: 595
+	,"ids"		: "Idstring(@ID952a421a778a155d@)"
+	,"StringID"	: "mission_undercover_roof_hl"
+	,"orig_text": "PREPARATIONS."
+	,"tran_text": "準備"
+},{
+	 "i"		: 596
+	,"ids"		: "Idstring(@IDf9345924426d9c2c@)"
+	,"StringID"	: "mission_undercover_deal_hl"
+	,"orig_text": "DEAL GOING DOWN."
+	,"tran_text": "交易開始"
+},{
+	 "i"		: 597
+	,"ids"		: "Idstring(@ID84e5eaa58eb8b480@)"
+	,"StringID"	: "mission_undercover_shoot_limo"
+	,"orig_text": "Shoot at the cables snagging the limo to make it fall!"
+	,"tran_text": "射卡住加長車的纜線以讓車掉下來！"
+},{
+	 "i"		: 598
+	,"ids"		: "Idstring(@ID8abd989eb18daab3@)"
+	,"StringID"	: "location_uc_stair2"
+	,"orig_text": "At Right Staircase"
+	,"tran_text": "在右面樓梯"
+},{
+	 "i"		: 599
+	,"ids"		: "Idstring(@IDb43c7163275934de@)"
+	,"StringID"	: "mission_hospital_disguise"
+	,"orig_text": "Put on the doctors' outfits."
+	,"tran_text": "穿上醫生制服。"
+},{
+	 "i"		: 600
+	,"ids"		: "Idstring(@IDd17fa4c7a8f5fab1@)"
+	,"StringID"	: "mission_hospital_drawblood_hl"
+	,"orig_text": "DRAW BLOOD FROM PATIENT."
+	,"tran_text": "病人身上抽血"
+},{
+	 "i"		: 601
+	,"ids"		: "Idstring(@ID61586f2c93f65a84@)"
+	,"StringID"	: "mission_hospital_escape_hl"
+	,"orig_text": "ESCAPE!"
+	,"tran_text": "撤離！"
+},{
+	 "i"		: 602
+	,"ids"		: "Idstring(@IDf5fe2f65ec881de9@)"
+	,"StringID"	: "mission_hospital_hatch_hl"
+	,"orig_text": "OPEN THE HATCH."
+	,"tran_text": "打開艙門。"
+},{
+	 "i"		: 603
+	,"ids"		: "Idstring(@ID762543ef658c73cb@)"
+	,"StringID"	: "mission_hospital_hatch"
+	,"orig_text": "Open the hatch to get out of the elevator."
+	,"tran_text": "打開艙門以離開升降機。"
+},{
+	 "i"		: 604
+	,"ids"		: "Idstring(@ID09ab4d5c74239de4@)"
+	,"StringID"	: "mission_hospital_waitElevator_hl"
+	,"orig_text": "WAIT FOR THE ELEVATOR."
+	,"tran_text": "等待升降機。"
+},{
+	 "i"		: 605
+	,"ids"		: "Idstring(@ID4307704c526bfe18@)"
+	,"StringID"	: "location_hospital_reception"
+	,"orig_text": "Reception"
+	,"tran_text": "接待處"
+},{
+	 "i"		: 606
+	,"ids"		: "Idstring(@ID860772d04a2fccc8@)"
+	,"StringID"	: "location_hospital_Exam25"
+	,"orig_text": "Examination C25"
+	,"tran_text": "觀察病房 C25"
+},{
+	 "i"		: 607
+	,"ids"		: "Idstring(@ID712588c1e6baca45@)"
+	,"StringID"	: "location_hospital_ExamE53"
+	,"orig_text": "Examination E53"
+	,"tran_text": "觀察病房 E53"
+},{
+	 "i"		: 608
+	,"ids"		: "Idstring(@IDf1b5ae8f9d5d3bf5@)"
+	,"StringID"	: "location_hospital_locker"
+	,"orig_text": "Locker room"
+	,"tran_text": "儲物室"
+},{
+	 "i"		: 609
+	,"ids"		: "Idstring(@IDa63e0918cab655ef@)"
+	,"StringID"	: "location_hospital_staircase"
+	,"orig_text": "Staircase"
+	,"tran_text": "樓梯"
+},{
+	 "i"		: 610
+	,"ids"		: "Idstring(@ID2cfb2f18657dbb35@)"
+	,"StringID"	: "location_hospital_ISOc"
+	,"orig_text": "Isolation C"
+	,"tran_text": "隔離 C"
+},{
+	 "i"		: 611
+	,"ids"		: "Idstring(@ID974baf9768667373@)"
+	,"StringID"	: "location_hospital_Cafeteria"
+	,"orig_text": "Cafeteria"
+	,"tran_text": "餐廳"
+},{
+	 "i"		: 612
+	,"ids"		: "Idstring(@ID5eafd9bd931f56e6@)"
+	,"StringID"	: "location_hospital_Entrance"
+	,"orig_text": "Elevators"
+	,"tran_text": "升降機"
+},{
+	 "i"		: 613
+	,"ids"		: "Idstring(@ID0d1e347a5d5d4a75@)"
+	,"StringID"	: "location_hospital_Roof"
+	,"orig_text": "Roof"
+	,"tran_text": "天台"
+},{
+	 "i"		: 614
+	,"ids"		: "Idstring(@IDffb18b93e1789002@)"
+	,"StringID"	: "sa_title"
+	,"orig_text": "Do not translate."
+	,"tran_text": "Do not translate."
+},{
+	 "i"		: 615
+	,"ids"		: "Idstring(@ID3e9cb8caaf40fc17@)"
+	,"StringID"	: "intro_suburbia05"
+	,"orig_text": "They bought it - let's drain the place!"
+	,"tran_text": "他們信了－掃清那地方！"
+},{
+	 "i"		: 616
+	,"ids"		: "Idstring(@ID9ee1107b34c48f82@)"
+	,"StringID"	: "intro_suburbia06"
+	,"orig_text": "Suit up, load 'em, get to work!"
+	,"tran_text": "穿好西裝，上膛，工作！"
+},{
+	 "i"		: 617
+	,"ids"		: "Idstring(@IDaef8f432fe1e18dd@)"
+	,"StringID"	: "intro_secret_stash"
+	,"orig_text": "6:00 pm, the District - Abandoned building"
+	,"tran_text": "下午 6:00 ，小區－廢置建築"
+},{
+	 "i"		: 618
+	,"ids"		: "Idstring(@ID84b37ab35d56ea7c@)"
+	,"StringID"	: "intro_secret_stash05"
+	,"orig_text": "Crane ready."
+	,"tran_text": "起重機準備好。"
+},{
+	 "i"		: 619
+	,"ids"		: "Idstring(@ID3dee9051797f2657@)"
+	,"StringID"	: "intro_hospital"
+	,"orig_text": "8:24 pm, Mercy Hospital - Isolation ward"
+	,"tran_text": "下午 8:24 ，慈愛醫院－隔離病房"
+},{
+	 "i"		: 620
+	,"ids"		: "Idstring(@ID87610c7c3aa6007b@)"
+	,"StringID"	: "intro_hospital02"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 621
+	,"ids"		: "Idstring(@ID066dec8080906190@)"
+	,"StringID"	: "intro_hospital06"
+	,"orig_text": "You take out the cameras, keep the civilians down..."
+	,"tran_text": "你處理攝像頭，保持市民穩定 ..."
+},{
+	 "i"		: 622
+	,"ids"		: "Idstring(@IDe84ae2b3a4527204@)"
+	,"StringID"	: "intro_hospital07"
+	,"orig_text": "...and get me into the hospital patient database. We need to ID the right guy."
+	,"tran_text": "... 連接我到醫院病人資料庫內，我們需要找出正確的人。"
+},{
+	 "i"		: 623
+	,"ids"		: "Idstring(@ID864bcaf8a200171d@)"
+	,"StringID"	: "intro_hospital08"
+	,"orig_text": "This should be quick and clean - security in hospitals is low."
+	,"tran_text": "這應該會很快及簡單－醫院的保安很弱。"
+},{
+	 "i"		: 624
+	,"ids"		: "Idstring(@ID7308ed2923def1ae@)"
+	,"StringID"	: "intro_hospital10"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 625
+	,"ids"		: "Idstring(@ID7a69409ed9c88ec3@)"
+	,"StringID"	: "intro_hospital15"
+	,"orig_text": "\"Please go outside and smoke - you can't smoke in here, sir!\""
+	,"tran_text": "請離開吸煙－你不能在這裡吸煙，先生！"
+},{
+	 "i"		: 626
+	,"ids"		: "Idstring(@ID81bb0efae3650927@)"
+	,"StringID"	: "intro_hospital16"
+	,"orig_text": "Bunch of crap..."
+	,"tran_text": "一堆廢話 ..."
+},{
+	 "i"		: 627
+	,"ids"		: "Idstring(@ID5eb329202e18a54b@)"
+	,"StringID"	: "intro_hospital19"
+	,"orig_text": "WOLF: Bain, Old Time River here's been talking so I didn't quite catch that, but let's go."
+	,"tran_text": "WOLF ：Bain ，有點舊時的事我不太清楚，但去吧。"
+},{
+	 "i"		: 628
+	,"ids"		: "Idstring(@ID803c7c48b1d31541@)"
+	,"StringID"	: "intro_hospital29"
+	,"orig_text": "WOLF: Bain, I didn't get a word of that, but fuck it - let's just do it."
+	,"tran_text": "WOLF ：Bain ，我聽不懂，但幹－去吧。"
+},{
+	 "i"		: 629
+	,"ids"		: "Idstring(@ID320a117e9af11e57@)"
+	,"StringID"	: "intro_hospital30"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 630
+	,"ids"		: "Idstring(@ID36acebffda8b4e67@)"
+	,"StringID"	: "intro_hospital41"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 631
+	,"ids"		: "Idstring(@ID83d34355377874c1@)"
+	,"StringID"	: "intro_hospital44"
+	,"orig_text": "STRANGER: Hold that door!"
+	,"tran_text": "陌生人： 抓住那門！"
+},{
+	 "i"		: 632
+	,"ids"		: "Idstring(@ID4bd1f7d22dbeae8c@)"
+	,"StringID"	: "intro_hospital45"
+	,"orig_text": "This whole hospital can go to hell but do either of you have a light?"
+	,"tran_text": "整座醫院都能去地獄，但你有電筒嗎？"
+},{
+	 "i"		: 633
+	,"ids"		: "Idstring(@ID3791790c4e50d170@)"
+	,"StringID"	: "intro_hospital49"
+	,"orig_text": "But let's just do it."
+	,"tran_text": "但照樣做吧。"
+},{
+	 "i"		: 634
+	,"ids"		: "Idstring(@ID23bc61becefff7bc@)"
+	,"StringID"	: "intro_hospital57"
+	,"orig_text": "WOLF: Hey Bain, I'm sure you had a great plan - I just didn't fucking hear it!"
+	,"tran_text": "WOLF ：嘿 Bain ，我肯定你有很好的計劃－我只是他媽的聽不到！"
+},{
+	 "i"		: 635
+	,"ids"		: "Idstring(@IDb11671ead672dd64@)"
+	,"StringID"	: "intro_hospital58"
+	,"orig_text": "But anyway, let's do it."
+	,"tran_text": "但不論如何，來吧。"
+},{
+	 "i"		: 636
+	,"ids"		: "Idstring(@ID4c7f2c1fac8e76ff@)"
+	,"StringID"	: "intro_hospital65"
+	,"orig_text": "DALLAS: You! Get a move on!"
+	,"tran_text": "DALLAS：你！去吧！"
+},{
+	 "i"		: 637
+	,"ids"		: "Idstring(@IDdf2a10a1c9d84235@)"
+	,"StringID"	: "intro_hospital66"
+	,"orig_text": "STRANGER: Or what? You two gonna make an old man wait for the next one?"
+	,"tran_text": "陌生人：或者甚麼？你們想讓老人等下一部升降機？"
+},{
+	 "i"		: 638
+	,"ids"		: "Idstring(@ID918354d360edeb67@)"
+	,"StringID"	: "intro_hospital67"
+	,"orig_text": "WOLF: Bain, I heard nada. This guy in the elevator kept messing it up!"
+	,"tran_text": "WOLF ：Bain ，我聽不到，這人在升降機內吵鬧！"
+},{
+	 "i"		: 639
+	,"ids"		: "Idstring(@IDa759ccaf1fea4877@)"
+	,"StringID"	: "intro_hospital68"
+	,"orig_text": "Anyway, let's do it."
+	,"tran_text": "不管了，去吧。"
+},{
+	 "i"		: 640
+	,"ids"		: "Idstring(@IDa1090054507c958f@)"
+	,"StringID"	: "intro_hospital74"
+	,"orig_text": "STRANGER: Hey, hold the door!"
+	,"tran_text": "陌生人：嘿，抓住那門！"
+},{
+	 "i"		: 641
+	,"ids"		: "Idstring(@ID3f3f59212bab8c0f@)"
+	,"StringID"	: "intro_hospital78"
+	,"orig_text": "WOLF: Hey Bain, great briefing. I heard jack shit."
+	,"tran_text": "WOLF ：嘿 Bain ，很好的簡介，我聽到一堆糞。"
+},{
+	 "i"		: 642
+	,"ids"		: "Idstring(@IDd55c917cf2cb69bd@)"
+	,"StringID"	: "intro_hospital79"
+	,"orig_text": "Let's just, ah... Play by ear."
+	,"tran_text": "只要，啊 ... 耳朵在搞事。"
+},{
+	 "i"		: 643
+	,"ids"		: "Idstring(@ID7333c0673282543f@)"
+	,"StringID"	: "intro_hospital80"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 644
+	,"ids"		: "Idstring(@IDa9f99ffdd8f853e1@)"
+	,"StringID"	: "intro_hospital84"
+	,"orig_text": "STRANGER: Hang on! Hang on!! WOLF: Good day sir..."
+	,"tran_text": "陌生人：別掛斷！別掛斷！！ WOLF ：美好的一天，先生 ..."
+},{
+	 "i"		: 645
+	,"ids"		: "Idstring(@IDcaff97327e01cf1d@)"
+	,"StringID"	: "intro_hospital87"
+	,"orig_text": "WOLF: Bain, all I heard was:"
+	,"tran_text": "WOLF ：Bain ，我聽到的就是："
+},{
+	 "i"		: 646
+	,"ids"		: "Idstring(@IDc755fdf6236e20b1@)"
+	,"StringID"	: "intro_hospital93"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 647
+	,"ids"		: "Idstring(@IDfcc667c7c1bd1474@)"
+	,"StringID"	: "intro_hospital94"
+	,"orig_text": "STRANGER: Hold the door, hold the door."
+	,"tran_text": "陌生人：抓住那門，抓住那門。"
+},{
+	 "i"		: 648
+	,"ids"		: "Idstring(@IDf833353efcb4d193@)"
+	,"StringID"	: "intro_hospital96"
+	,"orig_text": "What do you two do?! Sell insurance?"
+	,"tran_text": "你們兩個在做甚麼？！賣保險？"
+},{
+	 "i"		: 649
+	,"ids"		: "Idstring(@ID47570eaa9d2ed2ee@)"
+	,"StringID"	: "intro_hospital101"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 650
+	,"ids"		: "Idstring(@ID5e29aa2242b74937@)"
+	,"StringID"	: "intro_hospital104"
+	,"orig_text": "STRANGER: Hooold the door! WOLF: Good day, sir..."
+	,"tran_text": "陌生人：抓住那門！ WOLF ：美好的一天，先生 ..."
+},{
+	 "i"		: 651
+	,"ids"		: "Idstring(@ID1aa0af20a5c62897@)"
+	,"StringID"	: "intro_hospital108"
+	,"orig_text": "*cough* *cough* I feel terrible..."
+	,"tran_text": "*咳嗽* *咳嗽* 我覺得有點恐怖 ..."
+},{
+	 "i"		: 652
+	,"ids"		: "Idstring(@ID5d9509b7ef0d24eb@)"
+	,"StringID"	: "intro_hospital110"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 653
+	,"ids"		: "Idstring(@IDfe1416b023f31cab@)"
+	,"StringID"	: "intro_hospital111"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 654
+	,"ids"		: "Idstring(@IDedf92d4eec9be52c@)"
+	,"StringID"	: "intro_hospital112"
+	,"orig_text": "WOLF: Yeah yeah yeah. Run the plan!"
+	,"tran_text": "WOLF ：好好好，快速完成計劃！"
+},{
+	 "i"		: 655
+	,"ids"		: "Idstring(@ID05ca73624c56dffe@)"
+	,"StringID"	: "intro_hospital116"
+	,"orig_text": "Kids these days - I swear, no manners."
+	,"tran_text": "現在的小朋友－我發誓，沒有禮貌。"
+},{
+	 "i"		: 656
+	,"ids"		: "Idstring(@ID62a36235a05dc4d2@)"
+	,"StringID"	: "intro_hospital121"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 657
+	,"ids"		: "Idstring(@ID98db87df9178ebcc@)"
+	,"StringID"	: "intro_hospital123"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 658
+	,"ids"		: "Idstring(@ID82d97542bb2583c2@)"
+	,"StringID"	: "intro_hospital125"
+	,"orig_text": "WOLF: Yeah, come on in..."
+	,"tran_text": "WOLF：好，來了 ..."
+},{
+	 "i"		: 659
+	,"ids"		: "Idstring(@IDc509957a79692994@)"
+	,"StringID"	: "intro_hospital126"
+	,"orig_text": "Ay, thank you!"
+	,"tran_text": "啊，感謝你！"
+},{
+	 "i"		: 660
+	,"ids"		: "Idstring(@ID06b103c9df6dd1c2@)"
+	,"StringID"	: "intro_hospital130"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 661
+	,"ids"		: "Idstring(@ID5aea2cd169f2eaa5@)"
+	,"StringID"	: "intro_hospital131"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+},{
+	 "i"		: 662
+	,"ids"		: "Idstring(@ID401201b7ea2b10fc@)"
+	,"StringID"	: "intro_hospital133"
+	,"orig_text": "BAIN: Right..."
+	,"tran_text": "BAIN ：好吧 ..."
+},{
+	 "i"		: 663
+	,"ids"		: "Idstring(@ID1e7f8c7c3765b53c@)"
+	,"StringID"	: "intro_hospital135"
+	,"orig_text": "WOLF (in Swedish): Ah nä men... Det finns ju hur mycket plats som helst i den här jävla hissjäveln."
+	,"tran_text": "WOLF (瑞典語)： Ah nä men... Det finns ju hur mycket plats som helst i den här jävla hissjäveln."
+},{
+	 "i"		: 664
+	,"ids"		: "Idstring(@ID746a0ce807a78ca8@)"
+	,"StringID"	: "intro_hospital136"
+	,"orig_text": "STRANGER: Ah, thank you."
+	,"tran_text": "陌生人：啊，感情你。"
+},{
+	 "i"		: 665
+	,"ids"		: "Idstring(@ID3361b51d93812c5f@)"
+	,"StringID"	: "intro_hospital139"
+	,"orig_text": "WOLF: Man, this guy can't stop talkin! Yap yap yap!"
+	,"tran_text": "WOLF ：伙伴，這人不能停止說話！廢話！"
+},{
+	 "i"		: 666
+	,"ids"		: "Idstring(@IDbd930b8bddee1c38@)"
+	,"StringID"	: "intro_hospital140"
+	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
+	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+},{
+	 "i"		: 667
+	,"ids"		: "Idstring(@IDdf66674bc9d142a0@)"
+	,"StringID"	: "intro_hospital141"
+	,"orig_text": "BAIN: You're breaking up - can you hear me OK?"
+	,"tran_text": "BAIN ：你在搞垮事情－你可以聽我說話嗎？"
+}
+]

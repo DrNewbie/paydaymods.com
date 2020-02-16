@@ -1,0 +1,48 @@
+{
+	"SlowMotionManager_options_title" : "Options de SlowMotion Manager",
+	"SlowMotionManager_options_desc" : "Customisez les ralentis de votre jeu.",
+
+	"SlowMotionManager_language_title" : "Langage",
+	"SlowMotionManager_language_desc" : "Change la langue du mod.",
+
+	"SlowMotionManager_language_english" : "Anglais",
+	"SlowMotionManager_language_french" : "Français",
+
+	"SlowMotionManager_speed_maskon_title" : "Masque équippé: Puissance",
+	"SlowMotionManager_speed_maskon_desc" : "Affect la puissance des ralentis. Une petite valeur signifie un ralentis important et une très grosse valeur aucun ralentis du tout.",
+	"SlowMotionManager_fadein_maskon_title" : "Masque équippé: Entrée de Transition",
+	"SlowMotionManager_fadein_maskon_desc" : "Affect la transition d'entrée du ralentis. Une petite valeur enlève la transition, une plus grande valeur donne une transition plus douce et plus longue.",
+	"SlowMotionManager_fadeindelay_maskon_title" : "Masque équippé: Délai de Transition",
+	"SlowMotionManager_fadeindelay_maskon_desc" : "Retarde le début de l'option d'entrée de transition. Une petite valeur signifie aucun délais, une grand valeur signifie un énorme délais. Délai de Transition doit être > 0.",
+	"SlowMotionManager_sustain_maskon_title" : "Masque équippé: Durée",
+	"SlowMotionManager_sustain_maskon_desc" : "Affect la durée du ralentis quand vous vous faites attraper par un garde ou en mettant son masque devant un.",
+	"SlowMotionManager_fadeout_maskon_title" : "Masque équippé: Transition de Sortie",
+	"SlowMotionManager_fadeout_maskon_desc" : "Affect la Transition de Sortie du ralenti. Une petit valeur enlève la transition, une plus grande valeur donne une transition plus douce et plus longue.",
+
+	"SlowMotionManager_speed_downed_title" : "A terre: Puissance",
+	"SlowMotionManager_speed_downed_desc" : "Affect la puissance des ralentis. Une petite valeur signifie un ralentis important et une très grosse valeur aucun ralentis du tout.",
+	"SlowMotionManager_fadein_downed_title" : "A terre: Entrée de Transition",
+	"SlowMotionManager_fadein_downed_desc" : "Affect la transition d'entrée du ralentis. Une petite valeur enlève la transition, une plus grande valeur donne une transition plus douce et plus longue.",
+	"SlowMotionManager_sustain_downed_title" : "A terre: Durée",
+	"SlowMotionManager_sustain_downed_desc" : "Affect la durée du ralentis quand vous êtes à terre.",
+	"SlowMotionManager_fadeout_downed_title" : "A terre: Transition de Sortie",
+	"SlowMotionManager_fadeout_downed_desc" : "Affect la Transition de Sortie du ralenti. Une petit valeur enlève la transition, une plus grande valeur donne une transition plus douce et plus longue.",
+
+	"SlowMotionManager_speed_scripted_title" : "Scripté: Puissance",
+	"SlowMotionManager_speed_scripted_desc" : "Affect la puissance des ralentis. Une petite valeur signifie un ralentis important et une très grosse valeur aucun ralentis du tout..",
+	"SlowMotionManager_fadein_scripted_title" : "Scripté: Entrée de Transition",
+	"SlowMotionManager_fadein_scripted_desc" : "Affect la transition d'entrée du ralentis. Une petite valeur enlève la transition, une plus grande valeur donne une transition plus douce et plus longue.",
+	"SlowMotionManager_fadeindelay_scripted_title" : "Scripté: Délai de Transition",
+	"SlowMotionManager_fadeindelay_scripted_desc" : "Retarde le début de l'option d'entrée de transition. Une petite valeur signifie aucun délais, une grand valeur signifie un énorme délais. Délai de Transition doit être > 0.",
+	"SlowMotionManager_sustain_scripted_title" : "Scripté: Durée",
+	"SlowMotionManager_sustain_scripted_desc" : "Affect la durée des ralentis scriptés.",
+	"SlowMotionManager_fadeout_scripted_title" : "Scripté: Transition de Sortie",
+	"SlowMotionManager_fadeout_scripted_desc" : "Affect la Transition de Sortie du ralenti. Une petit valeur enlève la transition, une plus grande valeur donne une transition plus douce et plus longue.",
+
+	"SlowMotionManager_reset_title" : "Réinitialiser les valeurs",
+	"SlowMotionManager_reset_desc" : "Toutes les valeurs seront remise à zero.",
+
+	"SlowMotionManager_noslowmo_title" : "Aucun ralentis",
+	"SlowMotionManager_noslowmo_desc" : "Enlève tout type de ralentis du jeu."
+
+}

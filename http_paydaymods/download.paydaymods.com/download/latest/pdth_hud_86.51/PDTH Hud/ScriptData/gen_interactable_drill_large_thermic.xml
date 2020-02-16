@@ -1,0 +1,13 @@
+<table>
+    <table search="unit">
+        <table search="sequence;name=' \'activate\' '">
+            <table search="graphic_group;name='\'drillicongroup\''" visibility="false"/>
+            <object search="object;name='\'g_drill\''" enabled="true"/>
+            <object search="object;name='\'g_base\''" enabled="true"/>
+            <material name="'drill'" texture="'units/gui/gui_color_use_df'" search_render_template="'generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP'" multiple_objects="true"/>
+        </table>
+        <table search="sequence;name=' \'interact\' '">
+            <material name="'drill'" texture="'units/payday2/equipment/gen_interactable_drill_large_thermic/drill_lance_df'" search_render_template="'generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP'" multiple_objects="true"/>
+        </table>
+    </table>
+</table>

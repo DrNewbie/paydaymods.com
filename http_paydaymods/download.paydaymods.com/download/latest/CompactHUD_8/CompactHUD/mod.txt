@@ -1,0 +1,19 @@
+{
+    "name" : "CompactHUD",
+    "author" : "Luffy",
+    "version" : "1.3",
+    "updates" : [
+        {
+            "revision" : 8,
+            "identifier" : "CompactHUD",
+        }
+    ],
+    "hooks" : [  
+        {"hook_id" : "lib/managers/menumanager", "script_path" : "base.lua"},
+        {"hook_id" : "lib/managers/hud/Hudteammate", "script_path" : "base.lua"},
+        {"hook_id" : "lib/managers/hud/hudchat", "script_path" : "base.lua"},
+        {"hook_id" : "lib/managers/hud/Hudtemp", "script_path" : "base.lua"},
+        {"hook_id" : "lib/managers/hudmanager", "script_path" : "base.lua"},
+        {"hook_id" : "lib/managers/hudmanagerpd2", "script_path" : "base.lua"}
+    ]
+}

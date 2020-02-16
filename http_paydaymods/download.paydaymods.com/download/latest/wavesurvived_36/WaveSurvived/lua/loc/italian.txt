@@ -1,0 +1,116 @@
+{
+    "WaveSurvived_compatibility_title" : "Wave Survived",
+    "WaveSurvived_compatibility_desc" : "Cambia le impostazioni di compatibilità di Wave Survived.",
+    "WaveSurvived_item_title" : "Compatibilità Mod",
+    "WaveSurvived_item_desc" : "Devi modificare la compatibilità della mod se stai usando un HUD differente. In caso contrario il gioco si chiuderà. Riavvia il gioco per rendere effettive le modifiche.",
+ 
+    "WaveSurvived_language_title" : "Lingua",
+    "WaveSurvived_language_desc" : "Cambia la lingua della mod - Riavvia il gioco per rendere effettive le modifiche.",
+    "WaveSurvived_language_english" : "English",
+    "WaveSurvived_language_french" : "French",
+    "WaveSurvived_language_russian" : "Russian",
+    "WaveSurvived_language_italian" : "Italiano",
+    "WaveSurvived_language_german" : "German",
+    "WaveSurvived_language_spanish" : "Spanish",
+    "WaveSurvived_language_hungarian" : "Hungarian",
+    "WaveSurvived_language_korean" : "Korean",
+ 
+    "WaveSurvived_no_hud" : "Nessun HUD personalizzato",
+    "WaveSurvived_nepgearsy_hud" : "Nepgearsy HUD",
+    "WaveSurvived_holoui" : "HoloUI",
+    "WaveSurvived_restoration" : "Restoration Mod",
+    "WaveSurvived_pdthhud" : "PDTH Hud",
+    "WaveSurvived_lddghud" : "LDDG Hud",
+    "WaveSurvived_void" : "Void UI",
+    
+ 
+    "WaveSurvived_duration_title" : "Durata",
+    "WaveSurvived_duration_desc" : "Scegli la durata del banner di Wave Survived (WS). Incompatibile con Restoration Mod.",
+ 
+    "WaveSurvived_duration_original" : "Predefinito (8.6 sec)",
+    "WaveSurvived_duration_15sec" : "15 sec",
+    "WaveSurvived_duration_20sec" : "20 sec",
+    "WaveSurvived_duration_25sec" : "25 sec",
+    "WaveSurvived_duration_infinite" : "Infinito",
+
+    "WaveSurvived_customtext_title" : "Banner (WS)",
+    "WaveSurvived_customtext_desc" : "Personalizza il testo del banner di Wave Survived. Compatibile solamente con le impostazioni predefinite, HoloUI e Restoration Mod.",
+ 
+    "WaveSurvived_customtext_1" : "ONDATA SUPERATA",
+    "WaveSurvived_customtext_2" : "SOPRAVVISSUTO",
+    "WaveSurvived_customtext_3" : "ASSALTO SUPERATO",
+    "WaveSurvived_customtext_4" : "ASSALTO FINITO",
+    "WaveSurvived_customtext_5" : "NON E' ANCORA FINITA!",
+ 
+    "WaveSurvived_custompanelcolor_title" : "Colore (WS)",
+    "WaveSurvived_custompanelcolor_desc" : "Personalizza il colore del banner di Wave Survived. Non compatibile con HoloUI.",
+ 
+    "WaveSurvived_custompanelcolor_1" : "Verde lime (predefinito)",
+    "WaveSurvived_custompanelcolor_2" : "Giallo",
+    "WaveSurvived_custompanelcolor_3" : "Rosso",
+    "WaveSurvived_custompanelcolor_4" : "Ciano",
+    "WaveSurvived_custompanelcolor_5" : "Arancione",
+    "WaveSurvived_custompanelcolor_6" : "Personalizzato",
+ 
+    "WaveSurvived_custompanelcolor_customslider_red_title" : "Rosso",
+    "WaveSurvived_custompanelcolor_customslider_red_desc" : "Quantità di rosso (Formato RGB)",
+    "WaveSurvived_custompanelcolor_customslider_green_title" : "Verde",
+    "WaveSurvived_custompanelcolor_customslider_green_desc" : "Quantità di verde (Formato RGB)",
+    "WaveSurvived_custompanelcolor_customslider_blue_title" : "Blu",
+    "WaveSurvived_custompanelcolor_customslider_blue_desc" : "Quantità di blu (Formato RGB)",
+
+    "WaveSurvived_custompanelcolor_endless_title" : "Colore (EW)",
+    "WaveSurvived_custompanelcolor_endless_desc" : "Personalizza il colore del Banner di Endless Wave.",
+
+    "WaveSurvived_custompanelcolor_endless_1" : "Rosso (predefinito)",
+    "WaveSurvived_custompanelcolor_endless_2" : "Giallo",
+    "WaveSurvived_custompanelcolor_endless_3" : "Verde Lime",
+    "WaveSurvived_custompanelcolor_endless_4" : "Ciano",
+    "WaveSurvived_custompanelcolor_endless_5" : "Arancione",
+    "WaveSurvived_custompanelcolor_endless_6" : "Personalizzato",
+
+    "WaveSurvived_custompanelcolor_endless_customslider_red_title" : "Rosso",
+    "WaveSurvived_custompanelcolor_endless_customslider_red_desc" : "Quantità di Rosso (Formato RGB)",
+    "WaveSurvived_custompanelcolor_endless_customslider_green_title" : "Verde",
+    "WaveSurvived_custompanelcolor_endless_customslider_green_desc" : "Quantità di Verde (Formato RGB)",
+    "WaveSurvived_custompanelcolor_endless_customslider_blue_title" : "Blu",
+    "WaveSurvived_custompanelcolor_endless_customslider_blue_desc" : "Quantità di Blu (Formato RGB)",
+
+    "WaveSurvived_custompanelcolor_website_title" : "Sito web per i colori RGB",
+    "WaveSurvived_custompanelcolor_website_desc" : "Apre un sito che ti aiuterà a scegliere il colore esatto in formato RGB. Sarà necessario l'overlay di steam",
+
+    "WaveSurvived_endless_customtext_title" : "Banner (EW)",
+    "WaveSurvived_endless_customtext_desc" : "Personalizza il testo del banner di Endless Wave.",
+
+    "WaveSurvived_endless_customtext_1" : "ONDATA INFINITA IN CORSO",
+    "WaveSurvived_endless_customtext_2" : "ASSALTO INFINITO IN CORSO",
+    "WaveSurvived_endless_customtext_3" : "ASSALTO INFINITO",
+    "WaveSurvived_endless_customtext_4" : "NON FINIRA MAI",
+
+    "WaveSurvived_alert_compatibility_title" : "Wave Survived : Allerta Compatibilità",
+    "WaveSurvived_alert_compatibility_message" : "Sembra che tu stia utilizzando la compatibilità sbagliata nelle opzioni o che tu abbia avviato per la prima volta il gioco con questa mod installata.\n\nLe opzioni di compatibilità di Wave Survived sono state modificate.",
+    "WaveSurvived_alert_compatibility_button_ok" : "OK",
+
+    "WaveSurvived_enable_checks_title" : "Abilita il controllo automatico",
+    "WaveSurvived_enable_checks_desc" : "Seleziona per cambiare in automatico la compatibilità con l'HUD.",
+
+    "assault_survived_1_name" : "Sopravvissuto all' assalto I",
+    "assault_survived_1_desc" : "",
+    "assault_survived_1_objective" : "Sopravvivi all' assalto della polizia 5 volte.",
+
+    "assault_survived_2_name" : "Sopravvissuto all' assalto II",
+    "assault_survived_2_desc" : "",
+    "assault_survived_2_objective" : "Sopravvivi all' assalto della polizia 30 volte.",
+
+    "assault_survived_3_name" : "Sopravvissuto all' assalto III",
+    "assault_survived_3_desc" : "",
+    "assault_survived_3_objective" : "Sopravvivi all' assalto della polizia 75 volte.",
+
+    "assault_survived_4_name" : "Sopravvissuto all' assalto IV",
+    "assault_survived_4_desc" : "",
+    "assault_survived_4_objective" : "Sopravvivi all' assalto della polizia 200 volte.",
+
+    "assault_survived_5_name" : "Sopravvissuto all' assalto V",
+    "assault_survived_5_desc" : "",
+    "assault_survived_5_objective" : "Sopravvivi all' assalto della polizia 500 volte."
+}

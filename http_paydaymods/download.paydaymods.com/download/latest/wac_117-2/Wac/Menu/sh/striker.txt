@@ -1,0 +1,36 @@
+{
+	"menu_id" : "wac_menu_sh_striker",
+	"parent_menu_id" : "wac_menu_sh",
+	"title" : "wac_menu_sh_striker_title",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_strikerlongb",
+			"title" : "wac_replace_longb_title",
+			"callback" : "callback_toggle_replace_strikerlongb",		
+			"items" : [
+				"wac_default_multi",
+				"wac_stndb_multi"
+			],
+			"value" : "replace_strikerlongb",
+			"default_value" : 1
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "toggle_replace_ironsightsstriker",
+			"title" : "wac_replace_ironsights_title",
+			"callback" : "callback_toggle_replace_ironsightsstriker",		
+			"items" : [
+				"wac_default_multi",
+				"ironsightdd_multi",
+				"ironsightmbus_multi"	
+			],
+			"value" : "replace_ironsightsstriker",
+			"default_value" : 1
+		}
+	]
+}

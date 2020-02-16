@@ -1,0 +1,17 @@
+{
+    "menu_id": "pacified_options",
+    "parent_menu_id": "mod_collection_options",
+    "title": "pacified_options",
+    "description": "pacified_options_desc",
+    "items": [
+		{
+		    "type": "toggle",
+            "id": "enable_pacified",
+            "title": "enable_pacified",
+            "description": "enable_pacified_desc",
+            "callback": "callback_enable_pacified",
+            "value": "enable_pacified",
+            "default_value": true
+		}
+    ]
+}

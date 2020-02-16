@@ -1,0 +1,4 @@
+{
+	"create_empty_lobby_title" : "Bos Lobi Olustur",
+	"create_empty_lobby_desc" : "Kontratsiz cok oyunculu lobi olustur.\n(Varsayilan sadece-arkadaslar icindir, genele ve ozele degistirilebilir.)"
+}
